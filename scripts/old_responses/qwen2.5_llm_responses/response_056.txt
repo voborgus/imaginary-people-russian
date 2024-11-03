@@ -1,0 +1,58 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Li Wei is a software engineer working at a tech company in the heart of Beijing. He was born and raised in this city but often dreams of traveling abroad to explore new cultures.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up with an alarm set for 6 AM, starts his day by stretching and drinking a glass of water after turning off the alarm.
+
+Time: 06:15 AM
+Activity: Checks weather forecast on his phone and adjusts his clothing accordingly. It’s currently 8 degrees Celsius outside, so he dresses in layers.
+
+Time: 06:30 AM
+Activity: Cleans teeth with an electric toothbrush and takes a short shower to start the day fresh.
+
+Time: 07:15 AM
+Activity: Leaves his apartment building after ensuring all electronic devices are turned off to save energy. He steps out into the brisk morning air, heading towards the nearby subway station.
+
+Time: 08:00 AM
+Activity: Arrives at the subway station where he boards a train heading towards downtown Beijing. His co-workers usually start trickling in around this time as well.
+
+Time: 09:15 AM
+Activity: Steps out of the subway and walks to his workplace, a modern building surrounded by other tech companies.
+
+Time: 09:30 AM
+Activity: Logs into his computer and checks emails while waiting for colleagues. He’s part of an agile team working on a new software update.
+
+Time: 12:00 PM
+Activity: Takes a short break to grab lunch at the company cafeteria, which offers a variety of cuisines. Today, he opts for a vegetarian option after discussing with his vegetarian friends from college.
+
+Time: 01:30 PM
+Activity: Resumes work on a feature that’s expected to release in the next major update. He spends some time coding and debugging, using his experience in Python and Java.
+
+Time: 04:00 PM
+Activity: Attends a short team meeting where they discuss progress and potential roadblocks for their current project.
+
+Time: 05:30 PM
+Activity: Completes his daily tasks and starts preparing to leave the office. He grabs some documents he needs to take home with him.
+
+Time: 06:15 PM
+Activity: Leaves the office after closing down his computer and packing up necessary items for the evening.
+
+Time: 07:30 PM
+Activity: Arrives at a local gym where he enjoys an hour-long workout. He alternates between strength training, cardio sessions, and yoga classes to maintain his fitness level.
+
+Time: 09:00 PM
+Activity: Returns home after his gym session, feeling refreshed from the exercise.
+
+Time: 10:30 PM
+Activity: Has dinner prepared for himself, typically a mix of vegetables and lean proteins. He enjoys the meal in silence before starting some reading or watching documentaries to unwind.
+
+Time: 11:30 PM
+Activity: Reads a book about technology trends for an hour before finally setting his kindle aside and turning off all lights. He spends a few more minutes checking on any updates from friends or colleagues online.
+
+Time: 12:00 AM
+Activity: Lights out, Li Wei goes to sleep feeling content with the day’s activities and ready to tackle another day in Beijing.

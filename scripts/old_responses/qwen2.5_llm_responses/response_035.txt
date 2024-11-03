@@ -1,0 +1,43 @@
+Name: Li Ming
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Ming is a software engineer who moved to Shanghai after graduating from university. He enjoys coding and occasionally tries his hand at cooking Chinese cuisine.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up, feels the cool morning air in his studio apartment, stretches while looking out the window towards the rising sun.
+
+Time: 06:15
+Activity: Walks to the kitchen to make himself a cup of green tea and some oatmeal with fresh strawberries from his balcony garden.
+
+Time: 07:30
+Activity: Jogs through the local park, enjoying the early morning quiet before the city wakes up. His route takes him past an ancient pagoda and through a scenic pond.
+
+Time: 08:15
+Activity: Arrives at his office in a bustling business district of Shanghai, greeted by colleagues and coworkers with small talk about the weather or recent tech news.
+
+Time: 10:00
+Activity: Takes a short break to walk down the street for an early morning meeting. They discuss project plans and deadlines while enjoying some steamed buns from a local bakery.
+
+Time: 13:00
+Activity: Heads home for lunch, which includes a quick trip to the supermarket to buy fresh vegetables and meat for his homemade meal.
+
+Time: 14:00
+Activity: Works on coding projects until a team meeting at 16:00. He collaborates with international colleagues via video conference.
+
+Time: 17:30
+Activity: Finishes work early and heads to the nearby gym, lifting weights and running on the treadmill for an hour.
+
+Time: 19:00
+Activity: Prepares a simple yet delicious stir-fry at home, using fresh ingredients he picked up earlier. He enjoys his meal while watching some cooking tutorials online.
+
+Time: 21:30
+Activity: Attends a virtual book club meeting with friends from around the world to discuss literature and share their thoughts on recent reads.
+
+Time: 22:30
+Activity: Starts winding down by listening to classical music, preparing himself for a good night's sleep.
+
+Time: 23:45
+Activity: Lights out, closes his eyes, and drifts off into a peaceful slumber, dreaming of coding challenges and future projects.

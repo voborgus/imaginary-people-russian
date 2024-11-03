@@ -1,0 +1,32 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a data analyst who works in a large tech company. He moved to Shanghai after graduating with a degree in computer science and has been living there for over a decade. Despite the fast-paced city life, he enjoys spending time outdoors and exploring local cuisines.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of his alarm. Groggy from sleep, he stretches slightly before getting out of bed.
+Time: 07:00
+Activity: Heads to the bathroom for a quick morning wash-up and brush. He uses an electric toothbrush that keeps him on schedule.
+Time: 07:30
+Activity: Tries a new breakfast recipe, making a vegetable omelet with tofu and mushrooms, which he has been looking forward to all day after hearing about it from a colleague.
+Time: 08:15
+Activity: Walks his dog, a small pomeranian named Bao Bao, in the nearby park. They run around, play fetch, and visit other dogs as well as some cat owners relaxing with their pets.
+Time: 09:30
+Activity: Arrives at the office building using an AI-controlled elevator that recognizes his face. He takes a seat and begins his work on analyzing customer data for product improvement.
+Time: 12:00
+Activity: Takes a lunch break to enjoy a bowl of Shanghai-style hot pot with friends in a cozy, local restaurant. They discuss recent movies and tech trends.
+Time: 14:00
+Activity: Returns to the office after a light walk around the building's rooftop garden for some fresh air.
+Time: 17:30
+Activity: Attends a virtual meeting with his team discussing project updates while enjoying an herbal tea.
+Time: 18:30
+Activity: Leaves work early and catches a short bus ride home, chatting on WeChat with friends about the day’s highlights.
+Time: 20:00
+Activity: Dines at a local Sichuan restaurant known for its spicy but well-balanced flavors. The meal consists of spicy beef noodles and hand-pulled dumplings.
+Time: 21:30
+Activity: Returns home, changes into comfortable clothes, and starts watching a documentary on environmental conservation.
+Time: 23:00
+Activity: Lights out as he settles down for the night after sending a quick goodnight message to his family who live in another city.

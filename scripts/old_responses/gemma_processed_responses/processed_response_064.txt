@@ -1,0 +1,76 @@
+{
+  "name": "Sarah",
+  "gender": "Female",
+  "age": 27,
+  "location": "Canada",
+  "job": "Farmer",
+  "backstory": "Sarah moved to the Canadian countryside to escape the fast pace of city life and pursue her dream of starting a farm.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "appreciate nature"],
+      "description": "Sarah wakes up with the first rays of sun filtering through her bedroom window. She stretches out her stiff limbs, feeling the cool morning air brush against her skin. A wave of calm washes over her as she breathes deeply and appreciates the peacefulness of waking before the hustle begins."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["drink water", "plan breakfast", "make pancakes"],
+      "description": "Sarah makes her way to the kitchen, pouring herself a glass of water. As the kettle whistles its familiar tune, she pulls out her favorite cookbook from the shelf and starts planning breakfast – fluffy pancakes with fresh blueberries from her backyard."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["eat breakfast", "enjoy nature sounds"],
+      "description": "The aroma of pancake batter fills the air as Sarah finishes her morning routine. She eats breakfast while enjoying the sound of birdsong and the gentle breeze rustling through the maple trees outside."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["garden work", "sheep herding", "farm chores"],
+      "description": "Time for chores! First, Sarah attends to her vegetable garden, gently weeding and watering her thriving tomato plants. Afterward, she helps with the sheep herding before spending time grooming and feeding them. The rhythmic sounds of their bleats fill the air as Sarah works through a list of daily farm tasks."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "read newspaper"],
+      "description": "A simple lunch awaits – a hearty salad made with freshly harvested greens, crunchy radish, and juicy red tomatoes from her own garden. While enjoying her meal, Sarah reads the local newspaper for news about the upcoming community harvest festival."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["nature journaling", "pottery"],
+      "description": "This afternoon is dedicated to creative endeavors. Sarah sits at her kitchen table, sketching in her nature journal, capturing the details of the ever-changing landscape around her farm. Later, she works on a new pottery project inspired by the textures of the soil and stones."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["vegetable harvesting"],
+      "description": "Time to harvest! Sarah gathers freshly picked vegetables from her garden, preparing a delicious dinner with friends later in the evening."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["cooking", "dining with friends"],
+      "description": "Cooking and dining is a ritual for Sarah – sharing stories and laughter over a home-cooked meal with her friends. The scent of her grandma's recipe for roasted chicken fills their kitchen, reminiscing about old memories and new friendships."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["evening walk", "connect with nature"],
+      "description": "Sarah unwinds by listening to calming nature sounds on her phone as she walks through the meadow, taking in the cool night air. She feels a deep sense of satisfaction from spending time connecting with nature."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "24:00",
+      "activities": ["evening tasks", "sleep"],
+      "description": "After wrapping up some evening tasks like checking on the chickens and cleaning the kitchen, Sarah goes to bed early to rest for the next day's adventures on her peaceful farm."
+    }
+  ]
+}

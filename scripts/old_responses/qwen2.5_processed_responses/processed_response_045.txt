@@ -1,0 +1,82 @@
+{
+  "name": "Liang Hua",
+  "gender": "Male",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Hua is a software engineer working in a tech company. He moved to Shanghai from his hometown three years ago and enjoys exploring the city's culinary scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Lights out, ready to drift into sleep."
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up gently to the sound of his alarm clock and stretches before opening the curtains to let sunlight in."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["exercise", "jog"],
+      "description": "Performs morning exercises, including stretching and a quick jog around his building's courtyard."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["breakfast", "family time"],
+      "description": "Takes a leisurely breakfast with his family at a nearby street vendor known for its dim sum."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["commute", "work", "emails"],
+      "description": "Heads to work by subway, enjoying the morning commute while checking emails on his phone."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "16:00",
+      "activities": ["lunch", "work discussion", "jokes"],
+      "description": "Meets colleagues in the office canteen for a quick lunch break; discusses ongoing projects and shares jokes."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["video conference", "english practice"],
+      "description": "Attends a video conference with international partners, practicing his English skills."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "activities": ["snacks", "street food"],
+      "description": "Walks around Nanjing Road to grab some after-work snacks from the many street food stalls available there."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["dinner", "new restaurant"],
+      "description": "Takes a taxi back home for an early dinner at a new restaurant he discovered and read reviews about."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "activities": ["work preparation", "document review"],
+      "description": "Reviews work documents on his laptop, preparing for the next day's tasks."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["documentary", "reading"],
+      "description": "Watches a documentary series about ancient Chinese history before settling down with a book by his bedside."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "24:00",
+      "activities": ["social media", "news"],
+      "description": "Skims through social media updates and news articles before turning off his devices to wind down for the night."
+    }
+  ]
+}

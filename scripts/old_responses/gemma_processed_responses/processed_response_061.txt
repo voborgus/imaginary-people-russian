@@ -1,0 +1,88 @@
+{
+  "name": "Leo Rodriguez",
+  "gender": "Male",
+  "age": 28,
+  "location": "Argentina",
+  "job": "Photographer",
+  "backstory": "Leo grew up in a bustling Buenos Aires neighborhood, where the streets hummed with tango music and every corner held a new adventure. He finds solace in photography, capturing the city's soul through his lens.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["stretching", "drink mate"],
+      "description": "Leo stretches languidly on his bed after a restless night filled with dreams of street markets and faded tango music. A cup of mate steams, its earthy aroma awakening him slowly."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["read newspaper", "focus on local news"],
+      "description": "Leo begins his day by reading the morning newspaper, his focus drawn to the local news about a historical bookstore reopening in Palermo Woods."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["walk", "admire architecture", "observe street art"],
+      "description": "The air of Buenos Aires greets him as Leo takes a leisurely walk through Plaza Francia, stopping to admire the intricate architecture and vibrant street art before heading towards La Boca's famous Caminito."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["photography", "capture details", "sketch thoughts"],
+      "description": "His camera becomes an extension of his senses as he clicks pictures at a bustling marketplace in La Boca, capturing details like the hand-woven textiles and vibrant street performers. Leo lingers for hours, sketching out his thoughts about capturing everyday beauty."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "empanadas", "share laughter"],
+      "description": "Leo enjoys a delicious lunch of empanadas at a nearby local bakery. Sharing laughter with an old acquaintance from work over a hot, cheesy bite is one of Leo's favorite parts of the day."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["photo editing", "capture stories"],
+      "description": "Back in his studio, Leo dives into editing his photos. The soft afternoon light streams through the window as he works on capturing the stories hidden within everyday objects and moments."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["stroll", "watch sunset", "share wine"],
+      "description": "A stroll along the Río de la Plata with his wife Elena. They share a glass of wine, watching the sun dip behind the city skyline."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["dinner", "traditional steak", "share stories"],
+      "description": "Dinner at home with Elena and their cat Luna. Leo shares stories about his artistic endeavors while Elena prepares a traditional Argentinean steak, grilled to perfection, accompanied by rice and grilled vegetables."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "activities": ["chess", "playful banter"],
+      "description": "Leo sits down to play chess with Elena. A heated match, it involves more than just strategy; a playful banter ensues between them, revealing the hidden secrets of each player's heart."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "activities": ["read poetry", "find comfort"],
+      "description": "Leo finally settles down with a book on Argentinean poetry. The soft pages offer him comfort and calm, as the city outside fades into an evening lull."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["wind down", "prepare for sleep"],
+      "description": "The gentle rhythmic tapping of Elena's fingers on her phone signalizes the end of their day. Leo stretches, turns off his laptop, and looks at Luna's slumbering form in the corner. The quiet solitude before a dream-filled night awaits him."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep", "dream of tango"],
+      "description": "Leo closes his eyes and drifts into sleep, dreaming of the tango dancers who moved gracefully through the city, their steps telling tales of passion and resilience."
+    }
+  ]
+}

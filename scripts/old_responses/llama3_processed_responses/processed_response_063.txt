@@ -1,0 +1,106 @@
+{
+  "name": "Emily Wilson",
+  "gender": "Female",
+  "age": 28,
+  "location": "United States, California",
+  "job": "Software Engineer",
+  "backstory": "Emily is a software engineer who moved to San Francisco from her hometown in New York three years ago to join a tech startup. She enjoys hiking and trying new coffee shops.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "get out of bed"],
+      "description": "Woke up, got out of bed"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["brushed teeth", "washed face", "applied makeup"],
+      "description": "Brushed teeth, washed face, and applied minimal makeup for the day"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["made breakfast", "checked phone"],
+      "description": "Made a quick breakfast (oatmeal with banana) while checking phone for any important notifications"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["got ready for work", "chose outfit", "packed lunch"],
+      "description": "Started getting ready for work, chose an outfit (black t-shirt, dark blue jeans), and grabbed lunch from her reusable container"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["commuted to work"],
+      "description": "Left the apartment to walk to the BART (Bay Area Rapid Transit) station"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["read book", "commuted to work"],
+      "description": "Commuted to work on the train, read a book for about an hour until arriving at Powell St Station"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:15",
+      "activities": ["worked on coding project", "debugging"],
+      "description": "Started work on her coding project, focused on fixing bugs and debugging code for about two hours"
+    },
+    {
+      "startTime": "11:15",
+      "endTime": "12:30",
+      "activities": ["grabbed coffee", "break"],
+      "description": "Took a short break to grab a coffee from a nearby shop (caramel macchiato with whipped cream)"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["had lunch", "chatted with coworkers"],
+      "description": "Had lunch at her desk while chatting with coworkers"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["team meeting", "discussed project"],
+      "description": "Met with her team for a meeting to discuss project timelines and deadlines"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "activities": ["took a walk"],
+      "description": "Took a longer break to grab some fresh air and go for a short walk outside the office building (about 30 minutes)"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "activities": ["continued coding project", "integrated APIs", "solved data issues"],
+      "description": "Continued working on coding project, made progress on integrating APIs and solving data inconsistencies"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["left work", "went grocery shopping"],
+      "description": "Finished work for the day, packed her bag to leave the office, and walked back to her apartment, stopped at a nearby grocery store to pick up some ingredients (avocado, cherry tomatoes) for dinner"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["prepared dinner", "watched TV"],
+      "description": "Prepared dinner while streaming her favorite TV show in the background (trying out a new recipe)"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:59",
+      "activities": ["got ready for bed", "went to sleep"],
+      "description": "Went to bed feeling content and relaxed"
+    }
+  ]
+}

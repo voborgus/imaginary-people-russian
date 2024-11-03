@@ -1,0 +1,40 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: China
+Backstory: Liang Wei is a software engineer who lives in Beijing. He enjoys programming, playing video games, and hiking on weekends. Recently, he has been working remotely for his company based in Silicon Valley.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up to the sound of birds chirping outside his window. Gets out of bed, stretches, and heads to the kitchen to make tea.
+
+Time: 07:15 AM
+Activity: Drinks his cup of green tea while checking emails on his phone for any urgent messages from his team in Silicon Valley.
+
+Time: 08:00 AM
+Activity: Commutes by bike through Beijing's scenic parks, enjoying a peaceful ride and fresh morning air. He always takes the same route to work, passing by various temples and gardens.
+
+Time: 09:30 AM
+Activity: Arrives at his home office where he starts working on his current project. Focuses on coding and debugging issues with the latest software release.
+
+Time: 12:30 PM
+Activity: Takes a break for lunch, ordering takeout from a nearby restaurant that serves authentic Sichuan cuisine. He enjoys spicy food and often shares dishes like mapo tofu or kung pao chicken during his meal breaks.
+
+Time: 01:00 PM
+Activity: Resumes work on the project, focusing on the new feature he has been assigned to develop. Utilizes online resources such as GitHub repositories and documentation from previous developers.
+
+Time: 05:30 PM
+Activity: Ends his workday, closes all applications and emails, and starts preparing for his evening activities. He checks weather forecasts and decides whether it's suitable for hiking or remains indoors due to the unpredictable climate of Beijing.
+
+Time: 06:45 PM
+Activity: Exercises by doing a series of calisthenics in his living room to maintain physical fitness. His routine includes push-ups, pull-ups (from a doorway), and some stretches.
+
+Time: 08:00 PM
+Activity: Takes an early dinner at home since he plans on spending the evening playing video games with friends online.
+
+Time: 10:30 PM
+Activity: Completes his gaming session by participating in a late-night multiplayer game with colleagues. The night sky is clear, and he stays up to watch the stars for a while after finishing his game.
+
+Time: 11:45 PM
+Activity: Reads through some tech articles on his tablet before switching off all electronic devices and heading to bed. His last thought of the day is about planning tasks for tomorrow based on what he discussed with his team during the day.

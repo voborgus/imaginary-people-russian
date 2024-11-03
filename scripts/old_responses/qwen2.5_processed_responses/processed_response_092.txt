@@ -1,0 +1,58 @@
+{
+  "name": "Lin Xiaowei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Lin Xiaowei is a software engineer who has lived in Shanghai since graduating from university. He enjoys hiking on weekends and often takes his pet dog, Milo, along for the adventure.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "check weather"],
+      "description": "Wakes up to the sound of birds chirping; stretches and checks the weather forecast on his phone."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["make coffee", "eat apple", "walk dog"],
+      "description": "Makes a cup of strong coffee and grabs an apple from the kitchen; walks Milo around the residential area."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:30",
+      "activities": ["commute", "chat with colleagues"],
+      "description": "Heads to the office by public transportation, chatting with colleagues about weekend plans."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "18:00",
+      "activities": ["eat lunch", "social media", "team meeting"],
+      "description": "Takes a lunch break at his desk, eating leftovers from last night and sending messages on social media to a friend back home. Attends the weekly team meeting with his colleagues discussing project progress and challenges."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["walk dog", "commute home"],
+      "description": "Walks Milo again; commutes back home by metro, reflecting on today's tasks while listening to a podcast about artificial intelligence."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["cook dinner", "watch news"],
+      "description": "Cooks dinner for himself, trying out a new recipe; watches the news with Milo lounging beside him."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["brush teeth", "journal"],
+      "description": "Brushes teeth and prepares for bed, writing down three things he's grateful for in his journal."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

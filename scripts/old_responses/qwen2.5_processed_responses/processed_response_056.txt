@@ -1,0 +1,112 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer working at a tech company in the heart of Beijing. He was born and raised in this city but often dreams of traveling abroad to explore new cultures.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "drink water"],
+      "description": "Wakes up with an alarm set for 6 AM, starts his day by stretching and drinking a glass of water after turning off the alarm"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["check weather", "dress in layers"],
+      "description": "Checks weather forecast on his phone and adjusts his clothing accordingly. It's currently 8 degrees Celsius outside, so he dresses in layers"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["brush teeth", "shower"],
+      "description": "Cleans teeth with an electric toothbrush and takes a short shower to start the day fresh"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["leave apartment", "commute"],
+      "description": "Leaves his apartment building after ensuring all electronic devices are turned off to save energy. He steps out into the brisk morning air, heading towards the nearby subway station"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["subway ride"],
+      "description": "Arrives at the subway station where he boards a train heading towards downtown Beijing. His co-workers usually start trickling in around this time as well"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "09:30",
+      "activities": ["walk to office"],
+      "description": "Steps out of the subway and walks to his workplace, a modern building surrounded by other tech companies"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["check emails", "team work"],
+      "description": "Logs into his computer and checks emails while waiting for colleagues. He's part of an agile team working on a new software update"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch break", "vegetarian meal"],
+      "description": "Takes a short break to grab lunch at the company cafeteria, which offers a variety of cuisines. Today, he opts for a vegetarian option after discussing with his vegetarian friends from college"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["coding", "debugging"],
+      "description": "Resumes work on a feature that's expected to release in the next major update. He spends some time coding and debugging, using his experience in Python and Java"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["team meeting"],
+      "description": "Attends a short team meeting where they discuss progress and potential roadblocks for their current project"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:15",
+      "activities": ["leave office", "pack up"],
+      "description": "Completes his daily tasks and starts preparing to leave the office. He grabs some documents he needs to take home with him"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:30",
+      "activities": ["commute home"],
+      "description": "Leaves the office after closing down his computer and packing up necessary items for the evening"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "activities": ["workout", "gym"],
+      "description": "Arrives at a local gym where he enjoys an hour-long workout. He alternates between strength training, cardio sessions, and yoga classes to maintain his fitness level"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["commute home", "relax"],
+      "description": "Returns home after his gym session, feeling refreshed from the exercise"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["dinner", "reading", "documentaries"],
+      "description": "Has dinner prepared for himself, typically a mix of vegetables and lean proteins. He enjoys the meal in silence before starting some reading or watching documentaries to unwind"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "activities": ["reading", "online updates", "sleep"],
+      "description": "Reads a book about technology trends for an hour before finally setting his kindle aside and turning off all lights. He spends a few more minutes checking on any updates from friends or colleagues online before going to sleep"
+    }
+  ]
+}

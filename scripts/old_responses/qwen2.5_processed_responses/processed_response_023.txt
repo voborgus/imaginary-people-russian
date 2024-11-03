@@ -1,0 +1,76 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Tech Entrepreneur",
+  "backstory": "Li Wei is a tech entrepreneur who started his own software development company a few years ago. He balances work with personal interests in photography and travel.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wakes up", "stretches"],
+      "description": "Wakes up to the sound of morning birds outside his apartment window. Stretches in bed before turning off the alarm clock."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["makes tea", "gets ready for work"],
+      "description": "Makes himself a pot of strong black tea with milk, sipping it slowly as he gets ready for work."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["commutes", "reads emails"],
+      "description": "Commutes by subway to his office downtown. Reads through emails on his phone during the journey."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["project meeting", "team discussion"],
+      "description": "In a conference room at his company discussing project updates with team members from different departments."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["lunch", "local cuisine"],
+      "description": "Takes a short break for lunch, stepping outside into the busy street to enjoy some local cuisine at a nearby restaurant."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["coding", "app development"],
+      "description": "Back in the office, working on coding new features for their latest app project with his development team."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["client meeting", "video conference"],
+      "description": "Attends a client meeting via video conference where he explains recent updates and future plans for their software solutions."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["photography club", "photo sharing"],
+      "description": "Heads to a photography club meetup in the city center. Discusses techniques and shares photos with fellow enthusiasts."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["administrative tasks", "photo review"],
+      "description": "Finishes up some administrative tasks at home before sitting down to review photographs he took during his recent trip abroad."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:30",
+      "activities": ["documentary", "reading"],
+      "description": "Watches a documentary on ancient Chinese history, enjoying the quiet evening alone."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["bedtime routine", "reading"],
+      "description": "Prepares for bed, reads through a book about innovation and technology leadership until feeling ready to sleep."
+    }
+  ]
+}

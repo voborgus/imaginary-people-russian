@@ -1,0 +1,58 @@
+{
+  "name": "Anya Sharma",
+  "gender": "Female",
+  "age": 28,
+  "location": "India",
+  "job": "Freelance Photographer",
+  "backstory": "Anya is a freelance photographer who travels extensively to capture the essence of vibrant cultures and everyday life. She finds solace in capturing moments that unfold before her eyes, creating a visual diary of human experiences.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["waking up", "greeting sunrise", "morning routine"],
+      "description": "Anya wakes up with the rooster's crowing. The aroma of chai brewing is a familiar comfort on this chilly morning. She stretches, then goes to greet the sunrise peeking over the rooftops of her small village in Rajasthan."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["having chai and breakfast", "checking emails", "listening to music"],
+      "description": "Anya starts her day with a cup of steaming chai and a simple breakfast of khakhra and buttermilk. She reviews emails from clients about upcoming projects while listening to the faint melody of traditional folk music drifting through the open window."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:30",
+      "activities": ["gathering photography equipment", "heading to wedding venue"],
+      "description": "Anya gathers her equipment – a robust Canon EOS R5 with her favourite lens - before heading out for her morning shoot. The sun-drenched fields outside are buzzing with life, promising a beautiful day of work. Today, she's scheduled to capture the annual wedding festivities of Mr. Patel in a nearby village."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["setting up gear", "capturing wedding rituals", "observing the atmosphere"],
+      "description": "She walks through fields of vibrant marigolds and jasmine as she sets up her gear near the main ceremonial area. The lively atmosphere is infectious; children play, women chatter with gossips, elders exchange stories – each detail teeming with life. She captures the traditional rituals, focusing on the emotions of joy and love in a timeless portrait."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["having lunch", "discussing traditions with locals"],
+      "description": "Lunchtime! Anya finds an open-air cafe where she shares her midday meal with the locals. The camaraderie is warm as they discuss the intricate customs surrounding this grand wedding celebration. Anya spends time observing how traditions are intertwined with modern-day celebrations - a unique blend of old and new, capturing it all in her camera's lens."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "20:00",
+      "activities": ["capturing more wedding moments", "documenting intricate details"],
+      "description": "Back at the venue, Anya takes photographs throughout the day, capturing various moments: the elaborate outfits adorned by each participant, their smiles filled with joy, and the intricate dance steps that showcase centuries-old tradition. The sun casts dramatic shadows across the vibrant costumes, making it a truly captivating scene."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["walking home", "having warm milk", "falling asleep"],
+      "description": "With her day concluded, Anya finds herself walking home under a starlit sky, a sense of serenity washing over her as she reflects on each captured moment. Her lens has become a window into another world - the beauty and warmth of human connection. She savors a cup of warm milk before slipping into bed, dreaming of capturing more moments in the tapestry of life."
+    }
+  ]
+}

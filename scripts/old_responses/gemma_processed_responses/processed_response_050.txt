@@ -1,0 +1,82 @@
+{
+  "name": "Anna",
+  "gender": "Female", 
+  "age": 32,
+  "location": "Netherlands",
+  "job": "Architect",
+  "backstory": "After years of dedicated study and a whirlwind career change from teaching to architecture, Anna finally feels she's landed in her rightful place. She relishes the creative freedom of designing sustainable homes while bringing joy to people's lives.",
+  "schedule": [
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["wakes up", "stretches", "drinks tea"],
+      "description": "Wakes up with the sun, stretches, and enjoys a cup of herbal tea"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["morning routine", "get dressed"],
+      "description": "Starts her morning routine - washing face, applying light makeup, getting dressed"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["prepare breakfast", "listen to music", "review blueprints"],
+      "description": "Prepares breakfast while listening to music and reviewing blueprints"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "activities": ["commute", "work on project blueprints", "drink coffee"],
+      "description": "Walks to a nearby café, orders a double espresso, and works on blueprints for a new sustainable housing project"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "activities": ["office work", "construction analysis", "project reviews"],
+      "description": "Enters the office, completes construction analysis and reviews project proposals"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "watch street life"],
+      "description": "Lunch break - A small salad and a glass of white wine, watching the busy street life"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["meetings", "brainstorming", "design concepts"],
+      "description": "Dedicates the hour to meetings and brainstorming sessions with clients, focusing on designing an inclusive community center"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["sketching", "design discussions", "client calls"],
+      "description": "Sketches ideas while discussing design concepts and logistics with a client over a video call"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "activities": ["walk in the park", "nature photography"],
+      "description": "Takes a short walk to the park, enjoys the calming presence of nature and takes pictures of her favourite spots"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["revise plans", "prepare for meeting"],
+      "description": "Revises architectural plans while preparing for the next day's meeting with the local government"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["dinner", "reading", "evening walk"],
+      "description": "Prepares a light and healthy meal, enjoys it in solitude, then indulges in a chapter of a novel while taking a calming evening walk"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "23:59",
+      "activities": ["reading", "sleep"],
+      "description": "Goes to bed, reads a few pages of her favorite historical fiction before falling asleep"
+    }
+  ]
+}

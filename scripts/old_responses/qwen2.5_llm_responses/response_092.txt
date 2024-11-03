@@ -1,0 +1,31 @@
+Name: Lin Xiaowei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Lin Xiaowei is a software engineer who has lived in Shanghai since graduating from university. He enjoys hiking on weekends and often takes his pet dog, Milo, along for the adventure.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up to the sound of birds chirping; stretches and checks the weather forecast on his phone.
+
+Time: 07:00 AM
+Activity: Makes a cup of strong coffee and grabs an apple from the kitchen; walks Milo around the residential area.
+
+Time: 08:30 AM
+Activity: Heads to the office by public transportation, chatting with colleagues about weekend plans.
+
+Time: 12:30 PM
+Activity: Takes a lunch break at his desk, eating leftovers from last night and sending messages on social media to a friend back home.
+
+Time: 06:00 PM
+Activity: Walks Milo again; attends the weekly team meeting with his colleagues discussing project progress and challenges.
+
+Time: 08:30 PM
+Activity: Commutes back home by metro, reflecting on today's tasks while listening to a podcast about artificial intelligence.
+
+Time: 10:00 PM
+Activity: Cooks dinner for himself, trying out a new recipe; watches the news with Milo lounging beside him.
+
+Time: 11:30 PM
+Activity: Brushes teeth and prepares for bed, writing down three things he's grateful for in his journal.

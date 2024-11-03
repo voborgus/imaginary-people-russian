@@ -1,0 +1,88 @@
+{
+  "name": "Liam",
+  "gender": "Male",
+  "age": 27,
+  "location": "United Kingdom",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Raised in a small coastal town, Liam enjoys the peace and quiet of his life. He works as a freelance graphic designer, finding fulfillment in bringing people's ideas to life visually.",
+  "schedule": [
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "use bathroom"],
+      "description": "Wake up with a gentle nudge from his cat, Mittens. Liam sighs and rolls over, stretching before getting out of bed and using the bathroom."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["make coffee", "eat breakfast", "check news"],
+      "description": "Makes coffee and breakfast. He prefers black coffee in the morning, savoring the bitterness before starting his day. Scrolling through news feeds on his phone, he catches up on current affairs while eating a small bowl of porridge with fruit."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["check emails", "work on design project"],
+      "description": "Starts his workday by checking emails and project files. He sets a timer for 2 hours to focus solely on one design project for a client before taking a short break."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "activities": ["take break", "enjoy nature", "observe surroundings"],
+      "description": "Breaks are essential. Liam steps outside onto his balcony, enjoying the crisp morning air, breathing deeply, and observing the seagulls dancing in the sky. He enjoys watching the sunrise over the horizon before starting another creative spurt."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["take shower", "work on new design project"],
+      "description": "Takes a quick shower and begins working on design for a new project."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["eat lunch", "read news", "browse art"],
+      "description": "Lunch break! Liam cooks himself a simple, but filling salad with some grilled chicken from the local market - a healthy mix of nutrients. He relaxes by reading the news and occasionally browsing art projects online, seeking inspiration for his next design."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["work on client feedback", "create design mock-ups"],
+      "description": "Back to work, Liam starts to translate client feedback into actual designs on a mock-up platform."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["take coffee break", "do yoga", "listen to music"],
+      "description": "A few hours pass in focused bursts of creativity before taking another break for coffee and light exercise. He does some yoga stretches for his lower back while listening to calming music, easing himself into the late afternoon."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "activities": ["take short walk", "enjoy nature", "observe surroundings"],
+      "description": "Liam steps outside on his balcony for a short walk and fresh air, enjoying the warm sun after the cool morning. He observes the bustling activity of life around him, feeling grateful for the simple things."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["call friends", "cook dinner"],
+      "description": "A quick call with friends followed by dinner at home, he enjoys preparing a hearty stew from scratch - a delicious comfort food for his evening meal."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "activities": ["read design inspiration book", "draw"],
+      "description": "After dinner, Liam finishes his day with an online art book about design inspiration and takes up drawing."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "activities": ["read books", "light candle"],
+      "description": "Liam lights a candle and sets out some books to read before sleep."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "He closes his eyes, letting the day's thoughts drift away in the gentle light of the evening."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Sofia",
+  "gender": "Female",
+  "age": 25,
+  "location": "Spain",
+  "job": "Graphic Designer",
+  "backstory": "Sofia is a creative type who recently graduated with a degree in graphic design. She's been working as a freelancer for a few months now, and is still trying to establish herself in the competitive Barcelona market.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["wake up", "pet cat"],
+      "description": "Wake up to the sound of her cat, Luna, meowing loudly outside her bedroom door"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Take a quick shower, get dressed in a comfy pair of jeans and a t-shirt, and head downstairs for breakfast"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["breakfast", "coffee"],
+      "description": "Make herself a strong café con leche and toast with avocado, enjoying the morning sunlight streaming through the kitchen window"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["email", "phone calls"],
+      "description": "Spend an hour responding to emails from potential clients and making phone calls to follow up on leads"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["walk", "socialize"],
+      "description": "Head out for a walk along La Rambla with her best friend, Laura. They stroll through the crowded streets, taking in the street performers and vendors selling everything from souvenirs to fresh fruit"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "tapas"],
+      "description": "Take a break for lunch at a nearby tapas bar. Sofia orders a plate of patatas bravas and gazpacho, while Laura indulges in a grilled chorizo sandwich"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["client meeting", "design work"],
+      "description": "Meet with a new client at a trendy coffee shop in the Eixample district. They discuss the details of a potential project, and Sofia leaves feeling hopeful about securing the work"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "activities": ["design projects"],
+      "description": "Spend the late afternoon working on some design projects in her cozy home office. She gets lost in the creative flow, losing track of time as she brings new ideas to life"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "socializing"],
+      "description": "Take a short break to grab dinner at a nearby restaurant with Laura and another friend, Tomás. They share plates of seafood paella and enjoy some lively conversation over wine and beer"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["relax", "watch movie"],
+      "description": "Return home to spend the evening watching a movie on her laptop, Luna curled up beside her as they both wind down from the day's activities"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Drift off to sleep with a contented sigh, feeling grateful for another enjoyable day in Barcelona"
+    }
+  ]
+}

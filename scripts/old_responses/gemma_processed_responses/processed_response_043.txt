@@ -1,0 +1,58 @@
+{
+  "name": "Evelyn Ramirez",
+  "gender": "Female",
+  "age": 27,
+  "location": "Buenos Aires, Argentina",
+  "job": "Songwriter",
+  "backstory": "Evelyn moved to Buenos Aires seeking a vibrant city life and artistic opportunities after leaving her small-town family in the north. She found solace in music and hopes to one day become a songwriter.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["morning routine", "journaling", "drink mate"],
+      "description": "Evelyn's alarm sounds, she slowly stretches in bed, reaching for her worn out leather journal on the nightstand. It's Saturday morning; rain patters softly against the windowpane. A warm cup of mate brewed with yerba santa awaits her."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["journaling", "breakfast", "drink mate"],
+      "description": "Evelyn takes a moment to appreciate the silence before starting the day, flipping through photos from past trips and jotting down ideas in her journal. She savors the morning ritual, fueling herself with simple, hearty breakfasts - empanadas filled with spicy chorizo and a steaming cup of mate."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "13:00",
+      "activities": ["music", "songwriting"],
+      "description": "She joins a group of friends at a lively \"cafetería\" for their weekly songwriting jam session. Each friend brings instruments – guitar, keyboard, violin, the whole lot. The air is thick with musical energy as they play, exchanging ideas and crafting melodies to a rhythmic backdrop of laughter."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["lunch", "music", "songwriting"],
+      "description": "Evelyn takes a break from her music jam session to enjoy lunch. She opts for a vibrant milanesa sandwich on fresh-baked bread, served with a side of chunky homemade chimichurri sauce and a glass of refreshing horchata. Later, she heads back to the studio to delve into some new compositions inspired by her afternoon muse – her love of tango music."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["walk", "explore"],
+      "description": "Evelyn hits the pavement on a brisk walk around La Boca's colorful streets, stopping in at one of the many street vendors selling their wares - from fresh pastries to intricately woven fabrics. The air fills with vibrant scents and chatter as she explores her favorite neighborhood."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "23:00",
+      "activities": ["relax", "read", "watch TV"],
+      "description": "Evelyn returns home, takes off her shoes, relaxes on the couch with a cup of hot chocolate. Her evening is filled with relaxing in silence, reading poetry by Argentina's beloved authors like Ricardo Rojas and Jorge Luis Borges before settling down to watch an episode of \"La Casa de Papel.\""
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "She snuggles under a warm blanket, her mind buzzing from the day's activities. A soft dream melody plays in her head - the sound of tango strings blending with the gentle patter of rain outside. Evelyn falls asleep, her heart full of artistic inspiration and ready for another day filled with music."
+    }
+  ]
+}

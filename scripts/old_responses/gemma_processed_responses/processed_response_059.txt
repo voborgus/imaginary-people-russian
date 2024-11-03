@@ -1,0 +1,82 @@
+{
+  "name": "Elias Richter",
+  "gender": "Male",
+  "age": 32,
+  "location": "Berlin, Germany",
+  "job": "Graphic Designer",
+  "backstory": "Elias is an independent graphic designer, haunted by the ghosts of his grandmother's lost poetry and striving to weave a tapestry of words and images with every project.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Elias wakes up, startled by the rhythmic thrumming coming from beneath the floorboards as the street vendor prepares their morning pastries for the market across the way."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["eat pastry", "drink coffee", "listen to jazz"],
+      "description": "He takes a moment to savor his 'krapfen' (a traditional German sweet pastry) before heading down to the bustling cafe for a cup of strong coffee. He listens to old jazz records on the radio, watching people walk by through the café's large windows."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["sketch logo design", "check emails", "catch up with friends"],
+      "description": "A sudden burst of creative inspiration strikes him as he sketches out a new logo design for an upcoming project. The details are swirling and forming in his mind – this is going to be something special. He checks emails for client updates, spends some time catching up with old friends from his former freelance work days over coffee."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["explore city", "observe surroundings"],
+      "description": "Elias sets out into the sun-soaked streets of Berlin, taking in the sights and sounds: colorful flower stalls lining the street, tourists posing at Brandenburg Gate, street musicians busking in the square, a dog walker holding an umbrella with a tiny poodle clinging to its side."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["eat lunch", "read poetry"],
+      "description": "Lunchtime! Elias stops by a little vegetarian restaurant with a long-standing reputation, enjoying a hearty salad and his favorite chamomile tea. He reads some poetry he finds on the counter, hoping to inspire himself for the next stage of his work."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["design project", "creative visualization"],
+      "description": "Elias throws himself into designing the project – it's an advertisement for a local vintage shop. The more he works, the more images start forming in his head: vibrant color schemes, textured paperbacks with handwritten notes, antique clocks ticking. He even envisions a mural in the shop itself, inspired by his grandmother's writings about forgotten stories."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "activities": ["take a walk", "observe nature"],
+      "description": "He takes a walk along the Spree River, its reflection mirroring the grey sky. The gentle breeze blows through his hair, carrying a faint scent of fresh bread from the nearby bakery, and he starts to feel tired but energized."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["cook dinner", "relax"],
+      "description": "Elias cooks himself a quick dinner: lentil stew with crusty rye bread. As the setting sun paints the cityscape in hues of orange and purple, he feels a deep sense of contentment. He sets up his desk for the night and gets ready for an evening dedicated to creative pursuits."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "activities": ["write poetry", "jot down story ideas"],
+      "description": "Time to write! He spends hours writing poetry, jotting down fragments of stories inspired by old myths and legends, trying to capture the essence of Berlin's history through the pen and paper."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["read travel book", "drink tea", "relax"],
+      "description": "Elias lights a scented candle and relaxes with a cup of herbal tea while gazing at a travel book detailing historical sites in Vienna, dreaming about exploring new cultures one day."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "He drifts off to sleep, his mind swirling with creative visions from the day's work."
+    }
+  ]
+}

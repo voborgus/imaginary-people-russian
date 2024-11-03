@@ -1,0 +1,34 @@
+Name: Liang Ming
+Gender: Male
+Age: 34
+Location: Shanghai, China
+Backstory: Liang Ming is a software engineer who has been working in the tech industry for over ten years. He moved to Shanghai from Beijing when he was in his early twenties and now lives there with his partner.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches, and gets out of bed.
+Time: 07:00
+Activity: Goes into the kitchen to make himself a cup of tea and prepare breakfast.
+Time: 08:00
+Activity: Has his breakfast consisting of porridge with black sesame paste and pickled vegetables.
+Time: 08:30
+Activity: Commutes by metro to work, reading a technical book on the way.
+Time: 10:00
+Activity: Attends a stand-up meeting with his team for project updates and discussions.
+Time: 12:00
+Activity: Has lunch with colleagues at an office cafeteria; today it's vegetable curry rice.
+Time: 13:00
+Activity: Works on coding projects, fixing bugs and implementing new features.
+Time: 15:00
+Activity: Takes a short break to stretch and walk around the company's small garden area.
+Time: 17:00
+Activity: Attends a remote meeting with clients from another city discussing project timelines and requirements.
+Time: 19:00
+Activity: Returns home after work, cooks dinner which is usually a simple stir-fry of vegetables and tofu.
+Time: 20:30
+Activity: Watches some documentary on nature before starting his evening read, today it's "The Art of Computer Programming."
+Time: 22:00
+Activity: Brushes teeth and gets ready for bed, reflecting on the day’s work and plans for tomorrow.
+Time: 22:30
+Activity: Lights out, reads for a bit more before sleep.

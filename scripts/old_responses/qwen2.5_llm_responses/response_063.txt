@@ -1,0 +1,36 @@
+Name: Liang Wei
+Gender: Male
+Age: 34
+Location: Beijing, China
+Backstory: Liang Wei is a software engineer working for a tech company in Beijing. He moved to the city from a small town several years ago to pursue his dream of becoming a programmer and has been living there ever since.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up, stretches, checks his phone for any late emails or messages.
+Time: 06:15
+Activity: Takes out his running gear and heads out for a morning run through the parks near his apartment.
+Time: 07:30
+Activity: Returns home, prepares for breakfast. Has oatmeal with fresh fruit and green tea.
+Time: 08:00
+Activity: Commutes to work by metro, usually arrives at office around 8:45 AM due to Beijing’s traffic.
+Time: 09:00
+Activity: Attends a morning meeting where team updates are shared.
+Time: 12:00
+Activity: Goes out for lunch with colleagues in the nearby business district. Orders stir-fried vegetables and tofu in a local restaurant.
+Time: 13:00
+Activity: Begins working on project-related tasks, often collaborating via email or video calls.
+Time: 14:30
+Activity: Takes a quick walk around the office to clear his mind before resuming work.
+Time: 17:30
+Activity: Leaves for a night workout class at a local gym, usually Pilates or yoga.
+Time: 19:00
+Activity: Returns home after the fitness session and prepares dinner. Tonight he made vegetable curry with jasmine rice.
+Time: 20:30
+Activity: Eats dinner alone before heading out to grab some evening tea with a colleague from work, discussing project progress.
+Time: 22:00
+Activity: Comes back home, spends the evening reading programming articles and coding for personal projects.
+Time: 23:45
+Activity: Washes up, puts on pajamas and sets aside his laptop. Reads for an hour before going to bed.
+Time: 00:00
+Activity: Goes to sleep.

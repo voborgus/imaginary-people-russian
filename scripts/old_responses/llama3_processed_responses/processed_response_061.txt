@@ -1,0 +1,106 @@
+{
+  "name": "Sofia Rodriguez",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain (Barcelona)",
+  "job": "Freelance Writer",
+  "backstory": "Sofia is a freelance writer who moved to Barcelona from her hometown in the north of Spain three years ago. She loves exploring the city's streets, trying new foods, and writing about culture and history.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "birds chirping"],
+      "description": "Wake up to the sound of birds chirping outside her 2nd-floor apartment window"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["meditation", "coffee"],
+      "description": "Quick meditation session on the balcony with a cup of freshly brewed coffee"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Shower and get dressed in a flowy sundress, ready for a day of writing and exploring"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["cook breakfast", "eggs", "tomatoes"],
+      "description": "Cook breakfast - scrambled eggs with fresh tomatoes from her community garden plot"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["pack backpack", "laptop", "notebook", "snacks"],
+      "description": "Pack her backpack with a laptop, notebook, and snacks for the day's adventures"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["walk to Park Güell"],
+      "description": "Leave her apartment building and walk to the nearby Park Güell, a famous public park designed by Antoni Gaudí"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["write at Park Güell", "enjoy views"],
+      "description": "Take in the stunning views of the city from the park's hilltop lookout point while typing away on her laptop"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "activities": ["meet friends", "coffee", "catch up"],
+      "description": "Meet up with friends at a local café for a coffee and catch-up session"
+    },
+    {
+      "startTime": "11:45",
+      "endTime": "14:00",
+      "activities": ["writing workshop", "learn from experts"],
+      "description": "Attend a writing workshop at a nearby coworking space, where she spends several hours learning from industry experts"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["lunch", "paella", "sangria"],
+      "description": "Take a break to grab lunch at a street food market in the Gothic Quarter, sampling the region's famous paella and sangria"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "18:00",
+      "activities": ["visit Barcelona Cathedral", "research"],
+      "description": "Visit the Barcelona Cathedral (La Seu) for some quiet contemplation and research on her latest writing project"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["rooftop bar", "watch sunset", "friends"],
+      "description": "Meet up with friends at a rooftop bar to watch the sunset over the city"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:15",
+      "activities": ["cook dinner", "seafood paella", "roommate"],
+      "description": "Spend the evening cooking dinner at home, whipping up a hearty seafood paella for herself and her roommate"
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:00",
+      "activities": ["read book", "herbal tea"],
+      "description": "Wind down with a book and some herbal tea before bed"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Drift off to sleep with thoughts of tomorrow's adventures in Barcelona still buzzing in her mind"
+    }
+  ]
+}

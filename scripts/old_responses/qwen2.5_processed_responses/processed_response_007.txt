@@ -1,0 +1,82 @@
+{
+  "name": "Lin Xiaoyi",
+  "gender": "Female",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Graphic Designer",
+  "backstory": "Lin Xiaoyi is a graphic designer who loves to explore the city and find inspiration in its diverse neighborhoods. Despite her demanding job at an advertising agency, she finds joy in weekend hikes and cultural events.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["morning routine", "stretching"],
+      "description": "Wakes up gently as the morning light filters through her curtains. Xiaoyi stretches and gets out of bed, feeling refreshed after a peaceful night's sleep."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["hygiene", "wash face"],
+      "description": "Brushes her teeth and washes her face with cold water from the tap, enjoying the sensation of coolness against her skin."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["jogging", "exercise"],
+      "description": "Jumps into her running routine in the nearby park. She enjoys a five-kilometer jog through the early morning mist to start the day energized."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["work", "coffee"],
+      "description": "Arrives at her workplace, an bustling advertising agency located just outside of central Beijing. Xiaoyi takes the lift up to the fourth floor and heads straight for the coffee machine in the common area, grabbing a fresh cup before starting on today's tasks."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["lunch", "meal"],
+      "description": "Leaves the office to have lunch at the small but popular café near her workplace. Today she orders a vegetarian noodle soup with spicy pickles."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["work", "design"],
+      "description": "Back in the office, Xiaoyi spends time reviewing client proposals and creating new designs for upcoming campaigns. She finds herself enjoying a quiet afternoon at her desk, occasionally chatting with coworkers about ideas or solutions to problems."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["cooking", "dinner"],
+      "description": "Ends her workday by heading home to prepare dinner. Today she decided to cook a simple yet delicious Sichuan-style spicy tofu dish with some steamed buns for her meal."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["meal", "relax"],
+      "description": "Xiaoyi sits down at her dining table, relishing the flavors of her homemade meal while watching local news on TV. After dinner, she spends an hour organizing her work desk and putting away her work things neatly to keep a tidy space."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["yoga", "exercise"],
+      "description": "Leaves home and heads to a nearby park for evening yoga. Xiaoyi has been practicing yoga twice a week for the past year to maintain flexibility and reduce stress."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["reading", "leisure"],
+      "description": "Completes her yoga routine and heads to a cozy bookstore where she spends an hour browsing through new releases, picking out some books on photography and Chinese culture."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "00:00",
+      "activities": ["reading", "sleep"],
+      "description": "Takes a short walk home before heading straight for bed. She reads a few pages of her favorite novel by candlelight, enjoying the quiet before turning in for the night."
+    }
+  ]
+}

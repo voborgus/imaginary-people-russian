@@ -1,0 +1,82 @@
+{
+  "name": "Elena Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Barcelona, Spain",
+  "job": "Ceramic Artist",
+  "backstory": "Elena is a talented ceramic artist whose vibrant studio is overflowing with clay and inspiration. After years of working on her craft, she finally has a solo exhibition in the city's historic La Boqueria market.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wake up", "stretching", "enjoy morning sunlight"],
+      "description": "Wake up, stretching gently while enjoying the morning sunlight streaming through the large window of her apartment overlooking the bustling Rambla."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["breakfast", "orange juice", "toast with almond butter"],
+      "description": "Make a quick breakfast of a fresh orange juice and toast with homemade almond butter. The aroma of warm bread always reminds Elena of her grandmother's kitchen."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["sketching", "observe sparrows", "capture moments in charcoal"],
+      "description": "Grab her sketchbook and travel to the local park for sketching. She enjoys observing the playful sparrows and their unique dances as she captures their moments in charcoal on a rough sketchpad."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "activities": ["work on ceramic piece", "create inspired by morning sky"],
+      "description": "Start a new piece on the wheel, inspired by the swirling colours of the morning sky reflected in the pool fountain. Her hands move with practiced ease, bringing her clay creations to life."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "activities": ["lunch", "gazpacho", "bread"],
+      "description": "Head home and indulge in a leisurely lunch of fresh gazpacho and crusty bread. Elena often cooks at home, allowing her creative juices to flow while preparing the meal."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["respond to emails", "arrange exhibition details", "make sponsorship list"],
+      "description": "Dive into emails about her upcoming exhibition. She responds to press inquiries, arranges transport for delivery of final pieces, and makes a list for potential sponsorships."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "activities": ["break", "herbal tea", "enjoy rose garden"],
+      "description": "Take a break from the screen and head to the park's tranquil rose garden. She sits with a cup of herbal tea, watching a butterfly land on a petal and enjoying the calming atmosphere."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:30",
+      "activities": ["work on ceramic portrait", "intricate details"],
+      "description": "Head back to her studio and dive into her latest project – a ceramic portrait of the city's historic architecture in miniature. The intricate details are a challenge that fuels her creative fire and keeps her engaged."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["cook paella", "share dinner with husband", "reminisce"],
+      "description": "Dinner! Elena cooks her husband's favourite paella, which always evokes memories of her grandmother in a sunny Catalan farmhouse kitchen. Laughter and stories shared over the delicious meal are a treasured part of their evening routine."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["evening walk", "Barceloneta Beach", "watch sunset"],
+      "description": "Enjoy an evening walk along the Barceloneta Beach as the sun dips below the horizon, leaving behind a blanket of sparkling stars on the water. The cool sea breeze washes away any stress and leaves her feeling refreshed and ready for sleep."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["read", "historical novels"],
+      "description": "Settle down with a good book to unwind before the day ends. Elena enjoys reading historical novels that transport her through time and space."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Lights out. The calming sounds of Barcelona's night come alive in the quiet stillness of her bedroom."
+    }
+  ]
+}

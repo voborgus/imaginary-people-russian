@@ -1,0 +1,88 @@
+{
+  "name": "Maria Alvarez",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Graphic Designer",
+  "backstory": "Maria, a graphic designer in Barcelona, works from home and balances her life with a small but loving cat named Luna. She recently decided to start taking salsa dance classes after feeling stifled by routine.",
+  "schedule": [
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["wake up", "feed cat"],
+      "description": "Maria wakes up, Luna nudges her gently for breakfast."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["breakfast", "read magazine"],
+      "description": "She prepares a quick yogurt with granola and fruit while reading through the latest issue of Vogue magazine."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["walk cat", "work on illustration"],
+      "description": "Maria walks Luna around the block before settling in to start work on a new project. A beautiful watercolor design for an upcoming children's book is demanding her attention."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "activities": ["coffee break", "listen to music"],
+      "description": "Maria takes a short break, sipping a cup of strong coffee and enjoying the sun streaming through her kitchen window while listening to some jazz music she downloaded last week."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["respond to emails", "edit photos", "work on design competition"],
+      "description": "She checks emails, responds to clients' requests, and edits photos for an upcoming design competition."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["lunch", "relax with cat"],
+      "description": "Lunch! Maria enjoys a simple tuna salad sandwich with lettuce and tomato from a local market on her balcony, Luna sprawls by her feet."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:30",
+      "activities": ["work on illustration", "listen to music"],
+      "description": "Work on the children's book illustration project ramps up, Maria dives deeper into researching color palettes and drawing techniques. The soft hum of the radio in the background helps set the pace."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:00",
+      "activities": ["call friend", "discuss projects", "share recipes"],
+      "description": "A call with her friend from work brings a welcome dose of social interaction, they exchange news on upcoming projects and share their favorite recipes for a weekend dinner gathering."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["walk in park", "listen to music"],
+      "description": "A quick walk through the park before heading home. The cool air fills Maria's lungs as she watches children playing on the swings and listening to music from street performers."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["cook dinner"],
+      "description": "Back home, Maria starts preparing her evening meal, a fragrant paella with chicken, vegetables, and rice."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["salsa dancing", "self-expression"],
+      "description": "After dinner, Maria starts practicing salsa moves under the guidance of her online instructor. The rhythm guides her body into different steps, releasing tension as she finds a new form of self-expression."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "activities": ["watch TV", "relax with cat"],
+      "description": "She finally relaxes on the couch and catches up on some TV series while Luna curls up at her feet, purring contentedly."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "23:59",
+      "activities": ["read", "sleep"],
+      "description": "As sleep approaches, Maria reads a few pages from a book of short stories before finally drifting off."
+    }
+  ]
+}

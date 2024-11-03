@@ -1,0 +1,40 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: China, Beijing
+Backstory: Li Wei is a tech entrepreneur who started his own software development company a few years ago. He balances work with personal interests in photography and travel.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of morning birds outside his apartment window. Stretches in bed before turning off the alarm clock.
+
+Time: 07:00
+Activity: Makes himself a pot of strong black tea with milk, sipping it slowly as he gets ready for work.
+
+Time: 08:30
+Activity: Commutes by subway to his office downtown. Reads through emails on his phone during the journey.
+
+Time: 10:00
+Activity: In a conference room at his company discussing project updates with team members from different departments.
+
+Time: 12:00
+Activity: Takes a short break for lunch, stepping outside into the busy street to enjoy some local cuisine at a nearby restaurant.
+
+Time: 14:30
+Activity: Back in the office, working on coding new features for their latest app project with his development team.
+
+Time: 17:00
+Activity: Attends a client meeting via video conference where he explains recent updates and future plans for their software solutions.
+
+Time: 19:00
+Activity: Heads to a photography club meetup in the city center. Discusses techniques and shares photos with fellow enthusiasts.
+
+Time: 21:30
+Activity: Finishes up some administrative tasks at home before sitting down to review photographs he took during his recent trip abroad.
+
+Time: 22:45
+Activity: Watches a documentary on ancient Chinese history, enjoying the quiet evening alone.
+
+Time: 23:30
+Activity: Prepares for bed, reads through a book about innovation and technology leadership until feeling ready to sleep.

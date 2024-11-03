@@ -1,0 +1,76 @@
+{
+  "name": "Amelia Jones",
+  "gender": "Female",
+  "age": 27,
+  "location": "Italy",
+  "job": "Architect",
+  "backstory": "Amelia grew up in a small coastal village in Southern Italy, where she spent her days exploring the rugged coastline and learning the art of local pottery. Now living in Rome with dreams of working as an architect, she finds solace in drawing amidst the city's vibrant energy.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch"],
+      "description": "Amelia wakes up to the gentle chirp of her alarm clock. Sunlight streams through her window, painting stripes across her worn but comfortable bedsheets. She stretches, feeling a light warmth radiate from the morning air and takes in the scent of freshly brewed espresso wafting from the kitchen below."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["drink water", "brew coffee"],
+      "description": "After a quick stretch and a glass of water, Amelia starts brewing her morning coffee using traditional Italian drip-brew technique. The delicate aroma of dark roasted beans fills the air as she enjoys the quiet moments of self-reflection before starting her day."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["sketch", "enjoy sunrise"],
+      "description": "Amelia steps outside to greet the dawn. A brisk wind blows across the Piazza del Popolo, carrying the faint scent of blooming flowers and freshly baked bread from a local bakery nearby. She sketches the details of the ancient obelisk while her eyes adjust to the rising sun."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute to work", "observe city"],
+      "description": "Heading to the office, Amelia takes a brisk walk through the bustling city streets. Passing by bustling markets selling fresh produce and vibrant flower stalls, she's surrounded by an energy that feeds her creativity and imagination."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["review design concepts", "collaborate with team"],
+      "description": "She spends her mornings at work in a historic building on Via Margutta. She reviews design concepts for the upcoming renovation of an old convent-turned-art gallery near Trastevere. Working alongside a team of talented architects, she finds inspiration and satisfaction in transforming spaces into vibrant canvases."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["enjoy lunch", "converse with colleagues"],
+      "description": "Amelia enjoys lunch at a nearby trattoria, indulging in freshly made pasta with ragù and a glass of Chianti Classico. Her day is punctuated by conversations about her plans to work abroad with other architects and the chance encounters that enrich her life."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "activities": ["research architecture", "plan for Barcelona trip", "refine presentation"],
+      "description": "Her afternoon is dedicated to studying and planning for her upcoming trip to Spain for an architectural workshop in Barcelona. She spends hours researching modern architecture, poring over historical documents, and refining the presentation for a project focusing on sustainable building techniques."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["play cards", "enjoy homemade pizza"],
+      "description": "After the long day of planning, Amelia finds herself drawn to the vibrant energy of her local piazza. As dusk falls and the lights flicker to life, she joins friends for a lively game of cards and enjoys the delicious simplicity of their homemade pizza with basil oil drizzle."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["stroll in gardens", "read travel journals"],
+      "description": "A relaxing stroll through the Villa Borghese gardens precedes Amelia's night routine. The sound of distant laughter and children's screams fill the air, a gentle melody that soothes her soul. She returns home to read an inspiring chapter of her travel journals before finally slipping into sleep."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out. Amelia dreams of terracotta roofs, ancient stone walls, and vibrant hues - all within the city she calls Rome."
+    }
+  ]
+}

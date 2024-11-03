@@ -1,0 +1,45 @@
+Let's imagine a person with the following details:
+
+Name: Kaitlyn Thompson
+Gender: Female
+Age: 25
+Location: Australia (specifically, Sydney)
+Backstory: Kaitlyn is a freelance graphic designer who moved to Sydney from Melbourne two years ago to pursue new opportunities. She loves exploring the city and trying out new cafes and restaurants with her friends.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wake up to the sound of seagulls outside her apartment window in Bondi Beach, stretch, and yawn
+
+Time: 06:15 AM
+Activity: Brush teeth, wash face, and get dressed for a day of client work
+
+Time: 07:00 AM
+Activity: Head to the kitchen to make herself a flat white coffee and toast with avocado spread (her go-to breakfast combo)
+
+Time: 08:00 AM
+Activity: Start responding to emails from clients and working on her current design project, which is a logo redesign for a small business
+
+Time: 12:30 PM
+Activity: Take a lunch break and walk down to the beach to grab some sushi at her favorite cafe
+
+Time: 13:15 PM
+Activity: Continue working on her design project and take a short break to scroll through social media
+
+Time: 16:00 PM
+Activity: Finish up work for the day and meet a friend for coffee at a new cafe in Surry Hills (a popular suburb)
+
+Time: 17:30 PM
+Activity: Spend the next hour catching up with her friend over coffee and chatting about their lives
+
+Time: 19:00 PM
+Activity: Head home, change into comfy clothes, and start making dinner (tonight's menu is pasta with cherry tomatoes and basil)
+
+Time: 20:30 PM
+Activity: Watch a TV show on Netflix while eating dinner and occasionally checking her phone for any work messages or social media updates
+
+Time: 22:00 PM
+Activity: Wind down before bed by reading a chapter in a book (she's currently re-reading "The Hate U Give" by Angie Thomas)
+
+Time: 23:45 PM
+Activity: Get ready for bed, say goodnight to her flatmate, and crawl into bed with a contented sigh

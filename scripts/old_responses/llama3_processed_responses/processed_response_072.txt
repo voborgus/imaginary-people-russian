@@ -1,0 +1,88 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 27,
+  "location": "Australia (Sydney)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Kaitlyn is a freelance graphic designer who recently moved to Sydney from Melbourne after graduating from university. She loves trying out new cafes and restaurants in her free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["check social media", "get inspiration"],
+      "description": "Wake up to the sound of her phone buzzing with a new Instagram notification. She quickly checks her feed, likes a few posts, and scrolls through for inspiration for an upcoming design project."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "make coffee", "check weather"],
+      "description": "Gets out of bed and begins getting ready for the day, making herself a strong cup of coffee and checking the weather forecast."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["administrative tasks", "invoice clients", "respond to emails"],
+      "description": "Heads to her home office (a converted study in her apartment) to tackle some administrative tasks, such as invoicing clients and responding to emails."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:45",
+      "activities": ["yoga class"],
+      "description": "Takes a short break from work to attend a yoga class at a nearby studio. She's been trying to get back into a regular practice after moving to Sydney and finding it harder to fit in her usual Melbourne routine."
+    },
+    {
+      "startTime": "09:45",
+      "endTime": "11:00",
+      "activities": ["get ready", "check schedule"],
+      "description": "Returns home, showers, and gets dressed for the day in some new clothes she picked up on sale at a local boutique. She also checks her schedule for any design meetings or client calls."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["client meeting", "discuss branding project"],
+      "description": "Meets with a potential new client at a cafe in the city to discuss a branding project. They go over their business goals and vision, and Kaitlyn takes some notes on what she can do to help them achieve their objectives."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "catch up with friend"],
+      "description": "Takes a lunch break and meets up with an old friend from university at a nearby sandwich shop. They catch up on each other's lives and talk about everything except work (for once)."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["design projects", "edit photos", "create graphics"],
+      "description": "Spends the afternoon working on some design projects, using Adobe Creative Suite to edit photos and create graphics for her clients."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["beach walk"],
+      "description": "Takes a short break to go for a walk along Bondi Beach, feeling grateful for the sunshine and sea breeze after spending so much time indoors designing."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:15",
+      "activities": ["cook dinner", "watch TV show"],
+      "description": "Heads back home to cook dinner (some stir-fried veggies and noodles) and watch an episode of her favorite TV show while eating."
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:30",
+      "activities": ["read", "find new book"],
+      "description": "Winds down with some reading before bed, scrolling through her Kindle for something new to read. She finds a great book review and adds it to her list, looking forward to diving in soon."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Gets ready for bed, reflects on the day's events (client meetings, yoga class, etc.), and drifts off to sleep feeling content and happy."
+    }
+  ]
+}

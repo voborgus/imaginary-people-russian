@@ -1,0 +1,40 @@
+Name: Li Mei
+Gender: Female
+Age: 32
+Location: Beijing, China
+Backstory: Li Mei is a dedicated marketing specialist who loves to explore new cultures. She recently completed her master's degree and has been working at a multinational company in Beijing since then.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up gently by her smart alarm clock set for the early morning. After stretching, she goes to the kitchen to brew a cup of green tea to help her wake up.
+
+Time: 07:05
+Activity: Brushes her teeth and washes her face with cold water from the tap in her apartment's modern bathroom.
+
+Time: 07:20
+Activity: Exits her apartment, taking the elevator to the lobby where she grabs a bottle of natural mineral water from the fridge to bring on her morning walk.
+
+Time: 07:35
+Activity: Heads out for a 45-minute morning walk in the nearby park, enjoying the fresh air and sun. She often meets friends there or observes people walking their dogs.
+
+Time: 08:20
+Activity: Returns home, changes into work clothes, and checks emails on her smartphone before stepping outside again to take an elevator down to the underground train station.
+
+Time: 09:15
+Activity: Arrives at work in a modern office building, greets colleagues with warm smiles. She takes the stairs to her floor and gets ready for another busy day of meetings and brainstorming sessions.
+
+Time: 12:30
+Activity: Takes a quick break from lunch while listening to classical music on headphones and scrolling through some articles for personal development.
+
+Time: 14:00
+Activity: Meets with the marketing team in a conference room, discussing strategies for their upcoming campaign. The team shares insights and collaborates on creative ideas.
+
+Time: 17:30
+Activity: Wraps up work with a review of the day's progress and emails her findings to senior management before joining colleagues for after-work drinks at a trendy bar downtown.
+
+Time: 20:45
+Activity: Drinks some herbal tea and plays board games with friends, chatting about recent events and shared interests. The night is spent enjoying good conversation and company.
+
+Time: 23:00
+Activity: Returns home, spends time reading books on economics or culture to learn more about different parts of the world before going to bed. Lights out by 23:15 to ensure she gets enough rest for the next day.

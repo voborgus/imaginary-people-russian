@@ -1,0 +1,88 @@
+{
+  "name": "Lin Mei",
+  "gender": "Female", 
+  "age": 34,
+  "location": "China",
+  "job": "Data Analyst",
+  "backstory": "Lin Mei is a data analyst working in a tech company in Beijing. She moved there from Guangzhou to pursue better career opportunities and has been living alone since then.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wakes up", "turns off alarm clock", "gets up", "stretches"],
+      "description": "Awakes, turns off the alarm clock, gets up from the bed after stretching for a few minutes."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["makes black tea", "drinks tea", "enjoys morning breeze"],
+      "description": "Makes herself a cup of black tea with milk and takes it to the balcony to enjoy the morning breeze."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["checks news", "checks emails"],
+      "description": "Uses her phone to check news updates and emails related to work."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["light exercise", "yoga", "stretching"],
+      "description": "Does some light exercise such as yoga or stretching on the living room floor."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["takes shower", "uses moisturizer", "gets dressed"],
+      "description": "Takes a shower, uses moisturizer, and gets dressed in a casual outfit for office."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "13:00",
+      "activities": ["commutes by subway", "reads tech articles"],
+      "description": "Commutes to work by subway; reads articles on her phone during the ride about tech trends and innovations."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["has lunch", "discusses work with colleagues"],
+      "description": "Lunch break at an Italian restaurant near the office with colleagues, discussing work-related topics over spaghetti."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["data analysis", "meetings"],
+      "description": "Back to the office for more meetings and data analysis tasks in a private conference room."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["commutes home", "chats with friend"],
+      "description": "Goes home on the subway; chats with a friend about her weekend plans on WeChat while commuting."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["cooks dinner", "has dinner"],
+      "description": "Arrives home, cooks herself a simple dinner of stir-fried vegetables and rice using recipes from online cooking shows."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["watches documentary", "relaxes"],
+      "description": "Watches an episode of a documentary series on National Geographic to unwind after the workday."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["reads", "checks social media", "replies to messages"],
+      "description": "Does some light reading with a cup of herbal tea while sifting through her social media news feed and replying to messages from colleagues or friends."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "06:30",
+      "activities": ["brushes teeth", "reads", "sleeps"],
+      "description": "Brushes teeth, gets into bed, and reads another chapter from an e-book she's been enjoying before finally falling asleep."
+    }
+  ]
+}

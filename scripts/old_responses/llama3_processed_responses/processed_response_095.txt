@@ -1,0 +1,82 @@
+{
+  "name": "Akira Nakamura",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan (Tokyo)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who recently moved back to Tokyo after living in New York City for three years. She's struggling to adjust to the fast-paced Japanese job market and is still finding her footing as an independent artist.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "listen to music"],
+      "description": "Woke up to the sound of her alarm, which was set to play a calming melody by Tycho. She lay in bed for a few minutes, listening to the music and thinking about what she needed to do today."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["morning routine", "brush teeth", "get dressed"],
+      "description": "Got out of bed and started her morning routine, brushing her teeth and washing her face with lukewarm water. She then moved on to getting dressed in comfortable clothes for the day ahead."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "social media"],
+      "description": "Had a quick breakfast consisting of a bowl of oatmeal with sliced banana and honey. She ate while scrolling through social media and catching up on the latest design trends online."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["work", "email", "portfolio", "plan projects"],
+      "description": "Headed to her small home office, set up in a corner of her tiny Tokyo apartment. She spent the next hour responding to emails from clients, updating her portfolio, and making plans for upcoming projects."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "activities": ["coffee break", "observe Tokyo life"],
+      "description": "Took a short break to grab a coffee at the nearby convenience store. As she waited in line, she observed the hustle and bustle of daily life in Tokyo – people rushing to get to work, kids on their way to school, and the constant flow of traffic outside."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:30",
+      "activities": ["design meetup", "networking", "discuss trends"],
+      "description": "Attended a design meetup at a trendy cafe in Shibuya. She met up with fellow designers and industry professionals to discuss emerging trends and technologies in graphic design. The conversation flowed easily, and she left feeling inspired and motivated."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["lunch", "reflect on meetup"],
+      "description": "Had lunch at a small restaurant near her apartment. She ordered a classic tonkatsu – breaded pork cutlet served with shredded cabbage and miso soup. As she ate, she reflected on the meeting and thought about how to apply some of the ideas discussed to her own work."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:30",
+      "activities": ["work on project", "graphic design"],
+      "description": "Spent the next few hours working on an ongoing project for a major Japanese corporation. She poured her creative energy into crafting a compelling visual identity that would appeal to their target audience."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["neighborhood walk", "enjoy Tokyo sights"],
+      "description": "Took another break to enjoy the evening air and walk around her neighborhood. She passed by street performers, shops selling unique souvenirs, and food stalls serving everything from traditional Japanese snacks to Korean BBQ."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "watch sunset"],
+      "description": "Had dinner at home with a homemade vegetable stir-fry and some steamed bok choy. As she ate, she watched the sunset through her window, feeling grateful for another day in this vibrant city."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["read design book", "experiment with ideas"],
+      "description": "Spent the evening relaxing by reading a design book on typography and experimenting with new ideas using Adobe Creative Cloud."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "06:00",
+      "activities": ["relax", "listen to music", "stretch"],
+      "description": "Wound down by listening to some soothing music and doing light stretching exercises. She reflected on her day, feeling proud of what she accomplished despite the occasional moments of frustration. As she drifted off to sleep, she smiled, knowing that tomorrow would bring new opportunities for growth and exploration in this wonderful city she called home."
+    }
+  ]
+}

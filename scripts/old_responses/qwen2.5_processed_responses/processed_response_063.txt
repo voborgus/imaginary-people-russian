@@ -1,0 +1,100 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 34,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer working for a tech company in Beijing. He moved to the city from a small town several years ago to pursue his dream of becoming a programmer and has been living there ever since.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Goes to sleep"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wakes up", "stretches", "checks phone"],
+      "description": "Wakes up, stretches, checks his phone for any late emails or messages"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:30",
+      "activities": ["running", "exercise"],
+      "description": "Takes out his running gear and heads out for a morning run through the parks near his apartment"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["breakfast", "oatmeal", "fruit", "green tea"],
+      "description": "Returns home, prepares for breakfast. Has oatmeal with fresh fruit and green tea"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "activities": ["commute", "metro"],
+      "description": "Commutes to work by metro, usually arrives at office around 8:45 AM due to Beijing's traffic"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["meeting", "team updates"],
+      "description": "Attends a morning meeting where team updates are shared"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "vegetables", "tofu"],
+      "description": "Goes out for lunch with colleagues in the nearby business district. Orders stir-fried vegetables and tofu in a local restaurant"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["work", "project tasks", "collaboration"],
+      "description": "Begins working on project-related tasks, often collaborating via email or video calls"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "activities": ["walk", "break"],
+      "description": "Takes a quick walk around the office to clear his mind before resuming work"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["work", "project tasks", "collaboration"],
+      "description": "Continues working on project-related tasks, often collaborating via email or video calls"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["workout", "pilates", "yoga"],
+      "description": "Leaves for a night workout class at a local gym, usually Pilates or yoga"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["dinner", "curry", "rice"],
+      "description": "Returns home after the fitness session and prepares dinner. Tonight he made vegetable curry with jasmine rice"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["tea", "socializing", "work discussion"],
+      "description": "Eats dinner alone before heading out to grab some evening tea with a colleague from work, discussing project progress"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:45",
+      "activities": ["programming", "reading"],
+      "description": "Comes back home, spends the evening reading programming articles and coding for personal projects"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "24:00",
+      "activities": ["bedtime routine", "reading"],
+      "description": "Washes up, puts on pajamas and sets aside his laptop. Reads for an hour before going to bed"
+    }
+  ]
+}

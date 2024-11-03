@@ -1,0 +1,106 @@
+{
+  "name": "Leila",
+  "gender": "Female",
+  "age": 27,
+  "location": "Tokyo, Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Leila, a freelance graphic designer, moved to Tokyo from New Zealand four years ago and enjoys exploring the city.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "fed cat"],
+      "description": "Woke up to the sound of her cat, Mochi, meowing loudly for breakfast"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["made tea"],
+      "description": "Made herself a cup of green tea in the tiny kitchen of her Shinjuku apartment"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["checked messages", "responded to clients"],
+      "description": "Checked her phone and responded to a few messages from clients about ongoing design projects"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["took a walk"],
+      "description": "Took a short walk around the block to get some fresh air before starting work for the day"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["worked on branding project", "drank coffee"],
+      "description": "Sat down at her desk with a cup of freshly brewed coffee and began working on a new branding project for a local boutique"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "activities": ["had ramen", "took a break"],
+      "description": "Took a 15-minute break to grab some lunch at a nearby ramen shop. Ordered the \"Spicy Miso\" special and enjoyed the flavorful broth"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["worked on website designs"],
+      "description": "Resumed work, focusing on finalizing designs for a client's website"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["took a break", "had tea"],
+      "description": "Took another short break to stretch her legs and grab some more green tea from the kitchen"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["browsed boutiques", "hung out with friend"],
+      "description": "Met up with a friend at Harajuku Station and spent an hour browsing through the trendy boutiques on Takeshita-dori street"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["finished design work"],
+      "description": "Returned to work, finishing off any remaining design tasks for the day"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["wrapped up workday"],
+      "description": "Wrapped up her workday, feeling satisfied with the progress made"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["had sushi dinner"],
+      "description": "Had dinner at a new sushi restaurant that had just opened near her apartment. Tried their special \"Omakase\" course and was blown away by the freshness of the ingredients"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["walked cat"],
+      "description": "Took Mochi for a short walk around the neighborhood, enjoying the evening breeze"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["relaxed", "watched TV", "went to bed"],
+      "description": "Came back to her apartment, relaxed on the couch with some TV, and started winding down for bed"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to sleep feeling content after a productive day in Tokyo"
+    }
+  ]
+}

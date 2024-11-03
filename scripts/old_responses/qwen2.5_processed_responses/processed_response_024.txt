@@ -1,0 +1,88 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male", 
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer working in a tech company. He moved to Shanghai after graduation and has been living there since.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up at his modern apartment in Pudong, stretching before turning off the alarm clock."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["make tea", "make breakfast", "eat breakfast"],
+      "description": "Heads to the kitchen to make a cup of green tea and a simple breakfast consisting of an egg and some toast."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["commute to work"],
+      "description": "Walks through Lujiazui financial district towards his office, observing the rising sun behind the skyscrapers."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["review code", "work on project"],
+      "description": "Arrives at work; he sits down at his desk and starts reviewing code for an upcoming project with his team."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:45",
+      "activities": ["lunch break", "try local cuisine"],
+      "description": "Takes a short break to walk over to the company cafeteria for lunch, trying out different local cuisine each day."
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "17:30",
+      "activities": ["video conference", "work on project"],
+      "description": "Back to work, joins a video conference meeting with colleagues from other cities in China discussing project progress."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "activities": ["commute home"],
+      "description": "Ends his working day and heads back home after sending off an email summarizing the day's achievements."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:45",
+      "activities": ["make dinner", "eat dinner"],
+      "description": "Arrives at home; he prepares himself a light dinner of noodles with vegetables and meat, enjoying a quiet evening in."
+    },
+    {
+      "startTime": "19:45",
+      "endTime": "20:05",
+      "activities": ["meditation"],
+      "description": "Starts his daily meditation session for about 20 minutes to relax and clear his mind."
+    },
+    {
+      "startTime": "20:05",
+      "endTime": "20:20",
+      "activities": ["read tech articles"],
+      "description": "Reads an online tech article or news update from the company intranet related to software development trends."
+    },
+    {
+      "startTime": "20:20",
+      "endTime": "22:00",
+      "activities": ["read novel", "relax"],
+      "description": "Lights a scented candle, reads a mystery novel in bed for about half an hour."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:15",
+      "activities": ["prepare for sleep"],
+      "description": "Extinguishes the lights and gets into bed, preparing for a good night's sleep."
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "A software engineer working in a tech company in Beijing, Li Ming has been with the same firm for five years. He enjoys spending his free time playing video games and hiking in the mountains nearby.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "get out of bed"],
+      "description": "Wakes up to the sound of his alarm clock; stretches and gets out of bed after a refreshing sleep"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face", "drink water"],
+      "description": "Brushes teeth, washes face with cold water, and drinks a glass of water"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["drink tea", "exercise", "push-ups", "treadmill"],
+      "description": "Heads to the kitchen for a cup of strong black tea before starting his morning exercises like push-ups and running on a treadmill"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute", "electric scooter"],
+      "description": "Leaves home; rides an electric scooter through the busy streets of Beijing to reach his office building near the city center"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "project update", "strategy discussion"],
+      "description": "Attends a team meeting with colleagues in one of the company's conference rooms, discussing project updates and strategies for the upcoming quarter"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "eat outdoor"],
+      "description": "Takes a lunch break; orders from a local restaurant via his phone, then eats outside by a park near the office to enjoy some fresh air"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["coding", "project work"],
+      "description": "Returns to work with renewed energy and heads to his desk where he starts coding for an upcoming project"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "activities": ["walk", "sandwich"],
+      "description": "Goes on a quick walk in the neighborhood during lunch break, grabbing a sandwich from a nearby stall to quickly finish up some admin tasks back at the office"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "activities": ["leave work", "scooter", "client meeting", "video call"],
+      "description": "Leaves work and takes his scooter to a coffee shop for a meeting with a client discussing project milestones and deadlines. The discussion is held via video call since the client is based in another city"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:15",
+      "activities": ["grocery shopping", "cooking", "dinner"],
+      "description": "Ends the call; heads home, stops at a grocery store to buy some vegetables and fruits before returning home. Makes himself dinner consisting of stir-fried vegetables and rice, eats while watching news on TV"
+    },
+    {
+      "startTime": "20:15",
+      "endTime": "22:30",
+      "activities": ["online gaming", "friends"],
+      "description": "Engages in an online game session with friends from different parts of China; this can last for about two hours"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "activities": ["shower", "brush teeth", "check news", "sleep"],
+      "description": "Takes a shower, brushes his teeth, and goes to bed after checking the news one more time"
+    }
+  ]
+}

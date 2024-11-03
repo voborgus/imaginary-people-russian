@@ -1,0 +1,106 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer working at a multinational tech company in Shanghai. He moved to the city five years ago after graduation and has been enjoying the vibrant tech scene and diverse cultural experiences.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Awakens gently by his smart alarm clock, stretches in bed before opening his eyes"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["shower", "use voice assistant"],
+      "description": "Walks to the bathroom for a quick morning shower, using his voice assistant to control the temperature and water flow"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["prepare breakfast", "check emails"],
+      "description": "Prepares breakfast of steamed buns and congee with egg while checking emails on his tablet"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute by bike", "enjoy scenery"],
+      "description": "Commutes by bike to the office, enjoying the cool morning breeze as he cycles past Shanghai's scenic riverfronts"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["team meeting", "video call"],
+      "description": "Attends a team meeting via video call with colleagues from other countries, discussing project updates and strategies for product launches"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "social media"],
+      "description": "Takes a brief lunch break at his desk to have some noodles with seafood, enjoying the quiet moment while he browses through social media on his phone"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["online training"],
+      "description": "Participates in an online training session about new software development tools and techniques"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "activities": ["client meeting", "video call", "presentations"],
+      "description": "Meets with a client via video call to discuss potential projects, using screen sharing for presentations and annotations"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["review tasks", "plan for next day"],
+      "description": "Wraps up the day by reviewing tasks on his task management app, planning for the next workday and personal goals"
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "19:15",
+      "activities": ["commute by bike", "enjoy scenery"],
+      "description": "Cycles home along the riverfront again, stopping to admire the setting sun"
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "activities": ["cook dinner"],
+      "description": "Cooks dinner of stir-fried vegetables and tofu, using a smart kitchen scale for precise measurements"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["read ebook", "eat dinner"],
+      "description": "Reads an ebook on nutrition and wellness while eating his meal, using the light sensor in his e-reader to adjust brightness according to the lighting conditions"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["watch documentary", "coding exercises"],
+      "description": "Watches a documentary about environmental conservation before starting some coding exercises for personal improvement"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:30",
+      "activities": ["check news", "social media", "brush teeth"],
+      "description": "Skims through news articles and social media updates while brushing teeth and getting ready for bed, using his smartphone with blue light filter activated to reduce eye strain"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "24:00",
+      "activities": ["set alarm", "sleep"],
+      "description": "Lies down in bed, closes the curtains, and sets a soft alarm for the next morning"
+    }
+  ]
+}

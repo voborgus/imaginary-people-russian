@@ -1,0 +1,43 @@
+## Name: Elena
+## Gender: Female
+## Age: 28
+## Location: Spain
+## Backstory: Elena, a freelance illustrator based in Barcelona, juggles deadlines and personal passions, finding joy in vibrant cityscapes and whimsical creatures. 
+
+**Day:**
+
+Time: [07:30]
+Activity:  Elena's alarm clock chirps to life. After a few seconds of resisting, she pushes it off and reaches for her phone, silencing the morning notification symphony before pulling on comfy shorts and a flowy top. 
+
+Time: [07:45]
+Activity: She walks down the narrow cobblestone alleyways of her neighborhood, stopping for a cup of strong coffee at a local café, enjoying its earthy aroma. 
+
+Time: [08:30]
+Activity:  She sits on a park bench by the fountain with a sketchpad and a bright red pen in hand.  Today's inspiration: A playful squirrel juggling acorns amidst vibrant morning light. She sketches in quiet observation, occasionally letting out a satisfied chuckle at her own creativity.
+
+Time: [10:00]
+Activity: Elena throws on a backpack loaded with her sketchbook and art supplies, grabs a simple breakfast of toast with jam, and heads to her studio nestled amongst the artistic hustle of Barcelona's El Raval district. 
+
+Time: [11:30]
+Activity:  She settles into her work space, surrounded by inspiring artwork. The sun bathes the studio in a warm glow, painting hues across the floor as she starts working on her current project - a series of intricate illustrations inspired by Spanish folk tales. 
+
+Time: [15:00]
+Activity: Lunch break! Elena finds a cozy tapas bar near Plaça Catalunya and enjoys her lunch with friends while catching up on work emails and planning her next artistic endeavors.
+
+Time: [16:30]
+Activity:  She heads to the park, sketching in the afternoon sun, finding solace in nature’s vibrant hues. 
+
+Time: [18:00]
+Activity:   Elena walks through the bustling city streets, stopping for gelato at a charming ice cream stall and listening to street music. 
+
+Time: [19:30]
+Activity:  She returns home, relishes in quiet moments with her cat as she relaxes after a long day of creation.  A comforting cup of chamomile tea brings calm before the evening hours.   
+
+Time: [21:00]
+Activity: She reads until sleep draws near, indulging in a thrilling fantasy novel and letting thoughts drift into the peaceful realm of dreams.
+
+Time: [23:00]
+Activity: Elena snuggles under her warm duvet and lets sleep wash over her. 
+
+
+   

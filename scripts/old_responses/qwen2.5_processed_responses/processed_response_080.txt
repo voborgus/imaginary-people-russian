@@ -1,0 +1,88 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer working in one of the leading tech companies in Beijing. He moved to the city after graduating from university and has been living there for over ten years. Although his job can be stressful at times, he enjoys spending time with friends and exploring new places in his free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "get out of bed"],
+      "description": "Wakes up to the sound of his alarm clock, stretching and yawning as he gets out of bed."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["make tea", "check emails", "messages"],
+      "description": "Makes himself a cup of strong black tea, sipping it while checking his emails and messages on his smartphone for any urgent work-related tasks."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:15",
+      "activities": ["commute", "metro", "taxi"],
+      "description": "Leaves the apartment after grabbing his briefcase. His daily commute takes about an hour as he rides the metro to catch a taxi for the rest of the journey due to heavy traffic."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:30",
+      "activities": ["morning meeting", "project work", "coding", "debugging"],
+      "description": "Arrives at the office and starts the day with a morning meeting where team members discuss project progress, challenges, and future plans. Resumes work on the current project, coding and debugging lines of complex software code as part of his team's ongoing development efforts."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "cafeteria", "rice and vegetables"],
+      "description": "Takes a short lunch break in the company cafeteria. He usually orders the same dish - rice with vegetables, which he finds both filling and nutritious."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["project work", "coding", "debugging"],
+      "description": "Resumes work on the current project, coding and debugging lines of complex software code as part of his team's ongoing development efforts."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["team meeting", "collaboration", "integration"],
+      "description": "Attends a meeting with other teams to collaborate on integrating their projects. He listens intently while contributing insights and ideas that could streamline processes."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["walk", "park", "autumn foliage"],
+      "description": "Leaves the office for an hour-long walk in nearby parks, using this time to clear his mind and enjoy the autumn foliage."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "activities": ["dinner", "friend", "work discussion", "future plans"],
+      "description": "Meets up with a friend from work at their favorite restaurant. They discuss recent projects and share plans for future endeavors outside of work."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["hobbies", "interests"],
+      "description": "Returns home, feeling rejuvenated after the day's activities but still energized to continue his hobbies and interests later tonight."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:30",
+      "activities": ["reading", "book", "technology"],
+      "description": "Begins winding down by reading a book before bed. He often reads fiction or non-fiction on current technology trends to expand his knowledge."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Turns off the lights, climbs into bed, and drifts off to sleep after reflecting on the events of the day and looking forward to tomorrow's challenges."
+    }
+  ]
+}

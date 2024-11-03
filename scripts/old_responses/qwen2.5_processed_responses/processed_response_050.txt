@@ -1,0 +1,88 @@
+{
+  "name": "Li Xiaoyang",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Xiaoyang is a software engineer who enjoys coding and traveling. He moved to Shanghai after graduating from university in search of better career opportunities and has since fallen in love with the city's vibrant tech scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "activities": ["morning routine", "shower"],
+      "description": "Wakes up at his apartment, stretches, and gets ready for the day with a quick shower"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["jogging", "exercise"],
+      "description": "Jogs around the park near his apartment to start his morning routine"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute", "listen to music"],
+      "description": "Takes a train to work; listens to music on his headphones while observing the early-morning commuters around him"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["work", "review documents"],
+      "description": "Arrives at the office and begins reviewing project documents sent by colleagues from overseas via email"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "discuss progress"],
+      "description": "Meets with team members in the conference room for a daily stand-up meeting, discussing progress and potential roadblocks"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "email"],
+      "description": "Has lunch at a nearby café; orders a bowl of rice noodles with tofu and veggies, enjoying his meal while catching up on work emails during downtime"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["work", "walk", "pet dog"],
+      "description": "Codes away in his office cubicle until feeling the need for fresh air, taking a brief walk to the roof terrace with his team's pet dog, a small Pomeranian named Xiaohei (Blackie)"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["training", "learn new skills"],
+      "description": "Attends an online training session on new programming techniques and technologies"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "activities": ["commute", "grocery shopping", "cooking"],
+      "description": "Leaves work and heads back home; stops by the local grocery store to pick up some ingredients for dinner, including fresh vegetables and meat"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "podcast", "relax"],
+      "description": "Cooks dinner at home while listening to a podcast about technology trends in China"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["documentary", "pet dog"],
+      "description": "Watches a documentary on Chinese history with Xiaohei by his side as the dog falls asleep curled up next to him"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["reading", "bedtime routine"],
+      "description": "Reads a book about coding practices and algorithms for an hour before turning off the light, getting ready for bed"
+    }
+  ]
+}

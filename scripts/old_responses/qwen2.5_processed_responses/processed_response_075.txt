@@ -1,0 +1,106 @@
+{
+  "name": "Liang Yi",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Yi is a software engineer who has been working in the tech industry for over a decade. He grew up in a small city but moved to Beijing for better job opportunities and now enjoys exploring the cultural diversity of the capital.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wake up", "get out of bed"],
+      "description": "Wakes up, gets out of bed after hitting snooze several times due to oversleeping alarm from last night's late work session."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["walk", "coffee"],
+      "description": "Takes a short walk around his building complex to stretch and catch the morning chill before heading back inside for more coffee."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["buy food", "local snacks"],
+      "description": "Buys bread and milk from the convenience store nearby, grabbing some local snacks while waiting in line."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["jog", "clear head"],
+      "description": "Jogs on the park near his office, trying to clear his head amidst the early morning joggers."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:25",
+      "activities": ["shower", "get dressed", "apply sunscreen"],
+      "description": "Takes a shower and gets dressed, applying sunscreen before leaving the house since it's been sunny today."
+    },
+    {
+      "startTime": "08:25",
+      "endTime": "09:15",
+      "activities": ["commute", "listen to stories"],
+      "description": "Commutes via the subway, sitting in between two elderly gentlemen sharing stories from their day."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "10:30",
+      "activities": ["work meeting", "coding project", "solve bugs"],
+      "description": "Arrives at his workplace, greets colleagues and heads to a conference room for a daily stand-up meeting. Then works on a complex coding project, solving bugs that have been bothering him all morning with a colleague who sits next to him."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["lunch", "hot and sour soup"],
+      "description": "Leaves the office to grab lunch at a nearby food court where he shares a bowl of hot and sour soup with a friend."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["read industry news", "stay updated"],
+      "description": "Back in the office, takes some time to read industry news and articles related to his field to stay updated."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:45",
+      "activities": ["client meeting", "virtual call"],
+      "description": "Meets with a client for a virtual call discussing ongoing projects. The conversation goes on until 16:30."
+    },
+    {
+      "startTime": "15:45",
+      "endTime": "17:00",
+      "activities": ["team meeting", "discuss progress"],
+      "description": "Attends a team meeting where they discuss project progress and upcoming deadlines."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["commute home", "listen to podcasts"],
+      "description": "Takes the subway back home, listening to podcasts about technology trends."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["cook dinner", "chat with friends"],
+      "description": "Cooks dinner at home, experimenting with a new recipe for stir-fried vegetables. He also spends some time chatting online with friends from different parts of China who work remotely like him."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["TV series", "enjoy meal"],
+      "description": "Watches TV series while enjoying the meal he prepared earlier."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["brush teeth", "read book"],
+      "description": "Brushes teeth and reads a book, which is his nightly ritual to relax before bed."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleep through the night."
+    }
+  ]
+}

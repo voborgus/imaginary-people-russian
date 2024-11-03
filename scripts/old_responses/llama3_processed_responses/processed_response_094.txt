@@ -1,0 +1,94 @@
+{
+  "name": "Emily Chen",
+  "gender": "Female",
+  "age": 28,
+  "location": "Canada (Toronto, Ontario)",
+  "job": "Marketing Specialist",
+  "backstory": "Emily is a marketing specialist who moved to Toronto from Vancouver two years ago for a new job opportunity. She's still adjusting to the fast-paced city life and trying to explore all it has to offer.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Wake up in her cozy apartment in downtown Toronto, stretch, and enjoy a few minutes of silence before the chaos of the day begins"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["breakfast", "coffee"],
+      "description": "Grab a quick breakfast consisting of scrambled eggs, toast, and a cup of coffee to kickstart her morning"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["jog", "exercise"],
+      "description": "Head out for an early-morning jog around the nearby lake, taking in the sights and sounds of the city waking up"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Shower and get dressed for work, choosing a comfortable outfit that reflects her eclectic personal style"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute", "read", "podcast"],
+      "description": "Commute to her office on the subway, catching up on news articles and podcasts during her 20-minute ride"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["team meeting", "brainstorming", "campaign planning"],
+      "description": "Start her day with a team meeting at the marketing agency where she works, discussing ongoing campaigns and brainstorming ideas for new ones"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "walk"],
+      "description": "Take a lunch break and head to her favorite food truck near the office, ordering a delicious chicken sandwich and enjoying it while walking in the nearby park"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "17:00",
+      "activities": ["social media campaign", "client work"],
+      "description": "Return to the office and spend the afternoon working on a new social media campaign for one of their clients, carefully crafting each post to maximize engagement"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["team project", "brainstorming"],
+      "description": "Finish up her work tasks and meet with her colleague to discuss ideas for a future team project, bouncing around creative concepts and feedback"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "activities": ["commute", "grocery shopping"],
+      "description": "Head home on the subway, stopping at the grocery store to pick up some ingredients for dinner"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["cooking", "meal prep", "relaxation"],
+      "description": "Prepare a simple but healthy meal of grilled chicken with roasted vegetables and quinoa, cooking while watching an episode of her favorite TV show"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["reading", "reflection"],
+      "description": "Spend some time unwinding by reading a chapter from her latest novel before deciding it's finally time for bed"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Get ready for sleep, reflecting on the day's accomplishments and planning for tomorrow in her mind"
+    }
+  ]
+}

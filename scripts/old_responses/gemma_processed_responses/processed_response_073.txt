@@ -1,0 +1,52 @@
+{
+  "name": "Elias",
+  "gender": "Male",
+  "age": 27,
+  "location": "Germany",
+  "job": "Vintage Clothing Store Employee",
+  "backstory": "Elias, a passionate musician, fled his family's bustling music shop in the Netherlands to chase artistic freedom and explore the vibrant underground scene of Berlin.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "drink coffee", "listen to music"],
+      "description": "Elias wakes up, stretches languidly before pouring himself a cup of freshly brewed coffee. He listens to a track on repeat for a few minutes while enjoying the quiet solitude of his sparsely furnished apartment before stepping outside."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["walk", "admire scenery", "observe street performers"],
+      "description": "Taking a brisk walk through Tiergarten, Elias admires the early morning light painting the leaves emerald green. He breathes in the crisp air, listening to the chirping birds as he passes by. At one point, a group of artists practicing street theatre catches his eye, their vibrant colours and bold costumes captivating him."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["guitar practice", "improvisation"],
+      "description": "Elias settles down with his worn-out acoustic guitar, tuning it before slowly beginning a practice session. He focuses on mastering a new chord progression inspired by the music he recently heard at an underground bar, allowing the familiar melody to guide him through improvisation."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "16:30",
+      "activities": ["work", "assist customers", "manage inventory"],
+      "description": "After a brief breakfast of bread and fruit, Elias heads to his day job at a vintage clothing store in Kreuzberg. The space is bustling with customers seeking unique pieces for their style and a charming staff greets them. Elias manages the front desk, assisting customers and organizing the ever-changing stock."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["walk", "eat falafel", "reflect"],
+      "description": "The afternoon's warmth settles in as Elias leaves his workday. He enjoys a light meal of falafel at a local stand on his walk home. Catching his reflection in a nearby window, he takes a moment to contemplate his life and dreams."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:30",
+      "activities": ["write lyrics", "play guitar", "read poetry", "journal"],
+      "description": "Elias begins writing new lyrics for his music. The melody from earlier echoes in his head as he sits in a park bench at the edge of the forest, strumming chords on his guitar. The late afternoon light casts long shadows around him. After reading poetry and journaling before settling down with some tea and biscuits, Elias finally turns off the lights and drifts to sleep."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Elias drifts to sleep, leaving behind a world filled with music and the promise of tomorrow's creation."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 28,
+  "location": "Wellington, New Zealand",
+  "job": "Graphic Designer",
+  "backstory": "Kaitlyn is a graphic designer who recently moved to Wellington from Auckland after falling in love with the city's arts scene and stunning harbor views. She works part-time at a small design studio while pursuing her own creative projects.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "morning routine"],
+      "description": "Wake up to the sound of seagulls outside her apartment window, stretch, and start her morning routine"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["drink coffee", "watch sunrise"],
+      "description": "Make a cup of strong coffee and take it out on her balcony to watch the sunrise over the harbor"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["walk to café", "get pastry"],
+      "description": "Take a 10-minute walk to the local café for a pastry and some fresh air before work"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["respond to emails", "prep for meeting"],
+      "description": "Start work at the design studio, responding to emails and prepping for an upcoming project meeting"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "activities": ["lunch with colleagues", "try new food truck"],
+      "description": "Lunchtime! Kaitlyn heads out with colleagues to try a new food truck that's been getting rave reviews in the city"
+    },
+    {
+      "startTime": "13:15",
+      "endTime": "16:30",
+      "activities": ["team meeting", "brainstorm ideas"],
+      "description": "Attend a team meeting to discuss ongoing projects and brainstorm ideas for new ones"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["visit art exhibit", "meet friends"],
+      "description": "Finish work early and head out to meet some friends at the Te Papa Museum for an art exhibit opening"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["dinner", "listen to live music"],
+      "description": "Take a break from museum-goers and grab dinner at her favorite restaurant in the city, enjoying some fresh seafood and live music"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:45",
+      "activities": ["book club meeting", "discuss book"],
+      "description": "Meet up with her book club for a discussion on their latest read (this month's selection is The Hate U Give)"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:50",
+      "activities": ["play guitar", "work on new songs"],
+      "description": "Get back home, spend some quality time playing her guitar and working on new song ideas"
+    },
+    {
+      "startTime": "23:50",
+      "endTime": "24:00",
+      "activities": ["watch YouTube", "wind down"],
+      "description": "Wind down by watching a funny YouTube video before bed, feeling grateful for another lovely day in Wellington."
+    }
+  ]
+}

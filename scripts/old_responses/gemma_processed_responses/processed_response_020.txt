@@ -1,0 +1,64 @@
+{
+  "name": "Johnathan Smith",
+  "gender": "Male",
+  "age": 32,
+  "location": "United Kingdom",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Johnathan is a freelance graphic designer who struggles to find the balance between work and his personal life. He's known for quirky but professional designs and dreams of opening his own design studio someday.",
+  "schedule": [
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["wake up", "check emails", "shower", "get dressed", "brew coffee"],
+      "description": "Johnathan wakes up with a groan, the early morning sun streaming through his curtains. He reaches for his phone to check emails - an urgent one from a potential client regarding his latest design project. He grabs a quick shower before getting dressed and brewing coffee."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["breakfast", "review design blogs", "interact with cat"],
+      "description": "Johnathan eats a quick breakfast of toast with marmalade, while glancing through design blogs and websites for inspiration. His cat, Jasper, basks in the sunbeams on his keyboard - he's not sure how to get that cat out of the \"design zone\"."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["respond to emails", "work on client project", "design mock-ups"],
+      "description": "Johnathan dives into emails and client work, responding to urgent requests. He spends an hour on a mock-up for a new packaging design, trying different font styles and colors until he gets it just right."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch"],
+      "description": "Lunchtime! A ham sandwich from his local deli (a bit of cheese and onion) followed by fresh fruit salad - he tries to eat healthy but finds the constant work demands make a balance tricky."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work on website redesign", "personal project"],
+      "description": "Johnathan gets back to work, focusing on the final touches for a website redesign for a local bakery - an old project that feels more personal this time around."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["walk dog", "cafe break"],
+      "description": "Johnathan takes his dog for a walk in the park. He loves being outdoors and watching the other children playing; Jasper watches him suspiciously, hiding a biscuit under his paws to eat later. He ends the walk with a quick coffee break at the local cafe - enjoying an Americano, people-watching, before heading back home."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["cook dinner", "read design article"],
+      "description": "Dinner tonight is a simple spaghetti bolognese made from scratch with some homemade garlic bread. He finds time for reading an article about graphic design trends, learning new techniques and exploring the ever-evolving world of visual communication."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "23:00",
+      "activities": ["relax", "draw", "listen to music", "plan weekend trip"],
+      "description": "Johnathan spends some time relaxing after dinner - a bit of drawing and listening to jazz music on Spotify, he contemplates his dreams of opening his own studio while planning for a weekend trip with Jasper to the countryside. He plans to sketch landscapes, a calming escape from everyday anxieties."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "07:00",
+      "activities": ["bedtime routine", "read", "sleep"],
+      "description": "Johnathan brushes his teeth before getting into bed. A book about graphic design history - he loves to learn something new every night - and finally, some well-deserved sleep. He wakes up with the sun tomorrow, ready for a fresh start."
+    }
+  ]
+}

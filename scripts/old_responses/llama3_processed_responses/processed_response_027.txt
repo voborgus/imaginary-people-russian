@@ -1,0 +1,100 @@
+{
+  "name": "Sofia Rodriguez",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain (Barcelona)",
+  "job": "Graphic Designer",
+  "backstory": "Sofia is a graphic designer who recently moved to Barcelona from Madrid after graduating from design school. She's been working on her own startup for the past year and is trying to establish herself in the local creative community.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wake up to an alarm clock in her cozy apartment in El Raval, a trendy neighborhood in central Barcelona"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["shower", "get dressed"],
+      "description": "Take a quick shower and get dressed for the day"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["make coffee", "enjoy coffee"],
+      "description": "Make herself a strong espresso with freshly brewed coffee beans from a local roaster"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["check emails", "respond to messages"],
+      "description": "Start checking her emails and responding to any urgent messages on her laptop while enjoying her coffee in the apartment's kitchen area"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["commute", "meet clients", "attend workshop"],
+      "description": "Leave for a meeting with potential clients at a coworking space near Plaça Catalunya, which is about a 20-minute walk from her apartment. Attend a workshop on branding and visual identity given by a renowned designer in the city."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "activities": ["lunch", "socialize"],
+      "description": "Take a lunch break and meet up with friends at a nearby tapas bar for some traditional Spanish cuisine"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["work on personal projects", "update portfolio"],
+      "description": "Head back to her apartment to work on some personal projects, including updating her portfolio website"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["work on startup", "create content"],
+      "description": "Continue working on her startup's marketing campaign, which involves creating social media content and graphics"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["exercise", "yoga"],
+      "description": "Take a short break to exercise and do some yoga in the living room"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["cook dinner", "grocery shopping"],
+      "description": "Cook dinner with ingredients from the nearby Mercat de Sant Josep (La Boqueria Market)"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["photography", "enjoy city view"],
+      "description": "Spend time practicing her photography skills by taking photos of Barcelona's cityscape at sunset"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["relax", "watch TV"],
+      "description": "Wind down and watch a Spanish TV show before going to bed"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["bedtime routine"],
+      "description": "Get ready for bed, feeling content after a productive day"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Akira Matsuda",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan (Tokyo)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who recently moved back to Tokyo after living abroad for three years. She's still adjusting to life in the city, but loves exploring its cafes and boutiques.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:30",
+      "endTime": "06:00",
+      "activities": ["wake up", "alarm"],
+      "description": "Wake up to the sound of her phone's alarm, which she set on her bedside table"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["morning routine", "brush teeth", "wash face"],
+      "description": "Roll out of bed and head to the bathroom to start her morning routine"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["make tea", "enjoy on balcony", "plan day"],
+      "description": "Make a cup of green tea in the kitchen, which she takes back to her small balcony to enjoy while planning out her day"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["respond to emails", "freelance work"],
+      "description": "Respond to a few urgent emails from clients as a freelancer"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["pack lunch", "commute preparation"],
+      "description": "Pack a lunch and snacks for her daily commute on the Tokyo Metro"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute", "train"],
+      "description": "Commute to a meeting at a design studio in Shibuya, which is about an hour away by train"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["meeting", "networking", "presentation"],
+      "description": "Attend a conference with potential new clients at the Tokyo Metropolitan Government Building"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["meeting", "client work", "design"],
+      "description": "Meet with another client to discuss ongoing projects, which involves reviewing design concepts"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["lunch", "ramen"],
+      "description": "Take a lunch break at a small cafe near the studio and enjoy some ramen noodles"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["administrative tasks", "schedule planning"],
+      "description": "Return to her own workspace (a shared office in Shinjuku) to tackle administrative tasks and organize her schedule for the next few days"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["call friend", "catch up", "plan dinner party"],
+      "description": "Call her best friend, Yumi, to catch up on gossip and discuss plans for an upcoming dinner party"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["design community", "meeting", "share ideas"],
+      "description": "Attend a meeting of a design community group at a trendy cafe in Harajuku, which involves discussing projects and sharing ideas with fellow creatives"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["respond to emails", "update project management"],
+      "description": "Wrap up her work for the day by responding to any remaining emails and updating her project management software"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["read book", "wind down"],
+      "description": "Wind down before bed by reading a book on her tablet in bed"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Doze off finally, still clutching her phone for some reason"
+    }
+  ]
+}

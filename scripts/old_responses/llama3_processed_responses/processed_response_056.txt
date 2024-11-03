@@ -1,0 +1,88 @@
+{
+  "name": "Maya Singh",
+  "gender": "Female",
+  "age": 27,
+  "location": "India (Mumbai)",
+  "job": "Freelance Writer",
+  "backstory": "Maya is a freelance writer and a single mother to her 4-year-old daughter, Rohini. She moved back to her hometown of Mumbai from London two years ago to take care of her family.",
+  "schedule": [
+    {
+      "startTime": "05:45",
+      "endTime": "06:15",
+      "activities": ["wake up", "dance party with daughter"],
+      "description": "Wake up to the sound of Rohini singing in her room, followed by a 30-minute wake-up dance party"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["meditation", "drink chai"],
+      "description": "Quick meditation session on the balcony while sipping steaming hot chai"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["cook breakfast", "get daughter ready for school"],
+      "description": "Cook breakfast for Rohini (today it's poha and scrambled eggs) and get her ready for school"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["phone call", "drop off daughter"],
+      "description": "Take a quick phone call to confirm today's writing deadline with a client, while juggling Rohini's backpack and lunchbox. Then drop off Rohini at school."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["exercise", "work on writing project"],
+      "description": "Take a short walk around the block to get some fresh air and exercise. Then spend two hours working on a writing project for a popular Indian magazine, researching and drafting an article about sustainable living."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "activities": ["work on writing project"],
+      "description": "Continue working on the writing project for the magazine."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch break", "order food"],
+      "description": "Take a lunch break and order some chicken biryani from her favorite restaurant for delivery."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["client meeting"],
+      "description": "Attend a meeting with potential clients to discuss future collaborations and projects."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["respond to emails", "manage social media"],
+      "description": "Spend an hour responding to emails, updating her website, and managing social media accounts for her writing business."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "activities": ["pick up daughter", "help with homework"],
+      "description": "Pick up Rohini from school and head back home for snacks and homework help."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["cook dinner", "make plans"],
+      "description": "Cook dinner (tonight it's palak paneer) while making plans with friends for a movie night later tonight."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:15",
+      "activities": ["bedtime routine with daughter"],
+      "description": "Spend quality time with Rohini, reading her favorite bedtime story, and getting her ready for bed."
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:59",
+      "activities": ["relax", "read", "listen to music"],
+      "description": "Finally sit down to relax and unwind after a busy day, curl up with a book or some calming music."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+Let's create a character.
+
+Name: Kaitlyn Thompson
+Gender: Female
+Age: 27
+Location: Ireland (specifically, Dublin)
+
+Backstory: Kaitlyn grew up in a small town on the west coast of Ireland. After completing her degree in environmental science, she moved to Dublin for work and has been living there ever since.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wake up to the sound of her phone's alarm blaring, set to the song "River Flows in You" by Yiruma
+
+Time: 06:15 AM
+Activity: Roll out of bed and stumble to the kitchen to make a cup of coffee using the French press method
+
+Time: 06:30 AM
+Activity: Spend some time meditating on the balcony, taking in the early morning light and sounds of the city
+
+Time: 07:00 AM
+Activity: Head to the gym for a quick morning workout, trying to get in some yoga and weightlifting before the day gets busy
+
+Time: 08:15 AM
+Activity: Shower and get dressed in her work attire – a crisp white blouse and black trousers – feeling somewhat put together despite the chaos of the previous night's party (which she managed to sneak out of by midnight)
+
+Time: 09:00 AM
+Activity: Arrive at her job as an environmental consultant, sipping on a coffee while checking emails on her phone
+
+Time: 10:30 AM
+Activity: Attend a meeting with clients from the government sector, discussing sustainable waste management strategies for urban areas
+
+Time: 12:30 PM
+Activity: Take a lunch break and walk to a nearby cafe to grab some lunch – a vegetarian quiche and a side salad
+
+Time: 01:45 PM
+Activity: Spend some time working on her current project, analyzing data related to greenhouse gas emissions in the transportation sector
+
+Time: 03:30 PM
+Activity: Take a short break to stretch and grab another cup of coffee from the office kitchen
+
+Time: 04:15 PM
+Activity: Attend a team meeting to discuss ongoing projects and brainstorm ideas for new initiatives
+
+Time: 05:45 PM
+Activity: Head out for some fresh air, taking a walk along the River Liffey with her friend Claire to catch up on each other's lives
+
+Time: 07:00 PM
+Activity: Return home and spend some time preparing dinner – a simple stir-fry with vegetables from her garden
+
+Time: 08:30 PM
+Activity: Relax in front of the TV with her cat, Luna, watching an episode of "Schitt's Creek"
+
+Time: 09:45 PM
+Activity: Start winding down for bed, taking some deep breaths and feeling grateful for the day's experiences
+
+Time: 10:15 PM
+Activity: Head to bed, ready to face another day in Dublin.

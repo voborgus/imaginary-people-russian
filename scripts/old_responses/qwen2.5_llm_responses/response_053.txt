@@ -1,0 +1,43 @@
+Name: Liang Xiaofeng
+Gender: Male
+Age: 34
+Location: China
+Backstory: Liang Xiaofeng is a software engineer living in Beijing. He has been with the same tech company for over five years and enjoys spending his free time playing chess and traveling to nearby cities.
+
+Day:
+
+Time: 06:00
+Activity: Awakens after setting an alarm, stretches, and drinks water.
+
+Time: 06:30
+Activity: Brushes teeth and uses the restroom.
+
+Time: 07:00
+Activity: Jogs in a local park to start the day.
+
+Time: 08:15
+Activity: Commutes by subway to his office. Wears a dark green suit with a blue shirt, black shoes, and carries a laptop bag containing his work essentials.
+
+Time: 09:30
+Activity: Arrives at the company and starts his daily stand-up meeting with his team.
+
+Time: 10:00
+Activity: Meets a client for an urgent project update over video call from the conference room. Discusses progress on their ongoing software development project.
+
+Time: 12:30
+Activity: Takes lunch break and orders takeout from a nearby restaurant, choosing traditional Beijing cuisine. Eats in his office while checking emails.
+
+Time: 14:00
+Activity: Resumes work with coding and bug fixes. Uses the company's code repository for development tasks.
+
+Time: 17:30
+Activity: Leaves the office early as there are no more meetings or pressing deadlines. Walks home through a scenic part of Beijing, appreciating the city’s greenery on his way back.
+
+Time: 18:45
+Activity: Prepares dinner, which includes stir-fried vegetables and fish, using his favorite recipes passed down from family members.
+
+Time: 20:00
+Activity: Sits in front of a board game set up for a night with friends. Tonight, he’s hosting a small gathering at home where they will play chess.
+
+Time: 23:00
+Activity: Ends the evening by playing online chess against international players on his computer. Reflects on the day and feels content before going to bed.

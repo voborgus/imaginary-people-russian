@@ -1,0 +1,82 @@
+{
+  "name": "Alice",
+  "gender": "Female",
+  "age": 30,
+  "location": "United Kingdom",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Alice is a freelance graphic designer living in London. After graduating with an arts degree, she's made a career out of combining her creativity with practical skills, working from home to offer custom design services.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:30",
+      "activities": ["morning routine", "waking up", "drinking coffee", "showering", "breakfast"],
+      "description": "Alice wakes up, enjoys a black coffee, showers, and has a breakfast of porridge with berries, granola, and cinnamon"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["design work", "responding to emails"],
+      "description": "Alice dives into design software, working on client projects and responding to emails"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "activities": ["break", "tea", "podcast"],
+      "description": "Alice takes a break, enjoying herbal tea and listening to a podcast on the balcony"
+    },
+    {
+      "startTime": "10:45",
+      "endTime": "12:00",
+      "activities": ["design work", "creating mockups"],
+      "description": "Alice continues working on design projects, creating mockups for client websites"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "walk"],
+      "description": "Alice goes to a local cafe for a vegetarian sandwich on sourdough with avocado and sprouts"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["design work", "editing logos"],
+      "description": "Alice continues her design work, editing logos and working on design briefs"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["meeting", "community platform design"],
+      "description": "Alice meets with an online community platform to work on their new interface and user experience design"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["exercise", "yoga", "weightlifting"],
+      "description": "Alice goes to the gym for an hour of yoga and weight training"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["dinner", "socializing"],
+      "description": "Alice has a light dinner with friends from work at a local Italian restaurant"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["relaxation", "reading"],
+      "description": "Alice settles in at home with a novel and herbal tea, relaxing in the evening"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Alice goes to bed, ready for a restful night's sleep"
+    }
+  ]
+}

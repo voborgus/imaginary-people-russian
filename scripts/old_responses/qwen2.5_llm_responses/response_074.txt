@@ -1,0 +1,46 @@
+Name: Li Xiaowei
+Gender: Male
+Age: 34
+Location: China
+Backstory: Born and raised in a small town, Li Xiaowei moved to Beijing for university. After graduation, he found a job in the tech industry and now works as a software engineer.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up to an alarm set by his smartwatch, stretches, and looks out of the window at the city lights still bright from night owls.
+
+Time: 06:15
+Activity: Drinks a glass of water and heads to the bathroom for a quick morning shower.
+
+Time: 07:00
+Activity: Brushing teeth and getting ready for the day in his cozy bedroom with a view of the bustling city below.
+
+Time: 08:30
+Activity: Arrives at work, checks emails and updates on Slack before diving into today’s tasks. His workplace is in an open-plan office with numerous colleagues working in close proximity.
+
+Time: 12:30
+Activity: Takes a break from coding and enjoys a packed lunch of rice, vegetables, and stir-fried meat while chatting briefly with a colleague named Zhang Ming about the weekend plans.
+
+Time: 14:00
+Activity: Back to work after lunch. Collaborates on a project using a shared digital whiteboard during a team meeting.
+
+Time: 17:30
+Activity: Meets with his supervisor for a short discussion on project progress and future tasks for the next sprint.
+
+Time: 18:00
+Activity: Leaves the office to grab dinner at a local restaurant. Chooses a Sichuan-style dish known for its spicy flavors to mix things up from his usual order of stir-fried vegetables and chicken.
+
+Time: 20:30
+Activity: Returns home, logs onto an online streaming platform to watch a documentary about ancient Chinese history as he eats dinner.
+
+Time: 21:45
+Activity: Works on personal side projects or learns new programming languages in the evenings. Tonight, he is working on improving his Python skills.
+
+Time: 23:00
+Activity: Completes his day’s work and sends a final check-over of emails before locking up for the night.
+
+Time: 23:15
+Activity: Reads through some technical articles or watches tutorials to keep up with industry trends.
+
+Time: 00:45
+Activity: Finally settles into bed, reviews his day in his mind, and sets an alarm for the next morning.

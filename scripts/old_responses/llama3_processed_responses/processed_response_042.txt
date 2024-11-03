@@ -1,0 +1,88 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Guadalajara, Mexico",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emilia is a freelance graphic designer who moved to Guadalajara from Mexico City three years ago. She loves exploring her new city and trying local foods.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wake up to the sound of her alarm, a gentle tune that her phone plays every morning."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brush teeth and wash face with a refreshing splash of water."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:40",
+      "activities": ["meditation"],
+      "description": "Meditate for 10 minutes on her balcony, surrounded by the sounds of the city waking up."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["cook breakfast", "eat breakfast"],
+      "description": "Cook breakfast, today it's scrambled eggs with chorizo and toast."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["work on client project", "design logo"],
+      "description": "Start working on a project for a new client, designing a logo for a local bakery."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "meet friend", "eat tacos"],
+      "description": "Take a lunch break and meet a friend at a nearby taquería to try their famous tacos al pastor."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "18:00",
+      "activities": ["continue working on logo design", "take breaks"],
+      "description": "Continue working on the logo design, taking short breaks to grab a snack or stretch her legs."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["walk around the city"],
+      "description": "Finish work for the day and take a short walk around the city to clear her mind."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["meet colleague", "discuss new project"],
+      "description": "Meet up with a colleague at a nearby brewery to discuss a potential new project."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:15",
+      "activities": ["read book", "relax on balcony"],
+      "description": "Return home, exhausted but happy after a productive day. Spend some time reading a book on her balcony before bed."
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:00",
+      "activities": ["drink herbal tea", "reflect on day"],
+      "description": "Wind down with a cup of herbal tea and reflect on the events of the day."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:45",
+      "activities": ["sleep"],
+      "description": "Go to sleep, feeling satisfied with the progress she made today."
+    }
+  ]
+}

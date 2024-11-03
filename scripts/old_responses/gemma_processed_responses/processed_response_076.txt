@@ -1,0 +1,64 @@
+{
+  "name": "Sophia Garcia",
+  "gender": "Female",
+  "age": 27,
+  "location": "Argentina",
+  "job": "Photojournalist",
+  "backstory": "Sophia fled her small village in the Andes to pursue a career as a photojournalist in Buenos Aires. While she yearns for adventure and global impact, she finds solace in her connection to her ancestral lands, often exploring hidden corners of Argentina on weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "prayer", "meditation"],
+      "description": "Sophia's alarm goes off. She gently rises from her bed, the warmth radiating through the woven wool blanket covering her futon. After a brief morning prayer and meditation with a photo of her abuela, she opens the window to feel the fresh mountain air."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["breakfast", "mate", "empanadas", "review photos", "sketching"],
+      "description": "Sophia enjoys a light breakfast of homemade mate and empanadas filled with shredded beef. She spends some time reviewing photos from her last assignment in Bolivia, sketching potential stories about the indigenous communities' fight for land rights."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["shopping", "market", "flowers", "meet friend", "dog breed café"],
+      "description": "Sophia heads to the Mercado de Flores in Palermo, where she finds fresh produce from local farmers and buys flowers for a small project in a community center. She bumps into her old classmate, Diego, who introduces her to his new dog breed café just down the street."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "activities": ["photography", "portraits", "editing", "photo essay"],
+      "description": "Sophia visits her studio, where sunlight streams through the large window. Her camera lens captures the city's morning hustle as a line of commuters pass by in their colorful outfits. After shooting portraits at the nearby park, she begins editing the photos for a photo essay on gender equality in work and family life."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "asado", "discussion"],
+      "description": "Lunchtime! Sophia enjoys a traditional \"asado\" from a small food stall in Palermo woods with friends. They are discussing their latest travel plans after spending the last three hours discussing her photographic project about female entrepreneurship."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "20:00",
+      "activities": ["cemetery", "photography", "reading"],
+      "description": "Sophia walks through the Recoleta Cemetery, mesmerized by the ornate mausoleums and historical figures of Argentina's past. She spends time documenting its beauty for an upcoming exhibition at a local museum. She even discovers a small book titled \"Women in Argentine History\" from 1950s that she can't put down until night."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["family time", "dessert", "board games", "reading"],
+      "description": "Sophia settles down for the evening with her family, enjoying a glass of dulce de leche and homemade bread. They play board games before Sophia goes to sleep at 21:30, reading one last chapter from the history book she's been working through."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Sleep Time!"
+    }
+  ]
+}

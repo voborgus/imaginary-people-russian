@@ -1,0 +1,88 @@
+{
+  "name": "Lin Zhihao",
+  "gender": "Male",
+  "age": 30,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Lin Zhihao is a software engineer based in Beijing. He moved there after graduating from university, where he was passionate about technology and started developing his own projects on the side.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "get out of bed"],
+      "description": "Awakes gently to the sound of birds chirping outside his window, gets out of bed feeling refreshed after a good night's sleep."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushes teeth and washes face in the bathroom with lukewarm water, taking extra care with his electric toothbrush."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["prepare breakfast", "eat oatmeal", "drink tea", "listen to audiobook"],
+      "description": "Heads to the kitchen where he prepares a bowl of oatmeal with fruit and a cup of strong black tea for breakfast. Listens to an audiobook on modern algorithms while eating."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute to work", "read tech news"],
+      "description": "Commutes to work via subway, sitting in a quiet car reading the latest tech news from his phone."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["work on projects"],
+      "description": "Arrives at his office building and heads into the company lobby where he signs in. After taking the elevator to the fifth floor, he enters a spacious open-plan workspace with colleagues bustling about on their own projects."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "activities": ["take break", "have tea with colleagues"],
+      "description": "Takes a short break during work for tea with colleagues who are discussing the latest tech trends and startups."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["continue work", "tidy up"],
+      "description": "Wraps up his day, tidying his desk and saving all important documents. Logs out of his computer, saying goodnight to his team members as he leaves the office."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:15",
+      "activities": ["take walk in park"],
+      "description": "Walks to a nearby park for a brief walk, enjoying the afternoon sun and clear blue skies."
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:30",
+      "activities": ["grocery shopping", "cook dinner"],
+      "description": "Returns home after work, picks up some groceries from a local supermarket on his way back. Cooks dinner which consists of stir-fried vegetables and rice."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["work on personal projects", "read book"],
+      "description": "Sits down at his computer to continue working on personal side projects until he feels satisfied that the day's tasks are done. Reads a few chapters from a book about artificial intelligence, jotting down some notes in a small notebook beside him."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["prepare for bed"],
+      "description": "Prepares for bed, setting his phone to airplane mode and turning off all lights except the one on his nightstand."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Lies down in bed, thinking about upcoming projects at work, but soon drifts into a peaceful slumber."
+    }
+  ]
+}

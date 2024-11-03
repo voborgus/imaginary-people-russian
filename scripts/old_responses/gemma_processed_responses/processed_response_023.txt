@@ -1,0 +1,76 @@
+{
+  "name": "Emily Rodriguez",
+  "gender": "Female",
+  "age": 27,
+  "location": "United States of America",
+  "job": "Online Bookstore Employee",
+  "backstory": "Emily fled to the US from Argentina in search of a fresh start, hoping to escape her family's expectations and find a path towards her own dreams.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Emily wakes up to the sound of birds chirping outside her window. The smell of freshly brewed coffee wafts through the small apartment she shares with her roommate, Olivia. A wave of warm energy rushes into her as she starts her day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["breakfast", "podcast"],
+      "description": "Emily makes herself a quick breakfast of oatmeal and fruit before starting her morning routine. As she brushes her teeth, she listens to an upbeat Spanish podcast about current affairs in South America on the way out."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:00",
+      "activities": ["greet roommate", "breakfast discussion"],
+      "description": "She walks over to Olivia's room and greets her with a cheerful 'Good morning!'. Both take their usual seats at the breakfast table to enjoy their coffee while discussing their day plans."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["commute", "work", "coffee break"],
+      "description": "Emily leaves for work - an online bookstore, where she fulfills orders of literary treasures from all around the world. She takes a quick detour for her morning commute and grabs her usual chai latte at a cozy cafe, savoring the familiar warmth of the drink before settling into the rhythm of city traffic."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["work", "research", "browse"],
+      "description": "She finds herself immersed in the day's routine. She reviews customer orders, sorts emails from publishers and authors seeking book recommendations, and begins her next batch of book suggestions for customers, taking advantage of a short work break to browse online literary publications."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "read"],
+      "description": "Lunchtime! Emily enjoys a vegetarian sandwich and hummus from the local deli across the street. The city hums around her, but she finds solitude in the corner park where she reads for a few minutes before heading back to work."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "18:00",
+      "activities": ["work", "emails", "research"],
+      "description": "Back at work, Emily gets lost in the world of words as customers place orders for their next literary adventure. She spends her afternoon responding to emails, managing customer requests, and researching potential authors for a new literary column she's been working on."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["commute", "relax", "read"],
+      "description": "The sun sets casting a golden hue upon the city. Emily wraps up work at 6 PM, leaving a trail of neatly packed orders and fulfilling emails behind her. She heads towards the vibrant local park to enjoy some fresh air and unwind after a long day of immersing herself in literature."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["read", "relax"],
+      "description": "She sits under a tree and enjoys the cool evening breeze while reading a captivating novel from her favorite author, feeling a profound connection to the world through words as she closes the book for the night."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["bath", "tea", "music"],
+      "description": "Emily takes a warm bath, allowing herself to relax after the day's challenges and unwind before settling into bed with a cup of calming chamomile tea. She listens to a relaxing Spotify playlist and stares at the starlit sky."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["sleep"],
+      "description": "As sleep slowly beckons, Emily feels a sense of accomplishment for completing another day in her own unique way."
+    }
+  ]
+}

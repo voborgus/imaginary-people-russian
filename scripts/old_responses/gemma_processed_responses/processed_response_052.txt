@@ -1,0 +1,70 @@
+{
+  "name": "Anya Petrovna",
+  "gender": "Female",
+  "age": 28,
+  "location": "Tallinn, Estonia",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Anya is a freelance graphic designer, traveling the world to take on diverse projects. She's known for her vibrant art and playful aesthetic.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "make breakfast"],
+      "description": "Waking up with a gasp of morning light streaming through the thin blinds. Anya stretches lazily, feeling the cool air against her skin. She turns on her bedside lamp, grabs a glass of water, and heads for the kitchen, humming to herself as she prepares her favorite breakfast - oatmeal with dried apricots and cinnamon."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["check emails", "send messages to clients", "brew coffee"],
+      "description": "The soft click-clack of keyboard sounds fill the room as Anya checks emails and sends messages to clients for upcoming deadlines. Her morning coffee brewing in a french press, adding a touch of earthy sweetness."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:30",
+      "activities": ["walk through Tallinn", "enjoy coffee and croissant", "feel creative spark"],
+      "description": "Walking through the vibrant streets of Tallinn, she stops by a quaint café to enjoy her usual black coffee with a croissant. The crisp air invigorates her, and the morning chatter around her adds to the atmosphere. Anya feels a creative spark ignite within, ideas flowing like water in an underground stream."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["work on design project", "sketch new mural"],
+      "description": "Working from her home studio, surrounded by sketches and paints. Anya dives into sketching new project designs - a vibrant mural she intends to create in Berlin's newest urban park. She'll visit the location tomorrow for a closer look."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch at local market", "enjoy traditional rye and herring"],
+      "description": "Lunchtime! A quick stop at a local market stalls, filled with fresh produce and artisanal bread. Anya savors her traditional rye loaf and tangy herring salad - the familiar taste of home amidst a whirlwind journey."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:30",
+      "activities": ["work on book cover design", "brainstorm ideas"],
+      "description": "Back to the studio, Anya spends hours brainstorming and sketching out designs for an upcoming book cover for a young author she met during a conference in Paris. She's intrigued by the raw potential within her work."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["evening walk", "observe harbor"],
+      "description": "Evening walks through the city, where the sun casts long shadows, painting everything with golden hues. Anya relishes the quietude of dusk as she observes the bustling harbor with its majestic silhouette."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["enjoy herbal tea", "listen to podcast"],
+      "description": "A warm evening cup of herbal tea, Anya listens to a podcast about street art and culture while she relaxes. The gentle sway of her chair becomes a silent dance between her body and thoughts."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "00:00",
+      "activities": ["prepare for sleep", "stare at starry sky"],
+      "description": "Settling into bed, with the soft glow of lamps illuminating her room, Anya begins to drift away. She stares at the starry sky through the window, her mind replaying the events of the day while a quiet hum fills her ears as she prepares for tomorrow's adventures."
+    }
+  ]
+}

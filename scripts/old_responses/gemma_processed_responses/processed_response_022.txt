@@ -1,0 +1,58 @@
+{
+  "name": "Maya Sharma",
+  "gender": "Female",
+  "age": 27,
+  "location": "Nepal",
+  "job": "Freelance Travel Writer",
+  "backstory": "Maya is a freelance travel writer, spending her days exploring the diverse landscapes and cultures of Nepal.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:30",
+      "activities": ["wake up", "drink tea", "do stretches", "listen to chants", "respond to emails"],
+      "description": "Maya wakes up at sunrise with a cup of steaming Darjeeling tea in hand, enjoying the tranquil serenity of the Himalayan peaks reflected on the glass window. She practices a few stretches and listens to some calming Buddhist chants before diving into her daily email, responding to potential clients and fellow writers for her upcoming travel blog post about the remote villages of Dolpo."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:30",
+      "activities": ["shower", "cook breakfast", "talk to mom"],
+      "description": "After a quick shower, Maya prepares a traditional Nepali breakfast - aloo-aloo roti (savory potato flatbread) with fermented soybean paneer and chai tea. Her mom calls in to chat about their family's upcoming trip to visit the Lumbini birth place of Siddhartha Gautam and asks if she can join."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["read travel journal", "write blog ideas"],
+      "description": "Maya reads through her travel journal, jotting down ideas for a new blog on cultural immersion experiences in Nepal. She's intrigued by the stories of ancient communities who use traditional crafts like weaving to preserve their heritage."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["edit photos", "share insights online"],
+      "description": "At work, Maya is editing photos from her latest trek through the Annapurna Region. Her laptop is constantly connected to a Wi-Fi network, allowing her to share insights about Nepal's breathtaking natural beauty online with her growing audience of followers and travel enthusiasts."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["eat lunch", "research travel destinations"],
+      "description": "Lunch consists of dal bhat, a classic Nepali staple - lentils cooked with rice, alongside pickle and salad. It's followed by an hour dedicated to researching potential destinations for upcoming travel articles, keeping up-to-date on current trends in the global travel scene."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["learn calligraphy", "explore Kathmandu"],
+      "description": "A quick dip into the local teahouse, Maya joins a group of fellow writers and tourists to learn basic Tibetan calligraphy - she's captivated by the intricate symbols that represent their stories. After an afternoon of work and exploring the vibrant Kathmandu's artistic scene, Maya goes for a scenic hike in Swayambhunath Stupa, visiting the monkey temple to watch the mesmerizing sunset over the Kathmandu Valley."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "activities": ["prepare dinner", "read folklore", "listen to music"],
+      "description": "Back at home, Maya prepares a warm bowl of dal tadka and basmati rice with freshly picked vegetables from her kitchen garden. She relaxes with a book of Nepali folklore, before ending her day listening to soothing Tibetan chants and reflecting on the beautiful tapestry of life in Nepal."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["sleep"],
+      "description": "Lights out. Maya dreams of exploring new trails and encountering diverse cultures across the Himalayan nation."
+    }
+  ]
+}

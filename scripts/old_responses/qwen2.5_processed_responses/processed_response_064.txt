@@ -1,0 +1,76 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer working in the heart of Beijing. He moved to the city from a small town when he was 18 and has been thriving professionally ever since. His weekends are dedicated to coding challenges and spending time with friends.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wakes up", "stretches"],
+      "description": "Wakes up, stretches in his cozy apartment."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["shower", "brush teeth", "get dressed"],
+      "description": "Takes a leisurely shower, brushes teeth, and gets dressed for work."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute", "subway"],
+      "description": "Walks to the subway station and commutes to his office in the CBD area of Beijing."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["coding", "project work"],
+      "description": "Arrives at work; starts coding on a new project."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "order food"],
+      "description": "Takes lunch break, orders food from a nearby restaurant via an app."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["work", "team meeting"],
+      "description": "Resumes work after lunch; participates in a team meeting with colleagues from different departments."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["workshop", "emerging technologies"],
+      "description": "Attends a workshop on emerging technologies hosted by his company."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["leave office", "coding challenge", "meetup"],
+      "description": "Leaves office, heads to a coding challenge meetup for enthusiasts."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["coding challenge", "dinner with friends"],
+      "description": "Participates in the coding challenge event; solves problems with like-minded individuals."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:45",
+      "activities": ["dinner", "personal projects"],
+      "description": "Dines at a restaurant with friends who joined him for dinner after the challenge. Walks back home, spends some time on his personal projects before bed."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "01:00",
+      "activities": ["bedtime", "sleep"],
+      "description": "Lights out and prepares to sleep."
+    }
+  ]
+}

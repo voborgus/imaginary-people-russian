@@ -1,0 +1,88 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 25,
+  "location": "Australia (Sydney)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Kaitlyn is a freelance graphic designer who moved to Sydney from Melbourne two years ago to pursue new opportunities. She loves exploring the city and trying out new cafes and restaurants with her friends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up to the sound of seagulls outside her apartment window in Bondi Beach, stretch, and yawn"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face", "get dressed"],
+      "description": "Brush teeth, wash face, and get dressed for a day of client work"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make coffee", "make toast with avocado"],
+      "description": "Head to the kitchen to make herself a flat white coffee and toast with avocado spread (her go-to breakfast combo)"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:30",
+      "activities": ["respond to emails", "work on design project"],
+      "description": "Start responding to emails from clients and working on her current design project, which is a logo redesign for a small business"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:15",
+      "activities": ["have lunch", "walk to cafe", "eat sushi"],
+      "description": "Take a lunch break and walk down to the beach to grab some sushi at her favorite cafe"
+    },
+    {
+      "startTime": "13:15",
+      "endTime": "16:00",
+      "activities": ["continue design work", "take social media break"],
+      "description": "Continue working on her design project and take a short break to scroll through social media"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["finish work", "meet friend", "get coffee"],
+      "description": "Finish up work for the day and meet a friend for coffee at a new cafe in Surry Hills (a popular suburb)"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["catch up with friend", "chat about life"],
+      "description": "Spend the next hour catching up with her friend over coffee and chatting about their lives"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["make dinner", "eat dinner", "relax"],
+      "description": "Head home, change into comfy clothes, and start making dinner (tonight's menu is pasta with cherry tomatoes and basil)"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["watch TV show", "check phone"],
+      "description": "Watch a TV show on Netflix while eating dinner and occasionally checking her phone for any work messages or social media updates"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:45",
+      "activities": ["read book", "wind down"],
+      "description": "Wind down before bed by reading a chapter in a book (she's currently re-reading \"The Hate U Give\" by Angie Thomas)"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "24:00",
+      "activities": ["get ready for bed", "say goodnight", "sleep"],
+      "description": "Get ready for bed, say goodnight to her flatmate, and crawl into bed with a contented sigh"
+    }
+  ]
+}

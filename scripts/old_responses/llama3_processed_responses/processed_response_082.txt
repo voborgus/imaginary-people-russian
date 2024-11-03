@@ -1,0 +1,94 @@
+{
+  "name": "Maya Singh",
+  "gender": "Female",
+  "age": 28,
+  "location": "India (Mumbai)",
+  "job": "Software Engineer",
+  "backstory": "Maya is a software engineer who moved to Mumbai after completing her engineering degree in Delhi. She enjoys trying out new restaurants and cafes, but often finds herself stuck in traffic on her way home from work.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:45",
+      "endTime": "06:00",
+      "activities": ["meditation"],
+      "description": "Woke up early to meditate for 15 minutes before starting the day"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "activities": ["morning routine", "workout"],
+      "description": "Brushed teeth and got ready for a quick workout at the local park"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["yoga", "exercise"],
+      "description": "Exercised outdoors, doing yoga poses to get her blood flowing"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["grooming", "commute"],
+      "description": "Showered and dressed in casual attire, heading out to meet friends for breakfast at a nearby café"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["breakfast", "socializing"],
+      "description": "Had a delightful breakfast with friends, discussing the latest Bollywood movie releases"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["commute"],
+      "description": "Headed to work, taking a crowded local train (known as a \"suburban\") from Andheri station to Lower Parel"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "activities": ["work", "collaboration"],
+      "description": "Started work on a new project, collaborating with her team to implement an e-commerce platform for a well-known clothing brand"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "activities": ["lunch", "break"],
+      "description": "Took a lunch break and met up with colleagues at the in-house canteen for some delicious thalis (a traditional Indian meal plate)"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "activities": ["work", "coding"],
+      "description": "Resumed work, focusing on fixing bugs in the existing codebase to ensure smooth user experiences"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:45",
+      "activities": ["commute", "relax"],
+      "description": "Wrapped up work for the day and headed home via another crowded local train ride"
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:30",
+      "activities": ["dinner", "family time"],
+      "description": "Had dinner with her family at their apartment in Bandra, discussing the day's events and sharing stories about Maya's childhood"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["reading", "relaxation"],
+      "description": "Relaxed on her balcony, enjoying a quiet evening of reading and listening to soothing music"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "24:00",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Got ready for bed, practicing gentle stretches before drifting off to sleep"
+    }
+  ]
+}

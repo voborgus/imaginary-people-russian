@@ -1,0 +1,94 @@
+{
+  "name": "Lin Yun",
+  "gender": "Male",
+  "age": 30,
+  "location": "Shanghai, China",
+  "job": "Tech Entrepreneur",
+  "backstory": "Lin Yun is a tech entrepreneur who runs a successful e-commerce startup. He moved to Shanghai several years ago with dreams of making his mark in the technology industry and now balances work with personal hobbies like photography.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:05",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up slowly, stretches in bed, checks phone for any important messages or emails from his team"
+    },
+    {
+      "startTime": "07:05",
+      "endTime": "07:20",
+      "activities": ["bathroom routine", "brush teeth", "wash face", "drink water"],
+      "description": "Goes to the bathroom, brushes teeth, washes face, drinks a glass of water"
+    },
+    {
+      "startTime": "07:20",
+      "endTime": "08:00",
+      "activities": ["make tea", "check news"],
+      "description": "Makes himself a cup of green tea with honey, sips while checking the news on his phone"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["morning walk"],
+      "description": "Takes a short morning walk around the neighborhood to clear his head and get some sunlight"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:30",
+      "activities": ["photography", "photography editing"],
+      "description": "Returns home, takes out his camera, and spends an hour taking photos of the city skyline at sunrise. Adjusts settings on his phone for optimal photography"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:15",
+      "activities": ["photo editing", "post photos"],
+      "description": "Edits the morning's photographs using editing apps, posting some online to share with friends and followers"
+    },
+    {
+      "startTime": "10:15",
+      "endTime": "11:30",
+      "activities": ["review reports", "email supplier", "team meeting"],
+      "description": "Logs into his company's management platform to review daily sales reports. Discovers an upcoming supply issue and sends a quick email to his supplier for updates. Meets virtually with his team to discuss project progress, addressing any delays or concerns"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "activities": ["commute to office"],
+      "description": "Leaves home for the office in Pudong District. Commutes by subway during rush hour"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:45",
+      "activities": ["work at office", "client meeting"],
+      "description": "Arrives at his office and gets settled into the day's work. Meets with key stakeholders to discuss upcoming product launches and marketing strategies. Attends a client meeting in the conference room, discussing partnership opportunities for their startup"
+    },
+    {
+      "startTime": "14:45",
+      "endTime": "16:00",
+      "activities": ["commute home", "jog"],
+      "description": "Returns home after finishing his meetings for the day. Jogs lightly around the park to relieve stress before returning home"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:15",
+      "activities": ["grocery shopping", "cook dinner"],
+      "description": "Buys ingredients at a local market, picks up some fresh vegetables and a few meats for dinner tonight. Cooks a simple meal of stir-fried vegetables and meat. Sits down to eat, enjoying the quiet after a busy day"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "22:00",
+      "activities": ["photo editing", "social media", "journal"],
+      "description": "Edits photographs again from his morning walk, posting more on social media. Leaves feedback for some clients and prepares for tomorrow's meetings. Takes a warm bath to unwind before bed. Jots down notes in his journal about today's events and any ideas that pop up during this quiet time. Reads through his favorite photography books, which he brought home for inspiration"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Brushes teeth, washes face one last time, tucks himself into bed. Lays awake for a few moments reviewing the day's successes and planning tomorrow's challenges before finally drifting off to sleep"
+    }
+  ]
+}

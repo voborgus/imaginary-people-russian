@@ -1,0 +1,76 @@
+{
+  "name": "Kaitlyn \"Kai\" Thompson",
+  "gender": "Female",
+  "age": 25,
+  "location": "Australia (Sydney, New South Wales)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Kai is a freelance graphic designer who recently moved back to Sydney after living in Melbourne for three years. She's passionate about photography and trying new cafes.",
+  "schedule": [
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Woke up to the sound of seagulls outside her apartment window and stretched her arms before getting out of bed."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["make coffee", "brew with french press", "add cinnamon"],
+      "description": "Headed to the kitchen to make herself a cup of coffee, which she brewed using her French press. She added a dash of cinnamon for extra flavor."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["check emails", "respond to client"],
+      "description": "Sat down at her desk with her laptop and checked her emails. Had a response from one of her clients, who needed some design revisions by the end of the day."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["meet friend", "catch up", "avocado toast", "flat whites"],
+      "description": "Met up with her best friend Emily at a trendy cafe in the Inner West to catch up over avocado toast and flat whites. They chatted about everything from their jobs to Kai's plans for her next photography project."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["work on design revisions", "adobe creative suite"],
+      "description": "Returned home to work on her client's design revisions. Spent an hour perfecting the layout and adding some subtle visual effects using Adobe Creative Suite."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "korean bbq taco"],
+      "description": "Took a break to grab lunch at her favorite food truck, which served delicious Korean BBQ. Had a beef bulgogi taco that hit the spot."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["photography", "bondi beach"],
+      "description": "Went for a walk along Bondi Beach with her camera gear slung over her shoulder. Tried to capture some artistic shots of the waves and the sun-kissed beachgoers."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["meet potential client", "present design concepts"],
+      "description": "Met up with a potential new client at a co-working space in Surry Hills. Discussed their branding needs and presented some design concepts for their consideration."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "activities": ["make snack", "watch netflix", "unwind"],
+      "description": "Headed home to unwind after a long day. Made herself a snack of hummus and veggie sticks, which she enjoyed while watching the sunset over Sydney Harbour on Netflix."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["take bath", "relax"],
+      "description": "Started winding down by taking a relaxing bath with some calming essential oils. Let her mind drift away from work-related thoughts."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Got into bed feeling grateful for another fulfilling day in this beautiful city. Drifted off to sleep with the sound of seagulls outside her window still echoing in her mind."
+    }
+  ]
+}

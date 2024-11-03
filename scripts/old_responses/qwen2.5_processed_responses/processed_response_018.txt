@@ -1,0 +1,82 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 34,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Li Ming is a software engineer working at a tech company in the heart of Beijing. He enjoys hiking and traveling during his free time to unwind from the fast-paced city life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up and stretches, feeling the morning chill through the slightly open window in his apartment."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brew tea", "breakfast"],
+      "description": "Brews a pot of strong Chinese herbal tea for breakfast."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["commute", "walk", "observe"],
+      "description": "Walks to the nearby subway station, passing by a park where elderly people are already practicing tai chi and qigong."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["work", "coding"],
+      "description": "Arrives at work. Takes a seat in his cubicle, logs into his computer, and begins his daily routine of coding."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "discuss"],
+      "description": "Takes a lunch break with colleagues. They discuss the latest tech trends and upcoming projects over sandwiches from a nearby restaurant."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["work", "project"],
+      "description": "Returns to work after lunch and continues working on project deadlines until it's time for his midday walk."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:30",
+      "activities": ["walk", "break"],
+      "description": "Goes out for a short walk around the office building complex, admiring the autumn leaves and enjoying a brief respite from screens."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "21:00",
+      "activities": ["social", "beer", "discuss"],
+      "description": "Rejoins colleagues for an after-work beer at a nearby bar. They discuss upcoming travel plans while sipping pints."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["commute", "observe"],
+      "description": "Heads back home, passing by the bustling street markets with vendors selling all sorts of goods from clothes to local delicacies."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:30",
+      "activities": ["cook", "dinner"],
+      "description": "Arrives home and begins preparing dinner. He cooks traditional Chinese dishes like stir-fried vegetables and rice."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "01:00",
+      "activities": ["relax", "watch", "pet"],
+      "description": "After a satisfying meal, he sits on the couch with his dog, watching an episode of a documentary about wildlife conservation in a faraway land."
+    }
+  ]
+}

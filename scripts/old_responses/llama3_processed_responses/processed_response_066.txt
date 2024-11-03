@@ -1,0 +1,76 @@
+{
+  "name": "Leila Ali",
+  "gender": "Female",
+  "age": 27,
+  "location": "Morocco",
+  "job": "Photographer",
+  "backstory": "Leila is a Moroccan woman who grew up in a small village on the outskirts of Marrakech. She moved to the city a few years ago to pursue a career in photography and now runs her own small business, taking tourists on photo walks around the medina.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "heard azan"],
+      "description": "Woke up to the sound of the azan (call to prayer) from the nearby mosque"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:30",
+      "activities": ["breakfast", "mint tea"],
+      "description": "Had a quick breakfast of freshly baked bread and sweet pastries with mint tea, served by her neighbor, Mrs. Khalid"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "activities": ["photography", "jardin secret"],
+      "description": "Headed out to take photos in the Jardin Secret (Hidden Garden), one of her favorite spots in Marrakech to capture some early morning light"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["met tourists", "planned photo walk"],
+      "description": "Arrived at the Café des Épiciers, a small café near the Bahia Palace, where she met with a group of tourists who were interested in hiring her for a photo walk later that day"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "activities": ["photography", "medina"],
+      "description": "Began taking photos around the medina, capturing scenes and portraits of local people going about their daily lives"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "tagine"],
+      "description": "Took a break to grab lunch at a street food stall near the Souk Semmarine, where she enjoyed some delicious tagine chicken with couscous and vegetables"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["photography", "medina"],
+      "description": "Resumed her photo walk, exploring the narrow alleys of the medina and taking photos of the intricate tiles and carvings that adorned the buildings"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["editing", "social media"],
+      "description": "Finished up her photo shoot for the day and headed back to her small studio in the riad (traditional Moroccan house with an interior garden) to edit her photos and select the best ones to share on social media"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["relaxing", "tea", "socializing"],
+      "description": "Took a break to enjoy a cup of mint tea and chat with some friends who had stopped by for a visit"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["work", "bedtime routine"],
+      "description": "Finished up any remaining work for the evening and began getting ready for bed, feeling grateful for another day spent doing what she loves"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

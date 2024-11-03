@@ -1,0 +1,64 @@
+{
+  "name": "Maya Patel",
+  "gender": "Female",
+  "age": 27,
+  "location": "Mumbai, India",
+  "job": "Cafe Worker, Street Photographer",
+  "backstory": "Maya is a passionate street photographer who works part-time at an Indian cafe to support her artistic pursuits.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["wake up", "drink chai"],
+      "description": "Maya's alarm rings, but she doesn't stir yet. Sunlight streams through the slightly open blinds, and the sound of Mumbai's morning bustle begins filtering in. A sip of warm chai brings her back to reality. She steps out onto her balcony and breathes in the early morning air, feeling a burst of energy."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["make breakfast", "spend time with grandmother"],
+      "description": "Maya starts making roti and omelets for herself and her grandmother. She enjoys their daily ritual of preparing breakfast together while catching up on life's little events."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["photography", "capture street scenes"],
+      "description": "Maya heads to the rooftop space at the cafe where she finds inspiration. The city is awash in a kaleidoscope of colors - the vibrant hues of traditional clothes, the bustle of auto-rickshaws, the early morning light on the Bombay skyline – and it feeds her creativity. She clicks photos of street vendors selling spices and flowers, a group of men playing Kabbadi on the street."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "14:00",
+      "activities": ["work at cafe", "serve customers"],
+      "description": "The cafe begins to fill with customers, each seeking their daily dose of chai and samosas. Maya takes over the cash counter, her familiar routine serving as a comforting balm. She manages to greet and engage every customer who walks in, her warm demeanor creating an inviting atmosphere."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "activities": ["lunch break", "enjoy chai and puri"],
+      "description": "A quick lunch break at the cafe. Maya savors her mom's special chai and puri. The hum of conversation with regulars, interspersed with news on the radio, adds a vibrant pulse to the afternoon. She catches glimpses of a young couple taking pictures by a fountain in the nearby park, fueling her artistic spirit even more."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "20:00",
+      "activities": ["edit photos", "plan exhibition", "drink chai"],
+      "description": "Maya starts editing photos from the day's shoot and planning for her upcoming exhibition. She uses her laptop with a cup of masala chai at hand, lost in thought as she sees how light plays across the city. Her creative energy spills onto the pages of her notes as she gathers ideas for her photography project."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["relax on balcony", "drink tea", "eat mango cake"],
+      "description": "Maya gets back to her apartment, settling down on her balcony with a cup of masala tea and a slice of mango cake. The sounds of Mumbai at night fill the air - car horns blending into the soothing hum of the city's energy. She feels content and exhausted after a busy day filled with work, art, and life's little joys."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:59",
+      "activities": ["read book", "sleep"],
+      "description": "Maya settles down for the night reading an inspiring book before falling asleep under the starry sky. The rhythmic sound of Mumbai's city symphony washes over her, a testament to the life she is creating within its boundaries."
+    }
+  ]
+}

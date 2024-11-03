@@ -1,0 +1,82 @@
+{
+  "name": "Akira Patel",
+  "gender": "Female",
+  "age": 28,
+  "location": "Mumbai, India",
+  "job": "Freelance Writer and Editor",
+  "backstory": "Akira is a freelance writer and editor who moved back to her hometown in Mumbai after completing her education in New York. She enjoys writing about social issues and experimenting with vegan recipes.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["woke up", "received text from friend"],
+      "description": "Woke up to the sound of her phone buzzing, indicating an early morning text from her best friend"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["meditation", "breathing exercises", "visualization"],
+      "description": "Got out of bed and started her daily meditation routine, focusing on breathing exercises and visualization techniques"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["made coffee", "read paper"],
+      "description": "Made a cup of strong filter coffee using freshly ground Arabica beans and headed to the rooftop for some quiet time with her morning paper"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["research", "outline writing"],
+      "description": "Wrapped up her meditation session and started getting ready for a writing gig at a local startup incubator. She spent about an hour researching and outlining potential angles for the day's article"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "11:30",
+      "activities": ["met with team", "wrote article"],
+      "description": "Headed to the incubator in Bandra, where she met with a team of social entrepreneurs working on sustainable agriculture projects"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "activities": ["ate dosa", "drank chai", "discussed local cuisine"],
+      "description": "Took a break from writing and joined her friends at a street food stall for some dosas and chai. She enjoyed a short conversation about the importance of preserving local cuisines"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "15:00",
+      "activities": ["wrote article", "climate change"],
+      "description": "Returned to the incubator and spent most of the afternoon working on an in-depth feature piece about climate change resilience strategies"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["yoga", "herbal tea", "book recommendations"],
+      "description": "Took another break, this time to attend a yoga class with a colleague at a studio near her home. They discussed recent book recommendations over a cup of herbal tea after class"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "activities": ["dinner with family"],
+      "description": "Wrapped up her writing assignments and headed back home for an early dinner with her family"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:45",
+      "activities": ["watched TV", "cooked vegan recipe"],
+      "description": "Enjoyed a quiet evening watching TV and experimenting with a new vegan recipe, using locally sourced eggplant as the main ingredient"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:30",
+      "activities": ["journaling", "planning next day"],
+      "description": "Wrote in her journal, reflecting on the day's experiences and accomplishments. She planned to work on the article again tomorrow morning before meeting up with friends for brunch"
+    }
+  ]
+}

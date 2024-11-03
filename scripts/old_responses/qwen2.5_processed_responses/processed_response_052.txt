@@ -1,0 +1,94 @@
+{
+  "name": "Lin Xiaowei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Lin Xiaowei is a software engineer working in a large tech company. He enjoys spending his evenings with his family and playing video games on the weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "stretching"],
+      "description": "Wakes up to the sound of an alarm clock, stretches and begins his morning routine"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["tea", "reading news"],
+      "description": "Makes himself a cup of strong black tea and reads the news while sipping it"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a quick shower and gets dressed for work"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute", "coffee"],
+      "description": "Walks to the subway station, grabs a coffee from the nearby cafe on his way down"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work", "emails", "meetings"],
+      "description": "Arrives at the office and begins checking emails and preparing for today's meetings"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["lunch", "socializing"],
+      "description": "Takes a lunch break by ordering takeout food from a local restaurant, sits in the small office kitchen to eat while catching up with colleagues"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "18:00",
+      "activities": ["work", "project tasks"],
+      "description": "Returns to his desk, continues working on project-related tasks"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["meeting", "commute"],
+      "description": "Attends a team meeting, where they discuss progress and plan upcoming projects. Leaves the office, walks to the nearest gym for an hour-long workout class before heading home"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "activities": ["commute", "dinner preparation"],
+      "description": "Arrives back home, cooks dinner for himself and his family who will be arriving shortly"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["family dinner", "conversation"],
+      "description": "Eats dinner with his wife and young daughter. They chat about their days at work and school, respectively"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "21:30",
+      "activities": ["child bedtime routine"],
+      "description": "Helps his daughter brush her teeth before tucking her into bed"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:30",
+      "activities": ["leisure", "video game stream"],
+      "description": "Watches a video game stream for an hour, reflecting on the day's events and preparing for tomorrow"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    }
+  ]
+}

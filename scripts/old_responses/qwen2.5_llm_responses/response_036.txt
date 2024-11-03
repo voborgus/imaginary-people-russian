@@ -1,0 +1,40 @@
+Name: Li Wei
+Gender: Male
+Age: 35
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who lives and works in Shanghai. He enjoys spending his weekends exploring local parks and trying out new restaurants.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up to the sound of the morning bird chorus, slowly gets out of bed after a peaceful start to the day with some meditation.
+
+Time: 07:15 AM
+Activity: Takes a shower, prepares for work while sipping on a cup of green tea.
+
+Time: 08:00 AM
+Activity: Commutes by subway to his office in Pudong; he enjoys reading industry news and planning the day ahead during the journey.
+
+Time: 12:00 PM
+Activity: Attends a client meeting at the office, discussing software development projects with colleagues from various departments.
+
+Time: 01:30 PM
+Activity: Takes a break for lunch, trying out a new restaurant in Shanghai known for its vegetarian dishes to keep his diet balanced.
+
+Time: 02:30 PM
+Activity: Returns to work; he spends the afternoon debugging code and reviewing technical documents with his team.
+
+Time: 06:00 PM
+Activity: Walks through Xujiahui Park after a long day, enjoying the greenery and people-watching before heading home.
+
+Time: 07:15 PM
+Activity: Cooks dinner; today he’s making braised pork and rice, preparing a simple yet hearty meal at home.
+
+Time: 08:00 PM
+Activity: Watches an episode of his favorite TV series, "Black Mirror," to unwind after work.
+
+Time: 09:30 PM
+Activity: Meditates for half an hour before bed, reflecting on the day and planning the next one.
+
+Time: 10:00 PM
+Activity: Lights out; Li Wei drifts off to sleep, ready for another productive day tomorrow.

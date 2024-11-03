@@ -1,0 +1,106 @@
+{
+  "name": "Kaitlyn",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan",
+  "job": "English Teacher",
+  "backstory": "Kaitlyn moved to Japan from her hometown in California after high school. She worked as an English teacher for several years before taking time off to travel and explore the country.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "cat meowing"],
+      "description": "Woke up to the sound of her cat, Mochi, meowing loudly outside her bedroom door"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["morning routine", "brush teeth", "wash face"],
+      "description": "Brushed her teeth and washed her face with cold water to wake herself up"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["breakfast", "ramen", "watch news"],
+      "description": "Made a bowl of instant ramen for breakfast while watching the news on TV"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["walk dog"],
+      "description": "Took Mochi for a short walk around the block to get some fresh air"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:10",
+      "activities": ["commute", "get ready for work"],
+      "description": "Started getting ready for work, which involved commuting to Tokyo by train"
+    },
+    {
+      "startTime": "09:10",
+      "endTime": "09:30",
+      "activities": ["arrive at work", "check in with coworkers"],
+      "description": "Arrived at her office building and checked in with her coworkers before heading to her first meeting of the day"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "activities": ["team meeting", "work on lesson plans", "coffee break", "snacks"],
+      "description": "Had a team meeting to discuss an upcoming project deadline, then spent several hours working on lesson plans for her English students, taking short breaks to grab coffee and snack on Japanese sweets"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:45",
+      "activities": ["lunch", "meet with colleague"],
+      "description": "Took a lunch break with a colleague at a nearby izakaya"
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "14:30",
+      "activities": ["parent-teacher conference"],
+      "description": "Had a parent-teacher conference with the parents of one of her English language learners"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "activities": ["meet friends", "coffee"],
+      "description": "Met up with friends at a local café to grab coffee and catch up on each other's lives"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:15",
+      "activities": ["grocery shopping", "commute home"],
+      "description": "Stopped by the grocery store on the way home to pick up some ingredients for dinner"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:30",
+      "activities": ["cook dinner", "eat dinner", "watch TV"],
+      "description": "Cooked herself a simple but delicious dinner of stir-fried vegetables and rice, which she ate while watching her favorite anime show"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["watch TV"],
+      "description": "Continued watching TV until it was time for bed"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["bedtime routine", "brush teeth"],
+      "description": "Got ready for bed by brushing her teeth and changing into PJs"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Drifted off to sleep with a contented sigh, feeling grateful for another day in Japan"
+    }
+  ]
+}

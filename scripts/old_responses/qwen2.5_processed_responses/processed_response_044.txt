@@ -1,0 +1,106 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 34,
+  "location": "China",
+  "job": "Graphic Designer",
+  "backstory": "Li Mei is a dedicated graphic designer working in Beijing. She moved to the city from her hometown in pursuit of better career opportunities, leaving behind a close-knit family and friends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "turn off alarm", "get out of bed", "stretch"],
+      "description": "Wakes up, turns off the alarm clock, gets out of bed, stretches"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["brush teeth", "wash face", "prepare breakfast"],
+      "description": "Brushes teeth, washes face, prepares for a quick breakfast"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["drink water", "eat apple"],
+      "description": "Drinks a glass of water and eats an apple to start the day energized"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["morning jog"],
+      "description": "Heads out for her daily morning jog in a nearby park, enjoying the early morning peace and quiet"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["arrive at office", "take stairs"],
+      "description": "Arrives at the office; takes the stairs to the third floor, passing coworkers who are already settling down to start their day"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["team meeting", "work on projects"],
+      "description": "Attends a team meeting with colleagues discussing project deadlines and upcoming assignments; works on designing project mockups and sketches"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "01:00",
+      "activities": ["order lunch", "eat at desk"],
+      "description": "Takes a lunch break; orders food from a nearby restaurant, working while waiting for delivery; enjoys a quick meal at her desk"
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "04:30",
+      "activities": ["work on projects"],
+      "description": "Works on designing project mockups and sketches; spends most of this time in front of the computer"
+    },
+    {
+      "startTime": "04:30",
+      "endTime": "06:00",
+      "activities": ["gym workout"],
+      "description": "Takes a break to visit the gym located in the building's basement, spending an hour on a cardio session"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:30",
+      "activities": ["return to desk", "review project feedback"],
+      "description": "Returns from the gym and heads back to her desk; starts reviewing feedback from previous projects"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "activities": ["have dinner", "spend time with partner"],
+      "description": "Leaves work for home-cooked dinner prepared by her partner. They enjoy a meal together, catching up on their day's activities"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "activities": ["relax", "light reading", "watch TV"],
+      "description": "Engages in some light reading or watches TV shows to unwind after the long day of work"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "activities": ["skincare routine"],
+      "description": "Goes through her skincare routine before bed; puts on a night cream and moisturizer"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "activities": ["read"],
+      "description": "Reads for about an hour, sometimes with a light bedside lamp or in complete darkness"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "00:00",
+      "activities": ["use phone", "sleep"],
+      "description": "Gets into bed, scrolls through Weibo (Weibo is China's version of Twitter) on her phone before turning it off to rest"
+    }
+  ]
+}

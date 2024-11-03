@@ -1,0 +1,57 @@
+Let's create a person and fill in their details.
+
+**Name:** Akira Matsuda
+**Gender:** Female
+**Age:** 27
+**Location:** Japan (Tokyo)
+**Backstory:** Akira is a freelance graphic designer who recently moved back to Tokyo after living abroad for three years. She's still adjusting to life in the city, but loves exploring its cafes and boutiques.
+
+Here's a random day from her life:
+
+Time: 05:30
+Activity: Wake up to the sound of her phone's alarm, which she set on her bedside table.
+
+Time: 06:00
+Activity: Roll out of bed and head to the bathroom to start her morning routine.
+
+Time: 06:15
+Activity: Brush her teeth and wash her face with a gentle cleanser.
+
+Time: 06:30
+Activity: Make a cup of green tea in the kitchen, which she takes back to her small balcony to enjoy while planning out her day.
+
+Time: 07:00
+Activity: Respond to a few urgent emails from clients as a freelancer.
+
+Time: 08:00
+Activity: Pack a lunch and snacks for her daily commute on the Tokyo Metro.
+
+Time: 09:00
+Activity: Commute to a meeting at a design studio in Shibuya, which is about an hour away by train.
+
+Time: 10:00
+Activity: Attend a conference with potential new clients at the Tokyo Metropolitan Government Building. This involves networking and making presentations.
+
+Time: 12:30
+Activity: Take a lunch break at a small cafe near the studio and enjoy some ramen noodles.
+
+Time: 13:30
+Activity: Meet with another client to discuss ongoing projects, which involves reviewing design concepts.
+
+Time: 16:00
+Activity: Return to her own workspace (a shared office in Shinjuku) to tackle administrative tasks and organize her schedule for the next few days.
+
+Time: 18:00
+Activity: Call her best friend, Yumi, to catch up on gossip and discuss plans for an upcoming dinner party.
+
+Time: 19:30
+Activity: Attend a meeting of a design community group at a trendy cafe in Harajuku. This involves discussing projects and sharing ideas with fellow creatives.
+
+Time: 22:00
+Activity: Wrap up her work for the day by responding to any remaining emails and updating her project management software.
+
+Time: 23:30
+Activity: Wind down before bed by reading a book on her tablet in bed.
+
+Time: 01:00 (well past bedtime, but hard to fall asleep due to caffeine intake earlier)
+Activity: Doze off finally, still clutching her phone for some reason...

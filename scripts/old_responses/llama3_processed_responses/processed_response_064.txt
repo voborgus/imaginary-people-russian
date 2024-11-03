@@ -1,0 +1,64 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 27,
+  "location": "Mexico City, Mexico",
+  "job": "Artist",
+  "backstory": "Emilia is a free-spirited artist who grew up in a family of modest means. She learned to appreciate the beauty in everyday life and express it through her art.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["woke up", "heard birds"],
+      "description": "Woke up to the sound of birds chirping outside her small studio apartment in Condesa, Mexico City."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:40",
+      "activities": ["stretched", "meditated"],
+      "description": "Stretched and meditated on her couch for 10 minutes to clear her mind before starting the day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["coffee", "breakfast pastry"],
+      "description": "Walked to a nearby café for a strong cup of coffee and some breakfast pastry to fuel her creative juices."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["painting", "art"],
+      "description": "Set up her easel in her studio and began working on a new painting inspired by the vibrant colors of Mexican architecture."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "street food"],
+      "description": "Took a break to grab lunch at a nearby street food stall, where she tried a delicious chicken torta for 50 pesos ( approx. $2.50 USD)."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["art workshop", "learning"],
+      "description": "Attended an art workshop in the evening, where she learned some new techniques from a renowned Mexican artist."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "activities": ["social media", "relax"],
+      "description": "Spent some time responding to messages and making social media posts about her art on her phone while sitting at a café with a view of the city."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "00:45",
+      "activities": ["socializing", "drinks"],
+      "description": "Met up with friends at a trendy bar in Roma, where they chatted and laughed over margaritas until midnight."
+    }
+  ]
+}

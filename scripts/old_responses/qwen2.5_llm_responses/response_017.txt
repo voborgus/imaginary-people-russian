@@ -1,0 +1,49 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Li Wei is a software engineer working for a tech company in downtown Beijing. He enjoys hiking and spending weekends with his family.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of birds outside his window, feeling slightly groggy from staying up late coding on a project due the next day. 
+
+Time: 07:00
+Activity: Takes a short morning jog around the park near his apartment.
+
+Time: 08:15
+Activity: Walks into his office building where he starts the day with a quick coffee at the company cafeteria before heading to his desk in the engineering department.
+
+Time: 09:30
+Activity: Attends a morning stand-up meeting with his team, discussing progress and issues on their current project.
+
+Time: 14:00
+Activity: Takes a break for lunch, eats a packed meal brought from home while catching up on emails at his desk.
+
+Time: 16:00
+Activity: Works late into the afternoon, troubleshooting bugs reported by users of their software application.
+
+Time: 18:30
+Activity: Leaves the office, stopping by a convenience store to buy some fruits and vegetables for dinner.
+
+Time: 20:00
+Activity: Gets home and starts preparing a simple stir-fry meal with his purchased ingredients. As he cooks, he watches a TV show about nature documentaries while relaxing on the couch.
+
+Time: 21:30
+Activity: Sits down to have dinner with his family who has just arrived from their work/school day. They discuss the events of the day and plan for the upcoming weekend.
+
+Time: 22:45
+Activity: Reads a book or browses social media before getting ready for bed, planning to wake up early in the morning again.
+
+Time: 23:00
+Activity: Washes dishes and cleans up from dinner.
+
+Time: 23:15
+Activity: Writes some notes about tasks he needs to work on during his planned weekend hike.
+
+Time: 23:45
+Activity: Jots down ideas for a new coding project he wants to start, leaving them open in case he gets inspired over the weekend.
+
+Time: 00:00
+Activity: Brushes teeth and changes into pajamas before climbing into bed.

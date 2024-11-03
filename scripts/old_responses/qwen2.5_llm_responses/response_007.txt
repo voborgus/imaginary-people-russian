@@ -1,0 +1,43 @@
+Name: Lin Xiaoyi
+Gender: Female
+Age: 32
+Location: China, Beijing
+Backstory: Lin Xiaoyi is a graphic designer who loves to explore the city and find inspiration in its diverse neighborhoods. Despite her demanding job at an advertising agency, she finds joy in weekend hikes and cultural events.
+
+Day:
+
+Time: 06:45
+Activity: Wakes up gently as the morning light filters through her curtains. Xiaoyi stretches and gets out of bed, feeling refreshed after a peaceful night's sleep.
+
+Time: 07:00
+Activity: Brushes her teeth and washes her face with cold water from the tap, enjoying the sensation of coolness against her skin.
+
+Time: 07:15
+Activity: Jumps into her running routine in the nearby park. She enjoys a five-kilometer jog through the early morning mist to start the day energized.
+
+Time: 08:30
+Activity: Arrives at her workplace, an bustling advertising agency located just outside of central Beijing. Xiaoyi takes the lift up to the fourth floor and heads straight for the coffee machine in the common area, grabbing a fresh cup before starting on today's tasks.
+
+Time: 12:00
+Activity: Leaves the office to have lunch at the small but popular café near her workplace. Today she orders a vegetarian noodle soup with spicy pickles.
+
+Time: 14:30
+Activity: Back in the office, Xiaoyi spends time reviewing client proposals and creating new designs for upcoming campaigns. She finds herself enjoying a quiet afternoon at her desk, occasionally chatting with coworkers about ideas or solutions to problems.
+
+Time: 17:00
+Activity: Ends her workday by heading home to prepare dinner. Today she decided to cook a simple yet delicious Sichuan-style spicy tofu dish with some steamed buns for her meal.
+
+Time: 18:30
+Activity: Xiaoyi sits down at her dining table, relishing the flavors of her homemade meal while watching local news on TV. After dinner, she spends an hour organizing her work desk and putting away her work things neatly to keep a tidy space.
+
+Time: 20:00
+Activity: Leaves home and heads to a nearby park for evening yoga. Xiaoyi has been practicing yoga twice a week for the past year to maintain flexibility and reduce stress.
+
+Time: 21:30
+Activity: Completes her yoga routine and heads to a cozy bookstore where she spends an hour browsing through new releases, picking out some books on photography and Chinese culture.
+
+Time: 22:45
+Activity: Takes a short walk home before heading straight for bed. She reads a few pages of her favorite novel by candlelight, enjoying the quiet before turning in for the night.
+
+Time: 00:00
+Activity: Xiaoyi sets an alarm and tucks herself into bed, ready to start the day afresh tomorrow.

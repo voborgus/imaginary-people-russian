@@ -1,0 +1,94 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Mei is a software engineer at a tech company in Shanghai. She moved there from Beijing after graduation to pursue her career and enjoys the vibrant city life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Awakens gently by an alarm clock; stretches and gets out of bed."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["make tea", "review emails"],
+      "description": "Makes a cup of strong black tea with milk for breakfast while reviewing emails from last night."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["breakfast", "check weather"],
+      "description": "Has breakfast, which consists of toast, a boiled egg, and her second cup of tea. Checks the weather forecast before deciding on her outfit for the day."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["commute", "listen to audiobook"],
+      "description": "Takes a bus to work; listens to an audiobook about artificial intelligence while commuting."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "discuss projects"],
+      "description": "Arrives at the office; has a quick lunch with colleagues, which includes discussing upcoming projects and sharing weekend stories."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["bug fixes", "breaks", "coffee"],
+      "description": "Begins working on bug fixes in their current project. Takes short breaks to chat with coworkers or grab coffee from the office café."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "activities": ["team meeting", "learning"],
+      "description": "Has a brief meeting with the team to discuss progress and upcoming challenges for the project. Completes her assigned tasks and starts on some personal learning resources, including a course on cloud computing."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["leave work", "dinner", "social media"],
+      "description": "Ends the workday; grabs dinner from a nearby restaurant known for its dumplings. Eats while browsing social media."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["exercise", "fitness app"],
+      "description": "Returns home and starts exercising using a fitness app to keep fit. Exerts herself through various workouts."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["dance", "stress relief"],
+      "description": "Dances in the living room to her favorite songs; it's one of her stress-relief methods after work."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "activities": ["read", "mystery novel"],
+      "description": "Reads from a mystery novel for pleasure, as she finds the story captivating."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["crossword puzzle"],
+      "description": "Completes a crossword puzzle before setting it aside to unwind more fully."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "24:00",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Heads to bed, tucking in her favorite book and turning off all electronics."
+    }
+  ]
+}

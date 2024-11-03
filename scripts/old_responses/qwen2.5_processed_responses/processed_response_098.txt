@@ -1,0 +1,94 @@
+{
+  "name": "Lin Tao",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Developer",
+  "backstory": "Lin Tao is a software developer who has been working in the tech industry for over ten years. He moved to Shanghai from Beijing a few years ago to be closer to his girlfriend and now shares an apartment with her.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["wakes up", "stretches"],
+      "description": "Wakes up after setting two alarms, stretches in bed while yawning"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:10",
+      "activities": ["brushes teeth", "washes face", "checks phone"],
+      "description": "Walks into the bathroom, brushes teeth, washes face, checks phone for any unread messages from work"
+    },
+    {
+      "startTime": "07:10",
+      "endTime": "08:00",
+      "activities": ["makes coffee", "eats cereal"],
+      "description": "Heads to the kitchen to make a pot of coffee and pours himself a bowl of cereal"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["walks dog", "plays with dog"],
+      "description": "Takes his dog out for a morning walk in the nearby park, plays with the dog and gets some fresh air before heading home"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:15",
+      "activities": ["showers", "cleans up breakfast"],
+      "description": "Dishes breakfast dishes into compost bin, then heads to the shower"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:00",
+      "activities": ["checks emails", "team meeting", "plans for sprint"],
+      "description": "In the office, starts checking emails, schedules for the day. Meets briefly with his team to review ongoing projects and plan for the upcoming sprint"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch with colleagues", "discusses work", "weekend plans"],
+      "description": "Goes out for lunch at a nearby café with a few colleagues. They discuss work, exchange stories about their weekend plans"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["works on critical feature", "collaborates with team"],
+      "description": "Returns to the office to continue working on a critical feature that's being developed. Collaborates closely with his teammates via video calls and shared documents"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["attends company-wide meeting", "receives updates"],
+      "description": "Attends a company-wide meeting where updates are given about various projects, market trends, and upcoming events"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["ends workday", "walks dog"],
+      "description": "Ends the day by closing down his computer, saving any unfinished work for tomorrow. Takes some time to walk Lin Tao's dog again before heading back home"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["cooks dinner", "watches TV", "talks with girlfriend"],
+      "description": "Arrives back at their shared apartment. Cooks dinner together with his girlfriend. They spend a few hours watching a new show and talking about their day"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["cleans up", "stretches"],
+      "description": "Cleans up the kitchen after dinner, does some light stretching in the living room"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["reviews emails"],
+      "description": "Reads through emails one last time before going to bed, ensuring nothing is overlooked for work tomorrow"
+    }
+  ]
+}

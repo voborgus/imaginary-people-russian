@@ -1,0 +1,88 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 35,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Li Ming is a software engineer working in Beijing. He moved there from a smaller city to pursue better career opportunities and enjoys the fast-paced urban life but also cherishes his family time on weekends.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wakes up", "checks phone"],
+      "description": "Wakes up, checks phone for news and weather"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["drinks water", "light stretching"],
+      "description": "Drinks water and does some light stretching"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brushes teeth", "washes face"],
+      "description": "Brushes teeth and washes face with cold water to wake up fully"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["takes shower", "shaves"],
+      "description": "Takes a shower, shaves in the bathroom"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["has breakfast", "congee", "steamed buns", "commutes to work", "reads news"],
+      "description": "Has breakfast, usually consists of congee (rice porridge) and steamed buns, commutes to work by subway, reading news or emails on his phone"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch break", "chats with colleagues"],
+      "description": "Takes a break for lunch at the company cafeteria, chatting with colleagues"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["virtual meeting", "works on tasks"],
+      "description": "Attends a virtual meeting about project progress, finishes work tasks"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["leaves work", "picks up daughter"],
+      "description": "Finishes work tasks and prepares to leave for home, picks up his daughter from kindergarten"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["takes daughter for snack", "arrives home", "cooks dinner"],
+      "description": "Picks up his daughter from kindergarten, taking her out for an after-school snack, arrives at home, cooks dinner together with his family (usually stir-fried vegetables and meat)"
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["eats dinner", "spends time with family"],
+      "description": "Has dinner together with his family, watches TV or plays a board game with his children"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["quiet time", "reads books"],
+      "description": "Has an hour of quiet time where he reads before bed, often reading books on personal development"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["brushes teeth", "washes face", "goes to bed"],
+      "description": "Brushes teeth and washes face again, gets into bed for the night"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "06:00",
+      "activities": ["sleeps"],
+      "description": "Sleeps through the night"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Sofia",
+  "gender": "Female",
+  "age": 27,
+  "location": "Barcelona, Spain",
+  "job": "Historical Costume Designer",
+  "backstory": "Sofia grew up surrounded by vibrant colours and intricate details in her family's antique shop. This love for the artistry of the past fueled her career as a historical costume designer, now working on an upcoming period piece film project.",
+  "schedule": [
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["wake up", "morning routine"],
+      "description": "Sofia wakes to the gentle chirp of birds outside her window. The aroma of freshly baked pastries from the bakery downstairs drifts into her small studio apartment."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:30",
+      "activities": ["sketching", "coffee"],
+      "description": "A quick sip of black coffee and a glance at her worn sketchbooks; Sofia starts sketching out character designs for her new film project. She takes inspiration from historical paintings and vintage photographs, each stroke adding texture and dimension to her imaginative worlds."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "11:00",
+      "activities": ["research", "fabric analysis"],
+      "description": "Sofia spends the morning pouring over historical archives, meticulously comparing old costumes with present-day examples. The tactile experience of fabrics and textures allows her to delve into the soul of each character she designs for."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "relaxation"],
+      "description": "Sofia breaks for lunch; enjoying a light salad and fresh fruit at a cafe near her studio.  She often takes advantage of Barcelona's sunny weather, often sitting by the harbor during her lunch break."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "activities": ["costume design", "planning"],
+      "description": "Back in her studio, Sofia dives into the day's work schedule: creating detailed character sketches for each member of the crew and planning out a costume rehearsal schedule to ensure everything aligns with the production's visual demands."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "activities": ["walk", "inspiration"],
+      "description": "Sofia takes a break for an afternoon walk through the La Rambla, admiring the colorful street performers and vibrant markets. A taste of freshly squeezed orange juice from a local vendor fuels her creativity as she absorbs the city's energy."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["fabric experimentation", "costume crafting"],
+      "description": "Back at her studio, Sofia starts crafting fabric samples and experimenting with new textures for a key role in the film; testing fabrics under different lighting conditions to ensure the final look is authentic and impactful."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner", "socializing"],
+      "description": "Dinner time! Sofia enjoys a delicious paella, accompanied by fresh sangria and vibrant conversation with her friend Elena.  Elena shares stories of her travels, prompting a deeper dive into Sofia's own historical fantasies."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["reading", "documentary"],
+      "description": "After dinner, Sofia indulges in a good book before heading to the local cinema. She spends several hours immersed in a thought-provoking documentary about Spanish architecture and art, finding solace in the stories she encounters."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "07:15",
+      "activities": ["sleep"],
+      "description": "Time for sleep! The quiet hum of her apartment settles over Sofia as she succumbs to a night filled with dreams inspired by historical tales and the vibrant energy of Barcelona."
+    }
+  ]
+}

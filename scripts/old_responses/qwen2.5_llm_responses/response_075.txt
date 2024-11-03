@@ -1,0 +1,40 @@
+Name: Liang Yi
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Liang Yi is a software engineer who has been working in the tech industry for over a decade. He grew up in a small city but moved to Beijing for better job opportunities and now enjoys exploring the cultural diversity of the capital.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, gets out of bed after hitting snooze several times due to oversleeping alarm from last night's late work session.
+Time: 06:45
+Activity: Takes a short walk around his building complex to stretch and catch the morning chill before heading back inside for more coffee.
+Time: 07:15
+Activity: Buys bread and milk from the convenience store nearby, grabbing some local snacks while waiting in line.
+Time: 07:30
+Activity: Jogs on the park near his office, trying to clear his head amidst the early morning joggers.
+Time: 08:00
+Activity: Takes a shower and gets dressed, applying sunscreen before leaving the house since it’s been sunny today.
+Time: 08:25
+Activity: Commutes via the subway, sitting in between two elderly gentlemen sharing stories from their day. 
+Time: 09:15
+Activity: Arrives at his workplace, greets colleagues and heads to a conference room for a daily stand-up meeting.
+Time: 10:30
+Activity: Works on a complex coding project, solving bugs that have been bothering him all morning with a colleague who sits next to him. 
+Time: 12:00
+Activity: Leaves the office to grab lunch at a nearby food court where he shares a bowl of hot and sour soup with a friend.
+Time: 13:00
+Activity: Back in the office, takes some time to read industry news and articles related to his field to stay updated.
+Time: 15:45
+Activity: Meets with a client for a virtual call discussing ongoing projects. The conversation goes on until 16:30.
+Time: 17:00
+Activity: Attends a team meeting where they discuss project progress and upcoming deadlines.
+Time: 18:00
+Activity: Takes the subway back home, listening to podcasts about technology trends.
+Time: 19:30
+Activity: Cooks dinner at home, experimenting with a new recipe for stir-fried vegetables. He also spends some time chatting online with friends from different parts of China who work remotely like him.
+Time: 22:00
+Activity: Watches TV series while enjoying the meal he prepared earlier.
+Time: 23:00
+Activity: Brushes teeth and reads a book, which is his nightly ritual to relax before bed.

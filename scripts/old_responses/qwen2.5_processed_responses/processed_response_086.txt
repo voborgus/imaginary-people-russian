@@ -1,0 +1,88 @@
+{
+  "name": "Liang Ming",
+  "gender": "Male",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Ming is a software engineer who has been working in the tech industry for over ten years. He moved to Shanghai from Beijing when he was in his early twenties and now lives there with his partner.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wakes up", "stretches", "gets out of bed"],
+      "description": "Wakes up, stretches, and gets out of bed."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["makes tea", "prepares breakfast"],
+      "description": "Goes into the kitchen to make himself a cup of tea and prepare breakfast."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["eats breakfast", "porridge with black sesame paste", "pickled vegetables"],
+      "description": "Has his breakfast consisting of porridge with black sesame paste and pickled vegetables."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["commutes to work", "reads technical book"],
+      "description": "Commutes by metro to work, reading a technical book on the way."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["attends stand-up meeting", "project updates", "discussions"],
+      "description": "Attends a stand-up meeting with his team for project updates and discussions."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["has lunch", "vegetable curry rice"],
+      "description": "Has lunch with colleagues at an office cafeteria; today it's vegetable curry rice."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["works on coding projects", "fixes bugs", "implements new features"],
+      "description": "Works on coding projects, fixing bugs and implementing new features."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "activities": ["takes a break", "stretches", "walks around garden"],
+      "description": "Takes a short break to stretch and walk around the company's small garden area."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["attends remote meeting", "discusses project timelines", "discusses requirements"],
+      "description": "Attends a remote meeting with clients from another city discussing project timelines and requirements."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["cooks dinner", "stir-fry vegetables and tofu"],
+      "description": "Returns home after work, cooks dinner which is usually a simple stir-fry of vegetables and tofu."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["watches documentary", "reads book", "The Art of Computer Programming"],
+      "description": "Watches some documentary on nature before starting his evening read, today it's \"The Art of Computer Programming.\""
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "22:30",
+      "activities": ["brushes teeth", "gets ready for bed", "reflects on day"],
+      "description": "Brushes teeth and gets ready for bed, reflecting on the day's work and plans for tomorrow."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["reads", "lights out", "sleeps"],
+      "description": "Lights out, reads for a bit more before sleep."
+    }
+  ]
+}

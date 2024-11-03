@@ -1,0 +1,82 @@
+{
+  "name": "Lea Thompson",
+  "gender": "Female",
+  "age": 28,
+  "location": "Australia (Melbourne)",
+  "job": "Freelance Photographer",
+  "backstory": "Lea grew up in a family of artists, and she pursued her own creative passion for photography after completing a degree in fine arts. She's been working as a freelance photographer for about three years now, specializing in portraiture.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "make coffee"],
+      "description": "Woke up to the sound of rain pattering outside her bedroom window and made herself a strong flat white coffee to start the day"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["get dressed", "have breakfast"],
+      "description": "Got dressed in her favorite cozy sweater and distressed denim jeans, then headed downstairs to grab some toast for breakfast"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["meet with friend", "discuss project"],
+      "description": "Arrived at her small shared studio space in Fitzroy, where she meets up with her fellow photographer friend, Rachel, to discuss a potential new project involving documenting Melbourne's street art scene"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["take test photos", "experiment with lighting"],
+      "description": "Spent the morning shooting some test photos for Lea's upcoming portfolio, experimenting with lighting and composition"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "social media"],
+      "description": "Took a lunch break at the nearby café, where she devoured a chicken salad wrap and caught up on some social media updates"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:30",
+      "activities": ["client photoshoot", "fashion photography"],
+      "description": "Headed to her first client meeting of the day, a photo shoot for a local fashion boutique. Spent an hour and a half taking photos of models posing in various outfits"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "activities": ["review photos", "social media"],
+      "description": "Finished the fashion shoot and headed back to the studio space to sort through some new images she'd taken yesterday. Had a cup of tea while scrolling through her Instagram feed"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["develop film"],
+      "description": "Dropped off some film at the lab, where it'll be developed overnight for Lea's consideration on whether or not to print out select shots for an upcoming exhibition"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["street art walk", "with friends"],
+      "description": "Attended a street art walk around the city with friends, admiring various murals and graffiti"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:45",
+      "activities": ["watch TV show", "take photos"],
+      "description": "Came back home, made herself some popcorn, and watched a new episode of her favorite TV show, 'Schitt's Creek'. Took out her camera to capture a stunning sky view outside her apartment window before calling it a night"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Went to bed"
+    }
+  ]
+}

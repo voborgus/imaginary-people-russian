@@ -1,0 +1,100 @@
+{
+  "name": "Li Xiaoyu",
+  "gender": "Female",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Marketing Executive",
+  "backstory": "Li Xiaoyu is a marketing executive working in one of Shanghai's leading advertising agencies. She has always been passionate about culture and often participates in local events to promote cultural exchange.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "look out window"],
+      "description": "Wakes up feeling refreshed after a full night's sleep, stretching her legs while looking out the window at the early morning mist over Pudong."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a quick shower and gets dressed in her favorite green blouse and black pants, preparing for the day ahead."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["jog", "exercise"],
+      "description": "Jogs around Xujiahui Park to start the day with some exercise, enjoying the quiet before everyone else starts their morning routines."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["arrive at office", "review notes", "drink tea"],
+      "description": "Arrives at her office in Pudong, logs into work and reviews last night's meeting notes while sipping a cup of green tea from a porcelain mug."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "discuss campaign"],
+      "description": "Attends a team meeting where they discuss the upcoming marketing campaign for a local tech company. The discussion is lively, with everyone contributing ideas."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch break", "socialize"],
+      "description": "Takes a break to grab lunch from the office cafeteria and meets up briefly with colleagues for small talk while enjoying their meal together."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "14:30",
+      "activities": ["check emails", "respond to queries"],
+      "description": "Back at her desk after lunch, she spends some time checking emails and responding to urgent queries related to ongoing projects."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:15",
+      "activities": ["client meeting", "discuss performance", "plan initiatives"],
+      "description": "Attends a client meeting in the office boardroom with the account team. They discuss recent campaign performance and plan for future initiatives."
+    },
+    {
+      "startTime": "16:15",
+      "endTime": "18:30",
+      "activities": ["work on presentation", "incorporate local traditions"],
+      "description": "Works on a presentation for an upcoming cultural festival, focusing on incorporating local traditions into marketing strategies to engage younger audiences."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:15",
+      "activities": ["leave office", "jog home", "workout"],
+      "description": "Leaves the office early after receiving positive feedback from her boss on the progress of the festival project. Jogs back home through Nanjing Road pedestrian street before returning to the park for a quick workout."
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:30",
+      "activities": ["prepare dinner", "healthy meal"],
+      "description": "Arrives home, changes into more comfortable clothes and prepares dinner – stir-fried vegetables with rice and a side dish of hot and sour soup, reflecting her love for simple, healthy meals."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["browse cultural events", "plan future topics"],
+      "description": "Browses through some local cultural events happening this weekend online, planning to attend one if time permits. Lists potential topics for the next team meeting or presentation."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "22:30",
+      "activities": ["read book", "write calligraphy"],
+      "description": "Reads a book about traditional Chinese calligraphy and writes a few characters as a way to relax before bed."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "24:00",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Brushes teeth, puts on her favorite nightgown, and reads the latest chapter of her novel until she falls asleep, dreaming of vibrant cultural events and marketing triumphs."
+    }
+  ]
+}

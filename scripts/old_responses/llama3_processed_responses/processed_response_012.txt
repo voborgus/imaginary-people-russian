@@ -1,0 +1,70 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Madrid, Spain",
+  "job": "Marketing Specialist",
+  "backstory": "Emilia is a marketing specialist who recently moved to Madrid from Barcelona to pursue a new job opportunity. She enjoys trying out new tapas restaurants and practicing her salsa dancing skills.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wake up in her cozy apartment in the Malasaña neighborhood, feeling refreshed after a good night's sleep."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "coffee", "pastry"],
+      "description": "Start making breakfast, consisting of strong coffee and a pastry called \"churro con chocolate\" from a local bakery."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["get dressed", "work attire"],
+      "description": "Get dressed for work in her marketing firm, which is located on the nearby Gran Vía. She chooses a stylish blouse and a black pencil skirt."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["commute", "bus"],
+      "description": "Commute to work via bus (line 14), enjoying the sights of Madrid's busy streets and chatting with fellow passengers."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "13:00",
+      "activities": ["marketing meeting", "contribute ideas", "present insights"],
+      "description": "Attend a marketing meeting at her firm, discussing strategies for a new campaign. She contributes ideas and provides insights based on her experience working with various clients."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["lunch", "paella", "sangria", "catch up with friends"],
+      "description": "Take a lunch break in the nearby Plaza Mayor, where she meets friends from college to catch up over a meal of paella and sangria."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["project report", "data presentation"],
+      "description": "Work on a project report for an upcoming client meeting. She focuses on presenting data and visualizations to clearly communicate the marketing strategy's key points."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "20:30",
+      "activities": ["end workday", "celebrate with colleagues", "tapas"],
+      "description": "Finish work for the day, pack her bags, and head out with colleagues to a nearby tapas bar to celebrate a successful presentation."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:30",
+      "activities": ["salsa dancing", "spend time with friends"],
+      "description": "Meet friends at a popular salsa club in the Chueca neighborhood. Emilia spends an evening dancing and laughing with friends while trying out new moves."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "activities": ["relax at home", "read", "watch TV"],
+      "description": "Wind down after a busy day by enjoying some relaxing time at home, reading a book or watching her favorite TV show before going to sleep."
+    }
+  ]
+}

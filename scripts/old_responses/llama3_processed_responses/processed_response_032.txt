@@ -1,0 +1,82 @@
+{
+  "name": "Kaitlyn",
+  "gender": "Female",
+  "age": 28,
+  "location": "Canada",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Kaitlyn is a freelance graphic designer who moved to Toronto from Montreal three years ago to pursue more opportunities in her field. She loves trying new restaurants and breweries, but can often be found holed up in her cozy apartment working on design projects.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:05",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:05",
+      "endTime": "06:15",
+      "activities": ["wake up", "interact with cat"],
+      "description": "Woke up to the sound of her cat, Luna, meowing loudly outside the bedroom door"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["make coffee", "check phone"],
+      "description": "Made a cup of coffee and scrolled through her phone for any important notifications or emails before getting out of bed"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["personal care", "get dressed"],
+      "description": "Brushed her teeth and got dressed in a pair of jeans and a comfy sweater for a day of freelance work from home"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["work on design project", "drink coffee"],
+      "description": "Started working on a new design project, sipping on another cup of coffee as she stared at the blank canvas on her computer screen"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["have lunch", "read book"],
+      "description": "Took a short break to grab lunch and catch up on some reading while eating. Today's book was \"The Seven Husbands of Evelyn Hugo\""
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["continue working on design project"],
+      "description": "Continued working on the design project, with some difficulty finding the right font combinations for her client"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["take walk", "interact with cat"],
+      "description": "Took a longer break to go for a walk around the block and get some fresh air. Luna joined her outside, chasing after squirrels and birds"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["make dinner"],
+      "description": "Made dinner – tonight's dish was chicken stir-fry with vegetables from her community garden plot"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:45",
+      "activities": ["watch TV", "do laundry"],
+      "description": "Started watching an episode of her favorite TV show, \"Schitt's Creek\", on Netflix while folding some laundry"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:30",
+      "activities": ["write project update", "interact with cat"],
+      "description": "Wrote up a project update for her client and sent it off, feeling relieved that the workday was over. Cuddled up with Luna on the couch to watch another episode of TV before calling it an early night"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["sleep"],
+      "description": "Went to sleep, already looking forward to tomorrow's projects"
+    }
+  ]
+}

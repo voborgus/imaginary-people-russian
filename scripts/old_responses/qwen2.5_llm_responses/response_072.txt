@@ -1,0 +1,49 @@
+Name: Li Xiaoyu
+Gender: Female
+Age: 32
+Location: Shanghai, China
+Backstory: Li Xiaoyu is a marketing executive working in one of Shanghai's leading advertising agencies. She has always been passionate about culture and often participates in local events to promote cultural exchange.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up feeling refreshed after a full night's sleep, stretching her legs while looking out the window at the early morning mist over Pudong.
+
+Time: 07:15 AM
+Activity: Takes a quick shower and gets dressed in her favorite green blouse and black pants, preparing for the day ahead.
+
+Time: 08:00 AM
+Activity: Jogs around Xujiahui Park to start the day with some exercise, enjoying the quiet before everyone else starts their morning routines.
+
+Time: 09:00 AM
+Activity: Arrives at her office in Pudong, logs into work and reviews last night's meeting notes while sipping a cup of green tea from a porcelain mug.
+
+Time: 10:30 AM
+Activity: Attends a team meeting where they discuss the upcoming marketing campaign for a local tech company. The discussion is lively, with everyone contributing ideas.
+
+Time: 12:00 PM
+Activity: Takes a break to grab lunch from the office cafeteria and meets up briefly with colleagues for small talk while enjoying their meal together.
+
+Time: 01:30 PM
+Activity: Back at her desk after lunch, she spends some time checking emails and responding to urgent queries related to ongoing projects.
+
+Time: 02:30 PM
+Activity: Attends a client meeting in the office boardroom with the account team. They discuss recent campaign performance and plan for future initiatives.
+
+Time: 04:15 PM
+Activity: Works on a presentation for an upcoming cultural festival, focusing on incorporating local traditions into marketing strategies to engage younger audiences.
+
+Time: 06:30 PM
+Activity: Leaves the office early after receiving positive feedback from her boss on the progress of the festival project. Jogs back home through Nanjing Road pedestrian street before returning to the park for a quick workout.
+
+Time: 07:15 PM
+Activity: Arrives home, changes into more comfortable clothes and prepares dinner – stir-fried vegetables with rice and a side dish of hot and sour soup, reflecting her love for simple, healthy meals.
+
+Time: 08:30 PM
+Activity: Browses through some local cultural events happening this weekend online, planning to attend one if time permits. Lists potential topics for the next team meeting or presentation.
+
+Time: 10:00 PM
+Activity: Reads a book about traditional Chinese calligraphy and writes a few characters as a way to relax before bed.
+
+Time: 10:30 PM
+Activity: Brushes teeth, puts on her favorite nightgown, and reads the latest chapter of her novel until she falls asleep, dreaming of vibrant cultural events and marketing triumphs.

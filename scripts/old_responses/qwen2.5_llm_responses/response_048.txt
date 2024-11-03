@@ -1,0 +1,34 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who works in one of Shanghai's tech hubs. He enjoys playing video games and reading sci-fi novels during his free time to unwind from the fast-paced city life.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up and stretches in bed, feeling refreshed after a good night's sleep.
+Time: 06:15 AM
+Activity: Gets out of bed, heads to the bathroom for a quick morning shower and brush his teeth.
+Time: 07:00 AM
+Activity: Cooks breakfast consisting of congee and some pickled vegetables.
+Time: 08:00 AM
+Activity: Commutes by subway to work; sits at one of the windows, looking out as he works on a coding problem that kept him up late the night before.
+Time: 12:00 PM
+Activity: Has lunch with colleagues in the company cafeteria. They talk about recent news and upcoming projects.
+Time: 01:30 PM
+Activity: Takes a short walk around the office building during their break to get some fresh air.
+Time: 04:00 PM
+Activity: Attends a tech webinar on artificial intelligence, taking notes for future reference.
+Time: 06:00 PM
+Activity: Leaves work and walks past the Lujiazui financial district; admires the skyscrapers from his commute home.
+Time: 07:30 PM
+Activity: Arrives home, changes into more comfortable clothes to relax.
+Time: 08:00 PM
+Activity: Plays video games for an hour, trying out a new game that just came out.
+Time: 09:15 PM
+Activity: Reads his sci-fi novel before bed; enjoys the stories of far-off worlds and advanced civilizations.
+Time: 10:30 PM
+Activity: Turns off all lights in the house to get ready for sleep, then spends a few minutes meditating to clear his mind.
+Time: 11:00 PM
+Activity: Lies down on his bed, reads some more before finally falling asleep.

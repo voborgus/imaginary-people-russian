@@ -1,0 +1,76 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Developer",
+  "backstory": "Li Ming is a software developer who enjoys spending his free time hiking and exploring the outdoors. He moved to Shanghai a few years ago after securing a job in a tech company, where he's been steadily working on improving his coding skills while pursuing his passion for nature.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wakes up", "stretches", "drinks tea"],
+      "description": "Wakes up, stretches, and gets out of bed with a cup of tea."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:30",
+      "activities": ["morning stretching exercises"],
+      "description": "Does some morning stretching exercises to start the day."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["walks dog", "explores park"],
+      "description": "Walks his pet dog, Buddy, around the park near his apartment building."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commutes by subway", "travels to work"],
+      "description": "Commutes by subway to the tech company he works for in downtown Shanghai."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:30",
+      "activities": ["attends meeting", "collaborates with team"],
+      "description": "Attends a morning stand-up meeting with team members."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "14:00",
+      "activities": ["works on coding projects", "optimizes algorithms"],
+      "description": "Works on coding projects, often collaborating online with colleagues from other parts of the world."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "activities": ["has lunch", "checks emails"],
+      "description": "Takes a short break to have lunch at his desk and catch up on emails."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:30",
+      "activities": ["continues software development", "optimizes algorithms"],
+      "description": "Continues working on software development tasks, focusing on optimizing algorithms for faster processing times."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["has dinner", "tries local cuisine"],
+      "description": "Goes for a quick dinner in a nearby restaurant that serves traditional Shanghainese cuisine."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["plans weekend trip", "discusses with friends"],
+      "description": "Starts planning his weekend hiking trip to the nearby mountains and discusses it with some friends on WeChat."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "24:00",
+      "activities": ["reads coding books", "keeps up with trends"],
+      "description": "Reads a book about coding techniques before going to bed, ensuring he keeps up with new trends in software development."
+    }
+  ]
+}

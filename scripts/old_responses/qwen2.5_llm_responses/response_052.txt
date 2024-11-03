@@ -1,0 +1,46 @@
+Name: Lin Xiaowei
+Gender: Male
+Age: 32
+Location: China, Beijing
+Backstory: Lin Xiaowei is a software engineer working in a large tech company. He enjoys spending his evenings with his family and playing video games on the weekends.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up to the sound of an alarm clock, stretches and begins his morning routine.
+
+Time: 07:00 AM
+Activity: Makes himself a cup of strong black tea and reads the news while sipping it.
+
+Time: 07:30 AM
+Activity: Takes a quick shower and gets dressed for work.
+
+Time: 08:15 AM
+Activity: Walks to the subway station, grabs a coffee from the nearby cafe on his way down.
+
+Time: 09:00 AM
+Activity: Arrives at the office and begins checking emails and preparing for today's meetings.
+
+Time: 12:30 PM
+Activity: Takes a lunch break by ordering takeout food from a local restaurant, sits in the small office kitchen to eat while catching up with colleagues.
+
+Time: 01:30 PM
+Activity: Returns to his desk, continues working on project-related tasks.
+
+Time: 06:00 PM
+Activity: Attends a team meeting, where they discuss progress and plan upcoming projects.
+
+Time: 07:30 PM
+Activity: Leaves the office, walks to the nearest gym for an hour-long workout class before heading home.
+
+Time: 09:00 PM
+Activity: Arrives back home, cooks dinner for himself and his family who will be arriving shortly.
+
+Time: 10:00 PM
+Activity: Eats dinner with his wife and young daughter. They chat about their days at work and school, respectively.
+
+Time: 11:00 PM
+Activity: Helps his daughter brush her teeth before tucking her into bed.
+
+Time: 11:30 PM
+Activity: Watches a video game stream for an hour, reflecting on the day’s events and preparing for tomorrow.

@@ -1,0 +1,43 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Liang Wei is a software engineer who works for a tech startup. He moved to Shanghai five years ago to pursue his career and now enjoys exploring the city's vibrant culture on weekends.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up in his cozy apartment after setting an alarm clock, feeling slightly groggy but ready to start another busy day.
+
+Time: 06:30
+Activity: Takes a quick morning shower and brushes his teeth, ensuring he stays fresh for the day ahead.
+
+Time: 07:15
+Activity: Cooks himself a hearty breakfast of tofu stir-fry with vegetables and rice, savoring the flavors before sitting down to eat.
+
+Time: 08:00
+Activity: Commutes by taking an early morning subway ride to avoid crowds. He grabs a newspaper from the local newsstand and catches up on current affairs while traveling.
+
+Time: 09:15
+Activity: Arrives at his office in the bustling Pudong area, where he greets his colleagues and heads straight for his desk. The office has a modern layout with plenty of natural light.
+
+Time: 13:30
+Activity: Takes lunch break and joins some coworkers for a casual meal at a nearby restaurant, discussing work projects over noodles and dumplings.
+
+Time: 14:15
+Activity: Returns to the office and works on coding until dinner time. He tackles a challenging bug that has been bugging him for weeks.
+
+Time: 18:00
+Activity: Leaves the office to meet up with friends at an outdoor café in the Hongqiao district, enjoying the pleasant evening breeze while catching up over drinks.
+
+Time: 20:30
+Activity: Attends a weekly tech meetup where he listens to presentations from industry experts and shares his own insights on software development trends.
+
+Time: 21:45
+Activity: Goes for a short walk through the city streets, taking in the vibrant night life with its neon lights and busy vendors selling snacks.
+
+Time: 23:00
+Activity: Heads back to his apartment, feeling both tired but satisfied after an eventful day. He takes some time to unwind by reading a chapter of a mystery novel before bed.
+
+Time: 24:00
+Activity: Lights out and prepares for sleep, reflecting on the events of the day and looking forward to tomorrow's challenges.

@@ -1,0 +1,82 @@
+{
+  "name": "Elena",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Freelance Illustrator",
+  "backstory": "Elena, a freelance illustrator based in Barcelona, juggles deadlines and personal passions, finding joy in vibrant cityscapes and whimsical creatures.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "07:45",
+      "activities": ["morning routine", "wake up", "check phone"],
+      "description": "Elena's alarm clock chirps to life. After a few seconds of resisting, she pushes it off and reaches for her phone, silencing the morning notification symphony before pulling on comfy shorts and a flowy top."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["walk", "get coffee"],
+      "description": "She walks down the narrow cobblestone alleyways of her neighborhood, stopping for a cup of strong coffee at a local café, enjoying its earthy aroma."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["sketch", "observe"],
+      "description": "She sits on a park bench by the fountain with a sketchpad and a bright red pen in hand. Today's inspiration: A playful squirrel juggling acorns amidst vibrant morning light. She sketches in quiet observation, occasionally letting out a satisfied chuckle at her own creativity."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["breakfast", "commute", "prepare workspace"],
+      "description": "Elena throws on a backpack loaded with her sketchbook and art supplies, grabs a simple breakfast of toast with jam, and heads to her studio nestled amongst the artistic hustle of Barcelona's El Raval district."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "15:00",
+      "activities": ["work", "illustration"],
+      "description": "She settles into her work space, surrounded by inspiring artwork. The sun bathes the studio in a warm glow, painting hues across the floor as she starts working on her current project - a series of intricate illustrations inspired by Spanish folk tales."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["lunch", "socialize", "emails"],
+      "description": "Lunch break! Elena finds a cozy tapas bar near Plaça Catalunya and enjoys her lunch with friends while catching up on work emails and planning her next artistic endeavors."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["sketch", "nature"],
+      "description": "She heads to the park, sketching in the afternoon sun, finding solace in nature's vibrant hues."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["walk", "gelato", "music"],
+      "description": "Elena walks through the bustling city streets, stopping for gelato at a charming ice cream stall and listening to street music."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["relax", "tea"],
+      "description": "She returns home, relishes in quiet moments with her cat as she relaxes after a long day of creation. A comforting cup of chamomile tea brings calm before the evening hours."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["read", "dream"],
+      "description": "She reads until sleep draws near, indulging in a thrilling fantasy novel and letting thoughts drift into the peaceful realm of dreams."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Elena snuggles under her warm duvet and lets sleep wash over her."
+    }
+  ]
+}

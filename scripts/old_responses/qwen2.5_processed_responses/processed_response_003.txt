@@ -1,0 +1,76 @@
+{
+  "name": "Liang Hua",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Liang Hua is a software engineer working in Beijing. He moved to the city after graduation and has been dedicating his life to his career while enjoying the vibrant urban lifestyle.",
+  "schedule": [
+    {
+      "startTime": "06:45",
+      "endTime": "07:10",
+      "activities": ["checks news", "stretches"],
+      "description": "Wakes up and checks the news on his phone, stretching gently as he stands by the window."
+    },
+    {
+      "startTime": "07:10",
+      "endTime": "07:45",
+      "activities": ["shower"],
+      "description": "Takes a quick shower, using his smartphone to time it exactly 8 minutes long to ensure thorough cleanliness without wasting water."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:15",
+      "activities": ["jog"],
+      "description": "Jogs in the park for 30 minutes. The fresh morning air and rhythmic jog clear his mind after the night's restful sleep."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["breakfast", "read", "plan"],
+      "description": "Eats breakfast at a nearby café, usually ordering the egg-and-pancake set with fruit juice and green tea to start his day off well-nourished. He then commutes to work by subway, typically traveling during non-peak hours to avoid crowds and spending some time reading or planning for the day ahead on his laptop."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["work", "meetings"],
+      "description": "Attends a team meeting with colleagues to discuss project updates and challenges, often requiring him to share insights from his research."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:45",
+      "activities": ["lunch"],
+      "description": "Takes an hour-long lunch break at a local restaurant, usually choosing dishes that are quick yet satisfying."
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "18:30",
+      "activities": ["work", "coding"],
+      "description": "Returns to work where he begins coding for the afternoon. He enjoys using his favorite IDE while listening to music through earbuds."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:45",
+      "activities": ["happy hour", "socialize"],
+      "description": "Ends his workday and walks to a nearby pub for happy hour with friends, catching up on recent events and projects."
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["cook", "dinner"],
+      "description": "Returns home and prepares dinner. Tonight he decides to cook stir-fried vegetables and rice, appreciating the quiet time in the kitchen after a busy day."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:50",
+      "activities": ["watch documentary", "relax"],
+      "description": "Watches a documentary series about technology and science on his living room couch, feeling rejuvenated by the content."
+    },
+    {
+      "startTime": "22:50",
+      "endTime": "23:59",
+      "activities": ["read", "sleep"],
+      "description": "Heads to bed for some light reading before sleep. Tonight he picks up an adventure novel, looking forward to another day of challenges in life and work."
+    }
+  ]
+}

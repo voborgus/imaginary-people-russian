@@ -1,0 +1,88 @@
+{
+  "name": "Emily Chen",
+  "gender": "Female",
+  "age": 27,
+  "location": "Canada",
+  "job": "Documentary Filmmaker",
+  "backstory": "Emily left her hometown in Beijing to pursue her passion for documentary filmmaking, hoping to explore the world and tell diverse stories.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Emily wakes up before sunrise. She's used to the early hours since her days spent studying film theory and editing practice at night were often long and demanding. Today is no different, she has a call with a filmmaker in Morocco scheduled for later in the day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make tea", "review schedule"],
+      "description": "Emily makes a pot of ginger tea for herself as she goes through her daily schedule for work. The tea warms her hands and calms her before she begins reading her research for a project on rural communities in Canada."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["morning routine", "yoga", "enjoy bakery aroma"],
+      "description": "Morning routine. She washes her face, brushes her teeth, then stretches with light yoga moves to prepare herself for the day's activities. The aroma of freshly baked granola from the local bakery next door drifts through the open window as she sips her tea."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["grocery shopping", "enjoy market"],
+      "description": "Takes a bus to the local market to buy vegetables and fresh bread. This is a ritual she enjoys; the bustling atmosphere, the chatter of locals, and the lively energy make her day seem less solitary."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["documentary editing"],
+      "description": "Begins work at the film studio. She works on editing footage from a documentary about indigenous land rights in British Columbia."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "enjoy rooftop garden"],
+      "description": "Lunch break. Emily eats a sandwich of leftover lentil soup and hummus with whole wheat bread, enjoying the peacefulness of the studio's rooftop garden where she sometimes eats lunch during warmer months."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["documentary editing"],
+      "description": "Emily works on the editing for a documentary on the environmental impact of tourism in Banff National Park, reviewing the footage gathered from her expedition earlier this week."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["afternoon walk", "enjoy park"],
+      "description": "Emily heads to a local park near her studio for an afternoon walk. The crisp evening air and the sounds of birdsong create a tranquil backdrop as she enjoys the sunset view."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner", "check emails"],
+      "description": "Dinner time at home. She enjoys the taste of homemade Thai curry with brown rice while scrolling through emails from aspiring filmmakers who seek her mentorship."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["reading", "relax"],
+      "description": "Emily reads a few chapters of a historical fiction book she's been saving for leisure. The soft glow of a lamp illuminates her face as the story unfolds, transporting her to another time and place."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["evening routine", "warm milk"],
+      "description": "Finally, Emily settles in with a glass of warm milk before turning off the lights for the night. The quiet evening reminds her how much she cherishes solitude after an active day filled with creative endeavors and social interactions."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "She closes her eyes, allowing herself to drift into a peaceful sleep as anticipation for tomorrow's adventure takes hold."
+    }
+  ]
+}

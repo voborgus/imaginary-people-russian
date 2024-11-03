@@ -1,0 +1,43 @@
+Name: Li Mei
+Gender: Female
+Age: 35
+Location: Beijing, China
+Backstory: Li Mei is a passionate graphic designer who has been working at a small advertising firm in the heart of Beijing for over five years. She moved to the city after graduating with high hopes and dreams of creating stunning designs that could leave an indelible mark on people's minds.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches her legs and arms before getting out of bed. Takes a quick look at her smartphone to check the weather forecast for the day.
+
+Time: 07:15
+Activity: Buys breakfast from a nearby street vendor who sells fresh fruits and pastries.
+
+Time: 08:00
+Activity: Arrives at the office, quickly greets her colleagues in the communal area before heading to her desk. She spends some time checking emails and planning out the day's tasks.
+
+Time: 09:30
+Activity: Meets with a client from another company for a project briefing. They discuss design ideas and timelines over coffee.
+
+Time: 12:00
+Activity: Goes out for lunch at a local restaurant near her office. Chooses to dine alone, enjoying the conversation of her work colleagues on their social media accounts instead of engaging in a lengthy discussion.
+
+Time: 13:30
+Activity: Returns to the office and starts working on a new design brief given by the marketing department. Sketches out some rough ideas before jumping into Adobe Photoshop.
+
+Time: 15:00
+Activity: Attends a team meeting with her supervisor to go over progress reports for ongoing projects. Offers feedback and suggestions based on recent market trends.
+
+Time: 17:30
+Activity: Takes a short break, walks down the street to visit a nearby park where she practices Tai Chi and calms her mind before resuming work.
+
+Time: 18:45
+Activity: Works until late afternoon, focusing on fine-tuning the design elements for an upcoming campaign. Reviews previous designs with an eagle eye for any improvements.
+
+Time: 20:00
+Activity: Leaves the office to catch up with a close friend at their favorite cafe for some socializing and a light dinner.
+
+Time: 22:30
+Activity: Returns home, chats briefly on the phone with her family about plans for the weekend. Decides to read a few pages of a design book before settling in for the night.
+
+Time: 23:45
+Activity: Goes to bed after ensuring that all work-related matters are attended to and her apartment is secure for the night.

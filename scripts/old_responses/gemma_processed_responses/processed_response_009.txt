@@ -1,0 +1,70 @@
+{
+  "name": "Amelia Garcia",
+  "gender": "Female",
+  "age": 27,
+  "location": "Costa Rica",
+  "job": "Wildlife Photographer",
+  "backstory": "Amelia is a wildlife photographer who dreams of capturing the beauty and diversity of the rainforest in her native Costa Rica. She hopes to eventually build a documentary that will highlight the importance of preserving this precious ecosystem.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "drink coconut water", "observe nature"],
+      "description": "Amelia awakens to the chirping of exotic birds outside her window.  After drinking a glass of coconut water, she opens the balcony doors and steps onto the wooden platform overlooking lush greenery. Sunlight bathes the trees in warm hues as she begins to take stock of the day's possibilities for her photography."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "coffee", "prepare camera"],
+      "description": "A quick breakfast of fresh fruit and bread followed by a refreshing cup of coffee.  She grabs her camera bag and sets out towards the nearby national park, a 15-minute stroll from her home, to capture some early morning shots of hummingbirds."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["photograph birds", "explore park"],
+      "description": "Amelia arrives at the park entrance. A kaleidoscope of vibrant blooms surrounds her.  She spots a male Green Kingfisher perched on a nearby branch, its shimmering green and blue plumage catching the light. For the next hour, she meticulously photographs the bird's movement and form, striving for perfect composition before dawn's peak."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["photograph butterflies", "explore rainforest"],
+      "description": "With the early morning sun rising higher in the sky, Amelia begins exploring a nearby trail, documenting various species of butterflies flitting through bright wildflowers. Her lens captures moments of delicate beauty and intricate details – monarch butterflies with their orange wings contrasted against vibrant purple flora - as she follows them into deeper parts of the rainforest."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["have lunch", "rest"],
+      "description": "Lunchtime!  Amelia takes a picnic basket filled with locally sourced avocado sandwiches and fresh juice to a secluded spot overlooking a cascading waterfall. A serene moment in the rainforest's symphony fills Amelia's soul before returning to her quest for photogenic moments."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["photograph monkeys", "explore rainforest"],
+      "description": "Continuing her exploration, Amelia captures the playful antics of monkeys frolicking through branches.  The sounds of their chattering and laughter fill the air as she aims her camera at them, capturing the essence of their vibrant life in its natural element."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["photograph plants", "appreciate nature"],
+      "description": "Reaching a scenic clearing, Amelia sets up on a comfortable mossy rock formation. The afternoon sun paints the rainforest with a golden glow, allowing for long-exposure shots of vibrant orchids and flowering plants in perfect detail. She pauses her work to appreciate the natural world's beauty before setting off towards home."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["review photos", "have dinner"],
+      "description": "Amelia arrives back home. After completing some light chores and having dinner with her family, she spends an hour reviewing her day's photos on a laptop while sipping her chamomile tea."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "activities": ["watch sunset", "read book"],
+      "description": "Amelia finally settles down in the living room, watching the sunset over the horizon. The warm hues cast long shadows as she closes her eyes to prepare for the night, ready to wake and continue capturing the wonders of Costa Rica's rainforests tomorrow."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:59",
+      "activities": ["read", "sleep"],
+      "description": "Amelia reads through a book about conservation efforts before heading off to sleep, content with the day's accomplishments."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+Name: Zhang Ming
+Gender: Male
+Age: 35
+Location: China, Beijing
+Backstory: A diligent software engineer who works in a tech company. He enjoys reading and often takes his weekends to explore local cultural activities.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up with an alarm set for early morning, starts the day by stretching and opening the window blinds to let natural light in.
+Time: 06:15
+Activity: Drinks a cup of hot tea with honey, preparing his body for the day ahead.
+Time: 07:00
+Activity: Commences a one-hour exercise routine, focusing on yoga and cardio to stay fit.
+Time: 08:00
+Activity: Takes a shower and gets dressed in comfortable work attire.
+Time: 09:00
+Activity: Leaves for the office, traveling via the subway line that takes him through the bustling streets of Beijing.
+Time: 12:30
+Activity: Lunch break at his workplace cafeteria. He usually grabs a quick meal with a colleague and discusses ongoing projects.
+Time: 14:00
+Activity: Afternoon coding session in the conference room, often working late into the evening due to project deadlines.
+Time: 18:30
+Activity: Wraps up work for the day, finishes any outstanding tasks, and prepares to leave.
+Time: 19:00
+Activity: Jogs around the park near his office to decompress from a long day of coding.
+Time: 20:00
+Activity: Arrives home, spends some time reading or watching documentaries before starting dinner preparations.
+Time: 21:30
+Activity: Eats a light dinner and starts catching up on news articles or tech blogs online.
+Time: 23:00
+Activity: Winds down with an e-book for an hour or so, sometimes switching to his favorite TV series.
+Time: 00:00
+Activity: Lights out, gets into bed to ensure a good night's sleep for the next day.

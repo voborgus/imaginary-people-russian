@@ -1,0 +1,58 @@
+{
+  "name": "Anya Petrovna",
+  "gender": "Female",
+  "age": 27,
+  "location": "Moscow, Russia",
+  "job": "Freelance Photographer",
+  "backstory": "Anya is a freelance photographer specializing in capturing the beauty and chaos of street life.  She moved to Moscow after her photography career took off in her hometown, dreaming of exploring its urban landscape and documenting everyday stories.",
+  "schedule": [
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["wake up", "make tea", "eat breakfast"],
+      "description": "Anya rises with the faint glimmer of dawn peeking through her window. A quick glance at her phone shows she has a new assignment lined up - capturing the bustling Sunday farmers market for an art magazine. After brewing a pot of strong Russian tea, she starts her day with a light breakfast of a bagel topped with smoked salmon and chives."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["photograph market", "capture portraits"],
+      "description": "Stepping out into the crisp morning air, Anya finds inspiration in the everyday rituals unfolding before her eyes – families selecting flowers for Mother's Day, bakers setting up their stalls, pigeons squabbling over scraps. She pulls out her vintage Nikon and begins to document the scene, framing portraits of vendors and customers alike."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["visit cafe", "photograph people"],
+      "description": "Anya heads to a bustling street cafe, joining others enjoying their morning coffee and pastries. The café is filled with artists sketching at nearby tables, families engaging in friendly conversations, and young musicians serenading customers through the smoky air. Her camera clicks constantly as she captures these fleeting moments of life unfolding around her."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["photograph park", "capture children"],
+      "description": "After a few hours capturing the market's vibrant energy, Anya heads to a local park where children play. The scene is bathed in the golden light of the afternoon sun, and kids are running through fields of flowers, chasing after each other. Her camera captures their joy and innocence – a stark contrast to the hurried pace she witnessed earlier."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "activities": ["have lunch", "prepare for workshop"],
+      "description": "Back at home, Anya finds solace in a warm, homemade borscht soup with her grandmother's recipe, before preparing for a photography workshop later that evening. Sharing her passion and knowledge is part of what makes her job fulfilling, and she looks forward to helping others find their artistic voices."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "activities": ["teach photography workshop", "discuss photography"],
+      "description": "A lively discussion on the craft of photography at the workshop brings Anya to life as a mentor. She teaches participants about composition, light, and finding stories in the mundane. The atmosphere is electric, fueled by shared experiences and creative insights."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["have tea", "watch news"],
+      "description": "After packing away her camera gear, Anya settles into her armchair with a cup of herbal tea before turning on the news to learn about recent events. As she listens to local broadcasters discuss the latest political happenings, she finds herself contemplating the fleeting nature of time and its intricate dance across lives."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "01:00",
+      "activities": ["have nightcap", "read about art exhibition"],
+      "description": "A nightcap in her balcony overlooking a cityscape bathed in moonlight completes Anya's day. The gentle hum of the city below, a familiar melody, reminds her that life in Moscow unfolds in its own unique symphony, an art she is committed to capturing through her lens. The night ends with her reading about a local art exhibition opening tomorrow, feeling energized and optimistic for the new challenges ahead as she drifts off to sleep."
+    }
+  ]
+}

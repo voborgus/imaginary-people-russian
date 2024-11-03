@@ -1,0 +1,94 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan (Tokyo)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emiko is a freelance graphic designer who recently moved back to Tokyo after living abroad for four years. She's adjusting to life in the city, navigating her career as an independent worker, and enjoying her favorite hobbies like hiking and reading.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "pet cat", "morning routine"],
+      "description": "Woke up to the sound of her cat, Mochi, meowing outside her bedroom door."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["breakfast", "tea", "mochi"],
+      "description": "Had a quick breakfast consisting of green tea and steamed mochi with strawberry jam."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "activities": ["work", "email", "client inquiries"],
+      "description": "Started her freelance work by checking emails and responding to client inquiries on her laptop."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["coffee break", "cafe visit", "social interaction"],
+      "description": "Took a short break to grab a coffee at the cafe down the street, greeting the barista who knows her name."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["work", "design", "logo creation"],
+      "description": "Resumed work, focusing on designing a logo for a new startup."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["work completion", "client communication"],
+      "description": "Finished her design and sent it to the client for review."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["lunch", "social interaction", "networking"],
+      "description": "Had lunch at a nearby ramen shop with an old friend who works as a graphic designer too. They talked about recent projects and shared tips."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["walk", "neighborhood exploration", "relaxation"],
+      "description": "Went on a short walk around her neighborhood, taking in the sights and sounds of the city while trying to clear her mind."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["yoga", "pet interaction"],
+      "description": "Returned home and spent some time practicing yoga with Mochi by her side."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner", "cooking", "meal preparation"],
+      "description": "Had dinner at home, preparing stir-fried vegetables with tofu."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["documentary", "research", "note-taking"],
+      "description": "Watched a documentary about sustainable design, taking notes for potential future projects."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["reading", "relaxation", "outdoor time"],
+      "description": "Gradually wound down by reading a book on her balcony before heading to bed."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Went to sleep feeling satisfied with the day's progress and looking forward to tomorrow."
+    }
+  ]
+}

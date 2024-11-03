@@ -1,0 +1,82 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who lives and works in Shanghai. He enjoys spending his weekends exploring local parks and trying out new restaurants.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "meditation"],
+      "description": "Wakes up to the sound of the morning bird chorus, slowly gets out of bed after a peaceful start to the day with some meditation"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "prepare for work", "drink green tea"],
+      "description": "Takes a shower, prepares for work while sipping on a cup of green tea"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["commute", "read industry news", "plan the day"],
+      "description": "Commutes by subway to his office in Pudong; he enjoys reading industry news and planning the day ahead during the journey"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["client meeting", "discuss projects"],
+      "description": "Attends a client meeting at the office, discussing software development projects with colleagues from various departments"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "14:30",
+      "activities": ["lunch", "try new restaurant"],
+      "description": "Takes a break for lunch, trying out a new restaurant in Shanghai known for its vegetarian dishes to keep his diet balanced"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "18:00",
+      "activities": ["work", "debug code", "review documents"],
+      "description": "Returns to work; he spends the afternoon debugging code and reviewing technical documents with his team"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "activities": ["walk", "enjoy park"],
+      "description": "Walks through Xujiahui Park after a long day, enjoying the greenery and people-watching before heading home"
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "activities": ["cook", "eat dinner"],
+      "description": "Cooks dinner; today he's making braised pork and rice, preparing a simple yet hearty meal at home"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["watch TV", "unwind"],
+      "description": "Watches an episode of his favorite TV series, \"Black Mirror,\" to unwind after work"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["meditate", "reflect"],
+      "description": "Meditates for half an hour before bed, reflecting on the day and planning the next one"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out; Li Wei drifts off to sleep, ready for another productive day tomorrow"
+    }
+  ]
+}

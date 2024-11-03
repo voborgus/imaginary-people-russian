@@ -1,0 +1,88 @@
+{
+  "name": "Amelia Wright",
+  "gender": "Female",
+  "age": 27,
+  "location": "Denmark",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Amelia, a freelance graphic designer in Copenhagen, dreams of traveling the world and creating meaningful work that helps others.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["rise from bed", "stretch", "grab apple"],
+      "description": "Amelia rises from her cozy bed with soft morning light streaming through her window onto the floral pattern on her duvet. She stretches, feeling the warmth of the blanket before hopping out of bed and grabbing a green apple from the fruit bowl next to her nightstand."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:30",
+      "activities": ["rinse face", "make tea", "check emails"],
+      "description": "After rinsing her face, she sips a glass of chilled water before turning on the kettle for her morning tea blend. She then begins working through emails and messages while enjoying her cuppa in front of the window, taking note of the blooming spring flowers across the street."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["walk dog", "explore park"],
+      "description": "Leaving behind her morning routine, Amelia heads out to join her dog for their daily walk in the expansive park just outside of her apartment building. The crisp Danish air fills her lungs as she lets her golden retriever Max run ahead, exploring the paths with unbridled energy."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "activities": ["take photos", "capture nature"],
+      "description": "While strolling through the park, Amelia takes photos of the blooming daffodils and cheerful robins hopping around the grassy lawns. Her camera's lens captures the vibrant colours of spring nature for her upcoming freelance portfolio work, which focuses on botanical illustrations."
+    },
+    {
+      "startTime": "08:45",
+      "endTime": "10:00",
+      "activities": ["prepare breakfast", "work on client projects"],
+      "description": "Amelia returns home with Max by her side, enjoying the quiet moment as she prepares a breakfast of porridge and banana. She then sets to work on some client projects, diving into their initial design brief."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["graphic design challenge", "organic food cooperative"],
+      "description": "During this time block, she tackles a graphic design challenge for a local organic food cooperative. The project involves conceptualizing a new brand identity that resonates with the cooperative's core values of sustainability and community."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "read about sustainability"],
+      "description": "She makes her way to a bustling café just outside of her workplace, where she grabs a quick lunch while immersing herself in some online articles about sustainable living. The aroma of freshly brewed coffee fills the air as she enjoys reading about renewable energy innovations and mindful consumerism."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["work on travel company project", "design AR map"],
+      "description": "The afternoon unfolds with intense work time at her desk, where Amelia dedicates herself to a new project for a small travel company. She's designing an innovative map that incorporates augmented reality, focusing on showcasing hidden gems in Europe while minimizing environmental impact."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["walk to market", "buy fresh ingredients"],
+      "description": "After an afternoon filled with focused work and brainstorming sessions, Amelia enjoys a calming walk to her local market. She takes a break from the laptop screen, enjoying the vibrant energy of Copenhagen's outdoor marketplace and grabbing fresh seasonal ingredients for dinner."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "activities": ["cook vegetable stew", "read about future of work"],
+      "description": "She heads home, cooking a hearty vegetable stew with locally sourced ingredients. As she savours a simple meal on her couch with Max by her side, she re-reads an inspiring article about the future of work and travel experiences."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["evening routine", "reflect on the day"],
+      "description": "After enjoying some tea and light reading, Amelia settles in for a well-deserved evening routine. She takes time to reflect on the day's challenges and triumphs before switching off her screens to wind down with her dog."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "As she drifts off into sleep, Amelia is surrounded by a sense of calm and accomplishment. The gentle sounds of the sleeping city fade away as she dreams about faraway lands, her camera lens capturing the magic of the world one image at a time."
+    }
+  ]
+}

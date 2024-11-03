@@ -1,0 +1,88 @@
+{
+  "name": "Li Xiaowei",
+  "gender": "Male",
+  "age": 34,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Born and raised in a small town, Li Xiaowei moved to Beijing for university. After graduation, he found a job in the tech industry and now works as a software engineer.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "look out window"],
+      "description": "Wakes up to an alarm set by his smartwatch, stretches, and looks out of the window at the city lights still bright from night owls"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["drink water", "shower"],
+      "description": "Drinks a glass of water and heads to the bathroom for a quick morning shower"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["brush teeth", "get ready"],
+      "description": "Brushing teeth and getting ready for the day in his cozy bedroom with a view of the bustling city below"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:30",
+      "activities": ["check emails", "update Slack", "work on tasks"],
+      "description": "Arrives at work, checks emails and updates on Slack before diving into today's tasks. His workplace is in an open-plan office with numerous colleagues working in close proximity"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["eat lunch", "chat with colleague"],
+      "description": "Takes a break from coding and enjoys a packed lunch of rice, vegetables, and stir-fried meat while chatting briefly with a colleague named Zhang Ming about the weekend plans"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["collaborate on project", "team meeting"],
+      "description": "Back to work after lunch. Collaborates on a project using a shared digital whiteboard during a team meeting"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["discuss progress with supervisor"],
+      "description": "Meets with his supervisor for a short discussion on project progress and future tasks for the next sprint"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["eat dinner", "watch documentary"],
+      "description": "Leaves the office to grab dinner at a local restaurant. Chooses a Sichuan-style dish known for its spicy flavors to mix things up from his usual order of stir-fried vegetables and chicken. Returns home, logs onto an online streaming platform to watch a documentary about ancient Chinese history as he eats dinner"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["work on side projects", "learn new programming languages"],
+      "description": "Works on personal side projects or learns new programming languages in the evenings. Tonight, he is working on improving his Python skills"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:00",
+      "activities": ["check emails", "complete work"],
+      "description": "Completes his day's work and sends a final check-over of emails before locking up for the night"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:15",
+      "activities": ["read articles", "watch tutorials"],
+      "description": "Reads through some technical articles or watches tutorials to keep up with industry trends"
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "00:00",
+      "activities": ["review day", "set alarm"],
+      "description": "Finally settles into bed, reviews his day in his mind, and sets an alarm for the next morning"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+Name: Lin Wei
+Gender: Male
+Age: 35
+Location: China
+Backstory: Lin Wei is a software engineer who moved to Shanghai after graduation. He enjoys both his job and the vibrant city life, but still misses the quiet countryside where he grew up.
+
+Day:
+
+Time: 06:00
+Activity: Awakens gently by an alarm clock, stretches in bed for a few minutes before getting out of bed.
+
+Time: 06:15
+Activity: Makes himself a cup of black tea with milk, sipping it while checking the news on his phone.
+
+Time: 07:00
+Activity: Begins his morning exercise routine; today includes some push-ups and squats followed by a brisk walk around the park near his apartment.
+
+Time: 08:15
+Activity: Rushes to catch the subway, carrying his laptop case as he sprints down the stairs in a hurry.
+
+Time: 09:00
+Activity: Arrives at work, greets colleagues and starts checking emails and preparing for today's meetings.
+
+Time: 12:00
+Activity: Takes a short break with coworkers to discuss their ongoing project.
+
+Time: 13:00
+Activity: Heads back to his desk; spends the next few hours coding and testing software.
+
+Time: 16:30
+Activity: Attends a team meeting, discussing progress on the current project and future plans.
+
+Time: 18:00
+Activity: Goes out for dinner with colleagues at a nearby restaurant that serves Sichuan cuisine; enjoys spicy food while chatting about work.
+
+Time: 21:00
+Activity: Returns home after dinner, watches some TV before preparing to go grocery shopping later.
+
+Time: 22:30
+Activity: Goes grocery shopping in the local market, buying fresh vegetables and fruits for the week.
+
+Time: 23:45
+Activity: Prepares a simple meal at home, eats with a book on his laptop while working remotely from his living room until around midnight.
+
+Time: 00:00
+Activity: Cleans up after dinner, then sits in his chair by the window to enjoy some quiet time before bed.
+
+Time: 01:30
+Activity: Reads for an hour or so before falling asleep.

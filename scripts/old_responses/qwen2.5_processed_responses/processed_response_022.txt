@@ -1,0 +1,88 @@
+{
+  "name": "Liang Xin",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Xin is a software engineer working at a tech startup in downtown Shanghai. He enjoys hiking on weekends and reading about technology when he has free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up to the sound of birds chirping outside his apartment window. Stretches and checks his phone for any early morning news or emails from work."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["shower"],
+      "description": "Takes a refreshing shower, washing off the sleepiness with warm water."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "activities": ["buy breakfast", "commute"],
+      "description": "Buys a bagel and coffee from a nearby bakery on the way to the office. Jumps onto the crowded subway for his morning commute."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["work", "emails", "planning"],
+      "description": "Arrives at the tech startup in Pudong District, greets colleagues with a nod or a smile before heading to his desk. Begins working through emails and planning for today's tasks."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "discuss project"],
+      "description": "Takes a break for lunch, heads out of the office to a small restaurant near his workplace for a quick meal while discussing project updates with a colleague over rice and meat dishes."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work", "coding", "problem-solving", "team meeting"],
+      "description": "Returns to work, dives back into coding and problem-solving. Participates in a daily stand-up meeting where team members discuss progress and obstacles."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["wrap up work", "discussion with manager"],
+      "description": "Concludes his day at the office, wraps up any pending tasks, and discusses next steps with a project manager during an informal chat."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["walk", "observe city"],
+      "description": "Takes a short walk through Lujiazui Financial District to clear his mind after a busy workday. Observes the impressive skyline and admires the vibrant evening city lights."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["make tea", "read about AI"],
+      "description": "Goes home, makes himself a cup of tea and begins reading about artificial intelligence research for personal interest."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["hike", "spend time with friends"],
+      "description": "Prepares to go for his weekly hike with friends. Packs a backpack with water, snacks, and the day's agenda for their hike in nearby Sheshan National Park."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["return home", "chat with roommate", "watch documentaries"],
+      "description": "Returns home, feeling refreshed from the hike. Cleans up the kitchen, chats briefly with a roommate before settling down to watch some documentaries about technology trends on his tablet."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "24:00",
+      "activities": ["review day", "plan next day", "sleep"],
+      "description": "Reviews his day and plans for the next one in a notebook. Lights off, gets ready for bed."
+    }
+  ]
+}

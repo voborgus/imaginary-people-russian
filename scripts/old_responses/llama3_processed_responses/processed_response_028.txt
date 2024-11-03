@@ -1,0 +1,112 @@
+{
+  "name": "Akira Tanaka",
+  "gender": "Female",
+  "age": 28,
+  "location": "Tokyo, Japan",
+  "job": "Graphic Designer",
+  "backstory": "Akira grew up in a small town on the outskirts of Tokyo and moved to the city after college to pursue a career in graphic design. She works at a small firm in Shibuya.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "get out of bed"],
+      "description": "Woke up to the sound of her alarm blaring in her ear, rubbed the sleep from her eyes, and got out of bed."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["brush teeth", "wash face", "get dressed"],
+      "description": "Brushed her teeth, washed her face, and got dressed in a simple white t-shirt and black leggings."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["breakfast", "coffee"],
+      "description": "Grabbed a quick breakfast of toast with strawberry jam and coffee at the tiny kitchen table in her Tokyo apartment."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["commute", "check emails", "prepare for work"],
+      "description": "Commuted to work on the train, reading through her emails and preparing for the day's tasks during the 25-minute ride."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["arrive at office", "head to design studio"],
+      "description": "Arrived at the office building in Shibuya and headed straight to the design studio where she worked as a graphic designer."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["graphic design work"],
+      "description": "Began working on a new project, inputting text and images into her computer design program, Creative Cloud."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "10:30",
+      "activities": ["break", "chat with coworkers"],
+      "description": "Took a short break and stepped outside to grab some fresh air with her coworkers, chatting about their weekends and weekend plans."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["conference call", "online meeting"],
+      "description": "Participated in a conference call with clients from the US and UK, using Google Meet for the online meeting."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "ramen"],
+      "description": "Had lunch at a small ramen shop near the office, devouring steaming hot noodles in under 15 minutes."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:30",
+      "activities": ["graphic design work", "finalize edits"],
+      "description": "Continued working on her design project, finalizing edits and making sure all images were aligned properly."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "activities": ["pack up", "commute home"],
+      "description": "Finished up her work for the day and started packing up her belongings to head home."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["commute", "grocery shopping"],
+      "description": "Commuted back to her apartment on the train, arriving in a rush due to the evening commute crowds. Stepped out of the station and headed straight home, stopping by the supermarket to pick up some ingredients for dinner."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["cook dinner", "beef stew"],
+      "description": "Began cooking dinner, stirring a hearty beef stew that would simmer all night in her apartment kitchen."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["eat dinner", "watch TV", "work on side project"],
+      "description": "Finished up dinner and spent a quiet evening watching Japanese TV dramas on Netflix and working on a side project – designing stationery for her small design firm."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["read manga"],
+      "description": "Wound down by reading through a chapter of her favorite manga, relaxing after the day's activities."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["bedtime routine"],
+      "description": "Brushed her teeth, washed her face, and snuggled into bed, feeling content with the long day behind her."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Slept through the night."
+    }
+  ]
+}

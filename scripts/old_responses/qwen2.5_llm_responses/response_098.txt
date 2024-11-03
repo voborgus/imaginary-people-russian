@@ -1,0 +1,46 @@
+Name: Lin Tao
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Lin Tao is a software developer who has been working in the tech industry for over ten years. He moved to Shanghai from Beijing a few years ago to be closer to his girlfriend and now shares an apartment with her.
+
+Day:
+
+Time: 06:45
+Activity: Wakes up after setting two alarms, stretches in bed while yawning.
+
+Time: 07:00
+Activity: Walks into the bathroom, brushes teeth, washes face, checks phone for any unread messages from work.
+
+Time: 07:10
+Activity: Heads to the kitchen to make a pot of coffee and pours himself a bowl of cereal.
+
+Time: 08:00
+Activity: Takes his dog out for a morning walk in the nearby park. Plays with the dog and gets some fresh air before heading home.
+
+Time: 08:30
+Activity: Dishes breakfast dishes into compost bin, then heads to the shower.
+
+Time: 09:15
+Activity: In the office, starts checking emails, schedules for the day. Meets briefly with his team to review ongoing projects and plan for the upcoming sprint.
+
+Time: 12:00
+Activity: Goes out for lunch at a nearby café with a few colleagues. They discuss work, exchange stories about their weekend plans.
+
+Time: 13:00
+Activity: Returns to the office to continue working on a critical feature that's being developed. Collaborates closely with his teammates via video calls and shared documents.
+
+Time: 16:00
+Activity: Attends a company-wide meeting where updates are given about various projects, market trends, and upcoming events.
+
+Time: 18:00
+Activity: Ends the day by closing down his computer, saving any unfinished work for tomorrow. Takes some time to walk Lin Tao's dog again before heading back home.
+
+Time: 19:30
+Activity: Arrives back at their shared apartment. Cooks dinner together with his girlfriend. They spend a few hours watching a new show and talking about their day.
+
+Time: 22:00
+Activity: Cleans up the kitchen after dinner, does some light stretching in the living room.
+
+Time: 23:00
+Activity: Reads through emails one last time before going to bed, ensuring nothing is overlooked for work tomorrow.

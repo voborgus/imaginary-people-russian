@@ -1,0 +1,82 @@
+{
+  "name": "Emma Taylor",
+  "gender": "Female",
+  "age": 28,
+  "location": "New Zealand",
+  "job": "Part-time Art Teacher",
+  "backstory": "Emma is a free-spirited artist who moved to Auckland from Wellington 2 years ago to pursue her passion for painting. She works as a part-time art teacher and enjoys exploring the city's street art scene in her spare time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Woke up to the sound of birds chirping outside her apartment window, stretched her arms and got out of bed"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["make coffee", "social media"],
+      "description": "Made a cup of strong coffee and sat down at her kitchen table to scroll through social media while it brewed"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["art supplies", "errands"],
+      "description": "Headed to the local art supply store on K Rd to pick up some new paints and canvases for an upcoming project"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["work", "teach class"],
+      "description": "Arrived at her teaching job at the art school, started prepping materials for a class of rowdy 8-year-olds"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "socializing", "relax"],
+      "description": "Took a lunch break and met up with friends at the nearby park to enjoy some sunshine and people-watch"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["work from home", "portfolio"],
+      "description": "Returned to her apartment, spent some time responding to emails from potential clients and updating her portfolio"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["walk", "inspiration", "snack"],
+      "description": "Took a short walk along the waterfront to get some inspiration for a new painting, stopped at a street food stall to buy an ice cream cone"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["get ready", "outfit"],
+      "description": "Started getting ready for a night out with friends, picked out a fun outfit and did her hair"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "activities": ["socializing", "drinks", "dancing"],
+      "description": "Met up with friends at a trendy bar in the city, had some drinks and danced the night away"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["unwind", "read"],
+      "description": "Said goodnight to friends and headed home, feeling tired but content after a great day out, wind down by reading a book on her couch before getting ready for bed"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to bed"
+    }
+  ]
+}

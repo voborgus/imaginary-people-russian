@@ -1,0 +1,88 @@
+{
+  "name": "Emilia Vasquez",
+  "gender": "Female", 
+  "age": 27,
+  "location": "Mexico City, Mexico",
+  "job": "Architect",
+  "backstory": "Emilia grew up in a large family and learned to be independent from a young age. She moved to Mexico City for university and started working as an architect after graduation.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["woke up", "heard roommate's alarm"],
+      "description": "Woke up early to the sound of her roommate's alarm blaring salsa music."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["got dressed", "let in morning light"],
+      "description": "Got dressed in the dark, fumbling with the blind to let in a little morning light while trying not to wake anyone else up."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "reheated tamales", "checked phone"],
+      "description": "Headed downstairs for a quick breakfast, reheating yesterday's leftover tamales and coffee in the microwave while checking her phone for any important messages from clients or colleagues."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commuted", "read book"],
+      "description": "Commuted to work on the metro, taking the blue line and sitting by herself with a good book to read before arriving at the office around 9."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "activities": ["team meeting", "discussed projects"],
+      "description": "Met with her team in a conference room to discuss ongoing projects and review the day's schedule. They discussed some last-minute changes for an upcoming project due to unforeseen structural issues at the site."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["lunch", "snack from street cart"],
+      "description": "Stepped outside during lunch to grab a snack from a nearby street cart and eat it while sitting by the office building, watching people walk by."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "16:00",
+      "activities": ["individual project work", "CAD design"],
+      "description": "Spent the afternoon working on individual projects, using CAD software to design and finalize some interior architectural plans for a client in Polanco."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["networking event", "discussed urban planning"],
+      "description": "Took an hour-long break to attend a networking event with colleagues from other architecture firms. Had a conversation about urban planning and listened attentively while sipping on a cerveza."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["team meeting", "discussed logistics"],
+      "description": "Returned to the office for another meeting, discussing logistics and timelines with her team members."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["commuted home", "explored street vendors"],
+      "description": "Left work around dinner time, heading back out into the city to grab something to eat. Passed by vendors on the street selling elote, churros, or tacos as Emilia navigated her way through rush hour traffic."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["yoga", "listened to music"],
+      "description": "Arrived home around 8:30 PM and spent some quality time practicing yoga in the living room while listening to calming music on Spotify. Felt refreshed after a long day at work!"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["made dinner", "read in bed"],
+      "description": "Prepared dinner for herself, boiling pasta according to package instructions while heating up steamed broccoli from last night. Ended her day by reading in bed before falling asleep around 11 PM, listening to the sounds of Mexico City outside her window."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

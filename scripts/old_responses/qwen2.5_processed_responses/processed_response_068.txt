@@ -1,0 +1,94 @@
+{
+  "name": "Li Xiaoyang",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Developer",
+  "backstory": "Li Xiaoyang is a software developer who has always been passionate about technology and programming. He grew up in a small town but moved to Beijing for his studies, where he met the love of his life and together they have built a fulfilling career and personal life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Xiaoyang wakes up feeling refreshed after a good night's sleep in his cozy apartment. The morning light streams through the curtains, marking the start of another busy day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["breakfast", "check emails"],
+      "description": "He prepares for work by making a simple breakfast of eggs and toast, which he eats quickly while checking his emails on the small kitchen table."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["workout", "cardio", "weightlifting"],
+      "description": "Xiaoyang heads to the nearby gym where he spends an hour doing cardio and weightlifting. The sounds of other morning exercisers provide a lively backdrop as he pushes through his workout regimen."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["commute", "change clothes"],
+      "description": "After a quick shower, Xiaoyang rushes home to change into his work clothes before heading to the office, which is just a few blocks away in Zhongguancun, known for its high concentration of tech firms and universities."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "activities": ["work", "coding", "team collaboration"],
+      "description": "At his desk at Beijing Tech Solutions, Xiaoyang begins working on a new project. He and his team are focusing on developing an AI-driven chatbot to improve customer service in e-commerce businesses. The task requires constant interaction with colleagues and regular updates on progress."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "Sichuan cuisine", "catch up with colleague"],
+      "description": "Xiaoyang takes a brief break for lunch, ordering takeout from a nearby restaurant that serves authentic Sichuan cuisine. He eats heartily, savoring the spicy flavors while catching up with his colleague who's visiting for the day."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["work", "coding", "troubleshooting", "collaboration"],
+      "description": "Back to work, Xiaoyang continues coding and troubleshooting. His team faces some technical challenges, but they manage to resolve them collaboratively by the end of the afternoon."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["work meeting", "plan for next week"],
+      "description": "Xiaoyang ends his workday with a group meeting to discuss the project's progress and plan for the coming week. The meeting lasts for an hour before he starts wrapping up his tasks."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["commute", "visit bookstore", "pick up new book"],
+      "description": "On his way home, Xiaoyang visits a small bookstore near work where he picks up a new book on data science to continue his self-education journey."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["reading", "tea", "wait for partner"],
+      "description": "He arrives back at his apartment and spends some time reading the new book while enjoying a cup of tea. Tonight's choice is a novel by Cixin Liu, which has been recommended highly within his social circle."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["dinner", "conversation", "plans for weekend"],
+      "description": "Xiaoyang prepares dinner for both himself and his partner, who works late tonight but usually joins him for meals at home. They share the meal over casual conversation about their days, plans for the weekend, and upcoming projects in their respective fields."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:30",
+      "activities": ["watch documentary", "discussion", "ancient Chinese technology"],
+      "description": "After dinner, they watch a documentary together on ancient Chinese technology and engineering, sparking interesting discussions about historical innovation and its relevance to modern times."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "01:00",
+      "activities": ["personal coding projects", "music", "journaling"],
+      "description": "Xiaoyang returns to his study area to work on some personal coding projects that he's been wanting to finish. He listens to instrumental music while coding into the night. Before going to bed, Xiaoyang takes a moment to journal about the day's events and thoughts for the next morning. He appreciates the balance between his professional life in tech and his personal interests, which keep him motivated and engaged throughout the day."
+    }
+  ]
+}

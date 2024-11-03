@@ -1,0 +1,82 @@
+{
+  "name": "Anya Petrova",
+  "gender": "Female",
+  "age": 28,
+  "location": "Russia",
+  "job": "Gardener",
+  "backstory": "Anya was raised in a bustling city surrounded by history and architecture, but she yearns for the quiet solitude of nature found in the mountainous areas of her home country.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Anya's alarm clock blares, startling her from a dream of rolling hills and babbling brooks. After several snooze attempts, she finally pulls herself out of bed. Sunlight streams through the gap in the curtains as morning light floods the room."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["drink tea", "read"],
+      "description": "Anya enjoys a cup of steaming green tea while reading an article on local folklore about mythical creatures hidden in the mountains. Her breakfast consists of buckwheat porridge with berries, a mix of tradition and self-care."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["gardening preparation", "stretching"],
+      "description": "After her morning rituals, Anya begins setting up for her outdoor work day - a task requiring fresh air and some light stretching before starting. Today's focus is pruning her favorite plum tree to encourage proper fruit production. She hums to herself as the morning breeze rustles the leaves above her head."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["pruning tree", "observing wildlife"],
+      "description": "Anya works in her small garden, meticulously shaping and trimming the delicate branches of her plum tree while observing birds nesting in the nearby trees."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:45",
+      "activities": ["lunch", "relaxation"],
+      "description": "Anya's lunch break is spent under a weathered oak tree, enjoying a simple salad with warm bread and some homemade herbal tea. The sound of birdsong fills the air as she savors her meal, relishing in the solitude."
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "16:00",
+      "activities": ["weeding", "soil preparation"],
+      "description": "Anya returns to her garden work, focusing on weeding the vegetable patch and prepping the soil for next week's planting session. It's a slow pace of work, allowing her to be fully present with the task at hand."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["tending orchard", "checking strawberry patch"],
+      "description": "The afternoon is spent tending to her small orchard and checking on her newly planted strawberry patch. The warm evening air brings an unexpected chill as the sun begins to dip below the horizon. Anya settles for a well-earned cup of herbal tea with a slice of rye bread before heading inside."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["reading", "correspondence"],
+      "description": "Anya catches up on correspondence and reading, her favorite books from her younger years. The gentle flicker of candlelight adds to the peaceful atmosphere as she dives into an old adventure novel, transported into a world of dragons and knights."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["cooking", "tea"],
+      "description": "Anya prepares dinner - a hearty vegetable stew simmering on the stove with fresh bread. As the aromas mingle in the air, she sits down for a relaxing evening meal while enjoying her favorite cup of black tea."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["preparing for tomorrow", "relaxation"],
+      "description": "Anya starts preparing for tomorrow's schedule by reviewing her work notes and packing her gardening tools for the next day's outing. The soft light of the candle casts long shadows on the walls as she prepares for a calm, peaceful night ahead."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Anya settles into bed, closing her eyes to a quiet and restful sleep. The calming scent of lavender fills the room as she dreams of the lush valleys and misty forests that lay beyond her garden's walls."
+    }
+  ]
+}

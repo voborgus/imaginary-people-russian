@@ -1,0 +1,46 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Liang Wei is a software engineer working in a tech company in Shanghai. He enjoys playing video games and traveling during his free time to explore the cultural diversity of different regions.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up feeling refreshed after an early night's sleep due to a consistent routine.
+
+Time: 07:00
+Activity: Heads to the bathroom for a quick shower, enjoying the morning light filtering through his window.
+
+Time: 07:30
+Activity: Eats breakfast consisting of steamed buns and soy milk while reading the latest tech news on his phone.
+
+Time: 08:15
+Activity: Jogs in the park near his apartment to clear his mind and stay fit, passing by various street vendors selling traditional snacks.
+
+Time: 09:00
+Activity: Arrives at his office; he checks emails and updates his project plan for the day. The air conditioning is a bit too cold today, but he's used to it.
+
+Time: 12:00
+Activity: Goes out for lunch with a colleague who suggests trying a new local restaurant that serves delicious beef noodles (Xiǎochī).
+
+Time: 13:00
+Activity: Returns to his desk to work on coding and debugging a module, feeling the hum of activity from colleagues around him.
+
+Time: 17:30
+Activity: Takes a break for tea with his team; they discuss project challenges and brainstorm solutions while enjoying homemade rice cakes (Niáowǎng).
+
+Time: 18:00
+Activity: Leaves the office to head home, walking through crowded streets filled with shops selling everything from electronics to souvenirs.
+
+Time: 19:30
+Activity: Arrives at his apartment and gets ready for dinner, which he cooks himself using some fresh ingredients bought earlier in the day (mostly vegetables and tofu).
+
+Time: 20:30
+Activity: Plays a game on his console after cooking, catching up with friends online.
+
+Time: 21:45
+Activity: Cleans up the living room and prepares for bed, feeling content after a fulfilling day.
+
+Time: 22:00
+Activity: Reads some books about technology to unwind before sleep, often finding himself drawn to sci-fi novels that predict future technologies.

@@ -1,0 +1,46 @@
+Name: Liang Zihan
+Gender: Male
+Age: 34
+Location: Shanghai, China
+Backstory: A dedicated software engineer who balances his work with a love for photography and exploring the city's vibrant food scene. He often takes breaks during his workday to snap photos of interesting architectural elements or unique street art.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up gently by an alarm, stretching and feeling the morning breeze through slightly opened windows.
+
+Time: 07:00 AM
+Activity: Cleans face with cold water, brushes teeth, and prepares for a quick workout session in his living room to start the day energized.
+
+Time: 08:15 AM
+Activity: Leaves home by subway to catch an early morning train, feeling the cool air conditioning as he rides towards his workplace at a tech startup downtown.
+
+Time: 09:30 AM
+Activity: Arrives at work, greeted with a friendly smile from his colleague. He heads straight for his desk and begins reviewing emails before starting on today’s projects.
+
+Time: 12:00 PM
+Activity: Takes the stairs to the rooftop of the building for lunch under the clear blue sky, enjoying a packed sandwich while admiring the view over Shanghai’s skyline.
+
+Time: 01:30 PM
+Activity: Back in his office, he engages in a meeting with colleagues from different departments discussing upcoming projects and innovations. He takes notes on his tablet to keep track of key points.
+
+Time: 04:00 PM
+Activity: Uses a break to step outside for a quick walk around the block near the office, capturing photos of the modern architecture and street art he finds along the way.
+
+Time: 06:15 PM
+Activity: Ends his day at work with a final check on emails and tasks. He grabs dinner from a nearby food truck famous for its local specialties before heading home.
+
+Time: 07:30 PM
+Activity: Arrives back home, prepares a quick dinner of stir-fried vegetables and rice while listening to some ambient music. 
+
+Time: 09:00 PM
+Activity: As the sun sets, he takes out his camera to document the vibrant colors of sunset over the cityscape from his rooftop balcony.
+
+Time: 10:30 PM
+Activity: Reviews today’s photos on his computer and sends them to a group chat with friends who share similar interests. 
+
+Time: 11:45 PM
+Activity: Reads through work emails one last time before turning off all lights, preparing for an early morning start the next day.
+
+Time: 12:00 AM
+Activity: Snuggles into bed, reading a few pages of his latest mystery novel to wind down before sleep.

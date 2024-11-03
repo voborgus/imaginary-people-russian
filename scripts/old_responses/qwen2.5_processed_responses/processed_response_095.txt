@@ -1,0 +1,112 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 35,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Li Mei is a software engineer who works remotely and lives in Beijing. She enjoys hiking on weekends to relieve stress from her job.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["stretching", "wakes up"],
+      "description": "Wakes up, stretches in bed for a few minutes before getting out of bed"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["brushing teeth", "washing face"],
+      "description": "Brushes teeth and washes face with cold water to wake up fully"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["making tea"],
+      "description": "Makes herself a cup of green tea using the kettle she set to boil earlier"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["playing with pet", "cat care"],
+      "description": "Takes her pet cat for a morning play session before putting it back in its carrier"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["checking email", "updating to-do list"],
+      "description": "Checks work email on her tablet and updates her to-do list for the day"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["cooking breakfast", "preparing a tofu and vegetable stir-fry with scrambled eggs"],
+      "description": "Starts making breakfast, preparing a tofu and vegetable stir-fry with scrambled eggs"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:30",
+      "activities": ["software development", "debugging code", "reviewing colleague's work"],
+      "description": "Works on her current software project in her home office. She sets up her computer first by plugging in her external monitor and docking station"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch"],
+      "description": "Takes a short break for lunch, eats the tofu and vegetable stir-fry she prepared earlier"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:45",
+      "activities": ["software development", "debugging code", "reviewing colleague's work"],
+      "description": "Returns to work until late afternoon, focusing on debugging code and reviewing colleague's work"
+    },
+    {
+      "startTime": "16:45",
+      "endTime": "17:30",
+      "activities": ["team meeting", "project discussions"],
+      "description": "Joins a virtual team meeting with her colleagues from different time zones. They discuss upcoming project milestones and challenges"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["break", "stretching", "walking"],
+      "description": "Ends the workday, closes down all programs, and takes another short break to stretch and walk around the apartment"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["cooking dinner", "eating steamed fish"],
+      "description": "Has dinner, which is usually a simple meal like stir-fried rice or noodles with vegetables. Tonight she opts for steamed fish as well"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:45",
+      "activities": ["jogging", "exercise"],
+      "description": "Dresses up and heads out for her evening jog around the park near her apartment to enjoy the sunset"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["snacking", "watching cooking show"],
+      "description": "Arrives back home, changes into more comfortable clothes, and starts preparing a light snack while watching a cooking show on TV"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["reading", "keeping up with industry news"],
+      "description": "Reads a book or catches up with online articles in her field of expertise to stay informed about new technologies"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:00",
+      "activities": ["showering", "getting ready for bed"],
+      "description": "Takes a shower, getting ready for bed and washing off the day's stress"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["journaling", "drinking milk"],
+      "description": "Writes down any notes for tomorrow in her journal, then turns out the lights and settles into bed with a cup of warm milk to prepare herself for sleep"
+    }
+  ]
+}

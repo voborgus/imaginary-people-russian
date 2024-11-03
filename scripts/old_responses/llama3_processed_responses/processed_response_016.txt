@@ -1,0 +1,70 @@
+{
+  "name": "Emiko Tanaka",
+  "gender": "Female",
+  "age": 32,
+  "location": "Japan (Tokyo)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emiko is a freelance graphic designer who moved to Tokyo from her hometown of Osaka three years ago. She enjoys exploring the city's hidden cafes and trying out new foods with her friends.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "listened to birds chirping"],
+      "description": "Woke up to the sound of birds chirping outside her small Shinjuku apartment window"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brewed matcha tea", "checked emails", "responded to messages"],
+      "description": "Brewed a cup of matcha green tea in her kitchen and sat down at her desk to check her email and respond to any urgent messages"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["ate breakfast", "watched morning news"],
+      "description": "Had a quick breakfast of toast with strawberry jam and scrambled eggs, watching the morning news on TV while eating"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:30",
+      "activities": ["worked on design project"],
+      "description": "Arrived at her co-working space in Shibuya, where she spent the next few hours working on a design project for a client"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["had lunch", "tried yakitori"],
+      "description": "Took a lunch break and walked to a nearby izakaya with some colleagues to try out their famous grilled yakitori chicken skewers"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["continued work", "worked from coffee shop"],
+      "description": "Continued working on her design project, this time from a coffee shop near her apartment"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "activities": ["met friends", "went to cafe", "went shopping"],
+      "description": "Met up with friends at a trendy cafe in Shimokitazawa for a catch-up and some shopping"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["had dinner", "ate ramen"],
+      "description": "Had dinner at a small ramen shop near her apartment, where she enjoyed a steaming bowl of tonkotsu ramen noodles"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["browsed fashion blogs", "planned outfits"],
+      "description": "Came home and spent the evening browsing through fashion blogs on her phone and planning outfits for the next day"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["watched TV drama", "went to bed"],
+      "description": "Watched an episode of her favorite TV drama before bed, feeling grateful for another busy but fulfilling day in Tokyo"
+    }
+  ]
+}

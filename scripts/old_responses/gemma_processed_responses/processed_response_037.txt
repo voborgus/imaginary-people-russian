@@ -1,0 +1,76 @@
+{
+  "name": "Anya",
+  "gender": "Female",
+  "age": 27,
+  "location": "Finland",
+  "job": "Artist",
+  "backstory": "Anya escaped a harsh family life and moved to Finland to pursue her artistic dreams. Finding solace in nature and the quiet beauty of the country, she struggles with keeping up with everyday responsibilities while battling anxieties about financial stability.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["wake up", "coffee"],
+      "description": "Anya wakes before dawn, stretching languidly as sunlight streams through her bedroom window. She savors a cup of strong black coffee, its bitterness a familiar warmth against the chill morning air."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:15",
+      "activities": ["running", "coastal path"],
+      "description": "Taking a deep breath, Anya starts her day with an invigorating run along the scenic coastal path. The crisp air fills her lungs as the waves crash against the rocks below, and the salty breeze carries the scent of pine trees and sea spray."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["breakfast", "oatmeal", "berries", "cinnamon"],
+      "description": "Anya arrives back home, ready for breakfast. She prepares a simple yet healthy meal; oat porridge topped with berries and a sprinkle of cinnamon."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "activities": ["painting", "bird sketches"],
+      "description": "Anya immerses herself in her art for an hour, the sound of gentle rain drumming against the windowpane adding to the ambiance of creative flow. She sketches portraits of birds she saw earlier that day, capturing the intricate details and unique expressions on their feathers."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["farmers market", "shopping", "baking"],
+      "description": "Anya visits a nearby farmers' market for fresh bread, fruit, and dairy products. The bustling atmosphere offers a different perspective than her artistic routine; she encounters friendly faces and enjoys the energy of this small community gathering. She chats with the local baker about his signature sourdough loaf and makes plans to attend their next baking workshop."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "activities": ["painting", "abstract landscapes"],
+      "description": "Anya works in her studio, transforming a messy array of canvases into something tangible. The midday sunlight casts long shadows across her work table, highlighting the vibrant colors she's been experimenting with. She spends hours painting abstract landscapes, each stroke expressing emotions unseen and unheard by the world around her."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["walk", "market square", "rye bread"],
+      "description": "Anya leaves the studio for a short walk through the city center. The bustling market square is alive with activity, as people stroll through stalls filled with local crafts, delicacies, and fresh produce. She enjoys a warm, comforting Finnish rye bread from a local vendor, watching children chase pigeons in the sunshine."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "activities": ["planning", "organizing", "invitations"],
+      "description": "Anya returns home and spends time organizing her day and planning her exhibition opening event. She calls a few friends she plans to invite; one of them is also a budding artist."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["reading", "art history"],
+      "description": "Relaxed and comfortable in the warm glow of the evening, Anya finishes with some quiet time reading a chapter from a newly bought book about art history."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "07:00",
+      "activities": ["sleep", "cat"],
+      "description": "Anya's sleep is disturbed by her cat who wants to be held, and Anya finds herself surrendering to the small paws that demand affection."
+    }
+  ]
+}

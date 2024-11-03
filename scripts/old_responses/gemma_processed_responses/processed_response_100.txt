@@ -1,0 +1,76 @@
+{
+  "name": "Ava Rodriguez",
+  "gender": "Female",
+  "age": 27,
+  "location": "Mexico City, Mexico",
+  "job": "Graphic Designer",
+  "backstory": "Ava grew up in a vibrant, artistic family with a passion for creating. After graduating with a degree in Graphic Design, she moved to Mexico City to pursue her dreams of working in the bustling creative scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep", "dreaming"],
+      "description": "Ava is asleep, dreaming of vibrant hues of colours and her latest design project taking shape, filled with creative potential."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["morning routine", "stretch", "get dressed"],
+      "description": "Ava wakes with sunlight peeking through her blinds. She stretches her arms and yawns before getting out of bed. She pulls on a flowy orange dress she had planned to wear for a weekend market she's going to later and heads for the bathroom."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["shower", "meditate", "breakfast", "read"],
+      "description": "After a quick shower and some meditation, Ava starts preparing her breakfast – oatmeal with chia seeds and fresh fruit she's bought at the farmers market yesterday. She listens to her favorite podcast as she eats while reading through some of her latest design projects on her tablet."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["meet with designer", "brainstorm"],
+      "description": "Ava heads to the local coffee shop near her studio, 'Cafe Verde,' where she meets with a fellow graphic designer, Luis, for their morning brainstorming session. They're planning a new branding campaign for a young fashion startup that uses sustainable materials in their designs."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["sketch", "hum"],
+      "description": "After finishing the design meeting, Ava steps back into her bustling apartment. Her creative energy is buzzing and she decides to spend some time sketching out potential visuals for Luis' project – ideas are flowing freely as she hums a tune in her favorite genre."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "emails", "social media"],
+      "description": "Lunchtime. Ava enjoys a delicious vegetarian quesadilla with spicy salsa at a local taqueria near the studio. She uses this time to catch up on emails, check on social media accounts and reply to clients' requests."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "18:00",
+      "activities": ["client projects", "meditate"],
+      "description": "Back in her creative space, the afternoon starts slowly with Ava working through client projects. The late afternoons have a relaxed vibe – a nice change from her busy mornings. Ava enjoys the calming background music she uses for concentration and takes a break to meditate during a small lull in activity, before diving back into the work."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["walk", "pet dog"],
+      "description": "After a fulfilling day of design work, Ava leaves her studio for a walk through Parque México. She's joined by her pet dog Luna, a fluffy Samoyed with eyes full of mischief, as they navigate the expansive park trails, enjoying their usual peaceful stroll together."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "activities": ["cook dinner", "tea"],
+      "description": "Back home, Ava prepares dinner – simple and healthy – a chickpea curry served with freshly baked rice and roasted vegetables. She listens to her favorite music while cooking and enjoys a warm glass of herbal tea before settling down for the night."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["read novel"],
+      "description": "Ava starts reading an intriguing historical fiction novel she'd borrowed from the library – it's a quiet moment in preparation for tomorrow's busy schedule."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Ava drifts off to sleep, her mind filled with thoughts about new creative ideas and projects she hopes to undertake. The faint sounds of chirping crickets outside the window are comforting as the city lights begin their quiet dance in the distance, slowly merging into a silent, peaceful night."
+    }
+  ]
+}

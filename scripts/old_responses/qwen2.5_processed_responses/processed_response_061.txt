@@ -1,0 +1,76 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer working in one of the leading tech companies in Beijing. He moved there after graduating from Tsinghua University with dreams of making groundbreaking contributions to the tech industry.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "check news"],
+      "description": "Awakens gently by his smart alarm clock, stretching and checking the news briefly before turning off the lights."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["brew tea", "watch news", "prepare breakfast"],
+      "description": "Heads into the kitchen to brew a pot of strong tea. Watches the morning news on TV while preparing breakfast, consisting of steamed bao and congee."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["commute to work", "subway ride"],
+      "description": "Commutes to work via subway line 10. Surrounded by a rush of students, commuters, and workers all heading for their respective destinations in the bustling Beijing metropolis."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "chat with colleague"],
+      "description": "Takes a break from coding at his desk to have lunch with a colleague. They grab food from the nearby convenience store and sit outside on a bench, discussing recent projects and plans."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "18:00",
+      "activities": ["work", "code", "optimize UI"],
+      "description": "Returns to work and continues coding. He is focused on optimizing the user interface for their latest project, feeling proud of the progress he has made so far today."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["commute home", "subway ride", "plan weekend"],
+      "description": "Commutes back home using the same subway line but in a less crowded direction this time. Takes notes on his phone about tasks to complete over the weekend and ideas for potential side projects."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "activities": ["cook dinner", "watch cooking show"],
+      "description": "Arrives home, starts dinner by boiling some vegetables and rice. Watches a cooking show from a famous Chinese chef who is known for traditional recipes with modern twists."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["eat dinner", "check social media"],
+      "description": "Sits down to eat his meal while scrolling through social media on his phone, checking updates from friends and colleagues before putting the device aside."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:45",
+      "activities": ["bedtime routine", "brush teeth", "skincare", "read"],
+      "description": "Gets ready for bed. Brushes teeth, changes into pajamas, and uses a smart mirror to apply skincare products. Lies down in bed, reading an e-book on his tablet about artificial intelligence until feeling drowsy enough to drift off to sleep."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Drift off to sleep."
+    }
+  ]
+}

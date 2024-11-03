@@ -1,0 +1,88 @@
+{
+  "name": "Akira Thompson",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who moved back to Tokyo from Australia 2 years ago after completing her degree. She now spends most of her days working with local clients and exploring the city's design scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "morning routine"],
+      "description": "Woke up to the sound of the alarm on her phone, which was set to play a playlist of J-pop songs"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["get dressed"],
+      "description": "Got dressed in a comfortable outfit consisting of a pair of faded jeans and a vintage graphic t-shirt"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["breakfast", "matcha tea"],
+      "description": "Headed to the kitchen to make some breakfast, including a bowl of onigiri (Japanese rice balls) and a cup of matcha green tea"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:30",
+      "activities": ["freelance work", "respond to emails"],
+      "description": "Started her freelance work for the day by responding to emails from clients in English"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:45",
+      "activities": ["coffee break", "meet friend"],
+      "description": "Took a short break to grab some coffee at a nearby café, where she ran into an old friend who was working as a barista"
+    },
+    {
+      "startTime": "10:45",
+      "endTime": "13:30",
+      "activities": ["design conference", "networking"],
+      "description": "Attended a design conference at the Tokyo Design Center, where she met with other industry professionals and networked"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["lunch", "ramen"],
+      "description": "Had lunch at a ramen shop near the conference center, where she tried a new type of tonkotsu ramen that she had been wanting to try"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["freelance work", "Harajuku"],
+      "description": "Spent some time working on a new project for a client in Tokyo's fashionable Harajuku district"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "activities": ["shopping", "Shimokitazawa"],
+      "description": "Took another break to visit the trendy Shimokitazawa neighborhood, where she browsed through vintage clothing stores and bought a pair of second-hand boots"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["dinner", "izakaya", "socializing"],
+      "description": "Had dinner at an izakaya (Japanese gastropub) with friends from college, where they enjoyed grilled yakitori chicken skewers and drinks"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["unwind", "plan next day"],
+      "description": "Got back home to her small apartment in the Shimokitazawa district, where she spent some time unwinding and planning out her schedule for the next day"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to sleep with a happy heart, feeling fulfilled after a productive day of work and exploration"
+    }
+  ]
+}

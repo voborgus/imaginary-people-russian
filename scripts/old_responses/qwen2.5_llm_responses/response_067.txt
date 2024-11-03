@@ -1,0 +1,49 @@
+Name: Li Mei
+Gender: Female
+Age: 32
+Location: Beijing, China
+Backstory: Li Mei is a diligent office worker who has lived in Beijing since graduating from university. She works at a tech company and enjoys exploring the city's cultural events on weekends.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up after an alarm; stretches and checks phone for any urgent emails or messages.
+
+Time: 06:30 AM
+Activity: Takes a shower, brushes teeth, gets dressed in casual work attire.
+
+Time: 07:15 AM
+Activity: Makes and consumes a healthy breakfast of porridge with milk and egg.
+
+Time: 08:00 AM
+Activity: Commutes to the office by subway; listens to music or podcasts on her way.
+
+Time: 09:00 AM
+Activity: Arrives at work; begins checking emails and planning tasks for the day.
+
+Time: 12:30 PM
+Activity: Takes a short lunch break with colleagues in the office canteen, often discussing recent tech news.
+
+Time: 01:00 PM
+Activity: Returns to her desk, continues working on ongoing projects; has a video meeting with international partners.
+
+Time: 05:00 PM
+Activity: Ends work for the day and begins preparing dinner at home.
+
+Time: 06:30 PM
+Activity: Cooks a simple meal of stir-fried vegetables and chicken, enjoys it while watching evening news on TV.
+
+Time: 07:15 PM
+Activity: Reads a book or listens to audiobooks during free time before bed.
+
+Time: 08:45 PM
+Activity: Cleans up the kitchen and puts away dishes; tidies up living space.
+
+Time: 09:30 PM
+Activity: Watches TV series or films, depending on her mood for the night.
+
+Time: 11:00 PM
+Activity: Brushes teeth, washes face to prepare for bed.
+
+Time: 11:45 PM
+Activity: Lies down and reads before turning off the light to sleep.

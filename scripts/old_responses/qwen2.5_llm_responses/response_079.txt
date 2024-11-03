@@ -1,0 +1,55 @@
+Name: Liang Zhen
+Gender: Male
+Age: 34
+Location: Shanghai, China
+Backstory: Liang Zhen is a software engineer who works in a tech company. He moved to Shanghai for a job opportunity three years ago and has since been enjoying the vibrant city life while maintaining close ties with his family in the countryside.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up after an early morning alarm, stretches and checks the weather forecast on his phone before getting out of bed. He puts on a pair of loose sweatpants and a t-shirt, ready for the day ahead.
+
+Time: 07:15
+Activity: Takes a short walk in the park near his apartment to stretch his legs and enjoy the morning sunlight.
+
+Time: 08:00
+Activity: Commences his daily exercise routine, doing some push-ups and running on the treadmill. His fitness regime has become an important part of his routine since moving to the city.
+
+Time: 09:15
+Activity: Preparing a quick breakfast of porridge and eggs with a side of fresh fruit while listening to Chinese pop music through headphones. He ensures he eats healthily even when rushing for work.
+
+Time: 09:45
+Activity: Leaves his apartment, dons a helmet and rides his electric scooter to the subway station. The streets are starting to come alive as more people make their way to work.
+
+Time: 10:15
+Activity: Arrives at the office, greets colleagues and heads to his assigned desk in the collaborative workspace. Today’s task list is filled with updates on projects and planning sessions for new features.
+
+Time: 13:00
+Activity: Goes out for lunch with a few coworkers from his team at an authentic local restaurant known for its dim sum. They chat about recent work and personal topics, enjoying good company and food.
+
+Time: 14:00
+Activity: Returns to the office after lunch, checks emails and updates project progress in collaboration tools.
+
+Time: 18:00
+Activity: Leaves the office early due to heavy traffic warnings on his navigation app. He decides to walk back home instead of using public transport, enjoying the evening breeze and observing the city’s nightlife coming alive.
+
+Time: 19:30
+Activity: Arrives home, makes himself a cup of tea while watching the sunset through the window. The tranquility of this moment helps him unwind after a busy day at work.
+
+Time: 20:00
+Activity: Starts his evening routine by reading articles on tech trends and innovation online before starting some personal coding projects he’s working on in his free time.
+
+Time: 21:30
+Activity: Has dinner with his family via video call, discussing their respective days and plans for the weekend. He shares photos from his commute and updates about his work life.
+
+Time: 22:45
+Activity: Reads a chapter of a book or listens to an audiobook while relaxing on the couch. The lights are low, the atmosphere cozy with soft music playing in the background.
+
+Time: 23:15
+Activity: Writes in his journal about events from today, reflecting on his day and making notes for tomorrow’s tasks.
+
+Time: 23:45
+Activity: Gets ready for bed by brushing teeth, changing into pajamas, and setting out clothes for the next morning. He makes sure to drink a glass of water before sleeping.
+
+Time: 00:15
+Activity: Lays down in bed, reads his e-reader one last time or meditates briefly before falling asleep, dreaming about tomorrow’s possibilities.

@@ -1,0 +1,55 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Liang Wei is a software engineer working in one of the largest tech companies in China. He moved to Beijing after completing his studies and has been deeply involved in developing mobile applications for over a decade.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up gently as the sunrise illuminates his room, stretching before getting out of bed.
+
+Time: 06:30
+Activity: Performs morning stretches and meditates to clear his mind, preparing himself for the day ahead.
+
+Time: 07:00
+Activity: Takes a shower and gets dressed in casual wear suitable for an office setting, always ensuring he looks neat and professional.
+
+Time: 07:30
+Activity: Buys breakfast at a nearby café, often choosing to grab some steaming hot dim sum while waiting in line.
+
+Time: 08:15
+Activity: Arrives at the company, which is just a short walk from his home. He exchanges greetings with colleagues as he makes his way through the lobby.
+
+Time: 08:30
+Activity: Starts his day with a brief team meeting to review tasks and discuss any pending projects.
+
+Time: 12:00
+Activity: Goes out for lunch with a colleague, enjoying the diverse cuisine options Beijing has to offer, from authentic Peking duck to spicy Sichuan hotpot.
+
+Time: 13:00
+Activity: Returns to the office and resumes work on a critical application feature, focusing intently on coding and debugging tasks.
+
+Time: 15:00
+Activity: Takes a short break to walk around the office complex, checking out the latest gadgets and tech in the company store.
+
+Time: 16:30
+Activity: Attends a technical seminar about the latest trends in software development, noting down key points for future reference.
+
+Time: 18:00
+Activity: Concludes his workday by attending a client meeting via video call, discussing project progress and addressing any concerns raised.
+
+Time: 19:00
+Activity: Travels home on a crowded subway, reflecting on the day's achievements and planning for tomorrow.
+
+Time: 20:30
+Activity: Cooks dinner, often preparing a traditional Chinese dish that requires some time and effort but yields great satisfaction when enjoyed at the end of a long day.
+
+Time: 21:45
+Activity: Watches an episode of his favorite documentary series or reads about recent developments in tech news.
+
+Time: 23:00
+Activity: Gets ready for bed, packing his clothes for the next day and checking if he has everything needed before heading to sleep.
+
+Time: 23:30
+Activity: Turns off all lights, adjusts his thermostat, and settles into bed with a cup of herbal tea to help him relax.

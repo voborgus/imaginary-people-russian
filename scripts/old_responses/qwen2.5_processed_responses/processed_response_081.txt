@@ -1,0 +1,88 @@
+{
+  "name": "Liang Feng",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Feng is a software engineer who has been working in the tech industry for over a decade. He lives in a bustling neighborhood of Shanghai and enjoys combining his passion for technology with his interest in local culture.",
+  "schedule": [
+    {
+      "startTime": "00:15",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "make breakfast"],
+      "description": "Wakes up to the sound of birds outside his apartment window, stretches, and begins making breakfast using traditional Chinese ingredients."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["eat breakfast", "clean up kitchen", "prepare for day"],
+      "description": "Prepares a healthy meal consisting of scrambled eggs, soy milk, and a few slices of radish. Cleans up the kitchen and prepares for the day."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:35",
+      "activities": ["commute to work", "take metro"],
+      "description": "Leaves his apartment and heads to the nearest metro station to catch the morning rush. Carries a reusable water bottle filled with green tea."
+    },
+    {
+      "startTime": "08:35",
+      "endTime": "09:10",
+      "activities": ["arrive at office", "security check", "check agenda"],
+      "description": "Arrives at the office building and takes the escalator up, checking the day's agenda on his phone while waiting for security checks."
+    },
+    {
+      "startTime": "09:10",
+      "endTime": "12:00",
+      "activities": ["meet colleagues", "discuss projects", "work on tasks"],
+      "description": "Meets his colleagues in the break room to discuss plans for the week. They usually share ideas about projects or upcoming events."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "visit local restaurant"],
+      "description": "Goes out for lunch with a colleague, visiting a local restaurant that serves traditional Shanghai cuisine like steamed fish and roasted duck."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:45",
+      "activities": ["review code", "work on project"],
+      "description": "Returns to the office after lunch, grabs some work documents from his desk, and starts reviewing code as part of a team project."
+    },
+    {
+      "startTime": "15:45",
+      "endTime": "17:00",
+      "activities": ["attend meeting", "discuss project updates"],
+      "description": "Attends a short meeting with the lead engineer discussing updates on their current project. The team has been working overtime to meet the next deadline."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "21:30",
+      "activities": ["take break", "get fresh air", "continue working"],
+      "description": "Takes a break from his desk, walking around the office for some fresh air and stretches before getting back to work."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["have dinner", "watch documentary"],
+      "description": "Finishes up the final tasks of the day, prepares himself a light dinner consisting of stir-fried vegetables with tofu. Watches a documentary about ancient Chinese inventions while eating."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:45",
+      "activities": ["wash dishes", "read book", "check emails"],
+      "description": "Washes the dishes and starts to wind down by reading a book on artificial intelligence or checking some personal emails before going to bed."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:15",
+      "activities": ["brush teeth", "change clothes", "read book"],
+      "description": "Brushes his teeth, changes into pajamas, and reads another chapter of the same book about AI."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer working in a large tech company. He moved to Shanghai from his hometown in the countryside ten years ago to pursue better job opportunities and a higher standard of living.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wakes up", "stretches"],
+      "description": "Wakes up gently by the sound of his smart alarm clock, then stretches for a few minutes before getting out of bed"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:10",
+      "activities": ["washes face", "prepares breakfast", "tea"],
+      "description": "Washes face with cold water from his bathroom sink to invigorate himself and prepares for breakfast"
+    },
+    {
+      "startTime": "07:10",
+      "endTime": "08:00",
+      "activities": ["breakfast", "cleans kitchen"],
+      "description": "Dips his steamed bun in a cup of hot black tea, then washes the dishes and tidies up the kitchen before heading out"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["commute to work", "work"],
+      "description": "Takes the subway to work. The train is already quite crowded; he uses an app on his phone to avoid standing too long by selecting seats with available space"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch"],
+      "description": "Has lunch at a nearby company cafeteria, sitting in line and picking through the menu to find something appealing that's both quick and affordable"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["nap"],
+      "description": "Returns home for a short nap. His work schedule often allows him an hour or two of relaxation during the midday hours"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "18:00",
+      "activities": ["work"],
+      "description": "Logs back into his computer, starting another coding session in one of his company's projects, which is mainly done remotely but requires frequent collaboration with team members"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["commute home"],
+      "description": "Commutes home by subway again. This time he has a bit more space as many workers are already heading off to their own after-work plans"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:45",
+      "activities": ["cook dinner"],
+      "description": "Arrives home and cooks dinner, often choosing from quick and easy recipes that can be prepared in under an hour due to his busy schedule"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "22:30",
+      "activities": ["relax", "read tech news"],
+      "description": "Eats a light meal, then turns on the TV or browses through some tech news online while relaxing with a cup of herbal tea"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:15",
+      "activities": ["personal development reading", "bedtime routine"],
+      "description": "Reads from one of his many books for personal development before heading to bed. He often finds it beneficial for stress relief and inspiration in both his professional and personal life"
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Washes face again, then uses an app on his phone to set a sleep timer. Lights off, ready for rest"
+    }
+  ]
+}

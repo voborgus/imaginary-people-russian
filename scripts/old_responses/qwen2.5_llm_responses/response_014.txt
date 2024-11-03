@@ -1,0 +1,40 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who lives in the bustling city of Shanghai. He moved there after graduating from university and has been working at a tech startup since then. His love for programming began during his college days when he would spend countless hours coding to solve complex problems.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up gently, stretches in bed, and listens to the morning news on his phone while reviewing notes from a recent meeting at work.
+
+Time: 07:00
+Activity: Makes himself a cup of green tea and prepares breakfast consisting of scrambled eggs, rice noodles, and tofu with vegetables, all prepared using recipes from a popular Chinese cooking app.
+
+Time: 08:30
+Activity: Takes his pet cat for a brief walk around the block before heading to the gym. He exercises for about an hour, focusing on cardio and strength training.
+
+Time: 10:00
+Activity: Arrives at work. He has a quick meeting with the team where they discuss project progress and address any immediate issues or updates needed in the development pipeline.
+
+Time: 12:30
+Activity: Takes his lunch break, eating a homemade sandwich made of chicken, cucumber, tomato, and lettuce with a side of sweet potato fries, enjoying a moment to himself before diving back into work.
+
+Time: 15:30
+Activity: Attends another team meeting where they discuss upcoming projects and potential collaborations with other departments. He takes detailed notes on the whiteboard provided in the conference room.
+
+Time: 17:45
+Activity: Completes his daily tasks and reviews any new bug reports or user feedback that needs addressing. Updates code repositories and ensures all changes are committed before moving to the next task.
+
+Time: 18:00
+Activity: Packs up his belongings, says goodbye to colleagues, and heads home for a brief rest before heading out to run errands.
+
+Time: 19:30
+Activity: Meets with a friend for dinner at a local restaurant. They catch up on recent events, share photos from their social media feeds, and enjoy authentic Sichuan cuisine together.
+
+Time: 22:00
+Activity: Returns home, spends some time reading an e-book about machine learning to keep his skills sharp. Then, he prepares himself a cup of herbal tea before settling down for the night.
+
+Time: 23:45
+Activity: Goes to bed, reads another chapter from a mystery novel he's been enjoying, and turns off all electronic devices to ensure a good night’s rest.

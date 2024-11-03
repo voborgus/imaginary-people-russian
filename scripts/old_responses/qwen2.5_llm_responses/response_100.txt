@@ -1,0 +1,37 @@
+Name: Li Ming
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Ming is a software engineer working in one of the tech giants in Shanghai. He moved to the city six years ago after graduating with honors and has been steadily climbing the career ladder ever since. His free time is often spent either coding or exploring local neighborhoods for street food.
+
+Day:
+
+Time: 05:30
+Activity: Wakes up to an alarm set on his smartwatch, stretching in bed as he listens to ambient music playing softly through earbuds.
+
+Time: 06:15
+Activity: Heads to the kitchen and brews a strong cup of black tea with a dash of milk. Watches the morning news while sipping on it before leaving for work.
+
+Time: 07:45
+Activity: Takes an express train from the outskirts of Shanghai where he lives in a small apartment with roommates. He's already in the office by now, checking emails and preparing his schedule for the day.
+
+Time: 08:30
+Activity: Attends a team stand-up meeting via video call to discuss progress on current projects and any challenges faced.
+
+Time: 12:30
+Activity: Heads out for lunch with colleagues. Today, they choose to grab baozi (steamed buns) from a nearby restaurant known for their traditional flavors. They discuss work, recent movies, and travel plans over hearty bites.
+
+Time: 14:00
+Activity: Back at the office for afternoon coding sessions. Reviews code with his team members and helps mentor junior engineers on more complex algorithms and programming concepts.
+
+Time: 17:30
+Activity: Goes to a nearby fitness center after work, spending an hour in the gym. He does a mix of strength training and cardio workouts to maintain his health and energy levels throughout the week.
+
+Time: 19:00
+Activity: Hits up one of Shanghai's popular street food stalls for dinner. Tonight, he enjoys some hotpot with his team, trying out dishes that change seasonally while keeping in touch about their lives outside of work.
+
+Time: 21:30
+Activity: Returns home and logs into a language learning app on his tablet to practice English or perhaps learn a new language like Japanese. He spends an hour learning vocabulary or listening to conversations and practicing pronunciation.
+
+Time: 23:00
+Activity: Reads a few chapters of the novel he’s currently reading before turning off all lights in his room. Lies down, closes his eyes, and listens to some relaxing sounds on his smart speaker as he prepares for sleep.

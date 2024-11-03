@@ -1,0 +1,40 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who works in a tech company. He moved to Shanghai five years ago to pursue better career opportunities and has since adapted well to the bustling city life.
+
+Day:
+
+Time: 06:45
+Activity: Wakes up gently with the alarm, stretches and checks his phone for messages or work emails before getting out of bed.
+
+Time: 07:10
+Activity: Takes a leisurely shower using an app-controlled smart mirror to monitor temperature and humidity settings, making sure it feels just right.
+
+Time: 07:45
+Activity: Makes breakfast, usually a bowl of hot oatmeal with fresh berries, while listening to the morning news on his tablet.
+
+Time: 08:15
+Activity: Commutes by subway, checking emails during the ride. Shanghai's bustling metro system is always a mix of chaos and efficiency.
+
+Time: 09:10
+Activity: Arrives at work. His team is already starting their day, discussing project progress in a collaborative workspace with large windows that let in plenty of natural light.
+
+Time: 12:30
+Activity: Takes lunch break, grabbing an office grab-and-go meal and heading to the rooftop garden for a quick walk before settling down to eat his sandwich while looking out at the city skyline.
+
+Time: 14:00
+Activity: Attends a meeting with colleagues, discussing software development strategies. The environment is modern with large screens displaying real-time data.
+
+Time: 17:30
+Activity: Finishes work for the day and heads back home. Commutes again by subway but chooses to read or listen to an audiobook on his way out of town.
+
+Time: 20:00
+Activity: Arrives at a popular rooftop bar in Puxi, ordering a beer and enjoying live music while socializing with friends from work.
+
+Time: 21:45
+Activity: Returns home. Orders food for dinner via an app, choosing to cook a light meal of stir-fried vegetables and tofu. Sets up his workspace for some personal coding projects.
+
+Time: 23:00
+Activity: Watches a documentary on history before finally going to bed, reflecting on the day's events while keeping one ear open to notifications from family back home in the countryside.

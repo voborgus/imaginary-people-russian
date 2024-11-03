@@ -1,0 +1,112 @@
+{
+  "name": "Li Wei",
+  "gender": "Male", 
+  "age": 34,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who works at a tech company in downtown Beijing. He moved to the city from a small town when he was 20 to pursue his career and has been there ever since. He enjoys photography in his free time and often takes walks around the park near his apartment.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wakes up", "stretches", "gets out of bed", "takes a shower", "shaves"],
+      "description": "Wakes up, stretches, gets out of bed; takes a shower, shaves"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["gets dressed"],
+      "description": "Gets dressed in casual attire suitable for work; chooses light-colored button-down shirt and dark pants"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["makes breakfast"],
+      "description": "Makes breakfast - scrambled eggs and tofu with soy sauce on the side of a bowl of oatmeal"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["eats breakfast", "checks emails"],
+      "description": "Eats breakfast while checking emails and messages from previous night's work tasks"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:15",
+      "activities": ["takes out trash", "collects recycling"],
+      "description": "Takes out the trash from the apartment, collects recycling bags to drop off at designated collection points later in the day"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "08:30",
+      "activities": ["commutes to work"],
+      "description": "Commences a walk to his workplace; enjoys the early morning cityscape and the light aroma of street vendors beginning their daily setup near his usual route"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:15",
+      "activities": ["arrives at work", "signs in"],
+      "description": "Arrives at work, signs in using facial recognition system; heads straight for the cafeteria where colleagues are settling down with their morning coffee and light conversations"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:00",
+      "activities": ["works on projects", "attends meetings"],
+      "description": "Begins working on ongoing projects and meetings with team members for a new software development project"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["takes lunch break", "has meal with colleagues"],
+      "description": "Takes a lunch break, meets up with a few colleagues in the cafeteria to share a simple meal; usually it's just some rice dishes or noodles from nearby vendors"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["resumes work", "has afternoon tea"],
+      "description": "Returns to work and resumes tasks with a brief afternoon tea as an energy booster"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["attends virtual meeting", "reviews documents"],
+      "description": "Attends a virtual meeting discussing progress on the ongoing project, participates actively in team discussions; also prepares notes for tomorrow's meetings"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["leaves work", "goes to park", "takes photos"],
+      "description": "Commences the final phase of his day by reviewing and organizing documents for the day's tasks; also prepares notes for tomorrow's meetings; heads to a nearby park to take some photos, enjoying the changing scenery as evening approaches"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["makes dinner"],
+      "description": "Returns home, starts preparing dinner, which tonight is a stir-fry of vegetables and meat with noodles"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["eats dinner", "watches news"],
+      "description": "Eats dinner; watches some news updates on his phone or TV while enjoying the meal"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["edits photos"],
+      "description": "Begins a session of photography editing on his computer; spends about an hour fine-tuning images from today's shoot"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["reads book", "sleeps"],
+      "description": "Lights out, reads a few pages of a photography book to unwind and prepare for sleep"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "06:30",
+      "activities": ["sleeps"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

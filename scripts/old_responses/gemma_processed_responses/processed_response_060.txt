@@ -1,0 +1,88 @@
+{
+  "name": "Emily Carter",
+  "gender": "Female",
+  "age": 25,
+  "location": "Netherlands",
+  "job": "Freelance Writer",
+  "backstory": "Emily recently moved to Amsterdam from a small town in Germany, seeking new experiences and opportunities. She's a freelance writer, balancing deadlines with her passion for photography.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:15",
+      "activities": ["wake up", "social media", "snooze"],
+      "description": "Alarm goes off. Wakes up, grabs the phone, scrolls through social media before reluctantly hitting snooze one last time."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["shower", "get ready", "choose outfit"],
+      "description": "Showers and gets ready quickly, choosing a simple outfit: black jeans, striped t-shirt, and her favorite worn-in leather jacket."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["check emails", "write article"],
+      "description": "Opens laptop to her inbox; has two deadlines looming from clients in Germany and France. Reviews emails, drafts and edits a few paragraphs for an article on the Amsterdam canal cruise experience."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "activities": ["coffee break", "read poetry"],
+      "description": "Coffee break! Makes a quick cup of coffee with oat milk. Reads a few pages of a French poetry book she's been saving for a relaxing evening."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["farmers market", "breakfast with friends", "discuss travel"],
+      "description": "Head to the local farmers market with friends for breakfast. They pick up fresh bread and pastries, smoked cheese, and locally grown berries. Sits on a bench to eat under the bright sky, listening to street musicians playing classical guitar and discussing future travel plans."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["work on articles", "research sustainable spaces"],
+      "description": "Back at her apartment, Emily jumps into work with renewed focus after lunch break, but soon finds herself distracted by the latest news alert from the Dutch Parliament's digital media platform about a new art proposal for a public park. She starts researching and writing articles on sustainable green spaces in cities."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["visit Rijksmuseum", "photography"],
+      "description": "A spontaneous visit to the Rijksmuseum! Takes advantage of their free admission day. Captures photographs of Rembrandt's self-portraits, admires the meticulous detail of Dutch Golden Age paintings."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "activities": ["quick lunch"],
+      "description": "Lunch break! A quick sandwich from a nearby bakery before heading back to her desk for more writing."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["neighborhood walk", "write observations"],
+      "description": "Emily hits the streets and explores her neighborhood on foot, stopping by cafes with outdoor seating. Writes down some observations about daily life in Amsterdam - people rushing through the crowds but also enjoying their moments of stillness."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["dinner with friends", "discuss work opportunities"],
+      "description": "Dinner with friends. They share stories from their day and chat about potential work opportunities abroad that might lead to her dream of travelling solo next year."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["relax", "read", "herbal tea"],
+      "description": "Back home, Emily switches off the laptop, enjoys a cup of herbal tea and reads for a while."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out! She drifts off to sleep with a gentle breeze rustling through the windowpane."
+    }
+  ]
+}

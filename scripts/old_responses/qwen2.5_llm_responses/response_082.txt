@@ -1,0 +1,43 @@
+Name: Li Wei
+Gender: Male
+Age: 35
+Location: Shanghai, China
+Backstory: Li Wei is a software developer who lives in Shanghai. He was born and raised in the city, completing his education at Fudan University before joining a tech company where he has worked for over a decade. His passion lies in developing innovative solutions to everyday problems using technology.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up gently as the morning sunlight streams through his bedroom window. Stretching and yawning, he gets out of bed to start his day with a cup of tea.
+
+Time: 07:00
+Activity: Jogs for 15 minutes around his neighborhood park, enjoying the fresh air before heading back home to get ready.
+
+Time: 08:00
+Activity: Heads to the kitchen to prepare breakfast, usually a bowl of congee and stir-fried vegetables. He savors every bite while reading the morning news on his tablet.
+
+Time: 09:00
+Activity: Commutes by public transportation to work at the tech company. Skips through the crowded train car with his coffee cup in hand, thinking about the projects he will tackle today.
+
+Time: 12:30
+Activity: Ends the day’s work early as a result of an important client meeting scheduled for this afternoon. He walks to a nearby restaurant for lunch and has some steamed buns with pickled mustard greens.
+
+Time: 14:00
+Activity: Travels back home, opting for a scenic route on his bike. The midday sun casts long shadows across the city as he rides through bustling streets filled with life.
+
+Time: 16:30
+Activity: Attends a meeting at work with key stakeholders discussing new product features and user feedback. He listens intently while jotting down notes in his planner.
+
+Time: 18:45
+Activity: Gets ready to leave for dinner with friends. Dresses up and checks himself in the mirror, making sure everything is perfect before heading out.
+
+Time: 19:30
+Activity: Arrives at a cozy restaurant near the Huangpu River. Enjoying his meal while catching up with colleagues over a few rounds of mahjong tiles.
+
+Time: 22:00
+Activity: Walks back home under the city lights, feeling content after a busy but fulfilling day. Decides to take a walk in the park for some relaxation before bed.
+
+Time: 23:30
+Activity: Returns home and takes off his shoes by the door. Turns on some soft music and gets ready for bed with a light snack and a cup of green tea.
+
+Time: 00:00
+Activity: Lies down in bed, thinking about the day’s achievements as he drifts off to sleep, looking forward to another exciting day ahead.

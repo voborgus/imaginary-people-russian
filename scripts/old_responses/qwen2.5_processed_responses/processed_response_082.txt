@@ -1,0 +1,88 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "Shanghai, China",
+  "job": "Software Developer",
+  "backstory": "Li Wei is a software developer who lives in Shanghai. He was born and raised in the city, completing his education at Fudan University before joining a tech company where he has worked for over a decade. His passion lies in developing innovative solutions to everyday problems using technology.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "drink tea"],
+      "description": "Wakes up gently as the morning sunlight streams through his bedroom window. Stretching and yawning, he gets out of bed to start his day with a cup of tea."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["jog"],
+      "description": "Jogs for 15 minutes around his neighborhood park, enjoying the fresh air before heading back home to get ready."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["prepare breakfast", "read news"],
+      "description": "Heads to the kitchen to prepare breakfast, usually a bowl of congee and stir-fried vegetables. He savors every bite while reading the morning news on his tablet."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute to work", "drink coffee"],
+      "description": "Commutes by public transportation to work at the tech company. Skips through the crowded train car with his coffee cup in hand, thinking about the projects he will tackle today."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work", "client meeting"],
+      "description": "Ends the day's work early as a result of an important client meeting scheduled for this afternoon."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "walk"],
+      "description": "He walks to a nearby restaurant for lunch and has some steamed buns with pickled mustard greens."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["bike ride", "relax"],
+      "description": "Travels back home, opting for a scenic route on his bike. The midday sun casts long shadows across the city as he rides through bustling streets filled with life."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:45",
+      "activities": ["work meeting", "take notes"],
+      "description": "Attends a meeting at work with key stakeholders discussing new product features and user feedback. He listens intently while jotting down notes in his planner."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "19:30",
+      "activities": ["get ready", "leave for dinner"],
+      "description": "Gets ready to leave for dinner with friends. Dresses up and checks himself in the mirror, making sure everything is perfect before heading out."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["dinner", "catch up with friends", "play mahjong"],
+      "description": "Arrives at a cozy restaurant near the Huangpu River. Enjoying his meal while catching up with colleagues over a few rounds of mahjong tiles."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["walk", "relax"],
+      "description": "Walks back home under the city lights, feeling content after a busy but fulfilling day. Decides to take a walk in the park for some relaxation before bed."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["light snack", "drink tea", "prepare for bed"],
+      "description": "Returns home and takes off his shoes by the door. Turns on some soft music and gets ready for bed with a light snack and a cup of green tea."
+    }
+  ]
+}

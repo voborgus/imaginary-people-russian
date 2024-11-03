@@ -1,0 +1,47 @@
+Here are the details about our person:
+
+Name: Emilia Garcia
+Gender: Female
+Age: 27
+Location: Mexico (specifically, Guadalajara)
+Backstory: Emilia is a graphic designer who returned to her hometown of Guadalajara after completing her degree in art school. She now works for a small design firm and loves exploring the city's vibrant street art scene.
+
+And here's a description of a random day from her life:
+
+Day:
+
+Time: 06:30
+Activity: Woke up to the sound of birds chirping outside her window and got out of bed, feeling refreshed after a good night's sleep.
+
+Time: 07:00
+Activity: Brushed her teeth and washed her face with cold water to wake herself up before getting ready for work.
+
+Time: 07:30
+Activity: Made herself a cup of strong coffee and sat on the balcony to enjoy the sunrise while scrolling through social media.
+
+Time: 08:15
+Activity: Grabbed her bag and headed out the door, walking down the street to catch the bus that would take her to work in the city center.
+
+Time: 09:00
+Activity: Arrived at the design firm and started setting up her computer and workspace for the day ahead.
+
+Time: 10:30
+Activity: Met with a client to discuss their logo design project, taking notes and asking questions to ensure she understood their vision.
+
+Time: 12:30
+Activity: Took a lunch break and walked to a nearby taquería to grab a delicious chicken taco and eat it on the go while catching up on some work emails.
+
+Time: 14:00
+Activity: Worked on designing a new brochure for a local non-profit organization, experimenting with different layout options and color schemes.
+
+Time: 16:30
+Activity: Met up with her friend Maria at a street art market in the historic center to browse through the stalls and check out some of the latest murals.
+
+Time: 18:00
+Activity: Said goodbye to Maria and headed back home, stopping by the grocery store on the way to pick up a few ingredients for dinner.
+
+Time: 19:30
+Activity: Cooked herself a hearty chicken stir-fry with vegetables and rice, enjoying her meal while watching TV in the living room.
+
+Time: 21:00
+Activity: Took a short walk outside to clear her head before getting ready for bed, feeling grateful for another lovely day in Guadalajara.

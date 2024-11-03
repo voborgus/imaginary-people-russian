@@ -1,0 +1,46 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: China
+Backstory: Liang Wei is a software developer who works in Shanghai. He grew up in the countryside but moved to the city years ago to pursue his career. Despite the bustling environment, he still cherishes the tranquility of rural life and often visits his hometown on weekends.
+
+Day:
+
+Time: 05:30
+Activity: Wakes up and stretches, feeling a bit groggy from last night's dream-filled sleep.
+
+Time: 06:00
+Activity: Drinks a glass of water and takes a moment to meditate, focusing on breathing deeply to start the day.
+
+Time: 06:15
+Activity: Brushes teeth in front of the bathroom mirror while listening to a morning news broadcast about technology advancements.
+
+Time: 07:00
+Activity: Dressed in casual work clothes; grabs a quick breakfast of steamed buns and congee before stepping outside for some light jogging around his building complex.
+
+Time: 08:05
+Activity: Arrives at the office. Opens up his laptop, logs into the company's internal platform to check emails and daily tasks assigned by his team leader.
+
+Time: 12:00
+Activity: Has a quick lunch break with some colleagues, discussing ongoing projects over a light meal of noodles and vegetables.
+
+Time: 13:05
+Activity: Returns to his desk after the lunch break. Begins working on bug fixes for the current software version, focusing intently as he reviews code line by line.
+
+Time: 17:30
+Activity: Takes another brief walk in a nearby park to clear his mind and relax before returning to work.
+
+Time: 18:00
+Activity: Wraps up tasks for the day with some final checks on pending issues. Leaves the office, planning a short visit home.
+
+Time: 19:30
+Activity: Arrives at home, greeted by his cat Mei-Mei who eagerly jumps onto his lap for petting. Takes out his phone to update project statuses and plan tasks for the next day while playing with his pet.
+
+Time: 20:45
+Activity: Cleans up any mess in the living room and starts preparing dinner, deciding on a simple dish of stir-fried vegetables.
+
+Time: 21:30
+Activity: Eats dinner and watches some science fiction TV shows to unwind. During this time, he reviews some personal projects that could be updated with new features.
+
+Time: 23:05
+Activity: Logs off his devices, saying goodnight to the TV and heading up to bed, ready to repeat the cycle tomorrow.

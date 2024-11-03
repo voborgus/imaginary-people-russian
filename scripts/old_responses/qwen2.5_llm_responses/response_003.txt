@@ -1,0 +1,43 @@
+Name: Liang Hua
+Gender: Male
+Age: 32
+Location: China
+Backstory: Liang Hua is a software engineer working in Beijing. He moved to the city after graduation and has been dedicating his life to his career while enjoying the vibrant urban lifestyle.
+
+Day:
+
+Time: 06:45
+Activity: Wakes up and checks the news on his phone, stretching gently as he stands by the window.
+
+Time: 07:10
+Activity: Takes a quick shower, using his smartphone to time it exactly 8 minutes long to ensure thorough cleanliness without wasting water.
+
+Time: 07:45
+Activity: Jogs in the park for 30 minutes. The fresh morning air and rhythmic jog clear his mind after the night’s restful sleep.
+
+Time: 08:15
+Activity: Eats breakfast at a nearby café, usually ordering the egg-and-pancake set with fruit juice and green tea to start his day off well-nourished.
+
+Time: 09:30
+Activity: Commutes to work by subway. He typically travels during non-peak hours to avoid crowds and spends some time reading or planning for the day ahead on his laptop.
+
+Time: 12:00
+Activity: Attends a team meeting with colleagues to discuss project updates and challenges, often requiring him to share insights from his research.
+
+Time: 13:45
+Activity: Takes an hour-long lunch break at a local restaurant, usually choosing dishes that are quick yet satisfying.
+
+Time: 15:00
+Activity: Returns to work where he begins coding for the afternoon. He enjoys using his favorite IDE while listening to music through earbuds.
+
+Time: 18:30
+Activity: Ends his workday and walks to a nearby pub for happy hour with friends, catching up on recent events and projects.
+
+Time: 20:45
+Activity: Returns home and prepares dinner. Tonight he decides to cook stir-fried vegetables and rice, appreciating the quiet time in the kitchen after a busy day.
+
+Time: 21:30
+Activity: Watches a documentary series about technology and science on his living room couch, feeling rejuvenated by the content.
+
+Time: 22:50
+Activity: Heads to bed for some light reading before sleep. Tonight he picks up an adventure novel, looking forward to another day of challenges in life and work.

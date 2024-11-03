@@ -1,0 +1,46 @@
+Name: Li Ming
+Gender: Male
+Age: 34
+Location: Beijing, China
+Backstory: Li Ming is a software engineer who works at a tech company in downtown Beijing. He enjoys cycling and has a passion for hiking on weekends. Despite the fast-paced city life, he strives to maintain a balance between work and personal interests.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up slowly after setting multiple alarms due to jet lag from his business trip last week.
+
+Time: 07:00 AM
+Activity: Does some light stretching and meditation in the living room, feeling the cool morning air filtering through the curtains.
+
+Time: 07:15 AM
+Activity: Steps out of bed, stretches, and gets ready for another busy day at work.
+
+Time: 08:00 AM
+Activity: Brushes teeth, takes a quick shower, and prepares a light breakfast consisting of green tea and a few pieces of fruit.
+
+Time: 08:30 AM
+Activity: Leaves his apartment with his cycling gear packed in a backpack for the morning commute.
+
+Time: 09:00 AM
+Activity: Arrives at the office and heads straight to his workstation, where he checks emails and prepares for today’s projects. His coworkers are just beginning their workday as well.
+
+Time: 12:30 PM
+Activity: Takes a break during lunchtime to walk around the park near the office with some colleagues. They chat about weekend plans while enjoying the greenery around them.
+
+Time: 01:00 PM
+Activity: Returns to the office and continues working on his assigned tasks, occasionally receiving calls or emails from clients and team members in other parts of the country.
+
+Time: 05:00 PM
+Activity: Ends his workday and leaves the office. He takes a different route home this evening for a change, enjoying the cool breeze as he cycles through the streets.
+
+Time: 06:30 PM
+Activity: Arrives back at home and changes into comfortable clothing before heading to the gym for an hour of strength training exercises.
+
+Time: 08:00 PM
+Activity: Returns home, takes a quick shower, and prepares a simple dinner of stir-fried vegetables with tofu. He enjoys his meal while watching a documentary on nature to unwind after a long day.
+
+Time: 09:30 PM
+Activity: Reads a book on programming languages before bed, trying to stay up-to-date with the latest tech trends.
+
+Time: 10:00 PM
+Activity: Wakes up slightly due to his pet dog nuzzling him, then curls back into sleep until it’s time to wake again for another day.

@@ -1,0 +1,52 @@
+Name: Li Xiaoyu
+Gender: Female
+Age: 34
+Location: Shanghai, China
+Backstory: Li Xiaoyu is a software engineer at a local tech startup. She moved to Shanghai three years ago for better career opportunities and enjoys exploring the city's vibrant cultural scene in her free time.
+
+Day:
+
+Time: 06:00 AM
+Activity: Awakes gently after her alarm clock goes off, stretching and yawning.
+
+Time: 06:30 AM
+Activity: Takes a short walk around her building to collect herself before starting the day.
+
+Time: 07:00 AM
+Activity: Jogs for about 15 minutes in the nearby park to boost her morning energy.
+
+Time: 08:00 AM
+Activity: Cleans up and gets ready for work, preparing a light breakfast of tea and steamed buns.
+
+Time: 09:00 AM
+Activity: Takes the subway to reach her office building; interacts with colleagues and grabs a cup of coffee.
+
+Time: 10:30 AM
+Activity: Begins a meeting with team members about project updates and discussions on new features for an upcoming release.
+
+Time: 12:00 PM
+Activity: Breaks for lunch, orders food from her favorite local restaurant that's just around the corner from work.
+
+Time: 01:00 PM
+Activity: Works through a series of tasks assigned by project managers and mentors; occasionally checks messages on her phone.
+
+Time: 03:00 PM
+Activity: Takes a brief walk to clear her mind, appreciating the greenery in the office park outside their building.
+
+Time: 04:30 PM
+Activity: Attends a training session on latest software development techniques and practices for better coding efficiency.
+
+Time: 06:00 PM
+Activity: Commutes back home via subway; enjoys chatting with other passengers about daily happenings.
+
+Time: 07:00 PM
+Activity: Returns to her apartment, makes herself some dinner of stir-fried vegetables and rice.
+
+Time: 08:30 PM
+Activity: Joins an online language exchange group for practicing English conversation skills with a fellow member from the UK.
+
+Time: 10:00 PM
+Activity: Completes the day's work tasks; checks emails one last time before heading to bed.
+
+Time: 11:00 PM
+Activity: Skims through today’s news on her phone and catches up on social media trends, preparing for another exciting day.

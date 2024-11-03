@@ -1,0 +1,49 @@
+Name: Zhang Ling
+Gender: Female
+Age: 32
+Location: Beijing, China
+Backstory: Zhang Ling is a marketing specialist working in one of the largest advertising firms in Beijing. She moved to the city six years ago from her hometown to pursue better career opportunities and has since thrived professionally.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches in bed, checks phone for any work-related messages or emails
+
+Time: 07:00
+Activity: Drinks a glass of water, prepares breakfast (often a bowl of porridge with soy milk)
+
+Time: 07:30
+Activity: Takes a walk to the nearby park for some morning exercise and breathing in fresh air before heading to work
+
+Time: 08:15
+Activity: Arrives at the office, logs into her computer, reviews any new client briefs or updates from the team
+
+Time: 09:00
+Activity: Attends a meeting with the marketing team to discuss ongoing projects and strategies
+
+Time: 12:30
+Activity: Has lunch in the office cafeteria with colleagues; often discusses industry trends and upcoming campaigns over lunch
+
+Time: 14:00
+Activity: Reviews analytics reports from recent social media ads, ensuring content is effective based on engagement metrics
+
+Time: 16:00
+Activity: Meets with a client to present campaign results and discuss future possibilities for partnership
+
+Time: 18:30
+Activity: Attends a networking event in the office building after work; engages in conversation with clients and potential partners
+
+Time: 20:00
+Activity: Returns home, enjoys a quick dinner prepared earlier in the day (usually a simple dish to save time)
+
+Time: 21:30
+Activity: Works on personal projects or reads industry-related articles for self-improvement
+
+Time: 23:00
+Activity: Completes final tasks of the day and sends off any urgent emails
+
+Time: 23:30
+Activity: Preps for bed, meditates for a few minutes to unwind
+
+Time: 00:00
+Activity: Goes to sleep after brushing teeth and changing into comfortable nightwear.

@@ -1,0 +1,82 @@
+{
+  "name": "Leila",
+  "gender": "Female",
+  "age": 27,
+  "location": "Tokyo, Japan",
+  "job": "Intern at a non-profit organization that promotes sustainable living",
+  "backstory": "Leila was born to a Japanese mother and French father. She spent her childhood moving between Tokyo and Paris before settling back in Tokyo for high school and university. After graduating from the University of Tokyo with a degree in Environmental Science, she landed an internship at a non-profit organization that promotes sustainable living in urban areas.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:20",
+      "activities": ["woke up", "listened to French podcast"],
+      "description": "Woke up to the sound of gentle raindrops hitting the windowpane in her tiny apartment in the Shimokitazawa district, brushed her teeth and washed her face while listening to a French language podcast on her phone"
+    },
+    {
+      "startTime": "06:20",
+      "endTime": "07:00",
+      "activities": ["breakfast", "checked emails"],
+      "description": "Had a simple breakfast of toast with avocado and scrambled eggs while checking her emails on her laptop"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["commuted to work"],
+      "description": "Commuted to the non-profit organization's office in Shibuya by taking the train (JR Yamanote Line)"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["planned Earth Day event", "wrote blog articles"],
+      "description": "Started work on planning an event for Earth Day, involving local schools and businesses to promote eco-friendly practices, and researched and wrote articles on environmental topics for the organization's blog, including a piece on the benefits of community composting programs"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch"],
+      "description": "Took a lunch break at a nearby restaurant called \"Tofuya Ukai,\" where she enjoyed a vegan bento box"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["attended meeting"],
+      "description": "Attended a meeting with colleagues from other organizations to discuss potential partnerships for future projects"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["wrote blog articles"],
+      "description": "Researched and wrote articles on environmental topics for the organization's blog, including a piece on the benefits of community composting programs"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["met with friend"],
+      "description": "Met up with her friend at a café in Harajuku to discuss plans for their upcoming trip to Kyoto"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["cooked dinner", "watched TV"],
+      "description": "Returned home and cooked a simple dinner of stir-fried vegetables and rice while watching a Japanese TV drama series"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["practiced French"],
+      "description": "Took some time to practice her French language skills by listening to music from the French-speaking world and reading French news articles online"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to bed feeling satisfied with the day's accomplishments, but also a bit concerned about an upcoming deadline for submitting a report on sustainable transportation options in Tokyo"
+    }
+  ]
+}

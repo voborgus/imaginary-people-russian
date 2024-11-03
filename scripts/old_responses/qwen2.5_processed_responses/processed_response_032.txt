@@ -1,0 +1,88 @@
+{
+  "name": "Liang Xiaowei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Xiaowei is a software engineer at a tech company in downtown Beijing. He moved to the city from his hometown several years ago to pursue better career opportunities and has since found himself deeply integrated into the urban lifestyle.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wakes up to the sound of his alarm, feeling slightly groggy but ready for another day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["walk", "grab breakfast", "bike"],
+      "description": "Walks out of the apartment, grabbing a breakfast bar from the kitchen before heading downstairs where he collects his bike and helmet."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["bike", "commute"],
+      "description": "Bikes to the subway station, riding along quiet streets in Beijing's early morning."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:30",
+      "activities": ["work", "coffee"],
+      "description": "Arrives at the company building and quickly grabs a coffee from a nearby café before heading into work. The office is just starting its day as he types up his daily report."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "socialize"],
+      "description": "Leaves the office for lunch, opting to walk to the local market where vendors are setting up their stalls with fresh produce and snacks. Buys a steaming bowl of beef noodles and joins a few colleagues in chatting about recent projects as they eat."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:30",
+      "activities": ["work"],
+      "description": "Heads back to the office to continue coding, working on new features for their software application. The day's meetings have not yet started, so he has some peace and quiet."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["meeting", "wrap up"],
+      "description": "Attends a short meeting with his team to discuss progress and any issues they're facing with the project. Ends work for the day, quickly packing up before heading out. Feels a bit of fatigue from sitting at a desk all day but looks forward to the evening's activities."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["commute", "socialize"],
+      "description": "Meets some friends at a local bar for a casual get-together. Orders a cold beer and enjoys catching up on the events in their lives."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:45",
+      "activities": ["dinner", "socialize"],
+      "description": "The group decides to move to a nearby restaurant for dinner, trying out new dishes recommended by one of his colleagues."
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:00",
+      "activities": ["walk", "socialize"],
+      "description": "Finishes dinner with his friends, still chatting as they walk back towards the apartment. Feels energized and happy from a productive day and fun evening."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:45",
+      "activities": ["wind down", "prepare for bed"],
+      "description": "Arrives home, takes off his shoes to get comfortable in bed after a long but satisfying day."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "01:00",
+      "activities": ["read", "sleep"],
+      "description": "Lays down with a book before lights out, planning ahead for the next day."
+    }
+  ]
+}

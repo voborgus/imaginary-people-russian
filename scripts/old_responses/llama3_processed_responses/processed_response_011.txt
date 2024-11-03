@@ -1,0 +1,94 @@
+{
+  "name": "Emily Wilson",
+  "gender": "Female",
+  "age": 28,
+  "location": "London, United Kingdom",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emily is a freelance graphic designer who moved to London three years ago after completing her design degree in Scotland. She's been struggling to find stable clients since then.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wake up", "stretch"],
+      "description": "Wake up and stretch in bed"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Take a shower and get dressed for the day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make tea", "check phone"],
+      "description": "Make a cup of tea and check her phone for any messages from potential clients or friends"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute", "walk"],
+      "description": "Commute to a client meeting in Shoreditch, walking through the quiet streets of London on a Monday morning"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:30",
+      "activities": ["client meeting", "discuss ideas"],
+      "description": "Attend a client meeting at a small startup to discuss their branding and logo design. Discuss ideas with the client."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "activities": ["lunch", "check phone"],
+      "description": "Take a break and grab a sandwich from a nearby café. Eat quickly while checking her phone for any new messages or notifications"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["meeting", "discuss designs"],
+      "description": "Attend another meeting, this time to discuss potential designs with a small marketing agency"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["walk", "browse charity shop"],
+      "description": "Finish the meetings and decide to take a walk along the Regent's Canal to clear her head and get some inspiration for upcoming projects. Visit a local charity shop to donate some old design books and pick up a few second-hand art supplies. Browse through the vintage posters on sale."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "activities": ["work", "design logos"],
+      "description": "Head back home and start working on an ongoing project, designing logos for a small startup in Oxfordshire"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "activities": ["make dinner", "watch news"],
+      "description": "Take a short break to make dinner and eat while watching the evening news"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["work", "research", "experiment"],
+      "description": "Resume work on her design projects, researching inspiration and experimenting with new techniques."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["check phone", "wind down"],
+      "description": "Take one last look at her phone for any messages before winding down for the night. Make a mental note to follow up with clients tomorrow"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Go to sleep after another productive day"
+    }
+  ]
+}

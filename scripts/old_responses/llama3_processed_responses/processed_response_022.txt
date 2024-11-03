@@ -1,0 +1,88 @@
+{
+  "name": "Emilia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Australia",
+  "job": "Cafe and Bookshop Owner",
+  "backstory": "Emilia grew up in a family of artists and always had a passion for music and writing. After studying creative writing in university, she moved to her hometown's coastal town to open a small bookshop and cafe, which has become a popular gathering spot for locals.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "hear seagulls", "smell fresh bread"],
+      "description": "Wake up to the sound of seagulls outside her apartment window and the faint scent of freshly baked bread from her cafe below"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["yoga", "morning routine"],
+      "description": "Practice some morning yoga on her balcony, overlooking the calm ocean water"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Shower and get dressed in a comfortable sundress for the day ahead"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["prep cafe", "make coffee", "bake pastries"],
+      "description": "Arrive at her cafe, \"The Book Nook\", to start prepping for the morning rush of customers. She begins by making coffee and preparing pastries"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "11:00",
+      "activities": ["set up bookstore", "arrange books", "tidy displays"],
+      "description": "Begin setting up the bookstore section of the cafe, arranging new book arrivals and tidying up displays"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["lunch", "eat fish and chips"],
+      "description": "Take a short break to grab some lunch at the nearby fish 'n' chips shop. She enjoys a plate of grilled fish and crispy fries on the beachfront promenade"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["supplier meeting", "discuss menu", "schedule deliveries"],
+      "description": "Attend a weekly meeting with her cafe's suppliers, discussing menu items and delivery schedules for the upcoming week"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["book club", "lead discussion", "connect with authors"],
+      "description": "Hold a book club session in the cafe, leading a discussion on a recent release. The group includes local authors, writers, and literature enthusiasts"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["prep for evening", "create special menu item", "celebrate anniversary"],
+      "description": "Finish prepping for the evening's cafe service, preparing a special menu item to celebrate the town's upcoming anniversary event"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:30",
+      "activities": ["open cafe", "serve customers", "manage staff"],
+      "description": "Open the cafe doors to a busy crowd of locals enjoying the evening atmosphere. Emilia takes orders and serves food and drinks with her team"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["close cafe", "tidy up", "reflect on day"],
+      "description": "Close up the cafe for the night, tidying up displays and saying goodbyes to customers. She reflects on a successful day and makes a mental note to plan next week's events"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["evening routine", "drink tea", "watch stars"],
+      "description": "Wind down with a cup of tea on her balcony, watching the stars come out over the ocean as she prepares for a well-deserved rest"
+    }
+  ]
+}

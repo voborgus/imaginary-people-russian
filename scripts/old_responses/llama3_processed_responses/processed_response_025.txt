@@ -1,0 +1,94 @@
+{
+  "name": "Akira Patel",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who recently moved back to Tokyo after living in New York City for three years. She now works on her own projects and occasionally takes on design work from small businesses in the city.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up to the sound of birds chirping outside her apartment window in the Shibuya ward."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["breakfast", "toast", "avocado", "green tea"],
+      "description": "Grab a quick breakfast consisting of toast with avocado and a green tea."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["personal care", "brush teeth", "wash face", "style hair"],
+      "description": "Start getting ready for the day by brushing her teeth, washing her face, and styling her black hair."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["commute", "subway"],
+      "description": "Commute to work on the crowded JR Yamanote line from Shibuya Station to Shinjuku Station."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["coffee", "check messages", "check updates"],
+      "description": "Arrive at a small coffee shop near her office in Shinjuku and grab a cappuccino while checking her phone for any important messages or updates on her projects."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["design work", "Adobe Creative Suite"],
+      "description": "Start working on a new design project for a small bakery in Harajuku, using Adobe Creative Suite on her laptop."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "ramen", "social media"],
+      "description": "Take a short break to grab lunch at a nearby ramen shop and catch up with friends from work via social media."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:30",
+      "activities": ["design work", "brainstorming", "advertising"],
+      "description": "Return to the coffee shop where she works as a temporary freelance designer for an advertising agency, and begin brainstorming ideas for a new client's campaign."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "activities": ["commute", "subway"],
+      "description": "Finish her shift at the coffee shop and head back to Shibuya via the subway."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["email", "schedule"],
+      "description": "Spend some time responding to emails from clients and managing her schedule for the week ahead."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "izakaya", "socializing"],
+      "description": "Meet up with a friend from college, Yui, for dinner at a new izakaya in Shibuya."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["commute", "subway", "snacks"],
+      "description": "Say goodbye to Yui and head back home via the subway, stopping by a convenience store to grab some snacks for the evening."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["relax", "anime", "read", "green tea"],
+      "description": "Wind down after the day's activities by watching an anime episode or reading a book on her laptop while enjoying a cup of green tea in her cozy apartment."
+    }
+  ]
+}

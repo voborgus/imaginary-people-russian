@@ -1,0 +1,100 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who has been working in the tech industry for over a decade. He moved to Shanghai from Beijing five years ago when he got promoted to lead a development team for an e-commerce platform.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wakes up", "stretches", "checks weather"],
+      "description": "Wakes up, stretches in bed, and checks the weather on his phone before getting out of bed"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["makes coffee", "prepares breakfast", "eats breakfast"],
+      "description": "Makes a pot of strong coffee using his French press and prepares breakfast consisting of scrambled eggs, toast, and tea"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["commutes to work", "listens to music"],
+      "description": "Walks to the nearby train station, where he boards an early-morning metro for about 20 minutes. He listens to music on his headphones while commuting"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["checks emails", "reviews team progress"],
+      "description": "Arrives at work and starts checking emails and reviewing team member's progress reports from the previous day"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["takes a break", "hydrates", "stretches"],
+      "description": "Takes a short break, drinks some water, and does a few stretches at his desk to avoid stiffness during long hours of sitting"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["eats lunch", "discusses work and personal matters"],
+      "description": "Goes for lunch with a colleague, discussing both work projects and personal matters over dim sum and dumplings"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "activities": ["team stand-up meeting"],
+      "description": "Conducts a stand-up meeting with the team. Everyone briefly discusses their current tasks and any obstacles they're facing"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["attends training session", "takes notes"],
+      "description": "Attends an internal training session on new coding standards and tools for project improvement, taking notes diligently"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["works out at gym", "strength training", "cardio"],
+      "description": "Goes to a nearby gym for an hour-long workout. Focuses on strength training and cardio exercises"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:45",
+      "activities": ["eats dinner", "watches news", "reads articles"],
+      "description": "Picks up takeout from his favorite local restaurant and returns home. Eats dinner alone while watching the news or reading articles online"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["listens to tech podcast"],
+      "description": "Skips through the day's highlights of a popular tech podcast on his smartphone before going to bed"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["reads books"],
+      "description": "Reads for an hour, usually a mixture of professional books and novels, depending on what he feels like"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["bedtime routine", "sleeps"],
+      "description": "Prepares for bed by brushing teeth and washing face. Lays down in bed with his book or electronic reader until sleep comes naturally around 23:00"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

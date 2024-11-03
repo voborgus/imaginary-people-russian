@@ -1,0 +1,43 @@
+Name: Liang Wei
+Gender: Male
+Age: 34
+Location: Beijing, China
+Backstory: Liang Wei is a software engineer who works in a startup tech company. He grew up in the suburbs of Beijing but moved to the city center after finishing college for better job opportunities. Despite his busy work schedule, he finds joy in hiking and cooking traditional Chinese dishes.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up with the early morning sun streaming through the window. He stretches and yawns before checking his phone for any urgent messages or emails from his team.
+
+Time: 07:15
+Activity: Preparing a quick breakfast of egg and spinach pancakes, while simultaneously reviewing some project details on his laptop.
+
+Time: 08:00
+Activity: Commutes to work by taking the subway. He enjoys listening to podcasts about technology and innovation during his ride.
+
+Time: 09:30
+Activity: Attends a team meeting in the conference room with colleagues, discussing project milestones and upcoming tasks.
+
+Time: 12:00
+Activity: Takes a short break for lunch. He usually orders takeout from a nearby restaurant or cooks something simple at his desk.
+
+Time: 14:00
+Activity: Resumes work on his current project, spending most of the afternoon coding and debugging.
+
+Time: 17:30
+Activity: Heads out for after-work drinks with a few colleagues. They often meet up to discuss non-work-related topics or plan social activities.
+
+Time: 19:30
+Activity: Arrives home from work. He spends some time checking emails, responding to messages, and doing light exercise on his treadmill.
+
+Time: 20:45
+Activity: Starts preparing dinner. Tonight, he decides to cook a traditional Beijing dish - braised pork with bok choy.
+
+Time: 21:30
+Activity: Dishes are done and put on the table, along with some steamed rice. He enjoys his meal while watching a cooking show on television.
+
+Time: 22:45
+Activity: Cleans up the kitchen and does light cleaning around the apartment. 
+
+Time: 23:15
+Activity: Reads a book or checks social media before finally heading to bed, winding down for the night with a cup of green tea.

@@ -1,0 +1,43 @@
+Name: Liang Xin
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Liang Xin is a software engineer working at a tech startup in downtown Shanghai. He enjoys hiking on weekends and reading about technology when he has free time.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of birds chirping outside his apartment window. Stretches and checks his phone for any early morning news or emails from work.
+
+Time: 07:00
+Activity: Takes a refreshing shower, washing off the sleepiness with warm water.
+
+Time: 07:30
+Activity: Buys a bagel and coffee from a nearby bakery on the way to the office. Jumps onto the crowded subway for his morning commute.
+
+Time: 09:00
+Activity: Arrives at the tech startup in Pudong District, greets colleagues with a nod or a smile before heading to his desk. Begins working through emails and planning for today's tasks.
+
+Time: 12:00
+Activity: Takes a break for lunch, heads out of the office to a small restaurant near his workplace for a quick meal while discussing project updates with a colleague over rice and meat dishes.
+
+Time: 13:00
+Activity: Returns to work, dives back into coding and problem-solving. Participates in a daily stand-up meeting where team members discuss progress and obstacles.
+
+Time: 17:00
+Activity: Concludes his day at the office, wraps up any pending tasks, and discusses next steps with a project manager during an informal chat.
+
+Time: 18:30
+Activity: Takes a short walk through Lujiazui Financial District to clear his mind after a busy workday. Observes the impressive skyline and admires the vibrant evening city lights.
+
+Time: 20:00
+Activity: Goes home, makes himself a cup of tea and begins reading about artificial intelligence research for personal interest.
+
+Time: 21:30
+Activity: Prepares to go for his weekly hike with friends. Packs a backpack with water, snacks, and the day’s agenda for their hike in nearby Sheshan National Park.
+
+Time: 22:30
+Activity: Returns home, feeling refreshed from the hike. Cleans up the kitchen, chats briefly with a roommate before settling down to watch some documentaries about technology trends on his tablet.
+
+Time: 23:45
+Activity: Reviews his day and plans for the next one in a notebook. Lights off, gets ready for bed.

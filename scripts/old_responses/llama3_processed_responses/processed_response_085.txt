@@ -1,0 +1,64 @@
+{
+  "name": "Luna \"Lulu\" Patel",
+  "gender": "Female",
+  "age": 28,
+  "location": "India (Mumbai, Maharashtra)",
+  "job": "Photographer",
+  "backstory": "Luna grew up in a small town outside of Mumbai, where she developed a passion for photography and the arts. She moved to Mumbai after completing her degree in fine arts, hoping to make a name for herself as a photographer.",
+  "schedule": [
+    {
+      "startTime": "05:30",
+      "endTime": "06:15",
+      "activities": ["morning walk", "power nap"],
+      "description": "Woke up early to the sound of her alarm and got dressed for a morning walk along Marine Drive, also known as the \"Queen's Necklace\". Took a short power nap on the balcony of her apartment building, feeling the cool ocean breeze on her face."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["breakfast with friend", "chai", "omelette"],
+      "description": "Met up with her best friend, Rohan, for breakfast at this tiny cafe near Churchgate Station. Had a delicious omelette and cup of chai (spiced tea) to start the day."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["photo editing", "portrait series"],
+      "description": "Spent the morning editing some photos from a recent shoot in her small home studio. She's been working on perfecting a new portrait series for a client."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "vada pav", "coconut water"],
+      "description": "Took an hour-long break to grab lunch at this street food stall near the Haji Ali Dargah. Had a delicious vada pav (fried doughnut sandwich) and coconut water to quench her thirst."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["music video filming", "street scenes"],
+      "description": "Headed out to shoot some footage for a new music video she's working on with a local musician. They're filming in various locations around the city today, capturing street life and scenes that inspire him."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["equipment drop-off", "freshening up"],
+      "description": "Finished filming for the day and headed back home to drop off her equipment and freshen up before meeting Rohan again."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["dinner with friend", "fusion cuisine"],
+      "description": "Had dinner with Rohan at a new restaurant in Colaba. They're trying out this new cafe that's just opened up near Gateway of India, serving innovative fusion dishes."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["photo editing", "emails", "portfolio work"],
+      "description": "Spent the evening editing some more photos from today and responding to emails and messages on her phone. She needs to finalize her portfolio for an upcoming photo exhibition in town."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "05:30",
+      "activities": ["sleep", "photography inspiration"],
+      "description": "Finally called it a night after a long day, feeling fulfilled with all that she's accomplished. She settled into bed with a book on photography inspiration and drifted off to sleep, already thinking about what the next day will bring!"
+    }
+  ]
+}

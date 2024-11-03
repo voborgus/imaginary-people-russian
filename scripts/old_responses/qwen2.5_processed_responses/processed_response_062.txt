@@ -1,0 +1,112 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer working in one of the largest tech companies in China. He moved to Beijing after completing his studies and has been deeply involved in developing mobile applications for over a decade.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up gently as the sunrise illuminates his room, stretching before getting out of bed"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning stretches", "meditation"],
+      "description": "Performs morning stretches and meditates to clear his mind, preparing himself for the day ahead"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a shower and gets dressed in casual wear suitable for an office setting, always ensuring he looks neat and professional"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["buy breakfast", "dim sum"],
+      "description": "Buys breakfast at a nearby café, often choosing to grab some steaming hot dim sum while waiting in line"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "08:30",
+      "activities": ["arrive at office", "greet colleagues"],
+      "description": "Arrives at the company, which is just a short walk from his home. He exchanges greetings with colleagues as he makes his way through the lobby"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "work on projects"],
+      "description": "Starts his day with a brief team meeting to review tasks and discuss any pending projects. Then resumes work on a critical application feature, focusing intently on coding and debugging tasks"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch with colleague", "diverse cuisine"],
+      "description": "Goes out for lunch with a colleague, enjoying the diverse cuisine options Beijing has to offer, from authentic Peking duck to spicy Sichuan hotpot"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["resume work", "coding", "debugging"],
+      "description": "Returns to the office and resumes work on a critical application feature, focusing intently on coding and debugging tasks"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["office walk", "check gadgets"],
+      "description": "Takes a short break to walk around the office complex, checking out the latest gadgets and tech in the company store"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["technical seminar", "software development trends"],
+      "description": "Attends a technical seminar about the latest trends in software development, noting down key points for future reference"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["client meeting", "project progress"],
+      "description": "Concludes his workday by attending a client meeting via video call, discussing project progress and addressing any concerns raised"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["commute home", "cook dinner"],
+      "description": "Travels home on a crowded subway, reflecting on the day's achievements and planning for tomorrow. Then cooks dinner, often preparing a traditional Chinese dish that requires some time and effort but yields great satisfaction when enjoyed at the end of a long day"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["watch documentary", "read tech news"],
+      "description": "Watches an episode of his favorite documentary series or reads about recent developments in tech news"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:00",
+      "activities": ["prepare for bed", "pack clothes"],
+      "description": "Gets ready for bed, packing his clothes for the next day and checking if he has everything needed before heading to sleep"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:30",
+      "activities": ["adjust thermostat", "drink herbal tea"],
+      "description": "Turns off all lights, adjusts his thermostat, and settles into bed with a cup of herbal tea to help him relax"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping until the next day"
+    }
+  ]
+}

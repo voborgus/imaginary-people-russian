@@ -1,0 +1,112 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 27,
+  "location": "Ireland",
+  "job": "Environmental Consultant",
+  "backstory": "Kaitlyn grew up in a small town on the west coast of Ireland. After completing her degree in environmental science, she moved to Dublin for work and has been living there ever since.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "turn off alarm"],
+      "description": "Wake up to the sound of her phone's alarm blaring, set to the song \"River Flows in You\" by Yiruma"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["make coffee", "use french press"],
+      "description": "Roll out of bed and stumble to the kitchen to make a cup of coffee using the French press method"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["meditate", "enjoy morning"],
+      "description": "Spend some time meditating on the balcony, taking in the early morning light and sounds of the city"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["gym", "yoga", "weightlifting"],
+      "description": "Head to the gym for a quick morning workout, trying to get in some yoga and weightlifting before the day gets busy"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Shower and get dressed in her work attire – a crisp white blouse and black trousers – feeling somewhat put together despite the chaos of the previous night's party (which she managed to sneak out of by midnight)"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["arrive at work", "check emails", "drink coffee"],
+      "description": "Arrive at her job as an environmental consultant, sipping on a coffee while checking emails on her phone"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "activities": ["meeting with clients", "discuss waste management"],
+      "description": "Attend a meeting with clients from the government sector, discussing sustainable waste management strategies for urban areas"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:45",
+      "activities": ["lunch break", "walk to cafe", "eat quiche and salad"],
+      "description": "Take a lunch break and walk to a nearby cafe to grab some lunch – a vegetarian quiche and a side salad"
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "15:30",
+      "activities": ["work on project", "analyze data"],
+      "description": "Spend some time working on her current project, analyzing data related to greenhouse gas emissions in the transportation sector"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:15",
+      "activities": ["coffee break", "stretch"],
+      "description": "Take a short break to stretch and grab another cup of coffee from the office kitchen"
+    },
+    {
+      "startTime": "16:15",
+      "endTime": "17:45",
+      "activities": ["team meeting", "brainstorm ideas"],
+      "description": "Attend a team meeting to discuss ongoing projects and brainstorm ideas for new initiatives"
+    },
+    {
+      "startTime": "17:45",
+      "endTime": "19:00",
+      "activities": ["walk by river", "catch up with friend"],
+      "description": "Head out for some fresh air, taking a walk along the River Liffey with her friend Claire to catch up on each other's lives"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["prepare dinner", "cook stir-fry"],
+      "description": "Return home and spend some time preparing dinner – a simple stir-fry with vegetables from her garden"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["watch TV", "relax with cat"],
+      "description": "Relax in front of the TV with her cat, Luna, watching an episode of \"Schitt's Creek\""
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:15",
+      "activities": ["wind down", "deep breaths", "feel grateful"],
+      "description": "Start winding down for bed, taking some deep breaths and feeling grateful for the day's experiences"
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:59",
+      "activities": ["go to bed"],
+      "description": "Head to bed, ready to face another day in Dublin."
+    }
+  ]
+}

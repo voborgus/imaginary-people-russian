@@ -1,0 +1,40 @@
+## Name: Anna
+Gender: Female
+Age: 27
+Location: Netherlands
+Backstory:  Anna fled to the Netherlands after a tumultuous career change left her feeling lost and directionless. Now, she works as a freelance graphic designer, trying to find her creative footing in a new country.
+
+## Day:
+
+**Time: 07:00**
+Activity: Anna wakes up with a gentle yawn. The morning light streaming through the blinds makes the room glow a soft blue. She takes a moment to stretch, then walks to the kitchen to make coffee and a slice of toast with homemade marmalade.
+
+**Time: 07:45**
+Activity: After enjoying breakfast, Anna spends about 30 minutes organizing her design portfolio. It's time for an online marketing strategy session, and she needs to prepare some visuals before client calls this afternoon.  
+
+**Time: 08:15**
+Activity: Time to answer emails and plan out her schedule for the day. She has several video conference calls scheduled for clients - one with a potential client from Portugal, another for a local marketing campaign in Amsterdam, and a final call regarding a wedding invitation design project for a family in the Netherlands. 
+
+**Time: 09:30**
+Activity: Anna takes a walk through the nearby park to clear her mind before work.  She enjoys the fresh air, watching children play on the swings, and soaking up the vibrant morning sun on her way back home.
+
+**Time: 11:00**
+Activity: A meeting with potential clients in Amsterdam. The project requires a strong visual presentation, so Anna spends time crafting mood boards based on the client's requests before diving into calls about their branding strategy.  She starts working on visuals at noon and focuses on creating some impactful mockups for social media campaigns.
+
+**Time: 14:00**
+Activity: Lunch break! Anna finds a cosy cafe with outdoor seating near the office to enjoy her lunch – a simple sandwich with homemade hummus, feta cheese and a side salad - followed by a refreshing iced coffee.
+
+**Time: 15:00**
+Activity: Time for a second round of video calls. First, she helps finalize a marketing campaign for a local florist in Rotterdam. Then, she works on another client's project - a children’s book illustrating a story about Amsterdam's canals -  drafting an outline and creating initial drafts. 
+
+**Time: 17:30**
+Activity: Anna returns home, grabs her coffee cup for the evening and starts with some light reading before heading to bed. The calm sounds of the wind blowing outside create a peaceful atmosphere as she settles into her cozy couch and flips through her favorite book – 'A Little Life' by Hanya Yanagihara.
+
+**Time: 20:30**
+Activity: Dinner time! Anna whips up some simple pasta with vegetables from the market earlier that morning - fresh tomatoes, basil and parmesan cheese for a quick and easy meal.  She watches an episode of her favorite series on Netflix before getting ready for bed. 
+
+**Time: 21:45**
+Activity: Lights out and dreams begin to fill her head with stories of graphic design possibilities.
+
+
+  

@@ -1,0 +1,46 @@
+Name: Li Xiaowen
+Gender: Male
+Age: 32
+Location: China, Beijing
+Backstory: Li Xiaowen is a software engineer who moved to Beijing from the countryside three years ago. He works for a tech company and enjoys cycling during his free time.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up gently by an alarm set on his phone, stretches and gets out of bed.
+ 
+Time: 07:00
+Activity: Makes tea with a local tea set he recently bought from a small shop near his apartment.
+
+Time: 07:15
+Activity: Sits down at his desk to check emails and plan the day’s work tasks.
+
+Time: 08:00
+Activity: Commutes to work by metro, observing the busy morning crowd around him.
+
+Time: 09:30
+Activity: Attends a virtual meeting with overseas colleagues. Navigates between English and Chinese fluently as needed.
+
+Time: 12:30
+Activity: Takes a short break in the office cafeteria, eats a light lunch of baozi (steamed buns) and a cup of hot green tea.
+
+Time: 14:00
+Activity: Reviews code with his team. Uses his knowledge of Python and Java to help solve coding challenges.
+
+Time: 17:30
+Activity: Completes his daily tasks, logs out of the work system, and packs up his belongings.
+
+Time: 18:00
+Activity: Picks up a bike from a nearby station, heads out for an evening ride along the Chaoyang Park.
+
+Time: 20:00
+Activity: Arrives at home after a refreshing bike ride. Cleans up and gets ready to relax.
+
+Time: 21:30
+Activity: Reads a chapter of "The Art of Computer Programming" by Donald Knuth, keeping his mind sharp for the next day’s challenges.
+
+Time: 22:45
+Activity: Has an online chess game with a friend. Finds time in his busy schedule to enjoy simple pleasures.
+
+Time: 00:00
+Activity: Finally, gets into bed, tucks away all devices, and closes his eyes for the night.

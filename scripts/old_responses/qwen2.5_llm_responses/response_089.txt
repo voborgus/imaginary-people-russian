@@ -1,0 +1,46 @@
+Name: Li Xiaoyang
+Gender: Male
+Age: 28
+Location: China
+Backstory: Born and raised in a small town in the northeastern part of China, Li Xiaoyang moved to Beijing two years ago to work as a software engineer at a tech company. He enjoys hiking on weekends and playing basketball with his colleagues.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up gently by an alarm clock; stretches and gets out of bed.
+
+Time: 07:15 AM
+Activity: Takes a shower, brushes teeth, and shaves while listening to morning news on the radio.
+
+Time: 08:00 AM
+Activity: Makes breakfast consisting of porridge and stir-fried vegetables using local ingredients from his hometown; sips green tea during meals.
+
+Time: 09:30 AM
+Activity: Walks to the nearby subway station, boards a train to Beijing's central business district where he works.
+
+Time: 10:00 AM
+Activity: Arrives at work. Starts a meeting with colleagues about upcoming projects and technical challenges.
+
+Time: 12:00 PM
+Activity: Takes a break for lunch, enjoys a hearty meal at the company canteen or orders takeout if feeling lazy; often chats with coworkers or works on personal side projects.
+
+Time: 02:00 PM
+Activity: Back in meetings, this time about client presentations and project timelines. Navigates through slides while discussing potential issues and solutions.
+
+Time: 04:30 PM
+Activity: Heads to a nearby gym for an hour-long workout session focusing on strength training; works out alongside colleagues who also join after work.
+
+Time: 06:00 PM
+Activity: Ends the day with a quick shower at the office before changing into casual wear and heading back home.
+
+Time: 07:30 PM
+Activity: Arrives back home, spends some time preparing dinner; cooks traditional Chinese dishes such as Kung Pao chicken and stir-fried vegetables. Serves tea and noodles on the side.
+
+Time: 09:00 PM
+Activity: Eats dinner with his roommate who lives in a different part of the city; shares stories about work, weekend plans, or personal updates over meals.
+
+Time: 10:30 PM
+Activity: Reads for an hour to unwind and decompress. Prefers reading technical books related to software development but enjoys various genres during free time.
+
+Time: 12:00 AM
+Activity: Goes to bed, settles down with a light snack of fruits and nuts before drifting off to sleep.

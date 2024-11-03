@@ -1,0 +1,82 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 32,
+  "location": "Japan",
+  "job": "Graphic Designer",
+  "backstory": "Emiko is a graphic designer who recently returned to Tokyo after living in the United States for three years. She is now working at her own design studio and trying to reconnect with her family and friends back home.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "activities": ["enjoy a quiet moment", "sip green tea", "watch the sun rise"],
+      "description": "Wake up early and enjoy a quiet moment on the balcony of her apartment in Shibuya, sipping green tea and watching the sun rise over Tokyo's skyscrapers."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["take a shower", "get dressed"],
+      "description": "Start getting ready for work by taking a quick shower and dressing in a comfortable outfit (today it's a black graphic t-shirt and jeans)."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["walk to studio", "observe city awakening"],
+      "description": "Walk to her studio, located in a trendy part of Daikanyama. She passes through the quiet streets and takes in the sights and sounds of the city awakening."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:30",
+      "activities": ["respond to emails", "check schedule", "drink coffee"],
+      "description": "Arrive at work and start responding to emails from clients and collaborators. She sips on a coffee and checks her schedule for the day, which includes meetings with two potential new clients."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "activities": ["attend client meeting", "discuss branding project"],
+      "description": "Attend a meeting with a client who wants to discuss their new branding project. Emiko is impressed by the company's innovative approach to sustainable fashion."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["eat lunch", "walk to restaurant", "watch people"],
+      "description": "Take a lunch break and walk to a small restaurant in the area, where she orders her favorite udon noodles. She eats outside and watches people walking by."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["design meeting", "brainstorm ideas", "make decisions"],
+      "description": "Attend a design meeting with her team, discussing their current project, a logo redesign for a well-known Japanese company. They brainstorm ideas and make some decisions on the direction of the project."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["walk around the block", "settle in at home"],
+      "description": "Finish work for the day and head back to her apartment. She takes a short walk around the block to clear her mind before settling in for the evening."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["cook dinner", "eat", "watch movie", "do laundry", "tidy up"],
+      "description": "Cook dinner, tonight it's a simple stir-fry with vegetables from her local market. She sets the table and enjoys eating by herself (for now!). She then watches a Japanese movie on TV while doing some laundry and tidying up her living space."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["practice calligraphy"],
+      "description": "Take some time to practice her Japanese calligraphy, which she learned during a course in college. She relaxes and focuses on the strokes of the characters."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:45",
+      "activities": ["read book", "go to sleep"],
+      "description": "Wind down by reading a chapter from her favorite book before going to bed, feeling content and reflective about the day's events."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Go to sleep, drifting off with thoughts of tomorrow's tasks and the next day's adventures in Tokyo."
+    }
+  ]
+}

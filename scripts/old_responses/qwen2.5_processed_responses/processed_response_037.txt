@@ -1,0 +1,82 @@
+{
+  "name": "Liang Zihan",
+  "gender": "Male",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "A dedicated software engineer who balances his work with a love for photography and exploring the city's vibrant food scene. He often takes breaks during his workday to snap photos of interesting architectural elements or unique street art.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "feel morning breeze"],
+      "description": "Wakes up gently by an alarm, stretching and feeling the morning breeze through slightly opened windows"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["wash face", "brush teeth", "workout"],
+      "description": "Cleans face with cold water, brushes teeth, and prepares for a quick workout session in his living room to start the day energized"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute by subway"],
+      "description": "Leaves home by subway to catch an early morning train, feeling the cool air conditioning as he rides towards his workplace at a tech startup downtown"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["arrive at work", "review emails", "start projects"],
+      "description": "Arrives at work, greeted with a friendly smile from his colleague. He heads straight for his desk and begins reviewing emails before starting on today's projects"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch break", "enjoy view"],
+      "description": "Takes the stairs to the rooftop of the building for lunch under the clear blue sky, enjoying a packed sandwich while admiring the view over Shanghai's skyline"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["team meeting", "take notes"],
+      "description": "Back in his office, he engages in a meeting with colleagues from different departments discussing upcoming projects and innovations. He takes notes on his tablet to keep track of key points"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:15",
+      "activities": ["break", "photography"],
+      "description": "Uses a break to step outside for a quick walk around the block near the office, capturing photos of the modern architecture and street art he finds along the way"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:30",
+      "activities": ["end workday", "dinner"],
+      "description": "Ends his day at work with a final check on emails and tasks. He grabs dinner from a nearby food truck famous for its local specialties before heading home"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["home", "cook dinner", "listen to music"],
+      "description": "Arrives back home, prepares a quick dinner of stir-fried vegetables and rice while listening to some ambient music"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["photography", "share photos"],
+      "description": "As the sun sets, he takes out his camera to document the vibrant colors of sunset over the cityscape from his rooftop balcony. He reviews today's photos on his computer and sends them to a group chat with friends who share similar interests"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "activities": ["check emails", "read book", "sleep"],
+      "description": "Reads through work emails one last time before turning off all lights, preparing for an early morning start the next day. Snuggles into bed, reading a few pages of his latest mystery novel to wind down before sleep"
+    }
+  ]
+}

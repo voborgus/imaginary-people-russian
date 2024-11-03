@@ -1,0 +1,88 @@
+{
+  "name": "Liang Hua",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Hua is a software engineer working at a tech company in Beijing. He moved to the city from a small town after college and has been dedicated to his career since then.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wake up", "stretch", "turn off lights"],
+      "description": "Wakes up after setting multiple alarms due to the chilly autumn weather, stretches, and turns off the lights"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:10",
+      "activities": ["morning routine", "brush teeth"],
+      "description": "Walks to the bathroom for a quick morning ablution, brushes his teeth meticulously with an electric toothbrush"
+    },
+    {
+      "startTime": "07:10",
+      "endTime": "08:25",
+      "activities": ["breakfast", "prepare tea", "scramble eggs"],
+      "description": "Heads downstairs where he prepares his breakfast—boiling water for tea and scrambling two eggs. His wife has already left for work, and their young son is still asleep in their room above"
+    },
+    {
+      "startTime": "08:25",
+      "endTime": "09:15",
+      "activities": ["commute", "walk to subway", "drink tea"],
+      "description": "Leaves home with a cup of steaming green tea in hand; walks to the subway station, passing by his old high school which he briefly remembers from the past"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:30",
+      "activities": ["arrive at work", "check emails", "team meeting", "work on coding"],
+      "description": "Arrives at his workplace, checks emails on his computer while sipping coffee, starting the day's work routine with a quick team stand-up meeting"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:45",
+      "activities": ["lunch", "eat steamed fish and rice", "vegetables"],
+      "description": "Goes to a nearby restaurant for lunch; orders steamed fish and rice, along with a side of preserved vegetables. Takes some time off from work to enjoy the meal in peace"
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "17:30",
+      "activities": ["work", "coding", "debugging"],
+      "description": "Resumes coding in his office, focusing on debugging issues with a new software feature he's working on"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:10",
+      "activities": ["virtual meeting", "discuss project"],
+      "description": "Joins a virtual meeting with international team members, discussing project timelines and progress; communicates efficiently while managing the time difference between Beijing and their respective locations"
+    },
+    {
+      "startTime": "18:10",
+      "endTime": "19:00",
+      "activities": ["gym", "yoga class", "breathing exercises"],
+      "description": "Leaves work early for an after-work fitness class. En route to the gym, he buys a bottle of water from a convenience store. Attends a yoga session at his usual gym; practices deep breathing exercises and flexibility routines as he listens to calming music played in the background"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:15",
+      "activities": ["commute home", "pick up son", "dinner", "storytime"],
+      "description": "Cleans up after class, changes into comfortable clothes, and heads back home. Notices a message from his wife about picking up their son from kindergarten, so he sends a reply saying he will be there soon. Arrives at school to pick up his young son; they walk together down the street under the glow of streetlights, heading home with plans for an early dinner and storytime later"
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:30",
+      "activities": ["put son to bed", "tidy up house"],
+      "description": "Gets his son into bed after reading a few stories. Wishes him goodnight and starts tidying up the house, preparing for the next morning"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    }
+  ]
+}

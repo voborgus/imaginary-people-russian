@@ -1,0 +1,88 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer working for a tech company in downtown Beijing. He enjoys hiking and spending weekends with his family.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wakes up to the sound of birds outside his window, feeling slightly groggy from staying up late coding on a project due the next day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["jog", "exercise"],
+      "description": "Takes a short morning jog around the park near his apartment."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute", "coffee", "work"],
+      "description": "Walks into his office building where he starts the day with a quick coffee at the company cafeteria before heading to his desk in the engineering department."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "14:00",
+      "activities": ["meeting", "work"],
+      "description": "Attends a morning stand-up meeting with his team, discussing progress and issues on their current project."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["lunch", "email"],
+      "description": "Takes a break for lunch, eats a packed meal brought from home while catching up on emails at his desk."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["work", "coding"],
+      "description": "Works late into the afternoon, troubleshooting bugs reported by users of their software application."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["commute", "grocery shopping"],
+      "description": "Leaves the office, stopping by a convenience store to buy some fruits and vegetables for dinner."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["cooking", "relax"],
+      "description": "Gets home and starts preparing a simple stir-fry meal with his purchased ingredients. As he cooks, he watches a TV show about nature documentaries while relaxing on the couch."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["dinner", "family time"],
+      "description": "Sits down to have dinner with his family who has just arrived from their work/school day. They discuss the events of the day and plan for the upcoming weekend."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:15",
+      "activities": ["clean up", "chores"],
+      "description": "Washes dishes and cleans up from dinner."
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "23:45",
+      "activities": ["plan", "write notes"],
+      "description": "Writes some notes about tasks he needs to work on during his planned weekend hike."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["brainstorm", "plan"],
+      "description": "Jots down ideas for a new coding project he wants to start, leaving them open in case he gets inspired over the weekend."
+    }
+  ]
+}

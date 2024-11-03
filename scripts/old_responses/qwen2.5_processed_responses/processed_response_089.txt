@@ -1,0 +1,94 @@
+{
+  "name": "Li Xiaoyang",
+  "gender": "Male",
+  "age": 28,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Born and raised in a small town in the northeastern part of China, Li Xiaoyang moved to Beijing two years ago to work as a software engineer at a tech company. He enjoys hiking on weekends and playing basketball with his colleagues.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "get out of bed"],
+      "description": "Wakes up gently by an alarm clock; stretches and gets out of bed"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "brush teeth", "shave", "listen to news"],
+      "description": "Takes a shower, brushes teeth, and shaves while listening to morning news on the radio"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["make breakfast", "eat porridge", "stir-fry vegetables", "drink green tea"],
+      "description": "Makes breakfast consisting of porridge and stir-fried vegetables using local ingredients from his hometown; sips green tea during meals"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["commute to work", "take subway"],
+      "description": "Walks to the nearby subway station, boards a train to Beijing's central business district where he works"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["work meeting", "discuss projects", "technical challenges"],
+      "description": "Arrives at work. Starts a meeting with colleagues about upcoming projects and technical challenges"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch break", "eat at canteen", "work on side projects", "chat with coworkers"],
+      "description": "Takes a break for lunch, enjoys a hearty meal at the company canteen or orders takeout if feeling lazy; often chats with coworkers or works on personal side projects"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["work meeting", "discuss client presentations", "project timelines"],
+      "description": "Back in meetings, this time about client presentations and project timelines. Navigates through slides while discussing potential issues and solutions"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "activities": ["workout", "strength training", "exercise with colleagues"],
+      "description": "Heads to a nearby gym for an hour-long workout session focusing on strength training; works out alongside colleagues who also join after work"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "activities": ["shower at office", "change clothes", "commute home"],
+      "description": "Ends the day with a quick shower at the office before changing into casual wear and heading back home"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["cook dinner", "make Kung Pao chicken", "stir-fry vegetables", "serve tea and noodles"],
+      "description": "Arrives back home, spends some time preparing dinner; cooks traditional Chinese dishes such as Kung Pao chicken and stir-fried vegetables. Serves tea and noodles on the side"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["eat dinner", "chat with roommate", "share stories"],
+      "description": "Eats dinner with his roommate who lives in a different part of the city; shares stories about work, weekend plans, or personal updates over meals"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:30",
+      "activities": ["read books", "unwind", "decompress"],
+      "description": "Reads for an hour to unwind and decompress. Prefers reading technical books related to software development but enjoys various genres during free time"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["snack", "go to bed", "sleep"],
+      "description": "Goes to bed, settles down with a light snack of fruits and nuts before drifting off to sleep"
+    }
+  ]
+}

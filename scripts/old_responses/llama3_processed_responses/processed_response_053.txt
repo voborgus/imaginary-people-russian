@@ -1,0 +1,88 @@
+{
+  "name": "Akira Nakamura",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who moved to Tokyo from her hometown in Hokkaido three years ago. She loves exploring the city's vibrant culture and trying out new foods.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "checked phone"],
+      "description": "Woke up to the sound of birds chirping outside her tiny apartment window, rolled over and checked her phone for any important messages or notifications"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["morning yoga"],
+      "description": "Got out of bed and began her morning yoga routine on the living room floor"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["made tea", "had toast"],
+      "description": "Shuffled to the kitchen to make some green tea and toast for breakfast"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["responded to emails", "updated portfolio"],
+      "description": "Started her workday by responding to emails from clients and updating her portfolio website"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["work", "coffee break"],
+      "description": "Worked on designing a logo for a new client, took a short break to grab some coffee at a nearby café with friends"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "13:00",
+      "activities": ["work", "lunch"],
+      "description": "Continued working on the logo design, had lunch at a sushi restaurant in the Shimokitazawa neighborhood"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["browse books", "walk"],
+      "description": "Went to a nearby bookstore to browse through graphic design books and inspiration materials, then took a short walk around the neighborhood to clear her head and enjoy the sunset"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:30",
+      "activities": ["video call", "work"],
+      "description": "Returned home to meet with another client via video call, discussed potential project ideas and pricing"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["walk"],
+      "description": "Took a short walk around the neighborhood to clear her head and enjoy the sunset"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner", "socializing"],
+      "description": "Had dinner at a local izakaya with friends, shared some delicious tempura and yakitori, and had a few drinks together"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["work", "email"],
+      "description": "Wrapped up the day by responding to one final email from a client and making sure everything was in order for tomorrow"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Went to bed feeling grateful for another busy but fulfilling day as a freelance graphic designer in Tokyo"
+    }
+  ]
+}

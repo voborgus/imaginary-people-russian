@@ -1,0 +1,82 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Barista, Freelance Graphic Designer",
+  "backstory": "Emilia is a free-spirited artist who moved to Madrid three years ago to pursue her passion for painting and design. She works part-time at a local café while she builds her freelance graphic design business.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "activities": ["morning routine", "coffee", "watch sunrise"],
+      "description": "Woke up early, feeling energized after a good night's sleep. Made a strong coffee and sat on the balcony to watch the sunrise over the rooftops of Madrid."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["grocery shopping", "breakfast"],
+      "description": "Took a short walk to the local market to pick up some fresh fruits and bread for breakfast. Smelled the freshly baked pastries and sampled a few (had to try)."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["work", "prepare coffee"],
+      "description": "Arrived at work at Café la Paloma, where she's working as a barista today. Greeted regular customers and started preparing the morning coffee."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "activities": ["breakfast", "commute"],
+      "description": "Finished her shift and headed back home for some breakfast. Cooked up an omelette with veggies and took it to-go."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["client meeting", "graphic design"],
+      "description": "Met with a potential new client at a trendy design studio in Malasaña. Discussed graphic design projects and presented portfolio samples."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "exploration"],
+      "description": "Took a lunch break and strolled through the streets of La Latina, taking inspiration from the street art and historic architecture."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "activities": ["freelance work", "design projects"],
+      "description": "Spent some hours working on freelance design projects at home, focusing on branding for an eco-friendly startup. Sipped tea and listened to some indie music while creating."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["dinner", "socializing"],
+      "description": "Took a break and joined friends for dinner at a cozy tapas bar in the center of town. Enjoyed classic Spanish dishes and wine while catching up with friends."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["administrative tasks", "client communication"],
+      "description": "Returned home and spent some time responding to messages from clients, following up on leads, and organizing her calendar for the week ahead."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["relaxation", "reading"],
+      "description": "Gradually wound down by reading a book and sipping hot chocolate before bed. Felt grateful for another day in this vibrant city."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to sleep feeling content, knowing that tomorrow will bring new opportunities and creative possibilities."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Li Xiaowei",
+  "gender": "Male",
+  "age": 34,
+  "location": "Beijing, China",
+  "job": "Software Developer",
+  "backstory": "Li Xiaowei is a software developer working in a tech company. He grew up in the suburbs of Beijing but moved to the city center to pursue his career after college. Despite his busy job, he loves to cook and spends time on weekends trying out new recipes.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wakes up gently by an alarm set for 6:30 AM, feeling refreshed after a good night's sleep with the help of blackout curtains and earplugs."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["tea", "check phone"],
+      "description": "Brews a cup of strong black tea, sipping it while checking his phone for messages and emails from the previous day."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:15",
+      "activities": ["shower", "hygiene"],
+      "description": "Heads to the bathroom for a quick morning shower using an efficient water-saving system, preparing himself with minimalistic hygiene routines."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["brush teeth", "get dressed"],
+      "description": "Brushes teeth and washes face before getting dressed in casual office wear, including a smart pair of jeans and a shirt."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "activities": ["commute", "work emails"],
+      "description": "Commutes by subway, traveling through the crowded Beijing mornings, reading or responding to work emails on his smartphone as he waits for the train."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "activities": ["greet coworkers", "breakfast"],
+      "description": "Arrives at the office. Exchanges greetings with coworkers while grabbing a cup of hot soy milk and doughnut from a nearby stall."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["client meeting", "project updates"],
+      "description": "Meets a client for a project update in his small, private meeting room, discussing progress on an app development project that he's leading."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "new food"],
+      "description": "Takes a lunch break at the company cafeteria. Chooses a vegetarian dish to try something new from the menu; it turns out to be delicious."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["coding", "challenges"],
+      "description": "Back in his office, takes up coding challenges for a project he's been working on during his free time, enjoying the quiet solitude as colleagues are mostly occupied with their tasks."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "activities": ["team building", "healthy living"],
+      "description": "Attends a virtual team-building session conducted via video call. The theme of the day is \"healthy living,\" which inspires Xiaowei to plan a trip to the gym after work."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["gym", "workout"],
+      "description": "Leaves for the gym, where he works out diligently and maintains his health in a crowded yet well-equipped fitness center that's part of his office complex."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["jog", "evening walk"],
+      "description": "Jogs through the evening Beijing streets, enjoying the city's vibrant nightlife. He runs towards a local park to clear his mind amidst trees and occasional street vendors."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["cook", "dinner"],
+      "description": "Cooks dinner at home, preparing a new recipe he found online earlier. This time, it's a hearty beef stew with potatoes and carrots."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["read", "news"],
+      "description": "Sits down to enjoy his homemade meal, reading the latest tech news while eating. He loves experimenting with different flavors in his cooking as much as coding software."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["watch TV", "study"],
+      "description": "Watches an episode of a popular drama series streaming on his tablet before going back to his books for some late-night study on artificial intelligence, always eager to learn more in his spare time."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "24:00",
+      "activities": ["bedtime routine", "read"],
+      "description": "Prepares for bed by washing up and tidying the apartment. Xiaowei reads from a book he's been interested in to relax before turning off all lights and lights out."
+    }
+  ]
+}

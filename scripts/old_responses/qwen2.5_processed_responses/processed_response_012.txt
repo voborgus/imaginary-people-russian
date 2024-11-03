@@ -1,0 +1,100 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Developer",
+  "backstory": "Liang Wei is a software developer who has been living and working in Beijing since graduating from university. He enjoys spending his weekends exploring local parks and attending cultural events.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["morning routine", "yoga", "stretch"],
+      "description": "Wakes up with the morning light, does some yoga and stretching"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a quick shower and gets dressed"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute", "read", "listen to podcasts"],
+      "description": "Commutes to work by subway, reads and listens to podcasts"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["greet colleagues", "check emails", "make tea"],
+      "description": "Arrives at work, greets colleagues, checks emails, makes tea"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["work on project", "collaborate with team"],
+      "description": "Works on current project, collaborates with team"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch break", "read", "relax"],
+      "description": "Takes lunch break in the park, reads and relaxes"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["focused coding", "work on project"],
+      "description": "Continues working, focuses on coding tasks"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["virtual meeting", "discuss project"],
+      "description": "Attends virtual meeting with international colleagues"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["volunteer", "set up classroom", "prepare for class"],
+      "description": "Leaves work early to volunteer at a community center, sets up the classroom"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["teach coding", "engage students", "use interactive methods"],
+      "description": "Teaches coding skills to underprivileged youth"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["wrap up class", "pack up", "leave"],
+      "description": "Wraps up the class, thanks students, and leaves the community center"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["walk home", "stop by bookstore", "browse books"],
+      "description": "Walks home, stops by a bookstore to pick up some tech books"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:15",
+      "activities": ["unwind", "review emails", "dinner", "discussion"],
+      "description": "Returns home, reviews work emails, has dinner, discusses project ideas with a colleague"
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "00:00",
+      "activities": ["bedtime routine", "stretch", "sleep"],
+      "description": "Gets ready for bed, does some light stretching, and goes to sleep"
+    }
+  ]
+}

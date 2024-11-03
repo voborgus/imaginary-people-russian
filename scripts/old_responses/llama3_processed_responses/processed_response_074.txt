@@ -1,0 +1,82 @@
+{
+  "name": "Maya Singh",
+  "gender": "Female",
+  "age": 28,
+  "location": "India (Mumbai)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Maya is a freelance graphic designer who moved to Mumbai from her hometown in Delhi three years ago to pursue her passion for art. She lives alone in a small apartment and spends most of her free time exploring the city's street food scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "brush teeth", "freshen up"],
+      "description": "Woke up to the sound of her phone alarm, brushed her teeth and splashed water on her face"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["make coffee", "eat breakfast"],
+      "description": "Made a cup of strong black coffee and had toast with scrambled eggs"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["check social media", "admire artwork"],
+      "description": "Scrolled through social media and admired artwork from a friend"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["get dressed", "review schedule"],
+      "description": "Got dressed in comfortable clothes and reviewed her schedule for the day"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "10:15",
+      "activities": ["commute to meeting"],
+      "description": "Took an auto-rickshaw to the meeting venue"
+    },
+    {
+      "startTime": "10:15",
+      "endTime": "12:00",
+      "activities": ["meet with client", "discuss project"],
+      "description": "Met with a client named Rohan to discuss a logo design project for his start-up company"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["have lunch with client", "continue discussion"],
+      "description": "Had lunch with Rohan at a nearby restaurant while continuing to discuss the project details"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["take a nap", "watch TV"],
+      "description": "Rested at home and watched an episode of her favorite TV show"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "19:30",
+      "activities": ["meet friends", "have dinner"],
+      "description": "Met up with a group of college friends for dinner at a popular restaurant called The Tandoor"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["return home", "unwind"],
+      "description": "Came back home, watched a funny YouTube video, and had some popcorn"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "activities": ["prepare for bed", "go to sleep"],
+      "description": "Got ready for bed and drifted off to sleep"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who works in a multinational tech company. He was born and raised in Shanghai but has always been fascinated by technology and computers. Despite his busy schedule, he enjoys spending time with his family on weekends.
+
+Day:
+
+Time: 06:30 AM
+Activity: Awakes to the sound of his alarm clock. Rubs his eyes as he stretches in bed, feeling a bit groggy after a late-night work session that extended into early morning.
+
+Time: 06:45 AM
+Activity: Walks down to the kitchen and prepares coffee using an automatic espresso machine while checking the weather forecast on his phone for today's outing with his kids at the park. The weather looks perfect for a day out in the sun.
+
+Time: 07:15 AM
+Activity: Tries various cups of coffee until he finds one that hits the spot. Sits down and starts drafting an email to his manager about the project due next week, which has been keeping him awake at night despite his best efforts to work through it during regular office hours.
+
+Time: 08:05 AM
+Activity: Navigates a crowded subway system with his laptop bag. He avoids eye contact as he tries not to spill coffee on his shirt while riding the train in rush hour, which always seems a bit too packed for comfort.
+
+Time: 09:30 AM
+Activity: Arrives at the office and checks emails before starting on some coding tasks assigned by his team leader. The morning meeting is scheduled shortly after, so he quickly reviews the agenda items and updates to share.
+
+Time: 10:30 AM
+Activity: Attends a project planning meeting with his colleagues, where they discuss the latest updates and address any issues that need immediate attention. Li Wei takes notes and occasionally chimes in with suggestions or concerns.
+
+Time: 12:00 PM
+Activity: Heads to the canteen for lunch, choosing between various buffet options but sticking to a lighter meal this time since he had a late dinner last night.
+
+Time: 01:30 PM
+Activity: Works on his project documentation and designs, feeling proud of making significant progress despite facing some tough bugs earlier in the day. The tech challenges keep him motivated as he learns more every day.
+
+Time: 04:30 PM
+Activity: Takes a quick walk outside for fresh air during his designated break time. He notices how busy the streets are with people hurrying to and from work, making use of their free moments in between.
+
+Time: 05:15 PM
+Activity: Leaves the office as part of the evening rush, stopping at a nearby store on the way home to pick up some groceries for dinner tonight. He picks up a few items but leaves others behind because he's running short on time and doesn't want to carry too much.
+
+Time: 06:45 PM
+Activity: Arrives home and changes into more comfortable clothes, ready for his children’s arrival at any moment now. 
+
+Time: 07:15 PM
+Activity: Prepares dinner while the kids are still in school; he spends this time setting up a few fun educational games that can keep them occupied as they finish their homework.
+
+Time: 08:30 PM
+Activity: Dials his wife on video call to catch up on her day. They exchange stories and laughter, feeling grateful for having each other during such busy times in their lives.
+
+Time: 09:45 PM
+Activity: Helps the kids with their nightly routine – bath time followed by reading a story before bedtime. He listens to their updates about school and friends while they curl up in bed, ready for sleep.
+
+Time: 10:00 PM
+Activity: Reads a book on computer science or tech trends until his eyes start feeling heavy. Once done, he closes the laptop and heads to his room, feeling content and tired after such an eventful day.
+
+Time: 10:30 PM
+Activity: Lights out as he settles into bed, looking forward to tomorrow but also a bit exhausted from all that happened today in both his professional and personal life.

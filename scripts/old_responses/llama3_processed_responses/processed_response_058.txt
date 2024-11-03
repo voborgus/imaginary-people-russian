@@ -1,0 +1,88 @@
+{
+  "name": "Akira Saito",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who moved back to her hometown of Tokyo after working in Seoul for three years. She's been trying to balance her creative pursuits with a more stable career and enjoying the city's vibrant culture.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:45",
+      "endTime": "06:15",
+      "activities": ["photography", "sunrise photos"],
+      "description": "Wake up early to catch some sunrise photos at Shinjuku Gyoen National Garden"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["breakfast", "matcha", "melon pan"],
+      "description": "Quick breakfast of steaming hot matcha and a slice of melon pan"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["commute", "podcast"],
+      "description": "Commute to her small studio apartment near Shibuya Station, dodging crowds on the sidewalk while listening to her favorite podcast"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:15",
+      "activities": ["work", "client emails", "logo design"],
+      "description": "Work session at her home office, responding to client emails and working on a new logo design project for an upcoming restaurant opening"
+    },
+    {
+      "startTime": "12:15",
+      "endTime": "13:45",
+      "activities": ["lunch", "friend", "izakaya", "yakitori", "beer"],
+      "description": "Lunch break, meeting a friend at a small izakaya near her apartment for some grilled yakitori and a cold Asahi beer"
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "16:30",
+      "activities": ["work", "photo editing", "photography competition"],
+      "description": "More work session, this time focused on editing photos from yesterday's photo shoot at the garden (she's planning to submit them to an online photography competition)"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "activities": ["break", "snacks", "city photos"],
+      "description": "Short break to grab some snacks and stretch her legs outside; she uses the opportunity to take a few quick phone photos of the city streets"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "activities": ["dinner", "colleagues", "ramen", "new flavors"],
+      "description": "Dinner with colleagues at a new ramen shop in Harajuku, trying their signature spicy miso ramen"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:45",
+      "activities": ["walk", "shopping", "inspiration"],
+      "description": "Post-dinner stroll along Takeshita Street, browsing the shops and window displays for inspiration"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["relax", "tea", "sunset video"],
+      "description": "Back home, enjoying some green tea and watching a sunset video on Instagram"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["wind down", "messages"],
+      "description": "Begin wrapping up the evening, responding to any remaining messages and getting ready for bed"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out!"
+    }
+  ]
+}

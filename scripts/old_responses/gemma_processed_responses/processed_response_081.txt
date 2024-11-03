@@ -1,0 +1,100 @@
+{
+  "name": "Anya",
+  "gender": "Female",
+  "age": 27,
+  "location": "Germany",
+  "job": "Software Engineer",
+  "backstory": "Anya, a software engineer, moved to Berlin last year after working remotely from her family's house in Switzerland. She's enjoying the vibrant city and the opportunity for personal growth she craves.",
+  "schedule": [
+    {
+      "startTime": "06:35",
+      "endTime": "06:45",
+      "activities": ["wake up", "stretch", "head to kitchen"],
+      "description": "Anya wakes up to the sound of her morning alarm. She stretches in bed, then gets out of the warm blankets and heads to the small kitchen in her shared apartment."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["brew coffee", "make tea"],
+      "description": "Anya brews a fresh pot of coffee and adds some cinnamon spice to her already-loved black tea, savoring the aroma that fills the tiny kitchen."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:50",
+      "activities": ["jog", "listen to podcast"],
+      "description": "Anya starts her morning routine with a light jog around the quiet neighborhood park near her home, breathing in the crisp air while listening to a podcast about the future of AI ethics."
+    },
+    {
+      "startTime": "07:50",
+      "endTime": "08:15",
+      "activities": ["make breakfast", "eat yogurt and fruit"],
+      "description": "After finishing her run, Anya heads back and makes breakfast with some yogurt and fruit, using a small cookbook from a local market that features her favorite German recipe."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "10:00",
+      "activities": ["team video call", "work on proposal"],
+      "description": "Anya checks in with her project team via video call for a daily update, then dives into the proposal document, editing and adding details to ensure everything flows smoothly. She needs to finalize it for their internal client meeting later today."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["work on proposal", "review timeline", "create visuals"],
+      "description": "Anya enjoys some quiet time at her desk working through the proposal document, checking the timeline, and creating a visual representation of the project. Her work is focused, and there's an eagerness in her as she sees it coming together perfectly."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "activities": ["visit bakery", "eat pretzel and rolls", "read travel articles"],
+      "description": "A quick trip to the nearby bakery for a freshly baked pretzel and some apricot-jam filled coffee rolls gives Anya the midday energy boost she needs to continue her work. Anya enjoys her snack while reading online articles about upcoming travel destinations in Europe – something else on her ever-growing list of adventures."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["eat lunch", "work on proposal"],
+      "description": "Lunch is taken at her desk. A quick and healthy salad, a few slices of rye bread, and an apple make for a satisfying lunch. Anya takes a moment to appreciate the sun filtering through the blinds as she works on the proposal document."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["walk in park", "catch up on messages"],
+      "description": "After a solid two hours of focused work, Anya checks out emails and messages from colleagues and clients, followed by a quick walk through the Berlin city park to clear her head. The fresh air has a calming effect as she catches up on conversations with friends."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:00",
+      "activities": ["lunch with team", "prepare for client meeting"],
+      "description": "A meeting with the client is set for this afternoon, and a brief lunch at the nearby cafe with her team is planned for later. Anya enjoys this part of her day because it allows her to connect with others and understand their perspective on the project."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["client meeting", "discuss proposal"],
+      "description": "Client Meeting begins; Anya focuses attentively, delivering a clear and engaging presentation that highlights the key features and benefits of the proposal. The client is impressed by Anya's confidence and expertise, and questions are exchanged. The meeting is concluded with a shared appreciation for the progress made."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["connect with colleagues", "send emails", "read travel articles", "enjoy social media"],
+      "description": "After an hour spent talking to other colleagues in the team, and some quick emails sent out, Anya enjoys a coffee break, reading online articles about travel destinations while catching up with her social media network."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "activities": ["make and eat dinner", "read travel magazines"],
+      "description": "Anya heads home for dinner, stopping by a grocery store on her way. She enjoys preparing pasta with vegetables and freshly baked focaccia bread - a favorite recipe passed down from her grandmother, which makes her feel connected to her heritage. Anya sits down to enjoy a quiet evening meal while reading through her travel magazines."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["walk dog", "read books"],
+      "description": "Evening walks in the park with Anya's furry companion - a dog named Otto - are essential for winding down the day. The fresh air clears her head and helps ease the tension from work, allowing Anya to transition into a relaxing evening routine. Anya uses this time to read books about philosophy or history before settling down on the couch for her evening."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:59",
+      "activities": ["prepare for bed", "sleep"],
+      "description": "Finally, Anya snuggles into bed under the cozy blanket and turns off her laptop. As she drifts off to sleep, she sets an alarm for tomorrow's meeting with her team and the promise of a new challenge."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+Name: Zhang Liang
+Gender: Male
+Age: 32
+Location: China
+Backstory: Zhang Liang is a software engineer working in Beijing. He enjoys hiking on weekends and cooking traditional Chinese dishes at home.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches his legs, takes a brief walk in the neighborhood before returning to bed for an hour of light reading.
+
+Time: 07:45
+Activity: Takes a shower and gets dressed. Jogs around the park near his apartment.
+
+Time: 08:30
+Activity: Walks to work, where he catches the morning bus at a nearby station.
+
+Time: 09:15
+Activity: Arrives at the office, logs into the system, checks emails, and starts on today’s tasks with colleagues in the meeting room for project updates.
+
+Time: 12:30
+Activity: Takes lunch break to order takeout from his favorite Chinese restaurant. He usually enjoys some Kung Pao chicken and rice.
+
+Time: 13:00
+Activity: Returns to work, continues on tasks while listening to classical music via headphones.
+
+Time: 17:00
+Activity: Commutes home by bus; takes notes on the projects discussed during today’s meeting for future reference.
+
+Time: 18:45
+Activity: Arrives back at his apartment. Prepares a quick dinner of steamed fish and vegetables.
+
+Time: 20:00
+Activity: Watches cooking shows on TV while eating, occasionally trying out recipes he learns.
+
+Time: 23:00
+Activity: Cleans up the kitchen, takes a short stroll in the community park for some fresh air. Heads to bed early to ensure enough rest for an upcoming weekend hike.

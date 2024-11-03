@@ -1,0 +1,43 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Liang Wei is a software engineer working in a tech company. He moved to Shanghai after graduation and has been living there since.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up at his modern apartment in Pudong, stretching before turning off the alarm clock.
+
+Time: 06:30
+Activity: Heads to the kitchen to make a cup of green tea and a simple breakfast consisting of an egg and some toast.
+
+Time: 07:15
+Activity: Walks through Lujiazui financial district towards his office, observing the rising sun behind the skyscrapers.
+
+Time: 08:30
+Activity: Arrives at work; he sits down at his desk and starts reviewing code for an upcoming project with his team.
+
+Time: 12:00
+Activity: Takes a short break to walk over to the company cafeteria for lunch, trying out different local cuisine each day.
+
+Time: 13:45
+Activity: Back to work, joins a video conference meeting with colleagues from other cities in China discussing project progress.
+
+Time: 17:30
+Activity: Ends his working day and heads back home after sending off an email summarizing the day’s achievements.
+
+Time: 18:30
+Activity: Arrives at home; he prepares himself a light dinner of noodles with vegetables and meat, enjoying a quiet evening in.
+
+Time: 19:45
+Activity: Starts his daily meditation session for about 20 minutes to relax and clear his mind.
+
+Time: 20:20
+Activity: Reads an online tech article or news update from the company intranet related to software development trends.
+
+Time: 22:00
+Activity: Lights a scented candle, reads a mystery novel in bed for about half an hour.
+
+Time: 23:15
+Activity: Extinguishes the lights and gets into bed, preparing for a good night’s sleep.

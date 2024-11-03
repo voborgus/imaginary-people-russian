@@ -1,0 +1,100 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer living in Beijing. He moved to the city from a smaller town three years ago to pursue his career and has been enjoying the vibrant tech community there.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:05",
+      "activities": ["stretch", "light yoga"],
+      "description": "Wakes up with the morning sun shining through the curtains, starts stretching and doing some light yoga to get his body moving for the day."
+    },
+    {
+      "startTime": "07:05",
+      "endTime": "07:30",
+      "activities": ["shower", "brush teeth"],
+      "description": "Takes a shower, brushes his teeth, and gets dressed in casual work attire for the day."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["coffee", "pastry"],
+      "description": "Walks to a nearby coffee shop where he grabs a cup of dark roast and a pastry. He's usually there around this time when the cafe is quiet and he can enjoy his caffeine without any rush."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute", "subway"],
+      "description": "Boarding the subway for his 45-minute commute into the city center, where he works in an office building surrounded by towering skyscrapers."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["greet colleague", "check emails", "urgent matters"],
+      "description": "Arrives at work and greets a colleague with a smile. He begins checking emails and attending to any urgent matters from the previous day."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "project progress", "upcoming tasks"],
+      "description": "Has his first meeting of the day, where he discusses project progress and upcoming tasks with his team."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "catch up"],
+      "description": "Goes for lunch with a friend who works nearby. They usually grab a quick bite at an outdoor food court and catch up on personal matters while they eat."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["coding", "projects"],
+      "description": "Back in the office to work on coding projects, which he enjoys as it's both challenging and fulfilling."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "activities": ["break", "stretch", "water", "read tech blog"],
+      "description": "Takes a brief break to stretch and grab some water. He often chats with colleagues or reads an article from his favorite tech blog during these breaks."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["team meeting", "brainstorm", "project launch"],
+      "description": "Attends another team meeting to finalize the plan for an upcoming project launch. It involves brainstorming ideas and discussing potential challenges."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["gym", "workout"],
+      "description": "Leaves work and heads towards the gym, where he usually spends some time working out and unwinding after a long day of sitting at his desk."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:30",
+      "activities": ["dinner", "coworkers", "friends"],
+      "description": "Completes his workout session and showers. He then goes to a nearby restaurant for dinner with coworkers or friends."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["relax", "read tech news", "watch documentary"],
+      "description": "Returns home, where he relaxes by reading the latest tech news or watching a documentary on science."
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:30",
+      "activities": ["check emails", "set alarm", "prepare for sleep"],
+      "description": "Before heading to bed, he checks his emails one last time in case anything urgent comes up during the evening. He then sets an alarm and gets ready for sleep."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out and begins preparing himself mentally for a peaceful night's rest."
+    }
+  ]
+}

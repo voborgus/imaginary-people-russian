@@ -1,0 +1,43 @@
+Name: Li Xiaoyu
+Gender: Female
+Age: 32
+Location: Beijing, China
+Backstory: Born and raised in Beijing, Li Xiaoyu is a software engineer who enjoys hiking and photography. She works at a tech company near the city center but often takes her lunch break to explore local parks or capture scenic moments with her camera.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wake up, stretch, take a sip of hot water, then prepare for the day by making breakfast and checking emails on her phone while waiting for tea to steep.
+
+Time: 07:15 AM
+Activity: Have her morning cup of tea with a quick bite of homemade porridge and fruit before dressing up.
+
+Time: 08:00 AM
+Activity: Walk through Tiananmen Square, enjoying the early morning tranquility, capturing the city's serene beauty on her camera.
+
+Time: 09:30 AM
+Activity: Head to work, a short 15-minute walk from home. Arrive at her office building, take the elevator to the 24th floor where she works as a software engineer.
+
+Time: 10:00 AM
+Activity: Start working on her current project with the team via video call or collaborative documents.
+
+Time: 12:30 PM
+Activity: Take a lunch break and walk to Gongmendajie Park. Spend time taking photos of cherry blossoms or other scenic spots, then grab a sandwich from a nearby vendor.
+
+Time: 01:00 PM
+Activity: Return to the office to continue work on project updates with tight deadlines coming up soon.
+
+Time: 05:30 PM
+Activity: End her workday, walk back through the city, stop by the subway station for dinner, grab a pan-fried baozi (steamed bun) from a food stall.
+
+Time: 06:45 PM
+Activity: Walk home and prepare a light dinner of vegetables stir-fried with tofu and noodles. Enjoy a leisurely meal while catching up on news from local Chinese TV channels.
+
+Time: 08:15 PM
+Activity: Settle down to read a photography book or browse through photo communities online, getting inspired for the upcoming weekend projects.
+
+Time: 10:30 PM
+Activity: Prepare for bed, wash her face and teeth. Review notes about tomorrow’s work plans in case of any adjustments needed.
+
+Time: 11:00 PM
+Activity: Turn off all lights, lock the door, then crawl into bed, drift off to sleep while listening to some soothing music.

@@ -1,0 +1,112 @@
+{
+  "name": "Kaitlyn",
+  "gender": "Female",
+  "age": 27,
+  "location": "Australia (Sydney)",
+  "job": "Environmental Science Student",
+  "backstory": "Kaitlyn grew up in a small coastal town north of Sydney, where she developed a passion for marine biology and the outdoors. She moved to the city three years ago to pursue a degree in environmental science.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "get out of bed"],
+      "description": "Wake up to the sound of seagulls outside her apartment window"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["make coffee"],
+      "description": "Stumble out of bed and stumble into the kitchen to start the coffee maker"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["drink coffee", "check social media"],
+      "description": "Brew a strong flat white coffee while scrolling through social media on her phone"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["pack breakfast", "go for a walk"],
+      "description": "Pack a quick breakfast (yogurt and granola) and head out the door for a morning walk along Bondi Beach"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["beach walk"],
+      "description": "Take a refreshing walk along the beach, breathing in the salty air and feeling the sun on her skin"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["have coffee with friend"],
+      "description": "Meet up with her best friend, Rachel, at the local café for a catch-up chat over a second coffee of the day"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "10:00",
+      "activities": ["attend lecture", "study"],
+      "description": "Attend an environmental science lecture at the university, where she's studying"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["lab work", "experiments", "data collection"],
+      "description": "Head to the lab to assist with some experiments and data collection for her current project on ocean pollution"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:15",
+      "activities": ["have lunch"],
+      "description": "Take a lunch break and head out to grab some food at a nearby salad bar"
+    },
+    {
+      "startTime": "13:15",
+      "endTime": "16:00",
+      "activities": ["research", "write thesis"],
+      "description": "Spend the afternoon researching and writing up her thesis chapter on sustainable seafood practices"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["finish work", "go home"],
+      "description": "Finish up her work for the day and head back home, feeling satisfied with the progress she's made"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["yoga class"],
+      "description": "Take a yoga class at a local studio to unwind after a busy day"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:15",
+      "activities": ["cook dinner", "watch TV"],
+      "description": "Cook dinner (a hearty pasta dish) while watching some TV shows in her apartment"
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:30",
+      "activities": ["video call with partner"],
+      "description": "Spend some quality time with her partner, Alex, over video call since he's away on business for the week"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["read book"],
+      "description": "Wind down by reading a chapter of her favorite book before bed"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Go to sleep feeling content and ready for another day in this beautiful city"
+    }
+  ]
+}

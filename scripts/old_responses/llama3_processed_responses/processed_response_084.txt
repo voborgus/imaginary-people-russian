@@ -1,0 +1,88 @@
+{
+  "name": "Emily",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan (Tokyo)",
+  "job": "Freelance Illustrator",
+  "backstory": "Emily moved to Tokyo after graduating from university in New York, where she had studied fashion design. She has been working as a freelance illustrator for several small businesses and brands in the city.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up to the sound of birds chirping outside her window, stretch and yawn"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "brush teeth", "wash face"],
+      "description": "Brush teeth, wash face, and get dressed for the day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["take a walk"],
+      "description": "Take a short walk around the quiet streets near her apartment to clear her head before starting work"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["work on illustration", "drink tea"],
+      "description": "Sit down at her desk with a cup of green tea and begin working on an illustration project for a small Japanese bakery in Shibuya"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:15",
+      "activities": ["breakfast", "grilled fish"],
+      "description": "Take a short break to grab some breakfast, which today is a bowl of rice porridge with grilled fish from the street vendor downstairs"
+    },
+    {
+      "startTime": "11:15",
+      "endTime": "12:45",
+      "activities": ["meeting", "design"],
+      "description": "Attend a meeting at the bakery to discuss designs for their upcoming menu release"
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "14:00",
+      "activities": ["lunch", "conversation", "edamame", "sake"],
+      "description": "Lunchtime - Emily meets up with friends at a small izakaya near her office, where they have a great conversation over some edamame and sake"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["antique store", "inspiration", "art supplies"],
+      "description": "Visit an antique store in Shinjuku to look for inspiration and buy some materials for her art supplies"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["return home", "typewriter"],
+      "description": "Return home after buying an old typewriter that she has been searching for everywhere, excited to start writing short stories again"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["dinner", "roommate"],
+      "description": "Spend time with her roommate over dinner - today is stir-fried vegetables and noodles from the local supermarket"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["drawing", "finish project"],
+      "description": "Finish a drawing that she had put off all day, but finally gets it done just as the night is winding down"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["yoga", "sleep"],
+      "description": "Wind down for the night by practicing some yoga stretches on her living room floor before getting into bed and drifting to sleep with a quiet mind and the sound of crickets outside"
+    }
+  ]
+}

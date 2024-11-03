@@ -1,0 +1,49 @@
+Name: Liang Hua
+Gender: Male
+Age: 35
+Location: China
+Backstory: Liang Hua is a software engineer who works in the tech hub of Shenzhen. He moved there from Beijing five years ago to seek better career opportunities and now lives with his family in a cozy apartment near their workplace.
+
+Day:
+
+Time: 06:30 AM
+Activity: Awakens gently by an alarm clock, stretches before getting out of bed.
+
+Time: 07:15 AM
+Activity: Prepares a simple breakfast consisting of tea and steamed buns while checking the weather forecast on his phone.
+
+Time: 08:00 AM
+Activity: Commutes to work via subway line No.3, observing daily life and conversations among commuters.
+
+Time: 12:00 PM
+Activity: Takes a short break for lunch in the office canteen with colleagues; they share updates on ongoing projects.
+
+Time: 05:00 PM
+Activity: Leaves the office early as it has been raining outside, planning to take a bike ride after work.
+
+Time: 06:30 PM
+Activity: Begins a gentle bike ride through the local park, enjoying the fresh air and scenery with a few others who are also out during this unusual late afternoon.
+
+Time: 07:15 PM
+Activity: Arrives home; changes into more comfortable clothing before starting dinner preparations for his family.
+
+Time: 08:00 PM
+Activity: Cooks rice and prepares vegetables in the kitchen, while chatting with his wife who is helping to set the table.
+
+Time: 08:30 PM
+Activity: Sits down with his family at the dinner table; they share stories of their day over meals together.
+
+Time: 09:15 PM
+Activity: Watches a news program in the living room while sipping tea, learning about current events and issues happening around China and the world.
+
+Time: 10:00 PM
+Activity: Logs into his computer to continue some personal coding projects or contribute to open-source software, often collaborating with global developers.
+
+Time: 11:30 PM
+Activity: Takes a break from coding to read a book for leisure—typically something related to technology or management theories.
+
+Time: 12:00 AM
+Activity: Cuts off work-related tasks and begins preparing for bed. Cleans his teeth, changes into pajamas, then takes a shower.
+
+Time: 12:30 AM
+Activity: Lies down in bed; reads another short story or turns off the lights and listens to soft music before falling asleep.

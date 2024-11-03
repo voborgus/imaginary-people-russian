@@ -1,0 +1,46 @@
+Name: Li Wei
+Gender: Male
+Age: 35
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who has been working in the tech industry for over a decade. He moved to Shanghai from Beijing five years ago when he got promoted to lead a development team for an e-commerce platform.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up, stretches in bed, and checks the weather on his phone before getting out of bed.
+
+Time: 06:30
+Activity: Makes a pot of strong coffee using his French press and prepares breakfast consisting of scrambled eggs, toast, and tea.
+
+Time: 07:15
+Activity: Walks to the nearby train station, where he boards an early-morning metro for about 20 minutes. He listens to music on his headphones while commuting.
+
+Time: 08:00
+Activity: Arrives at work and starts checking emails and reviewing team member's progress reports from the previous day.
+
+Time: 10:30
+Activity: Takes a short break, drinks some water, and does a few stretches at his desk to avoid stiffness during long hours of sitting.
+
+Time: 12:00
+Activity: Goes for lunch with a colleague, discussing both work projects and personal matters over dim sum and dumplings.
+
+Time: 14:30
+Activity: Conducts a stand-up meeting with the team. Everyone briefly discusses their current tasks and any obstacles they're facing.
+
+Time: 16:00
+Activity: Attends an internal training session on new coding standards and tools for project improvement, taking notes diligently.
+
+Time: 18:00
+Activity: Goes to a nearby gym for an hour-long workout. Focuses on strength training and cardio exercises.
+
+Time: 19:30
+Activity: Picks up takeout from his favorite local restaurant and returns home. Eats dinner alone while watching the news or reading articles online.
+
+Time: 20:45
+Activity: Skips through the day's highlights of a popular tech podcast on his smartphone before going to bed.
+
+Time: 21:30
+Activity: Reads for an hour, usually a mixture of professional books and novels, depending on what he feels like.
+
+Time: 22:30
+Activity: Prepares for bed by brushing teeth and washing face. Lays down in bed with his book or electronic reader until sleep comes naturally around 23:00.

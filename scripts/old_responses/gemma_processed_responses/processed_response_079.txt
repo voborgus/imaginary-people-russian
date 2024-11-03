@@ -1,0 +1,76 @@
+{
+  "name": "Anya",
+  "gender": "Female",
+  "age": 27,
+  "location": "Germany",
+  "job": "English Tutor",
+  "backstory": "Anya moved to Germany from her childhood home in Italy a few years ago, seeking opportunities and adventure.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "yoga"],
+      "description": "Anya wakes up with a gentle chime of her smart alarm clock. The soft light illuminates the room as she stretches out in bed. A quick glance at her phone confirms it's time for yoga - she wouldn't be complete without a morning session before starting her day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["yoga", "shower", "get ready"],
+      "description": "Anya practices her sun salutations, each movement flowing into the next with calm focus. She then takes a long, refreshing shower, and spends 15 minutes brushing her hair and applying her natural makeup with a touch of lavender-scented lip gloss."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["breakfast", "get dressed"],
+      "description": "Anya eats a light breakfast of a slice of rye bread topped with cottage cheese and berries. She then throws on her favorite green dress for work, which is both comfortable and stylish."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["commute"],
+      "description": "Anya heads to the train station with a few minutes of peace before getting on the line. She sips from her thermos of chamomile tea while watching the world pass by."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["tutoring", "teaching English"],
+      "description": "Anya arrives at the university, settles into her student workspace, and begins a day full of tutoring sessions. Students are eager to learn English with Anya's help."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "walk", "tutoring"],
+      "description": "Anya takes a walk through the university park, enjoying her sandwich from a local bakery while people-watching. She then heads back to the classroom to tutor a student who struggles with pronunciation."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["tutoring", "teaching"],
+      "description": "Anya's day transitions into tutoring another student. After hours of meticulous work, Anya feels satisfied to see them express confidence with their newfound English skills."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["commute", "wine", "reading"],
+      "description": "Anya returns home, opens a bottle of local German wine, and enjoys an intimate sunset while reading poetry for inspiration before making dinner."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["cooking", "dinner", "reading"],
+      "description": "Anya cooks a hearty meal of vegetable stew with lentils, then sits down to read, immersing herself in her latest favorite novel from Germany's publishing industry."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["tea", "news", "current events"],
+      "description": "Anya enjoys a cup of herbal tea as she catches up on news articles online and reads about current events, focusing on the new political landscape in Italy after the recent election."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["wind down", "sleep"],
+      "description": "Anya switches off her lights, turns down the volume on the TV that was playing a nature documentary she found fascinating earlier this week, and prepares for sleep."
+    }
+  ]
+}

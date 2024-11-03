@@ -1,0 +1,94 @@
+{
+  "name": "Zhang Mingming",
+  "gender": "Female",
+  "age": 28,
+  "location": "Shanghai, China",
+  "job": "Marketing Analyst",
+  "backstory": "Zhang Mingming works as a marketing analyst in a large advertising firm. She was born and raised in Shanghai but has spent most of her professional life in the city's bustling business district, working hard to advance her career while finding time for hobbies like painting.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "turn off alarm"],
+      "description": "Wakes up gently by an alarm clock placed near the bedside table; stretches and turns off the alarm."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["drink water", "shower", "use scented shampoo"],
+      "description": "Drinks a glass of water from the bottle left on her nightstand before stepping into the bathroom for a quick shower, using a custom scent shampoo that wakes her up."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["get dressed", "brush hair"],
+      "description": "Dries herself off and dresses in casual office wear, choosing a navy blazer over a white blouse and black pants. Brushes her hair meticulously with a small round brush."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["jog", "drink coffee", "chat with regulars"],
+      "description": "Jogs lightly around the park near her apartment to get her heart rate up before starting the day; enjoys a cup of coffee from the outdoor café nearby, chatting briefly with regulars who recognize her face."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute by subway", "listen to audiobook"],
+      "description": "Takes the express subway to work, navigating through crowds in the early morning rush hour; listens to an audiobook about marketing strategies to keep learning during travel time."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["review project data", "understand client needs", "dive into analytics"],
+      "description": "Arrives at the office and heads straight for her desk to review project data sent by clients, ensuring she understands their needs before diving into analytics."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch break", "discuss trends with colleagues"],
+      "description": "Takes a lunch break in the company cafeteria; shares a meal with colleagues while discussing recent marketing trends and industry news over plates of hot pot."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["work on presentations", "use PowerPoint and charts"],
+      "description": "After returning to her desk, starts working on presentations for an upcoming client meeting, using PowerPoint and charts to summarize key findings from earlier data analysis."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:45",
+      "activities": ["attend team meeting", "discuss upcoming campaigns"],
+      "description": "Attends a brief team meeting with the project manager and senior colleagues; discusses upcoming steps and deadlines for various marketing campaigns they are involved in."
+    },
+    {
+      "startTime": "17:45",
+      "endTime": "19:00",
+      "activities": ["leave work early", "visit art museum"],
+      "description": "Leaves work early as part of an initiative to improve work-life balance, using the remaining time before sunset to visit a local art museum she's been wanting to see. Buys a ticket from the automated machine at the entrance and takes a moment to appreciate pieces by Chinese artists."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["cook dinner", "read novel on balcony"],
+      "description": "Returns home for dinner; cooks a simple dish of stir-fried vegetables and noodles, using a recipe passed down from her grandmother that she finds comforting and easy to prepare. Sits on her balcony under dim lights reading a novel as the sun sets over Shanghai."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["light housework", "paint self-portrait"],
+      "description": "Closes the book after finishing the chapter; heads back inside, brushing off her feet with a doormat before removing her shoes and sitting down for some light housework like cleaning windows or organizing books on the shelves. Then spends time painting a self-portrait she had been working on, enjoying the process of capturing details like reflections in her eyes and the curves of her lips with watercolors."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "00:00",
+      "activities": ["prepare for bed", "listen to music"],
+      "description": "Completes the painting, steps back to admire it briefly before setting it aside. She then gets ready for bed, brushing her teeth and slipping into pajamas. As she lies down, she listens to soft instrumental music through noise-canceling headphones until sleep comes naturally."
+    }
+  ]
+}

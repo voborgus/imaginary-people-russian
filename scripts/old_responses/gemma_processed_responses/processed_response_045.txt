@@ -1,0 +1,88 @@
+{
+  "name": "Alice Miller",
+  "gender": "Female",
+  "age": 32,
+  "location": "Italy",
+  "job": "Artist",
+  "backstory": "After a difficult divorce, Alice moved to Rome with her two children and started a new life focused on rediscovering herself through art. She takes classes at an art studio in the afternoon after the kids are at school.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["wake up", "morning routine", "check on partner"],
+      "description": "Wakes up, gets ready for the day"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["breakfast", "prepare kids' lunch"],
+      "description": "Breakfast, packing lunch for son"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["get ready", "check in with kids' school"],
+      "description": "Gets dressed, checks in with kids' school"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["collaborative art", "painting", "conversation"],
+      "description": "Studio time with partner, working on a collaborative art piece"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["lunch", "family time"],
+      "description": "Lunch at the studio, with the children joining them"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "17:00",
+      "activities": ["teaching art class", "assisting students", "providing creative inspiration"],
+      "description": "Art classes and studio time"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["pick up kids from school", "conversation with friends"],
+      "description": "Picking up kids from school"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["dinner", "family time"],
+      "description": "Dinner at home"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["evening routine", "reading to kids", "bedtime"],
+      "description": "Evening routine with kids"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["reading", "wine", "relaxation", "planning"],
+      "description": "Alone time"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["bedtime routine"],
+      "description": "Getting ready for bed"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    }
+  ]
+}

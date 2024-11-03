@@ -1,0 +1,70 @@
+{
+  "name": "Zhang Ling",
+  "gender": "Female",
+  "age": 35,
+  "location": "China",
+  "job": "Marketing Specialist",
+  "backstory": "Zhang Ling is a marketing specialist who has been living in Beijing for the past decade. She moved there to pursue her career and now balances work with spending quality time with her family on weekends.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up gently as her alarm clock rings, stretching before getting out of bed."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushes teeth and washes face in the bathroom, preparing for the day ahead."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["drink tea", "read news"],
+      "description": "Drinks a cup of warm tea to start the morning routine, reading today's news on her phone."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["commute", "listen to audiobook"],
+      "description": "Commutes to work by taking the subway, listening to an audio book about business management."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch break", "eat noodles", "catch up with colleague"],
+      "description": "Takes a short lunch break at her office café, enjoys homemade rice noodles with vegetables for lunch while catching up with a colleague briefly."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["team meeting", "work"],
+      "description": "Back at work, attends a team meeting discussing the company's next quarter strategy plans."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["leave work", "commute", "buy fruit"],
+      "description": "Wraps up work for the day and heads home; often stops by a convenience store to pick up some fruit before getting on the subway again."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["cook dinner", "eat dumplings"],
+      "description": "Arrives at her apartment, spends about half an hour cooking dinner with her partner. Tonight they're having homemade dumplings with green onions."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["eat dinner", "watch TV", "drink tea"],
+      "description": "Eats dinner together and watches a movie or a TV show on the couch while sipping some red tea."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["read fiction"],
+      "description": "Reads for about an hour before bed, mostly fiction novels to unwind from her busy workday."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Maya Gupta",
+  "gender": "Female",
+  "age": 28,
+  "location": "India",
+  "job": "Herbal Pharmacist",
+  "backstory": "Maya grew up in a bustling village nestled amongst the foothills of the Himalayas. Her childhood was filled with vibrant colours, strong aromas from her grandmother's kitchen, and tales of ancient legends whispered by firelight.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "put on robe"],
+      "description": "Maya wakes to the gentle chirping of sparrows outside her window. She stretches languidly, feeling the coolness of the air on her skin as she slips out of bed and into her favourite hand-woven cotton robe."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["make chai", "drink chai", "recite verses from Bhagavad Gita"],
+      "description": "The morning sun, already a fiery orange disc in the sky, bathes Maya's small balcony in a warm glow. She makes chai with fragrant spices, enjoying the familiar routine as she sips at its warmth. After her cup, Maya gathers her prayer beads and recites a few verses from a worn-out copy of the Bhagavad Gita."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["yoga", "meditation"],
+      "description": "Her daily yoga practice starts - Sun Salutations followed by gentle stretches. Maya often meditates after her routine, finding solace in the quiet of early morning hours before she begins work."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["wash hands", "put on apron"],
+      "description": "After her yoga session and meditation, Maya prepares for work at her small herbal pharmacy. She carefully washes her hands with natural soaps crafted from local ingredients, adding a few drops of rosewater essential oil before donning her floral apron."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "17:30",
+      "activities": ["dispense medicine", "listen to concerns", "recommend herbal remedies", "teach local women"],
+      "description": "Maya spends the entire morning and afternoon dispensing medicine to the village elders, who visit her quaint pharmacy for their ailments. She carefully listens to their concerns, examining them with precision before recommending herbal remedies tailored for their specific needs. Sometimes, she even teaches local women about maintaining their own health with simple herbs and techniques."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["return home"],
+      "description": "The afternoon air feels heavy as Maya returns home, the sounds of the village echoing through her ears."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["cook lentil soup", "bake naan", "eat dinner", "share stories"],
+      "description": "Maya prepares a delicious lentil soup with freshly baked naan for herself and her beloved grandmother. They sit on the balcony while watching children playing in the street below, sharing stories of their youth and wisdom passed down generations."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "activities": ["read to grandmother", "drink masala chai"],
+      "description": "A peaceful evening unfolds as Maya reads to her grandmother while sipping warm masala chai. The aroma of jasmine tea drifts through the room alongside her grandmother's sweet stories from the ancient epics."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["listen to lullabies", "prepare for bed"],
+      "description": "After their traditional bedtime ritual of listening to soothing lullabies, Maya turns in for the night, feeling a sense of peace settle upon her weary soul."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:30",
+      "activities": ["sleep"],
+      "description": "Maya finally closes her eyes after hours spent tending to both her family's well-being and the needs of her community."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "A gentle slumber takes hold, filled with peaceful dreams of the Himalayan mountains that served as a constant backdrop in her life."
+    }
+  ]
+}

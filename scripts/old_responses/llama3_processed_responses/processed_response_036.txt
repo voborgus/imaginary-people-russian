@@ -1,0 +1,88 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan (Tokyo)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emiko is a freelance graphic designer who recently returned to Tokyo after living in New York City for three years, where she earned her degree and worked at a design firm. She's now rebuilding her career and reconnecting with family and friends.",
+  "schedule": [
+    {
+      "startTime": "05:45",
+      "endTime": "06:00",
+      "activities": ["wake up", "listen to traditional Japanese music"],
+      "description": "Wake up to the sound of her alarm clock playing traditional Japanese music"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["stretch", "think about the day"],
+      "description": "Stretch in bed, thinking about what she needs to do today"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["get dressed"],
+      "description": "Get dressed in a comfortable outfit (yoga pants and a graphic t-shirt)"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:20",
+      "activities": ["buy breakfast", "eat onigiri", "check emails"],
+      "description": "Walk to the local convenience store to buy breakfast (onigiri and a coffee drink), return home, eat her onigiri while checking work emails and responding to any urgent messages"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["work on design project", "create logo concept"],
+      "description": "Start working on an upcoming design project for a client, which involves creating a new logo concept"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["have lunch"],
+      "description": "Take a short break to grab lunch (bento box with sushi and tempura bits) from the nearby restaurant"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["meet friend", "hangout"],
+      "description": "Meet a friend at a coffee shop in Shibuya for an impromptu hangout session"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["finish design project"],
+      "description": "Finish work on the logo project, feeling proud of how it's turning out"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["walk dog", "get fresh air"],
+      "description": "Head to the nearby park for some fresh air and a short walk with her dog, Mochi"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["prepare dinner", "eat with family"],
+      "description": "Prepare dinner (tonkatsu with shredded cabbage and rice) while listening to music and relaxing, then spend quality time with her family (moments with her parents over dinner)"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["watch anime"],
+      "description": "Continue watching a favorite anime series, getting caught up in the plot and characters"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:45",
+      "activities": ["stretch", "wind down"],
+      "description": "Wind down before bed by practicing some gentle stretches to release tension"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Sleep, feeling refreshed and ready for another day"
+    }
+  ]
+}

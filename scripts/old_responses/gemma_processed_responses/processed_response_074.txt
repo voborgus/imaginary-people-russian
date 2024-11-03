@@ -1,0 +1,64 @@
+{
+  "name": "Anya Ivanovna",
+  "gender": "Female",
+  "age": 32,
+  "location": "Moscow, Russia",
+  "job": "Freelance Photographer",
+  "backstory": "Anya is an independent freelance photographer specializing in documentary work. Her career has taken her to various corners of the globe, from bustling cities to remote villages, capturing stories she feels are important for others to see.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "drink tea"],
+      "description": "Anya wakes up to a chorus of chirps from her small bird feeder outside her window. The morning sun is just beginning to warm the room, casting long shadows across her worn rug. She pours herself a cup of chamomile tea and listens to the rhythmic tapping of the city waking up outside."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["sketch", "draw"],
+      "description": "Anya practices her quick sketches of the street life that unfolds from her window, filling a small notebook with details from the day's early hustle."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["breakfast", "cafe", "coffee"],
+      "description": "She heads to the nearest 'Kafé' (cafe) for a traditional Russian breakfast - freshly squeezed orange juice, buckwheat porridge topped with smoked salmon and dill, and a strong black coffee."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["walk", "park", "library", "research"],
+      "description": "A walk in the sprawling expanse of Moscow's Gorky Park, followed by a visit to the nearby historical library. Anya spends her time exploring the archives there, researching her next project on the history of migrant communities."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "tea house"],
+      "description": "Lunch break - a simple salad with local cheese and pickled cucumbers in a cozy little tea house near the Library."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["photography", "public art"],
+      "description": "Anya begins work. She's scheduled to photograph a public art project being unveiled on one of Moscow's busiest streets. She sets up her camera, capturing street life as people move around in the afternoon heat and sunlight."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "activities": ["grocery shopping", "cooking", "dinner"],
+      "description": "After the photoshoot, Anya stops by the local market for fresh ingredients to cook a hearty dinner – borscht with a side of homemade rye bread. She loves this ritual every evening."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "activities": ["eat", "relax", "read"],
+      "description": "Anya sits down to a slow and simple meal with her old cat, Sputnik, curled up on the couch, purring. She puts on music and unwinds from the day's events. She reads for an hour or two before settling in for a restful night's sleep."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Anya sleeps through the night."
+    }
+  ]
+}

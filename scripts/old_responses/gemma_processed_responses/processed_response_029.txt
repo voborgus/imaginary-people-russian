@@ -1,0 +1,70 @@
+{
+  "name": "Maya Reyes",
+  "gender": "Female",
+  "age": 27,
+  "location": "Chile",
+  "job": "Freelance Writer",
+  "backstory": "Maya, a freelance writer based in Santiago, dreams of writing an epic fantasy novel one day. She uses her days to write while finding solace in the city's bustling energy and vibrant nature.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:45",
+      "activities": ["morning routine", "drinking mate", "eating lemon toast", "walking to work"],
+      "description": "Waking up to the chirping of street life. A steaming cup of mate with a slice of lemon toast accompanies her usual morning walk to work at the public library, surrounded by trees in the city's outskirts."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["walking", "reading fantasy novel"],
+      "description": "Walking through Parque Las Torres, taking refuge from the Chilean summer heat under the shade of ancient cypress and maple trees. Maya reads a chapter of her fantasy novel on the way to work."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["sorting new books", "updating library catalog"],
+      "description": "Arriving at the library, a haven of books and stories. She starts off her morning by tending to the new arrivals, carefully sorting through newly received books and updating the online catalog."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["assisting researchers", "reading articles", "reviewing books", "editing academic papers"],
+      "description": "Focused on the stacks, Maya spends several hours assisting researchers who need guidance or assistance with finding specific texts, all while answering queries through various libraries' databases. She reads articles, reviews books and edits academic papers."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["eating empanada", "observing city life"],
+      "description": "Lunch break! The bustling city offers Maya a delicious empanada from a street vendor near the library, while taking in the sights of the city's vibrant life."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["writing fantasy novel", "drafting competition entry"],
+      "description": "Diving into her writing project, Maya spends several hours immersed in her fantasy novel. She starts drafting a scene depicting a mythical war between two powerful factions for a local writing competition."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["evening walk", "observing city", "drinking chamomile tea"],
+      "description": "Evening walk along the river to a nearby cafe with a scenic view of Santiago's skyline and enjoy a cup of chamomile tea while observing people passing by and reflecting on her day's progress."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["cooking Chilean stew", "drinking wine", "watching sunset"],
+      "description": "Maya cooks her favorite Chilean stew, a hearty mix of lamb, peppers, olives, and potatoes, using spices passed down from generations. She eats it with a glass of red wine while watching the city's vibrant sunset over the hills."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "activities": ["reading fantasy novel"],
+      "description": "Reading before bed – Maya's latest fantasy novel. Her favorite part about this is losing herself in another world and escaping for hours. This allows her to unwind, calm her mind, and let her creativity flow free while she settles into a cozy sleep routine."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "06:30",
+      "activities": ["sleeping"],
+      "description": "Sleep time"
+    }
+  ]
+}

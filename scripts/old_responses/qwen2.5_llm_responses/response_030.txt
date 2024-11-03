@@ -1,0 +1,61 @@
+Name: Li Wei
+Gender: Male
+Age: 34
+Location: China, Beijing
+Backstory: Li Wei is a software engineer who works at a tech company in downtown Beijing. He moved to the city from a small town when he was 20 to pursue his career and has been there ever since. He enjoys photography in his free time and often takes walks around the park near his apartment.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches, gets out of bed
+
+Time: 06:45
+Activity: Takes a shower, shaves
+
+Time: 07:15
+Activity: Gets dressed in casual attire suitable for work; chooses light-colored button-down shirt and dark pants
+
+Time: 07:30
+Activity: Makes breakfast - scrambled eggs and tofu with soy sauce on the side of a bowl of oatmeal
+
+Time: 08:00
+Activity: Eats breakfast while checking emails and messages from previous night’s work tasks
+
+Time: 08:15
+Activity: Takes out the trash from the apartment, collects recycling bags to drop off at designated collection points later in the day
+
+Time: 08:30
+Activity: Commences a walk to his workplace; enjoys the early morning cityscape and the light aroma of street vendors beginning their daily setup near his usual route
+
+Time: 09:15
+Activity: Arrives at work, signs in using facial recognition system; heads straight for the cafeteria where colleagues are settling down with their morning coffee and light conversations
+
+Time: 09:30
+Activity: Begins working on ongoing projects and meetings with team members for a new software development project
+
+Time: 12:00
+Activity: Takes a lunch break, meets up with a few colleagues in the cafeteria to share a simple meal; usually it's just some rice dishes or noodles from nearby vendors
+
+Time: 13:00
+Activity: Returns to work and resumes tasks with a brief afternoon tea as an energy booster
+
+Time: 14:30
+Activity: Attends a virtual meeting discussing progress on the ongoing project, participates actively in team discussions
+
+Time: 17:00
+Activity: Commences the final phase of his day by reviewing and organizing documents for the day’s tasks; also prepares notes for tomorrow's meetings
+
+Time: 18:30
+Activity: Heads to a nearby park to take some photos, enjoying the changing scenery as evening approaches
+
+Time: 20:00
+Activity: Returns home, starts preparing dinner, which tonight is a stir-fry of vegetables and meat with noodles
+
+Time: 21:30
+Activity: Eats dinner; watches some news updates on his phone or TV while enjoying the meal
+
+Time: 22:00
+Activity: Begins a session of photography editing on his computer; spends about an hour fine-tuning images from today's shoot
+
+Time: 23:00
+Activity: Lights out, reads a few pages of a photography book to unwind and prepare for sleep

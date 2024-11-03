@@ -1,0 +1,82 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer who works at a tech company in central Beijing. He enjoys spending his evenings with friends and trying out new recipes he finds online.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up to the sound of his alarm clock, feeling slightly groggy from the sleep. Takes a moment to stretch and then turns off the alarm."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["morning routine", "brush teeth"],
+      "description": "Goes to the bathroom and brushes teeth with an electric toothbrush."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["tea", "read news"],
+      "description": "Prepares tea using a traditional gaiwan (lidded bowl) set, savoring every sip as he reads today's headlines from his tablet."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute", "read news"],
+      "description": "Leaves the apartment and takes the subway to work. The morning rush is particularly heavy this day, so he spends some time reading news articles about artificial intelligence on his phone."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work", "check emails", "team meeting"],
+      "description": "Arrives at the office, starts his usual routine by checking emails and reviewing yesterday's projects with his team."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "conversation"],
+      "description": "Takes a short lunch break to enjoy some cold soba noodles with pickled ginger from a nearby Japanese restaurant, as it's his favorite meal of the day. Meets up briefly with colleagues for some casual conversation."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "activities": ["work", "coding", "debugging", "break", "tea", "journal"],
+      "description": "Back at work, focuses on coding and debugging a new feature for their company's flagship product. Takes several brief breaks to sip green tea and jot down notes in his journal."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["leave work", "dinner", "conversation"],
+      "description": "Leaves the office with colleagues, heading for dinner at a nearby Thai restaurant recommended by a coworker. They spend an hour enjoying the food and discussing projects over conversations in Mandarin."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["cook", "dinner"],
+      "description": "Returns home, starts preparing dinner himself – trying out a new recipe of chicken stir-fry with vegetables. He follows the steps carefully to ensure it turns out perfect."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["clean up", "check phone", "code"],
+      "description": "Cleans up the kitchen and checks his phone for messages and emails before starting on some light coding in Python. Plans some weekend projects that he hopes to start working on tomorrow."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["read", "sleep"],
+      "description": "Reads a few chapters of \"The Alchemist\" by Paulo Coelho, trying to find inspiration from the story. Lights off at midnight, feeling content and ready for a good night's sleep."
+    }
+  ]
+}

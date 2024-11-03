@@ -1,0 +1,52 @@
+Name: Li Xiaoming
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Li Xiaoming is a software engineer who has been working in the tech industry for over a decade. He loves to play basketball on weekends and enjoys exploring local cuisines during his free time.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up slowly after an alarm, feeling slightly groggy from the previous night's late project session.
+
+Time: 06:15 AM
+Activity: Starts with a short meditation practice to clear his mind and prepare for the day ahead.
+
+Time: 06:45 AM
+Activity: Brushes teeth and washes face to refresh himself after the early morning wake-up.
+
+Time: 07:00 AM
+Activity: Jogs around the nearby park, feeling the cool morning air while enjoying a light jog to kick-start his metabolism for the day.
+
+Time: 08:00 AM
+Activity: Commutes to work on public transportation, observing daily life and chatting with fellow commuters about various topics.
+
+Time: 12:30 PM
+Activity: Takes a quick lunch break at his office café, discussing project progress and solutions with colleagues over a bowl of hot soup and noodles.
+
+Time: 01:00 PM
+Activity: Heads back to work on a complex coding problem related to data security, focusing intently as he has a tight deadline coming up next week.
+
+Time: 04:30 PM
+Activity: Attends a team meeting for project planning and resource allocation discussions. He listens attentively while jotting down important points.
+
+Time: 06:15 PM
+Activity: Ends the workday early, feeling slightly relieved but still mindful of pending tasks for tomorrow.
+
+Time: 07:30 PM
+Activity: Joins a basketball league match at a nearby sports complex, playing his favorite sport with friends and other colleagues who share the same hobby.
+
+Time: 09:00 PM
+Activity: Returns home after a fun and exhausting game of basketball. Takes a short shower to wash off sweat before changing into more comfortable clothes.
+
+Time: 10:30 PM
+Activity: Cooks dinner, preparing his favorite Beijing roast duck with steamed buns for a relaxing meal in the evening. He enjoys this quiet time alone as he eats.
+
+Time: 11:30 PM
+Activity: Cleans up the kitchen and sets the dining table neatly before heading to bed.
+
+Time: 12:00 AM
+Activity: Reads through some industry news or a tech-related book, preparing his mind for sleep with a dose of professional growth content.
+
+Time: 12:45 AM
+Activity: Gets ready for bed by dimming lights and setting the thermostat, ensuring his bedroom environment is comfortable.

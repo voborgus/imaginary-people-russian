@@ -1,0 +1,88 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 35,
+  "location": "Beijing, China",
+  "job": "Graphic Designer",
+  "backstory": "Li Mei is a passionate graphic designer who has been working at a small advertising firm in the heart of Beijing for over five years. She moved to the city after graduating with high hopes and dreams of creating stunning designs that could leave an indelible mark on people's minds.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["morning routine", "stretching", "check weather"],
+      "description": "Wakes up, stretches her legs and arms before getting out of bed. Takes a quick look at her smartphone to check the weather forecast for the day."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["breakfast", "buy pastries"],
+      "description": "Buys breakfast from a nearby street vendor who sells fresh fruits and pastries."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute", "greet colleagues", "check emails", "plan tasks"],
+      "description": "Arrives at the office, quickly greets her colleagues in the communal area before heading to her desk. She spends some time checking emails and planning out the day's tasks."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["client meeting", "discuss design"],
+      "description": "Meets with a client from another company for a project briefing. They discuss design ideas and timelines over coffee."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "social media"],
+      "description": "Goes out for lunch at a local restaurant near her office. Chooses to dine alone, enjoying the conversation of her work colleagues on their social media accounts instead of engaging in a lengthy discussion."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "activities": ["design work", "photoshop"],
+      "description": "Returns to the office and starts working on a new design brief given by the marketing department. Sketches out some rough ideas before jumping into Adobe Photoshop."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["team meeting", "progress report", "feedback"],
+      "description": "Attends a team meeting with her supervisor to go over progress reports for ongoing projects. Offers feedback and suggestions based on recent market trends."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["break", "tai chi", "relax"],
+      "description": "Takes a short break, walks down the street to visit a nearby park where she practices Tai Chi and calms her mind before resuming work."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["design work", "review"],
+      "description": "Works until late afternoon, focusing on fine-tuning the design elements for an upcoming campaign. Reviews previous designs with an eagle eye for any improvements."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["socialize", "dinner"],
+      "description": "Leaves the office to catch up with a close friend at their favorite cafe for some socializing and a light dinner."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["call family", "read"],
+      "description": "Returns home, chats briefly on the phone with her family about plans for the weekend. Decides to read a few pages of a design book before settling in for the night."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "24:00",
+      "activities": ["sleep", "secure home"],
+      "description": "Goes to bed after ensuring that all work-related matters are attended to and her apartment is secure for the night."
+    }
+  ]
+}

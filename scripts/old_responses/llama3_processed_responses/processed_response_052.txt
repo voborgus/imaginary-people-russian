@@ -1,0 +1,88 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 28,
+  "location": "Tokyo, Japan",
+  "job": "Event Planner",
+  "backstory": "Emiko grew up in a small town outside of Tokyo and moved to the city after completing her university education. She now works as an event planner for a mid-sized marketing firm.",
+  "schedule": [
+    {
+      "startTime": "05:45",
+      "endTime": "06:00",
+      "activities": ["meditate"],
+      "description": "Woke up early to meditate before the day gets busy"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:15",
+      "activities": ["get dressed", "breakfast", "commute"],
+      "description": "Got dressed in her favorite light blue dress and had a quick breakfast of miso soup and steamed rice, commuted to work on the Tokyo Metro, listening to an audiobook about Japanese history on her phone"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["commute"],
+      "description": "Commuted to work on the Tokyo Metro, listening to an audiobook about Japanese history on her phone"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["client meeting", "work"],
+      "description": "Arrived at work and met with clients to discuss plans for an upcoming product launch event, had a working lunch in the office break room, eating a bento box and catching up on emails"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:45",
+      "activities": ["lunch", "email", "break"],
+      "description": "Had a working lunch in the office break room, eating a bento box and catching up on emails, took a short walk outside during her morning coffee break, enjoying the fresh air and people-watching in the busy Shibuya district"
+    },
+    {
+      "startTime": "11:45",
+      "endTime": "12:30",
+      "activities": ["team meeting"],
+      "description": "Had a team meeting to discuss ongoing projects and brainstorm new ideas for marketing campaigns"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["client presentation"],
+      "description": "Attended an important client presentation at a trendy cafe in Harajuku, making sure all details were perfect"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:45",
+      "activities": ["work", "commute"],
+      "description": "Wrapped up work for the day and headed home on the metro, feeling accomplished after meeting deadlines and exceeding client expectations"
+    },
+    {
+      "startTime": "16:45",
+      "endTime": "18:15",
+      "activities": ["commute", "cook"],
+      "description": "Wrapped up work for the day and headed home on the metro, feeling accomplished after meeting deadlines and exceeding client expectations, cooked dinner with her roommate, trying out a new recipe for chicken teriyaki and stir-fried vegetables"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:45",
+      "activities": ["dinner", "walk"],
+      "description": "Cooked dinner with her roommate, trying out a new recipe for chicken teriyaki and stir-fried vegetables, took a long walk along the Sumida River to clear her mind before dinner, admiring the twinkling lights of Tokyo's skyscrapers"
+    },
+    {
+      "startTime": "19:45",
+      "endTime": "21:30",
+      "activities": ["relax", "tv"],
+      "description": "Watched an episode of her favorite Japanese drama on TV with a bowl of green tea, feeling relaxed and content after a busy day"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["bedtime routine", "journal"],
+      "description": "Got ready for bed by brushing her teeth, changing into pajamas, and writing in her journal to reflect on the day's events"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "05:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

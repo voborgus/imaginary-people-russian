@@ -1,0 +1,94 @@
+{
+  "name": "Liang Hua",
+  "gender": "Male",
+  "age": 35,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Liang Hua is a software engineer who works in the tech hub of Shenzhen. He moved there from Beijing five years ago to seek better career opportunities and now lives with his family in a cozy apartment near their workplace.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "morning routine"],
+      "description": "Awakens gently by an alarm clock, stretches before getting out of bed"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["prepare breakfast", "check weather"],
+      "description": "Prepares a simple breakfast consisting of tea and steamed buns while checking the weather forecast on his phone"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["commute", "observe commuters"],
+      "description": "Commutes to work via subway line No.3, observing daily life and conversations among commuters"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["have lunch", "discuss projects"],
+      "description": "Takes a short break for lunch in the office canteen with colleagues; they share updates on ongoing projects"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work"],
+      "description": "Continues work after lunch"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["leave work", "bike ride"],
+      "description": "Leaves the office early as it has been raining outside, planning to take a bike ride after work"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:15",
+      "activities": ["bike ride", "enjoy scenery"],
+      "description": "Begins a gentle bike ride through the local park, enjoying the fresh air and scenery with a few others who are also out during this unusual late afternoon"
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "activities": ["arrive home", "change clothes", "start dinner"],
+      "description": "Arrives home; changes into more comfortable clothing before starting dinner preparations for his family"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "20:30",
+      "activities": ["cook dinner", "chat with wife"],
+      "description": "Cooks rice and prepares vegetables in the kitchen, while chatting with his wife who is helping to set the table"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:15",
+      "activities": ["have dinner", "share stories"],
+      "description": "Sits down with his family at the dinner table; they share stories of their day over meals together"
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:00",
+      "activities": ["watch news", "drink tea"],
+      "description": "Watches a news program in the living room while sipping tea, learning about current events and issues happening around China and the world"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["personal coding", "open-source contribution"],
+      "description": "Logs into his computer to continue some personal coding projects or contribute to open-source software, often collaborating with global developers"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["read book", "prepare for bed"],
+      "description": "Takes a break from coding to read a book for leisure—typically something related to technology or management theories; then prepares for bed"
+    }
+  ]
+}

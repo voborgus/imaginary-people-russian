@@ -1,0 +1,94 @@
+{
+  "name": "Akira Nakamura",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who moved back to her hometown of Tokyo after living abroad for several years. She's still adjusting to life in the city and enjoying exploring its food scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["morning routine", "stretch", "yawn"],
+      "description": "Woke up to the sound of the alarm on her phone, stretched her arms, and yawned. She lay in bed for a few minutes before getting out to start her morning routine."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face", "get dressed"],
+      "description": "Brushed her teeth, washed her face with cold water, and got dressed in a simple white t-shirt and jeans."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["make breakfast", "ramen", "check social media"],
+      "description": "Headed downstairs to the kitchen to make herself a bowl of instant ramen for breakfast. She cooked it while scrolling through social media on her phone."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["eat breakfast", "check email"],
+      "description": "Ate her breakfast and checked her email on her laptop to respond to any urgent messages from clients."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["meet friend", "coffee date"],
+      "description": "Grabbed her bag and headed out the door to meet a friend at a nearby cafe for a coffee date. The sun was just starting to rise over Tokyo, casting a warm glow over the city."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["chat with friend", "catch up"],
+      "description": "Arrived at the cafe and met up with her friend, Yui. They spent the next hour chatting about their lives and catching up on each other's latest projects."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "13:00",
+      "activities": ["work on design project", "brainstorm", "refine color palette"],
+      "description": "Said goodbye to Yui and headed back home to start working on a design project she had due that week. She settled into her desk with a fresh cup of coffee and began brainstorming ideas."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["lunch break", "eat bento", "enjoy city view"],
+      "description": "Took a lunch break and stepped out onto the balcony for some fresh air. She ate a bento box (lunchbox) from a local restaurant and enjoyed the view of the city while eating."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "18:00",
+      "activities": ["continue design work", "refine color palette"],
+      "description": "Resumed working on her design project, this time with a focus on refining the color palette. She spent several hours tweaking different options until she was satisfied with the result."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner at restaurant", "enjoy tonkatsu"],
+      "description": "Took another break and decided to treat herself to dinner at a nearby restaurant. She ordered some delicious tonkatsu (breaded and fried pork cutlet) and rice, and enjoyed every bite of it."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["watch TV", "browse food blogs"],
+      "description": "Returned home and spent the evening watching TV while browsing through food blogs on her phone for inspiration. She loved trying out new recipes in the kitchen."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["wind down", "take bath", "reflect on day"],
+      "description": "Began winding down for bed by taking a warm bath and getting ready for sleep. She reflected on the day's events, feeling grateful for the opportunity to pursue her passions and live in such an amazing city."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to bed with a sense of contentment, looking forward to the next day's adventures."
+    }
+  ]
+}

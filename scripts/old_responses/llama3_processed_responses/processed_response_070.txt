@@ -1,0 +1,88 @@
+{
+  "name": "Sofia Rodriguez",
+  "gender": "Female",
+  "age": 27,
+  "location": "Mexico City, Mexico",
+  "job": "Graphic Designer",
+  "backstory": "Sofia is a graphic designer who recently moved back to Mexico City after living in the US for five years. She's now working on building her own design studio and rediscovering her love for Mexican cuisine.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "feel refreshed"],
+      "description": "Wake up early, feeling refreshed after a good night's sleep"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:50",
+      "activities": ["meditate"],
+      "description": "Meditate for 20 minutes to clear her mind before starting the day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["shower", "get dressed"],
+      "description": "Take a quick shower and get dressed in her favorite outfit – a vibrant yellow sundress with white flowers"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["make breakfast", "have coffee"],
+      "description": "Head to her small kitchen to make breakfast, today's menu consists of huevos divorciados (divorced eggs) and fresh fruit salad"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["respond to emails", "drink coffee"],
+      "description": "Spend an hour responding to urgent emails from clients while sipping a strong coffee"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["brainstorm ideas", "design travel posters"],
+      "description": "Arrive at her design studio and begin brainstorming ideas for a new client project, today's theme is travel posters for tourist attractions in Mexico City"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["have lunch", "eat chicken mole"],
+      "description": "Take a lunch break at her favorite local eatery, El Fogoncito, where she indulges in their famous chicken mole and fresh tortillas"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["attend online meeting", "discuss design concepts"],
+      "description": "Attend an online meeting with clients from the US to discuss design concepts for their upcoming product launch"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["take a walk", "enjoy the sun"],
+      "description": "Take a short break to stroll through the nearby park, Chapultepec, and enjoy the warm afternoon sun on her skin"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["work on design tasks", "edit illustrations", "adjust typography"],
+      "description": "Spend two hours working on graphic design tasks, including editing illustrations and adjusting typography for her studio's portfolio"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["try fusion cuisine", "eat Korean tacos"],
+      "description": "Meet friends at a trendy food truck in the city to try new fusion cuisine – Korean tacos with Korean BBQ beef and kimchi slaw"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["practice yoga", "enjoy city view"],
+      "description": "Return home to practice yoga on her rooftop overlooking the stunning Mexico City skyline"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["read book", "go to sleep"],
+      "description": "Wind down by reading a chapter from her favorite book, The Alchemist, before drifting off to sleep"
+    }
+  ]
+}

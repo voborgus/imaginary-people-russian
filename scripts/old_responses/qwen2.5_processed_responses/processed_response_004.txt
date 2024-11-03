@@ -1,0 +1,76 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Graphic Designer",
+  "backstory": "Li Wei is a graphic designer working in one of Shanghai's largest advertising agencies. He moved to the city from his hometown six years ago to pursue his passion for design and has been deeply involved in various high-profile projects ever since.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "check emails"],
+      "description": "Awakens gently by his smart alarm clock, stretches in bed before checking emails on his phone (though he tries not to let work intrude too much)"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["shower", "shave"],
+      "description": "Takes a leisurely shower and shaves for the day"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["jog", "breakfast preparation"],
+      "description": "Jogs around the local park near his apartment, enjoying the early morning air before heading home to prepare breakfast"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["commute to work", "work"],
+      "description": "Heads to work by metro; today's weather is perfect for a window seat, and he enjoys watching the city life blur past"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["team meeting", "lunch", "social media"],
+      "description": "Meets with his team at the conference room to discuss their latest project. Today, they're going over some design concepts for a new client. Takes a quick lunch break; orders delivery from a nearby café and checks social media while waiting"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:30",
+      "activities": ["work on project", "client meeting"],
+      "description": "Back at his desk, he starts working on the project they discussed earlier. Sketches ideas for the client's brand identity on paper. Attends a client meeting via video call; goes through some of their initial feedback and ideas for improvement"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:15",
+      "activities": ["commute home", "art supplies shopping"],
+      "description": "Walks home from work, enjoying the sunset over Pudong skyline. On his way, stops at an art store to pick up supplies for his upcoming project workshop this weekend"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "20:15",
+      "activities": ["home sketching", "cooking", "documentary watching"],
+      "description": "Arrives back home, starts sketching some rough drafts and mood boards based on the client's ideas discussed today. Cooks dinner; tonight he decides to try a new recipe from an online cooking blog. Watches a documentary about graphic design during his meal"
+    },
+    {
+      "startTime": "20:15",
+      "endTime": "22:30",
+      "activities": ["clean up", "personal time"],
+      "description": "Washes dishes, cleans up the kitchen before settling in for some quiet time at home. Reads a book on color theory and typography; prepares himself mentally for tomorrow's tasks"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Lights out, drifts off to sleep with the hum of city life outside his window"
+    }
+  ]
+}

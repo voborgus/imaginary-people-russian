@@ -1,0 +1,49 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a graphic designer working in one of Shanghai's largest advertising agencies. He moved to the city from his hometown six years ago to pursue his passion for design and has been deeply involved in various high-profile projects ever since.
+
+Day:
+
+Time: 06:30 AM
+Activity: Awakens gently by his smart alarm clock, stretches in bed before checking emails on his phone (though he tries not to let work intrude too much).
+
+Time: 07:15 AM
+Activity: Takes a leisurely shower and shaves for the day.
+
+Time: 08:30 AM
+Activity: Jogs around the local park near his apartment, enjoying the early morning air before heading home to prepare breakfast.
+
+Time: 09:00 AM
+Activity: Heads to work by metro; today’s weather is perfect for a window seat, and he enjoys watching the city life blur past.
+
+Time: 12:30 PM
+Activity: Meets with his team at the conference room to discuss their latest project. Today, they're going over some design concepts for a new client.
+
+Time: 01:30 PM
+Activity: Takes a quick lunch break; orders delivery from a nearby café and checks social media while waiting.
+
+Time: 02:00 PM
+Activity: Back at his desk, he starts working on the project they discussed earlier. Sketches ideas for the client’s brand identity on paper.
+
+Time: 04:30 PM
+Activity: Attends a client meeting via video call; goes through some of their initial feedback and ideas for improvement.
+
+Time: 05:15 PM
+Activity: Walks home from work, enjoying the sunset over Pudong skyline. On his way, stops at an art store to pick up supplies for his upcoming project workshop this weekend.
+
+Time: 06:45 PM
+Activity: Arrives back home, starts sketching some rough drafts and mood boards based on the client’s ideas discussed today.
+
+Time: 08:15 PM
+Activity: Cooks dinner; tonight he decides to try a new recipe from an online cooking blog. Watches a documentary about graphic design during his meal.
+
+Time: 10:00 PM
+Activity: Washes dishes, cleans up the kitchen before settling in for some quiet time at home.
+
+Time: 11:30 PM
+Activity: Reads a book on color theory and typography; prepares himself mentally for tomorrow’s tasks. Sets his alarm for an early start.
+
+Time: 12:00 AM
+Activity: Lights out, drifts off to sleep with the hum of city life outside his window.

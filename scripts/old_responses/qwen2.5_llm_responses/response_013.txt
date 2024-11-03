@@ -1,0 +1,43 @@
+Name: Liang Wei
+Gender: Male
+Age: 35
+Location: Shanghai, China
+Backstory: Liang Wei is a software engineer working in a large tech company. He moved to Shanghai from his hometown in the countryside ten years ago to pursue better job opportunities and a higher standard of living.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up gently by the sound of his smart alarm clock, then stretches for a few minutes before getting out of bed.
+
+Time: 06:45
+Activity: Washes face with cold water from his bathroom sink to invigorate himself and prepares for breakfast.
+
+Time: 07:10
+Activity: Dips his steamed bun in a cup of hot black tea, then washes the dishes and tidies up the kitchen before heading out.
+
+Time: 08:00
+Activity: Takes the subway to work. The train is already quite crowded; he uses an app on his phone to avoid standing too long by selecting seats with available space.
+
+Time: 12:00
+Activity: Has lunch at a nearby company cafeteria, sitting in line and picking through the menu to find something appealing that’s both quick and affordable.
+
+Time: 13:00
+Activity: Returns home for a short nap. His work schedule often allows him an hour or two of relaxation during the midday hours.
+
+Time: 14:30
+Activity: Logs back into his computer, starting another coding session in one of his company’s projects, which is mainly done remotely but requires frequent collaboration with team members.
+
+Time: 18:00
+Activity: Commutes home by subway again. This time he has a bit more space as many workers are already heading off to their own after-work plans.
+
+Time: 19:30
+Activity: Arrives home and cooks dinner, often choosing from quick and easy recipes that can be prepared in under an hour due to his busy schedule.
+
+Time: 20:45
+Activity: Eats a light meal, then turns on the TV or browses through some tech news online while relaxing with a cup of herbal tea.
+
+Time: 22:30
+Activity: Reads from one of his many books for personal development before heading to bed. He often finds it beneficial for stress relief and inspiration in both his professional and personal life.
+
+Time: 23:15
+Activity: Washes face again, then uses an app on his phone to set a sleep timer. Lights off, ready for rest.

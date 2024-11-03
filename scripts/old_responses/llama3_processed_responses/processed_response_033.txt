@@ -1,0 +1,82 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan",
+  "job": "Event Planner",
+  "backstory": "Emiko grew up in Tokyo, where she developed a passion for art and photography. She moved to Osaka two years ago to pursue a career as an event planner.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "greet pet"],
+      "description": "Woke up to the sound of her cat, Luna, meowing outside her bedroom door"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushed her teeth with Sakura toothpaste and washed her face with warm water from the faucet in her small kitchen"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["make breakfast", "eat breakfast"],
+      "description": "Made a traditional Japanese breakfast of steamed rice, miso soup, and grilled salmon fillet for herself"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["walk", "enjoy nature"],
+      "description": "Walked to the nearby park for some fresh air and took a short walk around the serene garden before heading off to work"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["arrive at work", "work"],
+      "description": "Arrived at her office in Osaka Castle Park, where she worked as an event planner for weddings and corporate events"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["meeting", "work"],
+      "description": "Attended a meeting with clients to discuss the details of their upcoming wedding reception"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "hobby"],
+      "description": "Had a lunch break and met up with colleagues from her photography club at a nearby café to go over plans for an upcoming photo shoot"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:30",
+      "activities": ["work", "plan event"],
+      "description": "Spent several hours organizing the layout for a corporate event and meeting with vendors to discuss logistics"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["relax", "self-care"],
+      "description": "Took a short break from work to enjoy a relaxing bath in her small bathtub, filled with warm water and Epsom salt"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:45",
+      "activities": ["social", "dinner"],
+      "description": "Headed out to meet up with friends at a local izakaya for dinner and drinks"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:55",
+      "activities": ["hobby", "relax"],
+      "description": "Returned home after a long night of socializing and enjoyed a cup of green tea while working on her photography portfolio in bed"
+    }
+  ]
+}

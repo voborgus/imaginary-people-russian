@@ -1,0 +1,46 @@
+Name: Liang Hua
+Gender: Male
+Age: 35
+Location: Shanghai, China
+Backstory: Liang Hua is a software engineer working in the bustling city of Shanghai. He moved here after graduating college to pursue his dream of becoming a tech entrepreneur while also contributing to existing projects.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up gently to the sound of his morning alarm, feeling refreshed and ready for another day as he stretches in bed.
+
+Time: 06:15 AM
+Activity: Prepares for work by brushing teeth and washing face in the bathroom.
+
+Time: 07:00 AM
+Activity: Joins his family for breakfast at home where they discuss plans for the day over steaming bowls of congee and pickled mustard greens.
+
+Time: 08:30 AM
+Activity: Commutes to work on the crowded subway, holding onto a pole as he checks emails on his phone during the journey.
+
+Time: 10:00 AM
+Activity: Attends a meeting with colleagues to discuss project progress and any issues that need addressing. The office is filled with a buzz of activity and heated discussions.
+
+Time: 12:30 PM
+Activity: Takes a lunch break, sitting in the cafeteria and chatting with coworkers about recent tech trends and innovations.
+
+Time: 01:00 PM
+Activity: Back to work on coding projects at his desk. He works efficiently but often checks messages or updates social media during brief breaks.
+
+Time: 04:30 PM
+Activity: Attends a client meeting, where he presents the latest features of their software solution and answers any questions they have about functionality and integration with existing systems.
+
+Time: 06:00 PM
+Activity: Completes his workday early due to project deadlines, leaving time for personal projects. He packs up his bag and heads home, feeling satisfied with a productive day but also eager to pursue his passion projects in the evening.
+
+Time: 07:30 PM
+Activity: Arrives home and spends some quality time with his partner playing board games or watching a movie together before dinner.
+
+Time: 08:15 PM
+Activity: Cooks dinner for himself and his partner, trying out a new recipe using local Shanghai ingredients like spicy tofu and stir-fried vegetables.
+
+Time: 09:30 PM
+Activity: Winds down the evening by engaging in some personal coding projects or reading tech-related articles online to stay updated with industry news.
+
+Time: 10:45 PM
+Activity: Goes to bed, ready to start anew tomorrow.

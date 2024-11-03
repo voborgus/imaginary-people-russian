@@ -1,0 +1,49 @@
+Name: Li Mei
+Gender: Female
+Age: 34
+Location: Shanghai, China
+Backstory: Li Mei is a software engineer at a tech company in Shanghai. She moved there from Beijing after graduation to pursue her career and enjoys the vibrant city life.
+
+Day:
+
+Time: 06:00 AM
+Activity: Awakens gently by an alarm clock; stretches and gets out of bed.
+
+Time: 06:15 AM
+Activity: Makes a cup of strong black tea with milk for breakfast while reviewing emails from last night.
+
+Time: 07:00 AM
+Activity: Has breakfast, which consists of toast, a boiled egg, and her second cup of tea. Checks the weather forecast before deciding on her outfit for the day.
+
+Time: 08:30 AM
+Activity: Takes a bus to work; listens to an audiobook about artificial intelligence while commuting.
+
+Time: 12:00 PM
+Activity: Arrives at the office; has a quick lunch with colleagues, which includes discussing upcoming projects and sharing weekend stories.
+
+Time: 01:00 PM
+Activity: Begins working on bug fixes in their current project. Takes short breaks to chat with coworkers or grab coffee from the office café.
+
+Time: 03:00 PM
+Activity: Has a brief meeting with the team to discuss progress and upcoming challenges for the project.
+
+Time: 05:00 PM
+Activity: Completes her assigned tasks and starts on some personal learning resources, including a course on cloud computing.
+
+Time: 07:00 PM
+Activity: Ends the workday; grabs dinner from a nearby restaurant known for its dumplings. Eats while browsing social media.
+
+Time: 08:30 PM
+Activity: Returns home and starts exercising using a fitness app to keep fit. Exerts herself through various workouts.
+
+Time: 10:00 PM
+Activity: Dances in the living room to her favorite songs; it’s one of her stress-relief methods after work.
+
+Time: 10:30 PM
+Activity: Reads from a mystery novel for pleasure, as she finds the story captivating.
+
+Time: 11:30 PM
+Activity: Completes a crossword puzzle before setting it aside to unwind more fully. 
+
+Time: 12:00 AM
+Activity: Heads to bed, tucking in her favorite book and turning off all electronics.

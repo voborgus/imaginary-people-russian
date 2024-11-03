@@ -1,0 +1,76 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Marketing Specialist",
+  "backstory": "Li Mei is a dedicated marketing specialist who loves to explore new cultures. She recently completed her master's degree and has been working at a multinational company in Beijing since then.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:05",
+      "activities": ["wake up", "stretch", "brew green tea"],
+      "description": "Wakes up gently by her smart alarm clock set for the early morning. After stretching, she goes to the kitchen to brew a cup of green tea to help her wake up."
+    },
+    {
+      "startTime": "07:05",
+      "endTime": "07:20",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushes her teeth and washes her face with cold water from the tap in her apartment's modern bathroom."
+    },
+    {
+      "startTime": "07:20",
+      "endTime": "07:35",
+      "activities": ["leave apartment", "take elevator", "grab water"],
+      "description": "Exits her apartment, taking the elevator to the lobby where she grabs a bottle of natural mineral water from the fridge to bring on her morning walk."
+    },
+    {
+      "startTime": "07:35",
+      "endTime": "08:20",
+      "activities": ["morning walk", "observe people", "meet friends"],
+      "description": "Heads out for a 45-minute morning walk in the nearby park, enjoying the fresh air and sun. She often meets friends there or observes people walking their dogs."
+    },
+    {
+      "startTime": "08:20",
+      "endTime": "09:15",
+      "activities": ["change clothes", "check emails", "take train"],
+      "description": "Returns home, changes into work clothes, and checks emails on her smartphone before stepping outside again to take an elevator down to the underground train station."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:30",
+      "activities": ["arrive at work", "greet colleagues", "attend meetings", "brainstorm"],
+      "description": "Arrives at work in a modern office building, greets colleagues with warm smiles. She takes the stairs to her floor and gets ready for another busy day of meetings and brainstorming sessions."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch break", "listen to music", "read articles"],
+      "description": "Takes a quick break from lunch while listening to classical music on headphones and scrolling through some articles for personal development."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["marketing team meeting", "discuss strategies", "collaborate on ideas"],
+      "description": "Meets with the marketing team in a conference room, discussing strategies for their upcoming campaign. The team shares insights and collaborates on creative ideas."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:45",
+      "activities": ["wrap up work", "email findings", "after-work drinks"],
+      "description": "Wraps up work with a review of the day's progress and emails her findings to senior management before joining colleagues for after-work drinks at a trendy bar downtown."
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "23:00",
+      "activities": ["herbal tea", "board games", "chat with friends"],
+      "description": "Drinks some herbal tea and plays board games with friends, chatting about recent events and shared interests. The night is spent enjoying good conversation and company."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:15",
+      "activities": ["read books", "prepare for bed"],
+      "description": "Returns home, spends time reading books on economics or culture to learn more about different parts of the world before going to bed. Lights out by 23:15 to ensure she gets enough rest for the next day."
+    }
+  ]
+}

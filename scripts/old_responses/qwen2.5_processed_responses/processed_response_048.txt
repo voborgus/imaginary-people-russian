@@ -1,0 +1,76 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who works in one of Shanghai's tech hubs. He enjoys playing video games and reading sci-fi novels during his free time to unwind from the fast-paced city life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["stretching", "waking up"],
+      "description": "Wakes up and stretches in bed, feeling refreshed after a good night's sleep"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["shower", "brush teeth"],
+      "description": "Gets out of bed, heads to the bathroom for a quick morning shower and brush his teeth"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["cook breakfast", "eat congee"],
+      "description": "Cooks breakfast consisting of congee and some pickled vegetables"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["commute", "work on coding problem"],
+      "description": "Commutes by subway to work; sits at one of the windows, looking out as he works on a coding problem that kept him up late the night before"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "chat with colleagues"],
+      "description": "Has lunch with colleagues in the company cafeteria. They talk about recent news and upcoming projects"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["walk around office", "attend tech webinar"],
+      "description": "Takes a short walk around the office building during their break to get some fresh air, then attends a tech webinar on artificial intelligence, taking notes for future reference"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["commute home", "admire skyscrapers"],
+      "description": "Leaves work and walks past the Lujiazui financial district; admires the skyscrapers from his commute home"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "activities": ["change clothes", "play video games"],
+      "description": "Arrives home, changes into more comfortable clothes to relax, then plays video games for an hour, trying out a new game that just came out"
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "22:30",
+      "activities": ["read sci-fi novel", "meditate"],
+      "description": "Reads his sci-fi novel before bed; enjoys the stories of far-off worlds and advanced civilizations, then spends a few minutes meditating to clear his mind before going to sleep"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Lies down on his bed, reads some more before finally falling asleep"
+    }
+  ]
+}

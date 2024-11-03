@@ -1,0 +1,112 @@
+{
+  "name": "Liang Zhen",
+  "gender": "Male",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Zhen is a software engineer who works in a tech company. He moved to Shanghai for a job opportunity three years ago and has since been enjoying the vibrant city life while maintaining close ties with his family in the countryside.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "check weather"],
+      "description": "Wakes up after an early morning alarm, stretches and checks the weather forecast on his phone before getting out of bed"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["walk", "enjoy morning"],
+      "description": "Takes a short walk in the park near his apartment to stretch his legs and enjoy the morning sunlight"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["exercise", "push-ups", "treadmill"],
+      "description": "Commences his daily exercise routine, doing some push-ups and running on the treadmill"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "09:45",
+      "activities": ["breakfast", "porridge", "eggs", "fruit"],
+      "description": "Preparing a quick breakfast of porridge and eggs with a side of fresh fruit while listening to Chinese pop music through headphones"
+    },
+    {
+      "startTime": "09:45",
+      "endTime": "10:15",
+      "activities": ["commute", "scooter", "subway"],
+      "description": "Leaves his apartment, dons a helmet and rides his electric scooter to the subway station"
+    },
+    {
+      "startTime": "10:15",
+      "endTime": "13:00",
+      "activities": ["work", "projects", "planning"],
+      "description": "Arrives at the office, greets colleagues and heads to his assigned desk in the collaborative workspace. Today's task list is filled with updates on projects and planning sessions for new features"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "dim sum", "coworkers"],
+      "description": "Goes out for lunch with a few coworkers from his team at an authentic local restaurant known for its dim sum"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "activities": ["work", "emails", "collaboration"],
+      "description": "Returns to the office after lunch, checks emails and updates project progress in collaboration tools"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["commute", "walk", "observe"],
+      "description": "Leaves the office early due to heavy traffic warnings on his navigation app. He decides to walk back home instead of using public transport, enjoying the evening breeze and observing the city's nightlife coming alive"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "activities": ["relax", "tea", "sunset"],
+      "description": "Arrives home, makes himself a cup of tea while watching the sunset through the window"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["personal coding", "tech trends", "innovation"],
+      "description": "Starts his evening routine by reading articles on tech trends and innovation online before starting some personal coding projects he's working on in his free time"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["family call", "discuss day"],
+      "description": "Has dinner with his family via video call, discussing their respective days and plans for the weekend"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:15",
+      "activities": ["relax", "book", "audiobook"],
+      "description": "Reads a chapter of a book or listens to an audiobook while relaxing on the couch"
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "23:45",
+      "activities": ["journal", "reflect", "plan"],
+      "description": "Writes in his journal about events from today, reflecting on his day and making notes for tomorrow's tasks"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:15",
+      "activities": ["bedtime routine", "brush teeth", "prepare for next day"],
+      "description": "Gets ready for bed by brushing teeth, changing into pajamas, and setting out clothes for the next morning"
+    },
+    {
+      "startTime": "00:15",
+      "endTime": "00:00",
+      "activities": ["sleep", "dream"],
+      "description": "Lays down in bed, reads his e-reader one last time or meditates briefly before falling asleep, dreaming about tomorrow's possibilities"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Emilia García",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Graphic Designer",
+  "backstory": "Emilia grew up in a small town near Madrid, where she developed a passion for art and design. After completing her studies, she moved to Madrid to pursue a career as a graphic designer.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch"],
+      "description": "Wake up to the sound of her phone alarm and stretch in bed"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["get dressed", "make coffee"],
+      "description": "Get dressed and head to the kitchen to make a café con leche (Spanish coffee)"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["eat breakfast", "use social media"],
+      "description": "Eat a quick breakfast while scrolling through social media on her phone"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["commute", "listen to podcast"],
+      "description": "Commute to work by bus, listening to a podcast about design trends"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["review schedule", "prepare for meeting"],
+      "description": "Arrive at the office and start her day by reviewing her schedule for meetings and deadlines"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "activities": ["attend meeting", "discuss project"],
+      "description": "Attend a meeting with her team to discuss a new project they're working on"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["take break", "chat with coworkers", "get snack"],
+      "description": "Take a short break to grab a snack from the office vending machine and chat with coworkers"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["meet client", "discuss design needs"],
+      "description": "Meet a client for lunch at a nearby restaurant to discuss their design needs"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["work on project", "create brand identity"],
+      "description": "Spend the afternoon working on a graphic design project, focusing on creating a new brand identity"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["take break", "get coffee", "get fresh air"],
+      "description": "Take another break to grab a coffee and step outside for some fresh air"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["attend networking event", "meet other designers"],
+      "description": "Attend a networking event at a local art gallery to meet other designers and artists in the community"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:15",
+      "activities": ["commute home", "prepare dinner"],
+      "description": "Head back home, feeling inspired by the evening's conversation and ideas, and prepare dinner for herself, cooking a simple pasta dish"
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:00",
+      "activities": ["eat dinner", "relax"],
+      "description": "Spend the evening watching a TV show or reading a book before bed"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:45",
+      "activities": ["wind down", "meditate"],
+      "description": "Wind down by meditating for a few minutes before drifting off to sleep"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleep"
+    }
+  ]
+}

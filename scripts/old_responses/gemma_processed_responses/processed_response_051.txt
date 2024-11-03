@@ -1,0 +1,88 @@
+{
+  "name": "Ava Sharma",
+  "gender": "Female",
+  "age": 28,
+  "location": "India",
+  "job": "Freelance Photographer",
+  "backstory": "A freelance photographer, Ava moved to Bangalore to chase her dreams after graduating with a degree in photography.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "snooze alarm"],
+      "description": "Ava's alarm rings insistently. She snubs it again and throws the duvet back over her head."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["get out of bed", "stretch", "make chai", "check emails"],
+      "description": "Slowly, Ava gets out of bed and stretches, remembering to breathe deeply as she moves. She makes a cup of chai with turmeric and ginger before grabbing her phone. She checks for emails from clients about the new wedding photography project."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["bicycle to market", "explore market"],
+      "description": "Ava jumps on her bicycle and heads down to the local market for fresh fruits and vegetables. The early morning air is cool, and she weaves through the bustling streets of Bangalore."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["buy produce", "browse spices", "buy flowers"],
+      "description": "At the market, Ava haggles with the vendor about mangoes. She buys a mix of green, red, and yellow – just like her favourite painting style! Then she browses through the spices before grabbing a bunch of jasmine flowers for a small decoration at the client's wedding venue."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["review portfolio", "select photos"],
+      "description": "Ava heads to her studio - a converted apartment with sunlight streaming through large windows. She reviews her recent portfolio and selects a few pictures she's particularly proud of – focusing on capturing the natural beauty of each scene."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "16:00",
+      "activities": ["eat lunch", "work on project"],
+      "description": "Ava enjoys her lunch. It's mostly leftovers from last night but a quick dash to the local cafe for some delicious chai and pakoras keeps her going. The afternoon brings a flurry of emails and calls, and Ava spends hours working on a project for a wedding photographer collective in Mumbai."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["jog", "picnic"],
+      "description": "An energy boost! A light jog through the Botanical Gardens, followed by a picnic with homemade sandwiches. This is her favorite time – she finds solace and inspiration while connecting with nature."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner at Chai Point"],
+      "description": "The evening winds down with Ava checking out local restaurants for dinner. Tonight, she's booked a table at \"Chai Point,\" a favourite spot known for its delicious vegetarian food and quirky atmosphere."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "activities": ["prepare for photoshoot", "read photography articles"],
+      "description": "Ava returns to her studio. A gentle breeze from the window invites her to relax, but Ava uses this time to prepare for tomorrow's photoshoot – she's excited about the new project! She reads articles on photography tips and practices."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "01:00",
+      "activities": ["evening stroll", "read book"],
+      "description": "After a quick evening stroll under the Bangalore sky, Ava settles down with a book about street photography in India. A sense of satisfaction fills her as she closes her eyes, embracing the calm before sleep."
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "02:00",
+      "activities": ["wake up", "check work"],
+      "description": "A series of dreams takes over - mostly memories from last week's shoot and vibrant images of her studio. Ava wakes up in a rush feeling a sudden urge to check on her recent work and plan for the next few months."
+    },
+    {
+      "startTime": "02:00",
+      "endTime": "06:30",
+      "activities": ["prepare for tomorrow"],
+      "description": "Back into a meditative routine, Ava begins prepping for tomorrow's work - an intricate portrait project that is sure to test her creativity."
+    }
+  ]
+}

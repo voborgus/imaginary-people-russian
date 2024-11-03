@@ -1,0 +1,43 @@
+Name: Li Ming
+Gender: Male
+Age: 35
+Location: Beijing, China
+Backstory: Li Ming is a software engineer at a tech company in downtown Beijing. He moved to the city after graduating from university and has been living there ever since. He enjoys playing chess and spending time with his family on weekends.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up, stretches and checks his phone for any messages or emails that need immediate attention before work.
+ 
+Time: 06:30 AM
+Activity: Takes a shower and gets dressed in casual attire suitable for the office.
+
+Time: 07:00 AM
+Activity: Makes a pot of tea and prepares some toast with jam, enjoying his breakfast slowly while reading news from tech websites on his tablet.
+
+Time: 08:00 AM
+Activity: Commutes to work by taking the metro. He sits next to the window watching the city life pass by and often takes this time to read or plan out tasks for the day.
+
+Time: 09:00 AM
+Activity: Arrives at his office, greets colleagues, and heads straight to his desk where he starts checking emails and preparing for today's meetings.
+
+Time: 12:30 PM
+Activity: Takes a lunch break with some coworkers at the nearby food court. They discuss upcoming projects over dim sum and noodles.
+
+Time: 01:00 PM
+Activity: Back to work, working on coding tasks and reviewing project documents. He uses his breaks in between tasks to chat with colleagues or take a quick walk around the office building.
+
+Time: 05:30 PM
+Activity: Attends a client meeting at another office near town. The meeting lasts until 7 pm.
+
+Time: 06:30 PM
+Activity: Goes to a local pub for drinks and catch-up with his colleagues, including some fun chess games over a pint of beer.
+
+Time: 10:00 PM
+Activity: Returns home, cooks dinner (usually a quick stir-fry) while watching the news on TV. He tries to keep up with world events as well as Chinese politics.
+
+Time: 10:30 PM
+Activity: Cleans up after dinner and gets ready for bed. Reads through an e-book about tech trends before turning off the lights.
+
+Time: 11:00 PM
+Activity: Sleeps, dreaming of future coding challenges or spending time with his family.

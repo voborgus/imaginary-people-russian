@@ -1,0 +1,37 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: China, Beijing
+Backstory: Li Wei is a software engineer working in one of the leading tech companies in Beijing. He moved there after graduating from Tsinghua University with dreams of making groundbreaking contributions to the tech industry.
+
+Day:
+
+Time: 06:30
+Activity: Awakens gently by his smart alarm clock, stretching and checking the news briefly before turning off the lights.
+
+Time: 07:00
+Activity: Heads into the kitchen to brew a pot of strong tea. Watches the morning news on TV while preparing breakfast, consisting of steamed bao and congee.
+
+Time: 08:30
+Activity: Commutes to work via subway line 10. Surrounded by a rush of students, commuters, and workers all heading for their respective destinations in the bustling Beijing metropolis.
+
+Time: 12:00
+Activity: Takes a break from coding at his desk to have lunch with a colleague. They grab food from the nearby convenience store and sit outside on a bench, discussing recent projects and plans.
+
+Time: 13:30
+Activity: Returns to work and continues coding. He is focused on optimizing the user interface for their latest project, feeling proud of the progress he has made so far today.
+
+Time: 18:00
+Activity: Commutes back home using the same subway line but in a less crowded direction this time. Takes notes on his phone about tasks to complete over the weekend and ideas for potential side projects.
+
+Time: 19:30
+Activity: Arrives home, starts dinner by boiling some vegetables and rice. Watches a cooking show from a famous Chinese chef who is known for traditional recipes with modern twists.
+
+Time: 21:00
+Activity: Sits down to eat his meal while scrolling through social media on his phone, checking updates from friends and colleagues before putting the device aside.
+
+Time: 23:00
+Activity: Gets ready for bed. Brushes teeth, changes into pajamas, and uses a smart mirror to apply skincare products.
+
+Time: 23:45
+Activity: Lies down in bed, reading an e-book on his tablet about artificial intelligence until feeling drowsy enough to drift off to sleep.

@@ -1,0 +1,55 @@
+Name: Liang Hua
+Gender: Male
+Age: 34
+Location: China
+Backstory: Liang Hua is a software engineer living in Beijing. He works at a tech startup and enjoys cycling on the weekends to stay fit.
+
+Day:
+
+Time: 06:00 AM
+Activity: Awakens gently from his alarm clock, stretches, and gets out of bed. 
+
+Time: 06:15 AM
+Activity: Drinks a glass of water and checks his phone for any important messages or notifications before starting the day.
+
+Time: 06:30 AM
+Activity: Brushes teeth and washes face with cold water to refresh himself.
+
+Time: 07:00 AM
+Activity: Heads to the living room to meditate and practice some yoga exercises, aiming to start his day stress-free.
+
+Time: 08:00 AM
+Activity: Takes a short ride on his bicycle to work in the city park nearby. The morning air is fresh and invigorating as he pedals through the paths.
+
+Time: 09:00 AM
+Activity: Arrives at the office where colleagues are already settling down, gets into a daily scrum meeting with the team to discuss project progress and next steps.
+
+Time: 12:00 PM
+Activity: Leaves the office for lunch. He walks past the park again, deciding on the same spot as before but sits closer by a tree this time under which he can read or simply enjoy some solitude.
+
+Time: 01:00 PM
+Activity: Returns to his desk and begins coding with renewed energy after his midday break.
+
+Time: 03:30 PM
+Activity: Goes for a walk around the office building complex, grabbing a cup of green tea from the communal area to sip while taking in the views.
+
+Time: 05:00 PM
+Activity: Engages in another quick meeting with a remote team member. The time difference is significant but communication remains smooth and efficient.
+
+Time: 06:30 PM
+Activity: Starts preparing dinner, chopping vegetables and marinating meat for a healthy meal to enjoy at home tonight.
+
+Time: 07:45 PM
+Activity: Eats dinner by candlelight in the small dining area of his apartment. He watches TV while eating quietly, enjoying some downtime after work.
+
+Time: 09:30 PM
+Activity: Cleans up the kitchen and washes dishes before getting ready for bed. 
+
+Time: 10:00 PM
+Activity: Reads a book or does light stretching in his living room until it’s time to prepare for sleep.
+
+Time: 10:30 PM
+Activity: Takes a warm shower, lathers up with a scent that reminds him of home before drying off and changing into pajamas.
+
+Time: 11:00 PM
+Activity: Sets the alarm and settles down in bed, feeling content from his productive day.

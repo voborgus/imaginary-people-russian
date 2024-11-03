@@ -1,0 +1,88 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 35,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Li Ming is a software engineer at a tech company in downtown Beijing. He moved to the city after graduating from university and has been living there ever since. He enjoys playing chess and spending time with his family on weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up, stretches and checks his phone for any messages or emails that need immediate attention before work"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a shower and gets dressed in casual attire suitable for the office"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make tea", "eat toast"],
+      "description": "Makes a pot of tea and prepares some toast with jam, enjoying his breakfast slowly while reading news from tech websites on his tablet"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute", "read", "plan tasks"],
+      "description": "Commutes to work by taking the metro. He sits next to the window watching the city life pass by and often takes this time to read or plan out tasks for the day"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["greet colleagues", "check emails", "prepare for meetings"],
+      "description": "Arrives at his office, greets colleagues, and heads straight to his desk where he starts checking emails and preparing for today's meetings"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["have lunch", "discuss projects"],
+      "description": "Takes a lunch break with some coworkers at the nearby food court. They discuss upcoming projects over dim sum and noodles"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["work on coding tasks", "review documents", "chat with colleagues", "take walks"],
+      "description": "Back to work, working on coding tasks and reviewing project documents. He uses his breaks in between tasks to chat with colleagues or take a quick walk around the office building"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["attend client meeting"],
+      "description": "Attends a client meeting at another office near town. The meeting lasts until 7 pm"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "22:00",
+      "activities": ["have drinks", "play chess"],
+      "description": "Goes to a local pub for drinks and catch-up with his colleagues, including some fun chess games over a pint of beer"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "22:30",
+      "activities": ["cook dinner", "watch news"],
+      "description": "Returns home, cooks dinner (usually a quick stir-fry) while watching the news on TV. He tries to keep up with world events as well as Chinese politics"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["clean up", "read e-book"],
+      "description": "Cleans up after dinner and gets ready for bed. Reads through an e-book about tech trends before turning off the lights"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeps, dreaming of future coding challenges or spending time with his family"
+    }
+  ]
+}

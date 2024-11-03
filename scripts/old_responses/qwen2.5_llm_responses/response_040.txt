@@ -1,0 +1,46 @@
+Name: Li Mei
+Gender: Female
+Age: 32
+Location: China, Beijing
+Backstory: Li Mei is a marketing manager who enjoys blending her cultural heritage with modern business strategies. She often travels to different parts of China to understand local market trends and culture better.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up feeling refreshed after a good night's sleep, stretches in bed while sipping on hot green tea.
+
+Time: 06:30 AM
+Activity: Heads to the bathroom for her morning routine, including washing her face and brushing her teeth with Chinese herbal toothpaste.
+
+Time: 07:00 AM
+Activity: Tries a traditional Chinese breakfast of congee (rice porridge) with pickled mustard greens, followed by a cup of milky tea.
+
+Time: 08:00 AM
+Activity: Commutes to work on the Beijing subway; she enjoys the early morning quiet as she reads the latest marketing trends from her tablet.
+
+Time: 09:30 AM
+Activity: Attends an online meeting with international clients, discussing market strategies and sharing insights about Chinese consumer behavior. 
+
+Time: 12:00 PM
+Activity: Participates in a virtual brainstorming session for new product ideas, collaborating with team members from different departments.
+
+Time: 01:30 PM
+Activity: Takes an hour-long walk during the lunch break to clear her mind and enjoy some fresh air, often visiting Beihai Park or nearby gardens.
+
+Time: 03:00 PM
+Activity: Holds a one-on-one meeting with a junior team member to discuss their progress on current projects and give feedback.
+
+Time: 04:00 PM
+Activity: Attends a client presentation in the company conference room, showcasing the latest campaign strategies for their target market.
+
+Time: 05:30 PM
+Activity: Travels back home after work via the subway or taxi, looking forward to some personal time before dinner.
+
+Time: 07:00 PM
+Activity: Cooks a simple yet nutritious dinner of stir-fried vegetables and tofu, enjoying it while watching cultural documentaries on her TV.
+
+Time: 08:30 PM
+Activity: Joins an online virtual meeting for a community group that she is involved with, discussing topics related to cultural exchange and business ethics.
+
+Time: 10:00 PM
+Activity: Skims through WeChat Moments or news articles about the latest happenings in China and around the world before turning off her phone and settling into bed.

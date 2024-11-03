@@ -1,0 +1,130 @@
+{
+  "name": "Maya Patel",
+  "gender": "Female",
+  "age": 27,
+  "location": "India",
+  "job": "Software Developer",
+  "backstory": "Maya grew up in a small town in Maharashtra and moved to Mumbai after completing her degree in engineering. She now works as a software developer at a tech startup.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:45",
+      "endTime": "06:00",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Woke up to the sound of the alarm on her phone, stretching her arms and yawning"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["get dressed"],
+      "description": "Got dressed in a crisp white shirt and black trousers for work"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["shower"],
+      "description": "Had a quick shower, using the water-saving mode to save some electricity"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["make tea"],
+      "description": "Made herself a steaming hot cup of masala chai using her trusty tea-making kit"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["check phone"],
+      "description": "Checked her phone for any important notifications or emails from work"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["breakfast", "tea"],
+      "description": "Had a quick breakfast of whole-grain toast with scrambled eggs and washed it down with the same chai she had made earlier"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "activities": ["personal grooming"],
+      "description": "Brushed her teeth, washed her face, and styled her hair in the usual ponytail style"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["commute"],
+      "description": "Left for work, catching an auto-rickshaw from her building to the nearest bus stop"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["arrive at work", "greet colleagues"],
+      "description": "Arrived at work, clocking in with a smile on her face and exchanging hellos with her colleagues"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["team meeting"],
+      "description": "Attended a team meeting, listening attentively to the product manager's update on their latest project"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["coding", "bug fixing"],
+      "description": "Dived into coding, working diligently on a tricky algorithm to fix a bug in one of the company's apps"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "street food"],
+      "description": "Took a lunch break, walking out with her colleagues to grab some street food from a nearby vendor"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["coding", "bug fixing"],
+      "description": "Continued coding after lunch, making good progress on fixing that pesky bug"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["tea break", "social media"],
+      "description": "Had a short tea-break, rehydrating with another cup of chai and catching up on some social media posts"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:15",
+      "activities": ["team meeting", "wrap up work"],
+      "description": "Wrapped up work for the day, attending a quick team meeting to discuss the next day's tasks"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "activities": ["commute home"],
+      "description": "Left work, heading back home in the same auto-rickshaw she had taken earlier that morning"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["unwind", "dinner"],
+      "description": "Arrived home, taking a few moments to unwind and collect her thoughts before dinner"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "relax", "watch TV"],
+      "description": "Had a light dinner of dal-fried rice with some vegetables, washing it down with a glass of water, and then watched an episode or two of her favorite TV show on Netflix, giggling at the hilarious dialogue and storylines"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Wrapped up watching TV for the night, feeling content after a productive day at work and went to sleep, drifting off with a smile on her face"
+    }
+  ]
+}

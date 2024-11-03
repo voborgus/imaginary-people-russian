@@ -1,0 +1,82 @@
+{
+  "name": "Amelia Miller",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Volunteer at Marine Conservation Center",
+  "backstory": "Amelia left her career as a graphic designer to travel the world and help endangered species through conservation efforts. She is passionate about sustainability, enjoys learning about local cultures, and loves photography.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "morning coffee", "enjoy the early morning breeze"],
+      "description": "Amelia wakes up with the rooster's crow. The sun hasn't quite reached full brightness yet, but the gentle morning light streams through the curtains of her cozy wooden apartment in Valencia. She pulls on a comfortable linen shirt and lightweight jeans, then heads for the balcony to enjoy the early morning breeze as she sips fresh, strong coffee brewed with local, ethically sourced arabica beans."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["yoga", "jog"],
+      "description": "A light exercise routine in the spacious garden before heading to work - yoga stretches are followed by a quick jog around the perimeter of the community. The early mornings are perfect for this quiet, fulfilling practice."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["walk", "talk with friend"],
+      "description": "A walk along the scenic Valencia docks to greet her friend Pedro. They talk about the day's agenda and his latest photography project focusing on the local fishing community."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:30",
+      "activities": ["record nesting data", "assist with research"],
+      "description": "Amelia arrives at her volunteer position in the local marine conservation center, working alongside a team of passionate individuals who are dedicated to protecting endangered species. She begins by recording the daily data for the sea turtles' nesting season with Pedro assisting and providing a helpful insight on the current migration patterns."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["have a snack", "enjoy the sunshine"],
+      "description": "A quick break at the beach cafe, Amelia enjoys a delicious almond croissant paired with a freshly brewed iced tea. The warm sunshine feels like the perfect start to her day."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["meet with community leader", "discuss collaboration"],
+      "description": "Meeting with a local community leader from the nearby village to discuss potential collaboration between the conservation center and the villagers to monitor the endangered bird populations that reside near their farmland."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "activities": ["enjoy local lunch", "talk to vendors"],
+      "description": "Lunch break at the community market, filled with freshly caught seafood and vibrant fruits. Amelia enjoys a simple paella accompanied by fresh orange juice as she talks to local vendors about their latest experiences."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "18:00",
+      "activities": ["assist research team", "document endangered plants"],
+      "description": "A trip to a nearby forest reserve to assist a team of researchers studying endangered plant species. They gather samples and document the growth patterns of several endemic flora. Amelia's expertise in photography comes in handy for capturing detailed imagery of these fascinating specimens."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["socialize with friends", "enjoy local tapas"],
+      "description": "A casual gathering with friends at a rooftop bar overlooking the Mediterranean Sea as they share stories from their day and enjoy local tapas before heading home."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["read about conservation", "plan next adventure"],
+      "description": "Amelia settles in for the evening, enjoying a cup of herbal tea as she listens to an audiobook on marine conservation while reading about a new species discovered in the coral reefs. She looks at her travel photographs and begins planning her next adventure as she gets ready for bed."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Lights out, Amelia is already drifting off into a peaceful sleep. The soothing sounds of waves gently lapping on the shore lull her into a tranquil slumber."
+    }
+  ]
+}

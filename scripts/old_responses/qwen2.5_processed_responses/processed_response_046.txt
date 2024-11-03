@@ -1,0 +1,88 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 34,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer who works in a startup tech company. He grew up in the suburbs of Beijing but moved to the city center after finishing college for better job opportunities. Despite his busy work schedule, he finds joy in hiking and cooking traditional Chinese dishes.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up with the early morning sun streaming through the window. He stretches and yawns before checking his phone for any urgent messages or emails from his team."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["breakfast", "review work", "cook"],
+      "description": "Preparing a quick breakfast of egg and spinach pancakes, while simultaneously reviewing some project details on his laptop."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute", "listen to podcasts"],
+      "description": "Commutes to work by taking the subway. He enjoys listening to podcasts about technology and innovation during his ride."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "discuss project"],
+      "description": "Attends a team meeting in the conference room with colleagues, discussing project milestones and upcoming tasks."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "eat at desk"],
+      "description": "Takes a short break for lunch. He usually orders takeout from a nearby restaurant or cooks something simple at his desk."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["work", "code", "debug"],
+      "description": "Resumes work on his current project, spending most of the afternoon coding and debugging."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "activities": ["after-work drinks", "socialize"],
+      "description": "Heads out for after-work drinks with a few colleagues. They often meet up to discuss non-work-related topics or plan social activities."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:45",
+      "activities": ["check emails", "exercise"],
+      "description": "Arrives home from work. He spends some time checking emails, responding to messages, and doing light exercise on his treadmill."
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["cook", "prepare dinner"],
+      "description": "Starts preparing dinner. Tonight, he decides to cook a traditional Beijing dish - braised pork with bok choy."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["eat dinner", "watch TV"],
+      "description": "Dishes are done and put on the table, along with some steamed rice. He enjoys his meal while watching a cooking show on television."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:15",
+      "activities": ["clean up", "light cleaning"],
+      "description": "Cleans up the kitchen and does light cleaning around the apartment."
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "24:00",
+      "activities": ["read", "check social media", "drink tea"],
+      "description": "Reads a book or checks social media before finally heading to bed, winding down for the night with a cup of green tea."
+    }
+  ]
+}

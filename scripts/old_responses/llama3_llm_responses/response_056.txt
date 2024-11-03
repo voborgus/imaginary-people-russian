@@ -1,0 +1,51 @@
+Let's create a person with the following details:
+
+Name: Maya Singh
+Gender: Female
+Age: 27
+Location: India (specifically, Mumbai)
+
+Backstory: Maya is a freelance writer and a single mother to her 4-year-old daughter, Rohini. She moved back to her hometown of Mumbai from London two years ago to take care of her family.
+
+Here's a random day from Maya's life:
+
+Day:
+
+Time: 05:45
+Activity: Wake up to the sound of Rohini singing in her room, followed by a 30-minute wake-up dance party
+
+Time: 06:15
+Activity: Quick meditation session on the balcony while sipping steaming hot chai
+
+Time: 07:00
+Activity: Cook breakfast for Rohini (today it's poha and scrambled eggs) and get her ready for school
+
+Time: 08:00
+Activity: Take a quick phone call to confirm today's writing deadline with a client, while juggling Rohini's backpack and lunchbox
+
+Time: 09:00
+Activity: Drop off Rohini at school and take a short walk around the block to get some fresh air and exercise
+
+Time: 10:30
+Activity: Spend two hours working on a writing project for a popular Indian magazine, researching and drafting an article about sustainable living
+
+Time: 12:30
+Activity: Take a lunch break and order some chicken biryani from her favorite restaurant for delivery
+
+Time: 14:00
+Activity: Attend a meeting with potential clients to discuss future collaborations and projects
+
+Time: 16:00
+Activity: Spend an hour responding to emails, updating her website, and managing social media accounts for her writing business
+
+Time: 17:30
+Activity: Pick up Rohini from school and head back home for snacks and homework help
+
+Time: 19:30
+Activity: Cook dinner (tonight it's palak paneer) while making plans with friends for a movie night later tonight
+
+Time: 21:00
+Activity: Spend quality time with Rohini, reading her favorite bedtime story, and getting her ready for bed
+
+Time: 22:15
+Activity: Finally sit down to relax and unwind after a busy day, curl up with a book or some calming music

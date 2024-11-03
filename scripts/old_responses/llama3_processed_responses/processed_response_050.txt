@@ -1,0 +1,82 @@
+{
+  "name": "Emilia Sofia García",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emilia is a freelance graphic designer who moved back to her hometown in Spain after living abroad for five years. She's now trying to balance her love of design with the comfort and familiarity of her roots.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "hear birds chirping"],
+      "description": "Woke up to the sound of birds chirping outside her window, feeling refreshed after a good night's sleep."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "get dressed"],
+      "description": "Brushed her teeth and got dressed in the cozy bedroom she shares with her cat, Luna."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make coffee", "have breakfast"],
+      "description": "Headed downstairs to make some coffee and have a quick breakfast of toast with avocado and tomato."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["respond to emails", "review schedule"],
+      "description": "Started her design workday by responding to emails from clients and reviewing her schedule for the day."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["video call with client", "brainstorm ideas"],
+      "description": "Had a video call meeting with a new potential client to discuss their branding needs. Emilia loved brainstorming ideas on the spot!"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["have lunch", "catch up with friend"],
+      "description": "Took a break for lunch, grabbing some tapas at a nearby café and catching up with an old friend who works there."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["work on design project", "research inspiration"],
+      "description": "Continued working on a design project that was due soon. She spent a few hours researching color palettes and typography inspiration."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["take walk", "people-watch"],
+      "description": "Stepped outside for some fresh air and a short walk around the town square with Luna. People-watching is one of her favorite pastimes!"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["make dinner", "experiment with recipes"],
+      "description": "Had dinner at home, making pasta with cherry tomatoes and basil from her garden. She's been experimenting with new recipes."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["hang out with friends", "play board games"],
+      "description": "Met up with some friends for a low-key evening at their apartment. They played board games, shared stories, and had a relaxing night in."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["brush teeth", "get ready for bed", "sleep"],
+      "description": "Got home around midnight, feeling content after a wonderful day of work and socializing. Brushed her teeth again (yes, twice!), changed into PJs, and drifted off to sleep with Luna snuggled up beside her."
+    }
+  ]
+}

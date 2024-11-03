@@ -1,0 +1,58 @@
+{
+  "name": "Maya",
+  "gender": "Female", 
+  "age": 28,
+  "location": "Berlin, Germany",
+  "job": "Graphic Designer",
+  "backstory": "Maya is a 28-year-old graphic designer living in Berlin, Germany. She enjoys working on projects that promote sustainability and community.",
+  "schedule": [
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["morning routine", "coffee", "reading design magazines"],
+      "description": "Yawning widely, Maya sits up and stretches, then pours herself a steaming mug of black coffee. She looks at the sunrise filtering through her window onto the grey concrete walls of her small apartment - a cozy view amidst the city bustle. After a quick scan of her morning notifications on her phone, Maya grabs an apple from the fruit basket and eats it while browsing online design magazines for inspiration."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["sketching", "design work"],
+      "description": "With a satisfying click of her mousepad, Maya starts sketching some ideas on the second layer of her tablet screen. Today's assignment for her client, \"Green Leaf\", involves creating a new identity for their sustainable food delivery service that emphasizes community and local sourcing."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "activities": ["research", "brand development"],
+      "description": "Coffee brewing in its ceramic mug and a fresh pot of herbal tea on the stove, Maya dives into the first task - mapping out her client's brand style guide with precise detail. She researches various green tones and earthy textures to create a visual identity that reflects \"Green Leaf\"."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["lunch", "photography"],
+      "description": "A lunch break! Maya steps outside for a quick salad at her favorite cafe, 'Urban Garden', located in the nearby park. The smell of fresh basil and lemon adds to the serene atmosphere. After enjoying the salad, Maya settles back on a bench in the sunshine, taking photos with her camera to document the scene for future inspirations."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "15:00",
+      "activities": ["brainstorming", "sketching", "design work"],
+      "description": "Back home after lunch, Maya spends time brainstorming new logo concepts. Inspired by local flora and fauna, she starts drawing on scrap paper in her notebook, sketching leaves, branches, and vibrant flowers. She focuses on creating a strong visual presence that will resonate with the target audience of \"Green Leaf\"."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "activities": ["grocery shopping", "farmers market", "inspiration"],
+      "description": "A quick trip to the supermarket for some fresh ingredients, Maya comes across a local farmers' market just on her way home, where she buys some seasonal vegetables. Feeling inspired by the abundance of colors and textures, she walks through the vibrant stalls with a sense of joy, appreciating the simple pleasures of life."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "activities": ["home routine", "reading", "relaxation"],
+      "description": "After work, Maya returns to her cozy apartment, taking out fresh linens and arranging them perfectly on her bed. Then, after indulging in a quick evening snack - a bowl of yogurt with berries - she dives into reading an informative article about sustainability and its implications for design businesses."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "07:00",
+      "activities": ["sleep"],
+      "description": "With the city lights shimmering outside her window, Maya enjoys a cup of chamomile tea as she prepares for the day ahead. Closing her eyes, Maya lets herself drift into the quiet serenity of sleep, dreaming of colorful illustrations and sustainable solutions."
+    }
+  ]
+}

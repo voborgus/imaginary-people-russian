@@ -1,0 +1,88 @@
+{
+  "name": "Kaitlyn",
+  "gender": "Female",
+  "age": 25,
+  "location": "Canada",
+  "job": "Environmental Scientist",
+  "backstory": "Kaitlyn grew up in a small town in British Columbia, where she developed a passion for outdoor activities like hiking and kayaking. She moved to Vancouver after completing her degree in environmental science.",
+  "schedule": [
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["woke up", "heard birds chirping"],
+      "description": "Woke up to the sound of birds chirping outside her apartment window"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "brush teeth", "wash face"],
+      "description": "Started her morning routine by brushing her teeth and washing her face with cold water"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["made coffee", "read news"],
+      "description": "Made a cup of coffee using her pour-over brewing method and sat down at her kitchen table to enjoy it while catching up on the news"
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "09:00",
+      "activities": ["hiked", "took photos", "spotted wildlife"],
+      "description": "Put on her hiking boots and grabbed her backpack for an early morning hike in nearby Lynn Canyon Park"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:30",
+      "activities": ["hiked", "took photos", "spotted wildlife"],
+      "description": "Hiked for about two hours, taking breaks to take photos of the beautiful scenery and spot some wildlife"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:15",
+      "activities": ["cooked breakfast", "ate oatmeal with berries"],
+      "description": "Returned home and cooked a bowl of oatmeal with fresh berries for breakfast"
+    },
+    {
+      "startTime": "12:15",
+      "endTime": "13:45",
+      "activities": ["attended meeting", "discussed project proposal"],
+      "description": "Attended a meeting at her office with colleagues from the environmental department to discuss a new project proposal"
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "15:00",
+      "activities": ["had lunch", "caught up with friend"],
+      "description": "Took a lunch break and grabbed a salad from a nearby café, where she ran into an old friend who worked there"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["worked on computer", "responded to emails", "updated blog"],
+      "description": "Spent some time working on her computer, responding to emails and updating her personal blog about environmental issues"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:15",
+      "activities": ["took walk", "walked dog"],
+      "description": "Took another break to go for a walk along the seawall with her dog, Luna"
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "21:00",
+      "activities": ["had dinner", "socialized with friends"],
+      "description": "Met up with friends at a local pub for dinner and drinks, where they discussed their plans for the upcoming long weekend"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["practiced yoga"],
+      "description": "Returned home and spent some time practicing yoga on her living room floor before bed"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["journaled", "planned next day"],
+      "description": "Wrote in her journal and planned out her activities for the next day before getting into bed"
+    }
+  ]
+}

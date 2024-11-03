@@ -1,0 +1,94 @@
+{
+  "name": "Sofia Patel",
+  "gender": "Female",
+  "age": 27,
+  "location": "India",
+  "job": "Freelance Writer",
+  "backstory": "Sofia is a freelance writer who moved to Mumbai from her hometown in small-town Gujarat five years ago. She loves writing about social issues and exploring the city's street food scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "deep breaths"],
+      "description": "Wake up to the sound of sparrows chirping outside her 10th-floor apartment window, stretch, and take a few deep breaths before starting her day"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face", "meditate"],
+      "description": "Brush her teeth and wash her face with cold water, followed by a quick meditation session to clear her mind"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make coffee", "make breakfast"],
+      "description": "Head out to the kitchen to make herself a strong cup of filter coffee and some toast with scrambled eggs for breakfast"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["respond to emails", "check social media"],
+      "description": "Spend an hour responding to client emails and checking social media notifications on her laptop while enjoying her breakfast"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:30",
+      "activities": ["write article", "research"],
+      "description": "Start working on a new article about education policy in India, researching and outlining the content for the next few hours"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "activities": ["have lunch", "drink chai"],
+      "description": "Take a short break to grab some lunch at the nearby Irani cafe - a delicious plate of dhokla and a glass of masala chai"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["attend online meeting", "get feedback"],
+      "description": "Attend an online meeting with her editor to discuss a pending project deadline and get feedback on her draft"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["work on article", "research"],
+      "description": "Spend two hours working on the article, researching statistics and talking to experts in the field"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["take a break", "have a snack"],
+      "description": "Take another short break to freshen up and have a quick snack - some leftover rice and vegetables from last night's dinner"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["meet with client", "discuss project"],
+      "description": "Meet with a potential client at a nearby cafe to discuss a new project proposal - she hopes to land this gig and get more stability in her freelance career"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["watch movie", "read"],
+      "description": "Spend the evening watching a Bollywood movie on Netflix and catching up on some light reading before dinner"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["have dinner", "try street food"],
+      "description": "Head out with friends to try out a new street food joint that just opened up near her apartment - they have amazing chaat items and an incredible selection of local beers"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["wind down", "listen to music", "stretch", "sleep"],
+      "description": "Wind down by listening to some soothing music, stretching, and getting ready for bed after a fulfilling day"
+    }
+  ]
+}

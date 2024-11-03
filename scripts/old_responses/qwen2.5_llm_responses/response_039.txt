@@ -1,0 +1,43 @@
+Name: Li Wei
+Gender: Male
+Age: 35
+Location: Beijing, China
+Backstory: Li Wei is a data analyst working at a tech company in central Beijing. He has been living and working in the city for over a decade, witnessing its rapid development and technological advancement. His weekends are usually spent exploring local markets or attending cultural events.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of his alarm, stretches and gets out of bed.
+
+Time: 07:00
+Activity: Takes a shower, brushes teeth, and prepares for the day with coffee.
+
+Time: 08:15
+Activity: Commutes on the subway from Xuanwu District to Wangjing where he works in Haidian District. The train is moderately crowded due to weekday morning rush hour.
+
+Time: 09:30
+Activity: Arrives at work, checks emails and updates his calendar for the day's tasks.
+
+Time: 10:45
+Activity: Meets with the team to discuss ongoing projects and data analysis progress. Takes a short walk in the office garden during this meeting.
+
+Time: 12:30
+Activity: Eats lunch at his desk, bringing homemade dishes from home which includes beef brisket and cabbage soup.
+
+Time: 14:00
+Activity: Conducts a video conference call with colleagues from Shanghai to discuss cross-regional project collaboration. 
+
+Time: 16:30
+Activity: Takes another walk in the office garden before attending a company-sponsored tech workshop on artificial intelligence.
+
+Time: 20:00
+Activity: Leaves work early as there is a concert of traditional Chinese music at a nearby cultural center that he has been looking forward to. Joins the event with colleagues.
+
+Time: 21:45
+Activity: Listens to live performances, takes notes and occasionally discusses with friends about the music styles and instruments used in various songs.
+
+Time: 23:15
+Activity: Walks back home through Qianmen area, enjoying the evening lights and local street food vendors. Buys a hot pot snack for later.
+
+Time: 23:45
+Activity: Arrives at home, prepares to have dinner while watching news updates on his phone or TV.

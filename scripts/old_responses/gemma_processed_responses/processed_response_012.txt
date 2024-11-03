@@ -1,0 +1,94 @@
+{
+  "name": "Amelia Garcia",
+  "gender": "Female",
+  "age": 27,
+  "location": "Spain",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Amelia is a single mother who works as a freelance graphic designer, trying to find her path amidst the demands of raising a child and creating art.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["wake up", "coffee"],
+      "description": "Amelia wakes up with little Maya, her 4-year-old daughter, by her side. She gently kisses Maya's forehead before getting out of bed for a cup of coffee brewed on the stovetop while Maya plays with her stuffed animal near the window."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "08:45",
+      "activities": ["get ready", "dress Maya", "hum music"],
+      "description": "Amelia helps Maya get ready for daycare - brushing her hair and dressing her in a bright purple dress. As she dresses, she starts humming along to her favorite singer's song, 'La Vida Es Un Carnaval' while making coffee stronger for herself."
+    },
+    {
+      "startTime": "08:45",
+      "endTime": "09:30",
+      "activities": ["commute", "drop off Maya"],
+      "description": "The commute begins! Amelia drops Maya off at daycare and finds solace in the quiet ride on the metro towards work."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["arrive at studio", "set up workspace"],
+      "description": "Amelia arrives at her studio apartment, taking out her laptop and settling into the cozy living room where natural light bathes her workspace."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["work", "respond to emails", "coffee break", "check on Maya"],
+      "description": "Emails start pouring in - deadlines for a school project, revisions on a brochure, and an upcoming exhibition she's participating in. She makes herself coffee again as Maya's voice calls out, 'Mama!' from the nearby playground area."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:45",
+      "activities": ["break", "walk with Maya", "park"],
+      "description": "Amelia takes a quick break to walk with Maya through their small neighborhood park, breathing in the fresh morning air. They enjoy watching other children chase pigeons and laugh on the swings."
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "14:00",
+      "activities": ["work", "design", "edit Maya's drawings"],
+      "description": "Amelia dives back into her work after a brief lunch break. A surge of inspiration hits while she's sketching a logo for a local café. She spends another hour crafting and editing Maya's drawings into a charming postcard, sending it to her family in Mexico."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["work", "sketch", "coffee"],
+      "description": "Amelia finds solace in the tranquility of art – sketching different concepts for a mural design while enjoying her afternoon coffee. The cafe's aroma fills her studio as she continues, inspired by Maya's colorful drawings scattered around the room."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:00",
+      "activities": ["lunch", "walk"],
+      "description": "Lunch break. Amelia eats a sandwich at her desk with fresh bread from the market and makes sure to take a few minutes for a walk through the park before returning to work."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["play with Maya", "finish work"],
+      "description": "Maya's energy fills the studio again, begging for a quick game of 'hide and seek' in her favorite corner. As she plays with her imaginary friends, Amelia finishes up some final edits before calling it a day at 17:00."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["commute home", "pick up Maya", "walk home"],
+      "description": "Amelia heads home from work - leaving behind the familiar comfort of her art studio. A gentle evening breeze carries the scent of fresh bread and jasmine as she picks Maya up after school. The two share a quiet moment by the window, watching the setting sun paint the sky in hues of orange and pink."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["cook dinner", "eat with Maya", "read to Maya"],
+      "description": "Amelia cooks dinner - a simple pasta with vegetables that both they enjoy - before reading her daughter a story about a brave little explorer from the library's book collection."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "23:59",
+      "activities": ["wind down", "review Maya's drawings", "tea", "sleep"],
+      "description": "After Maya goes to bed, Amelia enjoys a cup of chamomile tea as she looks through pictures of Maya's drawings and projects. She finds inspiration in every stroke and detail – a quiet moment of pure joy before drifting off to sleep around midnight."
+    }
+  ]
+}

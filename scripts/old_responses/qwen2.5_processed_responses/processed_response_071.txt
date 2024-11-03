@@ -1,0 +1,70 @@
+{
+  "name": "Zhang Liang",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Zhang Liang is a software engineer working in Beijing. He enjoys hiking on weekends and cooking traditional Chinese dishes at home.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:45",
+      "activities": ["wakes up", "stretches", "brief walk", "light reading"],
+      "description": "Wakes up, stretches his legs, takes a brief walk in the neighborhood before returning to bed for an hour of light reading."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["shower", "get dressed", "jog"],
+      "description": "Takes a shower and gets dressed. Jogs around the park near his apartment."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:15",
+      "activities": ["walk to work", "catch bus"],
+      "description": "Walks to work, where he catches the morning bus at a nearby station."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "12:30",
+      "activities": ["log in", "check emails", "work tasks", "meeting"],
+      "description": "Arrives at the office, logs into the system, checks emails, and starts on today's tasks with colleagues in the meeting room for project updates."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "Kung Pao chicken", "rice"],
+      "description": "Takes lunch break to order takeout from his favorite Chinese restaurant. He usually enjoys some Kung Pao chicken and rice."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work tasks", "listen to music"],
+      "description": "Returns to work, continues on tasks while listening to classical music via headphones."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:45",
+      "activities": ["commute home", "takes notes"],
+      "description": "Commutes home by bus; takes notes on the projects discussed during today's meeting for future reference."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["prepare dinner", "steamed fish", "vegetables"],
+      "description": "Arrives back at his apartment. Prepares a quick dinner of steamed fish and vegetables."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["watch cooking shows", "try recipes"],
+      "description": "Watches cooking shows on TV while eating, occasionally trying out recipes he learns."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["clean kitchen", "evening walk", "go to bed"],
+      "description": "Cleans up the kitchen, takes a short stroll in the community park for some fresh air. Heads to bed early to ensure enough rest for an upcoming weekend hike."
+    }
+  ]
+}

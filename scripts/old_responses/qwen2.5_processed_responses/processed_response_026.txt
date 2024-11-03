@@ -1,0 +1,100 @@
+{
+  "name": "Li Xiaoming",
+  "gender": "Male",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Developer",
+  "backstory": "Li Xiaoming is a software developer who has been working in the tech industry for over a decade. He moved to Beijing after graduation and currently lives with his wife and young daughter.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "open curtains"],
+      "description": "Awakens gently by an alarm set specifically for mornings, stretching and opening the curtains to let the morning light in"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["walk", "clear mind"],
+      "description": "Takes a short walk around the park near his apartment to clear his mind before starting the day"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["prepare breakfast", "family breakfast"],
+      "description": "Prepares breakfast for himself and family using traditional Chinese ingredients, including noodles and egg-based dishes"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["send daughter to school", "pack lunch", "say goodbye"],
+      "description": "Sends off his daughter to school with a packed lunch and her favorite toy, making sure she's on time"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work", "code reviews", "prepare for projects"],
+      "description": "Heads to the office in a nearby tech hub where he starts working. Today is focused on code reviews and preparing for upcoming projects"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "chat with colleagues"],
+      "description": "Takes his lunch break at the company café, chatting with colleagues about weekend plans or recent industry news"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["virtual meeting", "discuss collaboration"],
+      "description": "Participates in a virtual meeting with international partners to discuss collaboration opportunities. Navigating different time zones while maintaining clear communication is challenging but essential for business"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:15",
+      "activities": ["training session", "learn new tools"],
+      "description": "Attends a training session on new software tools and technologies, taking detailed notes for future reference"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:30",
+      "activities": ["end workday", "unwind", "walk"],
+      "description": "Ends his workday by logging off, feeling proud of the progress made today. He takes some time to unwind with a brief stroll around the office grounds before heading home"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:15",
+      "activities": ["prepare dinner", "family dinner"],
+      "description": "Arrives back home and begins preparing dinner for himself and family, using simple recipes that are both nutritious and delicious"
+    },
+    {
+      "startTime": "20:15",
+      "endTime": "21:30",
+      "activities": ["eat dinner", "share stories"],
+      "description": "Eats his meal with his wife and daughter. They share stories about their day, making sure to spend quality time together despite the demands of work and school"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["help with homework", "read with daughter"],
+      "description": "Helps his daughter with her homework while his wife starts preparing for dinner later on. He listens attentively as she works through math problems or reads a storybook aloud"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:30",
+      "activities": ["read book", "unwind"],
+      "description": "Closes the day by reading a book, usually about technology or management practices to improve his skills and understanding of the business world"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Goes to bed after turning off all electronic devices, ready for another productive morning ahead"
+    }
+  ]
+}

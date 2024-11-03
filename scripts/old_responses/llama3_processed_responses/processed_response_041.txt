@@ -1,0 +1,118 @@
+{
+  "name": "Emilia Patel",
+  "gender": "Female",
+  "age": 27,
+  "location": "India (Mumbai)",
+  "job": "Marketing",
+  "backstory": "Emilia grew up in a small town in northern India but moved to Mumbai five years ago to pursue a career in marketing. She works for a large company and enjoys exploring the city on her free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up to the sound of her alarm clock, stretch and yawn"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Quickly brush teeth and wash face with cold water"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["get dressed"],
+      "description": "Get dressed in comfortable yoga pants and a loose-fitting top"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["make coffee", "microwave toast"],
+      "description": "Make a cup of strong coffee and microwave some toast for breakfast"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:20",
+      "activities": ["eat breakfast", "check social media"],
+      "description": "Eat breakfast while scrolling through social media"
+    },
+    {
+      "startTime": "07:20",
+      "endTime": "08:00",
+      "activities": ["get ready for work", "apply makeup", "style hair"],
+      "description": "Finish getting ready for work by applying light makeup and styling hair"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute to work"],
+      "description": "Commute to the office via public transportation"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["respond to emails", "attend team meeting"],
+      "description": "Start workday by responding to emails and attending a team meeting"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["continue work tasks"],
+      "description": "Continue working on tasks throughout the morning"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch break", "walk to café", "read book"],
+      "description": "Take a lunch break, walk to a nearby café, and enjoy a sandwich while reading"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["continue work tasks", "take breaks"],
+      "description": "Return to the office and continue working, taking short breaks"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:15",
+      "activities": ["leave work", "commute home"],
+      "description": "Finish up work for the day and commute back home"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "activities": ["relax at home"],
+      "description": "Arrive home and relax on the couch"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["cook dinner"],
+      "description": "Cook a simple stir-fry dinner while listening to music or a podcast"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["eat dinner", "unwind"],
+      "description": "Finish dinner and spend time unwinding, perhaps reading or practicing yoga"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:45",
+      "activities": ["get ready for bed", "set alarm"],
+      "description": "Get ready for bed by brushing teeth, changing into pajamas, and setting an alarm"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Fall asleep after a long day"
+    }
+  ]
+}

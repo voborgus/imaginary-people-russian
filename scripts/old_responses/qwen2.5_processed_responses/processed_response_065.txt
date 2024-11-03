@@ -1,0 +1,94 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Developer",
+  "backstory": "Liang Wei is a software developer who works in Shanghai. He grew up in the countryside but moved to the city years ago to pursue his career. Despite the bustling environment, he still cherishes the tranquility of rural life and often visits his hometown on weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:30",
+      "endTime": "06:00",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up and stretches, feeling a bit groggy from last night's dream-filled sleep"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["drink water", "meditate", "breathe"],
+      "description": "Drinks a glass of water and takes a moment to meditate, focusing on breathing deeply to start the day"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "listen to news"],
+      "description": "Brushes teeth in front of the bathroom mirror while listening to a morning news broadcast about technology advancements"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["get dressed", "eat breakfast", "jog"],
+      "description": "Dressed in casual work clothes; grabs a quick breakfast of steamed buns and congee before stepping outside for some light jogging around his building complex"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["check email", "review tasks"],
+      "description": "Arrives at the office. Opens up his laptop, logs into the company's internal platform to check emails and daily tasks assigned by his team leader"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["have lunch", "discuss projects"],
+      "description": "Has a quick lunch break with some colleagues, discussing ongoing projects over a light meal of noodles and vegetables"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["fix bugs", "review code"],
+      "description": "Returns to his desk after the lunch break. Begins working on bug fixes for the current software version, focusing intently as he reviews code line by line"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["take a walk"],
+      "description": "Takes another brief walk in a nearby park to clear his mind and relax before returning to work"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["wrap up tasks", "leave office"],
+      "description": "Wraps up tasks for the day with some final checks on pending issues. Leaves the office, planning a short visit home"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:45",
+      "activities": ["greet cat", "update work", "pet cat"],
+      "description": "Arrives at home, greeted by his cat Mei-Mei who eagerly jumps onto his lap for petting. Takes out his phone to update project statuses and plan tasks for the next day while playing with his pet"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["prepare dinner", "clean up"],
+      "description": "Cleans up any mess in the living room and starts preparing dinner, deciding on a simple dish of stir-fried vegetables"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["eat dinner", "watch TV", "review personal projects"],
+      "description": "Eats dinner and watches some science fiction TV shows to unwind. During this time, he reviews some personal projects that could be updated with new features"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["go to bed"],
+      "description": "Logs off his devices, saying goodnight to the TV and heading up to bed, ready to repeat the cycle tomorrow"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Kaitlyn \"Kae\" Thompson",
+  "gender": "Female",
+  "age": 27,
+  "location": "Australia",
+  "job": "Freelance Writer and Artist",
+  "backstory": "Kae is a freelance writer and artist who moved to Sydney from her hometown in Melbourne three years ago. She works remotely from her small apartment near Bondi Beach, where she spends most of her free time painting the cityscape.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:04",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:04",
+      "endTime": "06:15",
+      "activities": ["wake up", "hear seagulls"],
+      "description": "Wake up to the sound of seagulls outside her window"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["make coffee", "sketch in journal", "drink coffee", "watch sunrise"],
+      "description": "Stumble out of bed and stumble to the kitchen to brew a cup of coffee. Spend an hour sketching in her journal while sipping coffee on the balcony, watching the sunrise over Bondi Beach."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["work on writing project"],
+      "description": "Start working on her latest writing project, a novel about the struggles of small-town life in Australia"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["work on writing project"],
+      "description": "Continue working on her writing project"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["have lunch", "walk to café", "drink coffee", "eat pizza"],
+      "description": "Take a lunch break and walk to the nearby café for a flat white and a slice of pizza"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["attend freelance meeting", "respond to emails", "make phone calls"],
+      "description": "Attend a freelance meeting with a potential client at a coffee shop in Surry Hills. Return home and spend an hour responding to emails and making phone calls about her art commissions."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "activities": ["go for a jog", "feel the breeze"],
+      "description": "Take a break from work and go for a 1-hour jog along the beach, feeling the cool breeze on her face"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["meet friends", "have dinner", "drink"],
+      "description": "Meet up with friends at a small bar in Newtown for dinner and drinks"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:45",
+      "activities": ["read book", "watch stars"],
+      "description": "Say goodbye to her friends and head back home, where she spends an hour reading a book on her balcony while watching the stars come out"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:30",
+      "activities": ["write in journal", "make plans"],
+      "description": "Wind down before bed by writing in her journal and making plans for the next day"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Sleep"
+    }
+  ]
+}

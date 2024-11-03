@@ -1,0 +1,52 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Liang Wei is a software developer who has been living and working in Beijing since graduating from university. He enjoys spending his weekends exploring local parks and attending cultural events.
+
+Day:
+
+Time: 06:45
+Activity: Wakes up with the morning light streaming through his window, feeling refreshed after a good night's sleep. Begins stretching and doing some yoga exercises to start the day.
+
+Time: 07:15
+Activity: Takes a quick shower and gets dressed in casual wear suitable for work.
+
+Time: 08:00
+Activity: Commutes by subway to his office, usually engaging in light reading or listening to podcasts during the journey.
+
+Time: 09:30
+Activity: Arrives at the company building; greets colleagues with a friendly smile before heading into the elevator for the short ride to his floor. Enters his office and checks emails while brewing some tea from his personal kettle.
+
+Time: 10:00
+Activity: Begins work on his current project, collaborating closely with team members via chat platforms and video calls throughout the day.
+
+Time: 12:30
+Activity: Takes a break to have lunch at the nearby park; sits by a small lake and enjoys the scenery while eating light food from a local restaurant. Occasionally interacts with other park-goers or reads about technology trends online on his phone.
+
+Time: 14:00
+Activity: Continues working, this time focusing on coding tasks that require more concentration than earlier in the day.
+
+Time: 16:30
+Activity: Attends a virtual meeting with international colleagues to discuss project progress and address any issues.
+
+Time: 18:00
+Activity: Leaves work early for an appointment at a nearby community center where he volunteers teaching coding skills to underprivileged youth once a week. Arrives at the center, helps set up computers in the classroom before students arrive.
+
+Time: 19:00
+Activity: Begins teaching session with a group of enthusiastic learners who are eager to explore programming concepts. Uses interactive methods like games and challenges to keep everyone engaged.
+
+Time: 20:30
+Activity: Wraps up the class, thanks his students for their hard work, and packs up his belongings before heading out.
+
+Time: 21:00
+Activity: Walks home through the bustling evening streets of Beijing. Stops by a small bookstore to pick up some new tech books that caught his interest today.
+
+Time: 22:30
+Activity: Returns home; spends about an hour unwinding and reviewing work emails before settling down for dinner.
+
+Time: 23:15
+Activity: Eats dinner and engages in light conversation with a colleague who came over to discuss potential project ideas. Then, gets ready for bed by brushing his teeth and doing some gentle stretching exercises.
+
+Time: 00:00
+Activity: Lights out; settles into a quiet room to prepare himself mentally and physically for the next day’s activities.

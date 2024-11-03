@@ -1,0 +1,82 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer who works for a tech startup. He moved to Shanghai five years ago to pursue his career and now enjoys exploring the city's vibrant culture on weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Lights out and prepares for sleep, reflecting on the events of the day and looking forward to tomorrow's challenges."
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wakes up in his cozy apartment after setting an alarm clock, feeling slightly groggy but ready to start another busy day."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["shower", "brush teeth"],
+      "description": "Takes a quick morning shower and brushes his teeth, ensuring he stays fresh for the day ahead."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["breakfast", "cook", "eat"],
+      "description": "Cooks himself a hearty breakfast of tofu stir-fry with vegetables and rice, savoring the flavors before sitting down to eat."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["commute", "read newspaper"],
+      "description": "Commutes by taking an early morning subway ride to avoid crowds. He grabs a newspaper from the local newsstand and catches up on current affairs while traveling."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "13:30",
+      "activities": ["work", "office"],
+      "description": "Arrives at his office in the bustling Pudong area, where he greets his colleagues and heads straight for his desk. The office has a modern layout with plenty of natural light."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "14:15",
+      "activities": ["lunch", "eat", "discuss work"],
+      "description": "Takes lunch break and joins some coworkers for a casual meal at a nearby restaurant, discussing work projects over noodles and dumplings."
+    },
+    {
+      "startTime": "14:15",
+      "endTime": "18:00",
+      "activities": ["work", "coding", "debug"],
+      "description": "Returns to the office and works on coding until dinner time. He tackles a challenging bug that has been bugging him for weeks."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["meet friends", "drinks", "relax"],
+      "description": "Leaves the office to meet up with friends at an outdoor café in the Hongqiao district, enjoying the pleasant evening breeze while catching up over drinks."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["tech meetup", "presentations", "share insights"],
+      "description": "Attends a weekly tech meetup where he listens to presentations from industry experts and shares his own insights on software development trends."
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:00",
+      "activities": ["walk", "explore", "night life"],
+      "description": "Goes for a short walk through the city streets, taking in the vibrant night life with its neon lights and busy vendors selling snacks."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["unwind", "read", "prepare for sleep"],
+      "description": "Heads back to his apartment, feeling both tired but satisfied after an eventful day. He takes some time to unwind by reading a chapter of a mystery novel before bed."
+    }
+  ]
+}

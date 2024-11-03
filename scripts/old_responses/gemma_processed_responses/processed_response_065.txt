@@ -1,0 +1,58 @@
+{
+  "name": "Sarah",
+  "gender": "Female",
+  "age": 28,
+  "location": "London, UK",
+  "job": "Graphic Designer",
+  "backstory": "Sarah grew up surrounded by books and literature. While she now works as a graphic designer in the bustling city of London, her artistic spirit still thrives in every design she creates.",
+  "schedule": [
+    {
+      "startTime": "07:45",
+      "endTime": "08:15",
+      "activities": ["wake up", "stretch", "drink tea"],
+      "description": "The insistent chirping of her alarm clock pulls Sarah from sleep. After quickly stretching and getting out of bed, she sips a cup of chamomile tea before stepping into the morning light streaming through her window onto London's iconic red bus stop."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "08:45",
+      "activities": ["make breakfast", "eat grapefruit and oat porridge"],
+      "description": "Sarah sets about making her breakfast, using fresh ingredients from the farmer's market she frequents on the weekend - a simple grapefruit and oat porridge to fuel her day."
+    },
+    {
+      "startTime": "08:45",
+      "endTime": "12:00",
+      "activities": ["work on graphic design project", "design eco-friendly logo"],
+      "description": "Sarah starts work at 9 am sharp and heads into the bustling workspace of 'The Inkwell,' a creative agency where she collaborates with other designers, writers and marketers. She works on her latest graphic design project, envisioning an intricate logo for a new eco-friendly clothing brand."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["have lunch with friends", "eat lentil soup and salad"],
+      "description": "Sarah meets up with her friends from the office for a quick lunch at their favorite vegan deli around the corner. The chatter over lentil soup and fresh salads provides a welcome respite."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "17:30",
+      "activities": ["work on website banner design", "sketch ideas for music festival"],
+      "description": "Back in the studio, she finds herself immersed in the world of Adobe Creative Suite. She sketches out some innovative ideas for a website banner for a new music festival – 'London Symphony.'"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["visit National Gallery", "find inspiration in nature"],
+      "description": "Sarah heads to the National Gallery to enjoy an afternoon with nature's art. The serene setting of the Trafalgar Square sculpture garden provides her with inspiration for new visual designs, as she observes the artistic expressions that surround her in a calm atmosphere."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["have quiet dinner at home", "bake cookies", "drink green tea"],
+      "description": "Sarah enjoys a quiet dinner at home with some freshly baked cookies and homemade green tea - taking this time to reflect on what an enriching day it was before stepping back into her creative space."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "23:59",
+      "activities": ["finish website banner design", "rest"],
+      "description": "After hours of uninterrupted work, Sarah finishes sketching her designs for the music festival website banner before finally getting out of her comfy chair and drifting off."
+    }
+  ]
+}

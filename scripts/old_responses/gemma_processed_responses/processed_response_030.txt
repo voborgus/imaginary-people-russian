@@ -1,0 +1,82 @@
+{
+  "name": "Elias Carter",
+  "gender": "Male",
+  "age": 28,
+  "location": "Denmark",
+  "job": "Carpenter",
+  "backstory": "Elias fled a life of crime in his youth, seeking a new start with the support of his loving aunt and uncle. He now works as a carpenter, building bespoke furniture that brings him creative satisfaction and financial stability.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["wakes up", "drinks coffee", "reads newspaper"],
+      "description": "Wakes up to the chirping of his rooster, Charlie. Drinks coffee while reading the morning newspaper. Notices a new story about the government's proposal for renewable energy investments in coastal towns - it seems almost ironic considering the potential disruption of the historic harbor project he was working on last week."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["pre-work routine", "checks emails", "listens to music", "eats breakfast"],
+      "description": "Goes through his usual pre-work routine, checking emails, and listening to classical music with the sounds of rain tapping against the roof. He eats a bowl of oatmeal with berries before leaving for work."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["arrives at workshop", "talks to boss"],
+      "description": "Arrives at the workshop. Sees his boss, Mr. Larsen, talking calmly on the phone about the new commission - restoring an antique dining table for a wealthy family in Copenhagen. He sighs; it feels like every project these days involves a hefty sum of money and complex wood carvings."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "13:00",
+      "activities": ["woodworking", "precision tools", "smoothing oak", "enjoys the smell"],
+      "description": "Starts work. Uses his precision tools to carefully prepare the wood, starting with smoothing down a thick oak tabletop from a local tree farm. The air is filled with the smell of cedar and beeswax. Feels the weight of responsibility for the delicate beauty he's crafting."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch break", "sandwich", "coffee"],
+      "description": "Lunch break. Takes his half-hour lunch at the nearby café, where he enjoys a simple sandwich with a cup of coffee."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "activities": ["finishes work", "heads home", "catches fresh air"],
+      "description": "Finishes work. The sun is setting, casting long shadows across the workshop as he packs up his tools. He heads back home for a moment to catch some fresh air before heading to visit his aunt and uncle's garden in their sprawling countryside home in Jutland."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "activities": ["visits aunt and uncle's place", "helps with chores", "enjoys countryside"],
+      "description": "Visits his aunt and uncle's place, surrounded by the tranquility of the countryside. Help them with their chores - weeding the vegetable patch, sorting out seeds, and collecting eggs from the chickens. He enjoys the simple pleasures of life, breathing in the fresh air and feeling connected to nature."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["makes dinner", "helps aunt"],
+      "description": "Makes dinner - a hearty roast pork dish with potatoes and steamed green beans. His aunt gives him a helping hand by preparing the salad from their garden vegetables."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "activities": ["relaxes on porch", "enjoys cider", "watches sunset"],
+      "description": "Sits on the porch, enjoying a glass of homemade apple cider as he watches the sunset over the rolling hills. The birds chirp in the background. Elias feels at peace. He thinks about what tomorrow might bring, hoping for good things and a sense of fulfillment in his life's work."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["takes shower", "reads", "drinks tea"],
+      "description": "Takes a quick shower and gets into pajamas. Reads a few pages of an intriguing thriller before settling down with a cup of chamomile tea to wind down."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleeps"],
+      "description": "Sleeps soundly, dreaming of his next project - perhaps restoring an antique clock or carving intricate designs on a beautiful wood sculpture."
+    }
+  ]
+}

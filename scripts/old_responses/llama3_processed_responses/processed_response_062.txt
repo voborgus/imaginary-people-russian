@@ -1,0 +1,100 @@
+{
+  "name": "Akira Nakamura",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan",
+  "job": "Freelance Web Developer",
+  "backstory": "Akira is a freelance web developer who moved to Tokyo from a small town in rural Japan three years ago. She is still adjusting to the fast-paced city life and trying to find her place in the tech industry.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "snooze"],
+      "description": "Wake up to an alarm on her phone, stretch in bed, and hit the snooze button for 15 minutes"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:25",
+      "activities": ["morning routine", "brush teeth", "wash face", "meditate"],
+      "description": "Finally get out of bed, brush teeth, wash face, and have a quick 10-minute meditation session to clear her mind"
+    },
+    {
+      "startTime": "06:25",
+      "endTime": "07:00",
+      "activities": ["get dressed", "make tea", "check weather"],
+      "description": "Get dressed in a comfortable outfit (yoga pants and a faded t-shirt), make some green tea, and check the weather forecast on her phone"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["buy breakfast", "walk"],
+      "description": "Take a short walk to the nearby convenience store to grab a few snacks for breakfast. Buy a pack of senbei (Japanese rice crackers) and a chocolate-filled pastry"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["eat breakfast", "watch videos", "social media"],
+      "description": "Return home, eat breakfast while watching a funny YouTube video on her laptop, and scroll through social media"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["work on freelance project", "coding"],
+      "description": "Start working on a freelance project for a client. Spend the next two hours coding away in her favorite coffee shop in Shimokitazawa"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "activities": ["break", "coffee", "chat with friend"],
+      "description": "Take a short break to grab another cup of coffee and chat with a friend who just arrived at the coffee shop"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "activities": ["work on freelance project", "research"],
+      "description": "Resume work on the project, but realize she needs some reference materials. Head out to the Tokyo Metropolitan Library in Shinjuku to do some research"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "video call"],
+      "description": "Take an hour-long lunch break and eat a bento (Japanese boxed meal) at her desk while catching up with colleagues online through video conferencing"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["client meeting", "secure new deal"],
+      "description": "Attend a meeting with a potential new client via Skype. Discuss project details and make some promises to secure the deal"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["finish work", "meet friends", "picnic"],
+      "description": "Finish work for the day, pack her bag, and head out to meet up with friends at Yoyogi Park for an impromptu picnic"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "activities": ["relax", "games", "street food"],
+      "description": "Have a relaxing time in nature with friends, play some Japanese board games, and snack on some delicious street food"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "activities": ["bath", "read"],
+      "description": "Return home, take a warm bath to unwind, and spend some quiet time reading a book before bed"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Finally get ready for bed, set her alarm for the next day, and drift off to sleep with a contented sigh"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+Name: Zhang Mingming
+Gender: Female
+Age: 28
+Location: Shanghai, China
+Backstory: Zhang Mingming works as a marketing analyst in a large advertising firm. She was born and raised in Shanghai but has spent most of her professional life in the city's bustling business district, working hard to advance her career while finding time for hobbies like painting.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up gently by an alarm clock placed near the bedside table; stretches and turns off the alarm.
+
+Time: 06:15
+Activity: Drinks a glass of water from the bottle left on her nightstand before stepping into the bathroom for a quick shower, using a custom scent shampoo that wakes her up.
+
+Time: 07:00
+Activity: Dries herself off and dresses in casual office wear, choosing a navy blazer over a white blouse and black pants. Brushes her hair meticulously with a small round brush.
+
+Time: 07:30
+Activity: Jogs lightly around the park near her apartment to get her heart rate up before starting the day; enjoys a cup of coffee from the outdoor café nearby, chatting briefly with regulars who recognize her face.
+
+Time: 08:15
+Activity: Takes the express subway to work, navigating through crowds in the early morning rush hour; listens to an audiobook about marketing strategies to keep learning during travel time.
+
+Time: 09:30
+Activity: Arrives at the office and heads straight for her desk to review project data sent by clients, ensuring she understands their needs before diving into analytics.
+
+Time: 12:00
+Activity: Takes a lunch break in the company cafeteria; shares a meal with colleagues while discussing recent marketing trends and industry news over plates of hot pot.
+
+Time: 14:00
+Activity: After returning to her desk, starts working on presentations for an upcoming client meeting, using PowerPoint and charts to summarize key findings from earlier data analysis.
+
+Time: 16:30
+Activity: Attends a brief team meeting with the project manager and senior colleagues; discusses upcoming steps and deadlines for various marketing campaigns they are involved in.
+
+Time: 17:45
+Activity: Leaves work early as part of an initiative to improve work-life balance, using the remaining time before sunset to visit a local art museum she's been wanting to see. Buys a ticket from the automated machine at the entrance and takes a moment to appreciate pieces by Chinese artists.
+
+Time: 19:00
+Activity: Returns home for dinner; cooks a simple dish of stir-fried vegetables and noodles, using a recipe passed down from her grandmother that she finds comforting and easy to prepare. Sits on her balcony under dim lights reading a novel as the sun sets over Shanghai.
+
+Time: 21:30
+Activity: Closes the book after finishing the chapter; heads back inside, brushing off her feet with a doormat before removing her shoes and sitting down for some light housework like cleaning windows or organizing books on the shelves. 
+
+Time: 22:45
+Activity: Changes into comfortable loungewear and spends time painting a self-portrait she had been working on; enjoys the process of capturing details like reflections in her eyes and the curves of her lips with watercolors.
+
+Time: 00:30
+Activity: Completes the painting, steps back to admire it briefly before setting it aside. She then gets ready for bed, brushing her teeth and slipping into pajamas. As she lies down, she listens to soft instrumental music through noise-canceling headphones until sleep comes naturally.

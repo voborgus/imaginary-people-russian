@@ -1,0 +1,82 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 27,
+  "location": "Mexico",
+  "job": "Graphic Designer",
+  "backstory": "Emilia is a graphic designer who returned to her hometown of Guadalajara after completing her degree in art school. She now works for a small design firm and loves exploring the city's vibrant street art scene.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["woke up", "got out of bed"],
+      "description": "Woke up to the sound of birds chirping outside her window and got out of bed, feeling refreshed after a good night's sleep."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["brushed teeth", "washed face"],
+      "description": "Brushed her teeth and washed her face with cold water to wake herself up before getting ready for work."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["made coffee", "checked social media"],
+      "description": "Made herself a cup of strong coffee and sat on the balcony to enjoy the sunrise while scrolling through social media."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute", "walked to bus"],
+      "description": "Grabbed her bag and headed out the door, walking down the street to catch the bus that would take her to work in the city center."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["set up workspace", "arrived at work"],
+      "description": "Arrived at the design firm and started setting up her computer and workspace for the day ahead."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "activities": ["client meeting", "took notes"],
+      "description": "Met with a client to discuss their logo design project, taking notes and asking questions to ensure she understood their vision."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "checked emails"],
+      "description": "Took a lunch break and walked to a nearby taquería to grab a delicious chicken taco and eat it on the go while catching up on some work emails."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["brochure design", "experimented with layout"],
+      "description": "Worked on designing a new brochure for a local non-profit organization, experimenting with different layout options and color schemes."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["street art market", "browsed stalls"],
+      "description": "Met up with her friend Maria at a street art market in the historic center to browse through the stalls and check out some of the latest murals."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["grocery shopping", "commute home"],
+      "description": "Said goodbye to Maria and headed back home, stopping by the grocery store on the way to pick up a few ingredients for dinner."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["cooked dinner", "watched TV"],
+      "description": "Cooked herself a hearty chicken stir-fry with vegetables and rice, enjoying her meal while watching TV in the living room."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:59",
+      "activities": ["evening walk", "got ready for bed"],
+      "description": "Took a short walk outside to clear her head before getting ready for bed, feeling grateful for another lovely day in Guadalajara."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer at a tech company in Shanghai. He has been with the company for over five years and enjoys balancing his work life with personal interests like photography.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wakes up", "stretches", "gets out of bed"],
+      "description": "Wakes up to the sound of his alarm clock. Stretches and gets out of bed, feeling refreshed after a good night's sleep."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["brushes teeth", "washes face", "drinks tea"],
+      "description": "Brushes teeth and washes face in the bathroom before preparing for the day. Drinks a cup of hot green tea with honey from his kitchen."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commutes", "reviews emails", "updates on phone"],
+      "description": "Commutes by taking the subway to work. Reviews emails and updates on his phone during the train ride, keeping up with work tasks."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "activities": ["attends meeting", "discusses project progress"],
+      "description": "Arrives at the office for a morning meeting where team members discuss project progress and any potential issues that need addressing."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "14:00",
+      "activities": ["codes on new feature", "takes breaks", "enjoys yogurt with fruit"],
+      "description": "Starts coding on a new feature for their app. Takes short breaks to stretch and enjoy a bowl of yogurt with fruit from the company kitchen."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["code review", "provides feedback"],
+      "description": "Meets with a colleague to review code and provide feedback, ensuring quality standards are met."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["attends workshop", "learns about machine learning"],
+      "description": "Attends a workshop on machine learning algorithms for improving their app's recommendation system. Notes important points in his notebook for future reference."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["photography club meetup", "sets up equipment", "shares tips"],
+      "description": "Ends work early to attend a photography club meet-up at a nearby park. Helps set up equipment and shares tips with fellow photographers."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["dines out", "tries new restaurant", "orders kung pao chicken"],
+      "description": "Dines out at a local restaurant, trying a new place that was recommended by friends. Orders kung pao chicken and rice."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "01:00",
+      "activities": ["organizes photos", "reads mystery novel"],
+      "description": "Returns home from dinner, feeling content after a productive day and some quality time with the photography community. Starts a photo album on his computer to organize his recent photos. Heads to bed, reading a few chapters of a mystery novel before turning off the light and drifting into sleep."
+    }
+  ]
+}

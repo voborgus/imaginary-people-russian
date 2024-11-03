@@ -1,0 +1,88 @@
+{
+  "name": "Zara",
+  "gender": "Female",
+  "age": 28,
+  "location": "India (Mumbai)",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Zara is a freelance graphic designer who recently moved back to her hometown of Mumbai after living in London for four years. She's trying to adjust to the fast-paced city life while working on various projects and exploring new experiences.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "drink masala chai", "enjoy view of Arabian Sea"],
+      "description": "Woke up to the sound of the sun rising over the Arabian Sea from her balcony, sipped on a cup of masala chai made by her mom who stayed with her for the night."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["yoga", "meditation", "shower"],
+      "description": "Did some light yoga and meditation on her balcony to get her energy flowing, followed by a quick shower."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["prepare breakfast", "have breakfast", "check social media"],
+      "description": "Prepared herself a breakfast of scrambled eggs, toast, and tea while scrolling through social media for inspiration and latest design trends."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["work on graphic design project", "research sustainable branding"],
+      "description": "Commenced work on her graphic design project for a client who's launching an eco-friendly product line. She spent the morning researching sustainable branding practices and color palettes."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:15",
+      "activities": ["take a break", "walk around neighborhood", "visit local shops"],
+      "description": "Took a short break to walk around the neighborhood with her mom, visiting local street vendors and shops for some last-minute groceries."
+    },
+    {
+      "startTime": "11:15",
+      "endTime": "12:45",
+      "activities": ["continue working on project", "experiment with typography"],
+      "description": "Returned home and continued working on her project, experimenting with different typography combinations."
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "14:00",
+      "activities": ["have lunch with mom", "catch up on Bollywood gossip"],
+      "description": "Had lunch at home with her mom, devouring a flavorful South Indian thali while catching up on the latest Bollywood gossip."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "14:30",
+      "activities": ["walk along Marine Drive"],
+      "description": "Went for a 30-minute walk along Marine Drive (also known as the \"Queen's Necklace\") to clear her mind and get some fresh air."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "activities": ["meet with potential client", "discuss collaboration"],
+      "description": "Met with a potential new client at a coffee shop in Bandra, discussing their requirements and exploring possibilities of collaboration."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["wrap up work for the day", "send updates to clients"],
+      "description": "Headed back home to wrap up her work for the day, sending out project updates to her clients."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["have dinner with friends", "reminisce about old memories"],
+      "description": "Joined her friends at a rooftop restaurant for dinner, indulging in delicious Punjabi cuisine while reminiscing about old memories and making new ones."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["spend time with mom", "prepare for bed"],
+      "description": "Said goodbye to her friends and headed back home to spend some quiet time with her mom before bed."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Drifted off to sleep, feeling content after a fulfilling day of work and leisure, with the sound of the ocean waves lulling her into a peaceful slumber."
+    }
+  ]
+}

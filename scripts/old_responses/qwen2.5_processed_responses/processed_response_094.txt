@@ -1,0 +1,82 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer based in Shanghai. He moved there from his hometown to pursue higher education and has been working in the tech industry since then.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "meditate"],
+      "description": "Wakes up gently as the sunlight streams through his window, signaling another day has begun. Gets out of bed, stretches, and takes a moment to meditate in silence, preparing himself mentally for the day ahead."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["prepare breakfast", "tea"],
+      "description": "Heads to the kitchen to prepare his morning tea and a light breakfast consisting of porridge and preserved vegetable strips."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["commute to work", "read articles", "respond to emails"],
+      "description": "Commutes on the subway to work, reading the latest tech articles or responding to emails from colleagues in different time zones."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:30",
+      "activities": ["work on coding tasks", "bug fixes", "collaboration"],
+      "description": "Continues working on coding tasks and bug fixes, often collaborating with remote team members through video calls."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["virtual team meeting", "lunch break", "explore local area"],
+      "description": "Attends a virtual meeting with his team to discuss project updates and potential challenges for upcoming releases. Takes a short walk during lunch break to explore the historical areas around his office, often stopping by local shops selling snacks or souvenirs."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "activities": ["work on coding tasks", "bug fixes", "collaboration"],
+      "description": "Continues working on coding tasks and bug fixes, often collaborating with remote team members through video calls."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["virtual team building", "commute home", "workout", "shower"],
+      "description": "Joins a virtual team building activity hosted by his company to foster collaboration among colleagues from various departments. Returns home after work, preparing himself for dinner with a quick workout session and shower."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:15",
+      "activities": ["family dinner", "discussion"],
+      "description": "Sits down for a family dinner with his parents, discussing recent events and upcoming plans in the family calendar."
+    },
+    {
+      "startTime": "20:15",
+      "endTime": "21:30",
+      "activities": ["relax", "documentary", "board games"],
+      "description": "Relaxes by watching a documentary on nature or plays some casual board games with his parents before getting ready for bed."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["read novel"],
+      "description": "Reads a novel about space exploration until feeling drowsy, then heads to the bedroom."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["language exchange"],
+      "description": "Logs into an online platform for language exchange practice, chatting with native speakers from around the world to improve his conversational skills in English."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Anya Petrova",
+  "gender": "Female",
+  "age": 28,
+  "location": "Russia",
+  "job": "Freelance Photographer",
+  "backstory": "Anya is a freelance photographer, often capturing the vibrant street life and culture of her city. She spends countless hours clicking away at unique moments she witnesses.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:30",
+      "activities": ["wake up", "shower", "breakfast", "coffee", "photography"],
+      "description": "Anya wakes up to the chirping sound of sparrows outside her apartment window. She stretches languidly before finally getting out of bed. A quick morning shower and a bowl of oatmeal with chopped walnuts are her usual start. While enjoying this, she sips her black coffee. She decides to take some shots on the balcony for today's online portfolio update."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:30",
+      "activities": ["photo editing", "portfolio work"],
+      "description": "Anya starts working on editing photos from yesterday's trip to the local market. It's a chaotic blend of vibrant colors, fresh produce, and local vendors selling everything from handmade crafts to hand-rolled sweets. She aims for her portfolio to showcase a mix of urban and cultural moments in her city."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["research", "inspiration"],
+      "description": "A quick visit to the library fills Anya's mind with inspiration - she browses through photography magazines, looking at inspiring shots from all over the world. She finds herself drawn to the works of photographers who capture fleeting moments and life in a candid way."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["walk", "photography"],
+      "description": "After a long session on her laptop, Anya goes for a walk around the bustling city center. The crisp morning air fills her lungs, making her feel alive as she steps into the park. She captures shots of pigeons playing, children enjoying the swings, and street performers juggling colorful balls."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "social time"],
+      "description": "Anya stops by a cozy cafe for lunch – a plate of warm borscht with freshly baked rye bread. She spends some time catching up with her friend, Elena, who lives in a neighboring apartment building."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "activities": ["photo editing", "research", "project planning"],
+      "description": "Back home, Anya works on editing photos and starts researching topics for upcoming projects, including street photography and local history themes. This project will be about exploring the forgotten corners of her city, discovering stories behind historical structures, and finding hidden beauty in overlooked spaces. She knows this photo-journalism venture will contribute to a deeper understanding of her home."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["relaxation", "reading"],
+      "description": "A relaxed evening at home with a pot of herbal tea and a good book. Anya switches off the lights and closes her laptop, reflecting on her day's work. The city sounds from outside add a peaceful melody to this calming hour."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["walk", "photography"],
+      "description": "After dinner, Anya heads for a stroll down her neighborhood's picturesque alleyway - a hidden gem filled with old street lamps, lush greenery, and quaint flower boxes. This familiar landscape brings comfort, reminding Anya of the simple joys in life. She finds inspiration to capture these everyday moments as part of her photography portfolio project."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Time for a long night's sleep! As she drifts off, Anya thinks about all the things she could shoot tomorrow and is excited for new possibilities."
+    }
+  ]
+}

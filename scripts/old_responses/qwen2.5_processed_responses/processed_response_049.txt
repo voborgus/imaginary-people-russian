@@ -1,0 +1,100 @@
+{
+  "name": "Liang Hua",
+  "gender": "Male",
+  "age": 34,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Liang Hua is a software engineer living in Beijing. He works at a tech startup and enjoys cycling on the weekends to stay fit.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Awakens gently from his alarm clock, stretches, and gets out of bed"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["drink water", "check phone"],
+      "description": "Drinks a glass of water and checks his phone for any important messages or notifications before starting the day"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushes teeth and washes face with cold water to refresh himself"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["meditate", "yoga"],
+      "description": "Heads to the living room to meditate and practice some yoga exercises, aiming to start his day stress-free"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["bike to work"],
+      "description": "Takes a short ride on his bicycle to work in the city park nearby. The morning air is fresh and invigorating as he pedals through the paths"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["scrum meeting", "coding"],
+      "description": "Arrives at the office where colleagues are already settling down, gets into a daily scrum meeting with the team to discuss project progress and next steps. Then begins coding with renewed energy"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "read"],
+      "description": "Leaves the office for lunch. He walks past the park again, deciding on the same spot as before but sits closer by a tree this time under which he can read or simply enjoy some solitude"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "activities": ["coding"],
+      "description": "Returns to his desk and begins coding with renewed energy after his midday break"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:00",
+      "activities": ["walk", "tea"],
+      "description": "Goes for a walk around the office building complex, grabbing a cup of green tea from the communal area to sip while taking in the views"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["remote meeting", "coding"],
+      "description": "Engages in another quick meeting with a remote team member. The time difference is significant but communication remains smooth and efficient. Then continues coding"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:45",
+      "activities": ["cook dinner", "eat"],
+      "description": "Starts preparing dinner, chopping vegetables and marinating meat for a healthy meal to enjoy at home tonight. Eats dinner by candlelight in the small dining area of his apartment, watching TV while eating quietly"
+    },
+    {
+      "startTime": "19:45",
+      "endTime": "22:00",
+      "activities": ["clean kitchen", "relax"],
+      "description": "Cleans up the kitchen and washes dishes before getting ready for bed. Reads a book or does light stretching in his living room until it's time to prepare for sleep"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["shower", "get ready for bed"],
+      "description": "Takes a warm shower, lathers up with a scent that reminds him of home before drying off and changing into pajamas"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["set alarm", "sleep"],
+      "description": "Sets the alarm and settles down in bed, feeling content from his productive day"
+    }
+  ]
+}

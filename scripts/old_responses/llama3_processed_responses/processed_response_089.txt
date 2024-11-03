@@ -1,0 +1,106 @@
+{
+  "name": "Emily Wilson",
+  "gender": "Female",
+  "age": 28,
+  "location": "Australia (Sydney, New South Wales)",
+  "job": "Graphic Designer",
+  "backstory": "Emily is a graphic designer who moved to Sydney from Melbourne 2 years ago with her partner. She enjoys hiking and trying out new cafes in her free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:05",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:05",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up to the sound of birds chirping outside her bedroom window, stretch, and yawn"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face", "get dressed"],
+      "description": "Brush teeth, wash face, and get dressed in the dark while trying not to wake up her partner, Alex"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:20",
+      "activities": ["brew coffee"],
+      "description": "Head downstairs to start brewing a cup of coffee using their French press machine"
+    },
+    {
+      "startTime": "07:20",
+      "endTime": "08:00",
+      "activities": ["check emails", "respond to messages"],
+      "description": "Sit at the kitchen table with her laptop open to check work emails and respond to any urgent messages from clients"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:05",
+      "activities": ["get ready for work", "leave for office", "kiss partner"],
+      "description": "Finish getting ready for work, grab her bag, and give Alex a quick kiss on the cheek before heading out the door"
+    },
+    {
+      "startTime": "09:05",
+      "endTime": "09:30",
+      "activities": ["commute to office"],
+      "description": "Catch the train at Central Station in Sydney and commute to the office in Pyrmont"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["work", "design logos", "brand materials"],
+      "description": "Arrive at the office and start getting settled for another day of designing logos and branding materials for her clients"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:45",
+      "activities": ["lunch", "chat with colleagues"],
+      "description": "Take a lunch break and walk to a nearby café with some colleagues to grab some sandwiches and chat about their weekends"
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "16:30",
+      "activities": ["meeting", "brainstorm ideas"],
+      "description": "Attend a meeting with the marketing team to discuss upcoming campaigns and brainstorm new ideas"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:25",
+      "activities": ["leave office", "commute home"],
+      "description": "Finish work for the day, pack up her things, and head back to the train station"
+    },
+    {
+      "startTime": "17:25",
+      "endTime": "18:00",
+      "activities": ["arrive home", "greet partner"],
+      "description": "Arrive home from the office and walk through the front door, greeted by Alex, who's making dinner in the kitchen"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["eat dinner", "chat with partner"],
+      "description": "Sit down with Alex for a homemade Italian dinner, complete with garlic bread and a side salad"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:15",
+      "activities": ["watch TV", "eat ice cream"],
+      "description": "Spend some quality time watching a TV show together on Netflix while snacking on ice cream"
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:00",
+      "activities": ["bedtime routine", "read book"],
+      "description": "Begin getting ready for bed, which involves brushing teeth again, changing into PJs, and saying goodnight to Alex. Wind down with a book before drifting off to sleep."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 32,
+  "location": "Spain",
+  "job": "Marketing - Social Media Specialist",
+  "backstory": "Emilia grew up in a small town in central Spain, where she developed a passion for traditional cooking and dancing. She moved to Madrid after college to pursue a career in marketing.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Slept through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["got dressed", "morning routine"],
+      "description": "Woke up to birds chirping, got dressed in a yellow sundress"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["made breakfast", "café con leche", "toast with olive oil and tomato"],
+      "description": "Prepared breakfast of café con leche and toast"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["went to Mercado San Miguel", "bought fresh produce"],
+      "description": "Walked to Mercado San Miguel to buy fresh produce"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:30",
+      "activities": ["arrived at work", "marketing job", "social media specialist"],
+      "description": "Arrived at marketing job in Chamartín neighborhood"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch break", "met friend", "croquetas", "glass of wine"],
+      "description": "Took lunch break, met friend at tapas bar for croquetas and wine"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["resumed work", "project", "Instagram campaign"],
+      "description": "Resumed work on Instagram campaign project"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:45",
+      "activities": ["left work", "made dinner", "paella"],
+      "description": "Left work, went home to make paella for dinner"
+    },
+    {
+      "startTime": "19:45",
+      "endTime": "21:00",
+      "activities": ["walked in Retiro Park", "with dog Luna"],
+      "description": "Took a walk in Retiro Park with her dog Luna"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["practiced flamenco", "watched YouTube videos"],
+      "description": "Practiced flamenco dance, watched YouTube videos on techniques"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["read book", "drank tea", "went to bed"],
+      "description": "Wound down by reading a book and drinking tea before bed"
+    }
+  ]
+}

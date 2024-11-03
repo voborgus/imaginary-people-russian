@@ -1,0 +1,36 @@
+##  Name: Maya Sharma
+##  Gender: Female
+##  Age: 27
+##  Location:  Nepal
+##  Backstory:  Maya is a freelance travel writer, spending her days exploring the diverse landscapes and cultures of Nepal.
+
+**Day:**
+
+Time: [06:30]
+Activity: Maya wakes up at sunrise with a cup of steaming Darjeeling tea in hand, enjoying the tranquil serenity of the Himalayan peaks reflected on the glass window. She practices a few stretches and listens to some calming Buddhist chants before diving into her daily email, responding to potential clients and fellow writers for her upcoming travel blog post about the remote villages of Dolpo.
+
+Time: [07:30]
+Activity:  After a quick shower, Maya prepares a traditional Nepali breakfast - aloo-aloo roti (savory potato flatbread) with fermented soybean paneer and chai tea. Her mom calls in to chat about their family's upcoming trip to visit the Lumbini birth place of Siddhartha Gautam and asks if she can join. 
+
+Time: [08:30]
+Activity:  Maya reads through her travel journal, jotting down ideas for a new blog on cultural immersion experiences in Nepal. She's intrigued by the stories of ancient communities who use traditional crafts like weaving to preserve their heritage. 
+
+Time: [10:00]
+Activity:  At work, Maya is editing photos from her latest trek through the Annapurna Region. Her laptop is constantly connected to a Wi-Fi network, allowing her to share insights about Nepal’s breathtaking natural beauty online with her growing audience of followers and travel enthusiasts. 
+
+Time: [12:00]
+Activity:  Lunch consists of dal bhat, a classic Nepali staple - lentils cooked with rice, alongside pickle and salad. It's followed by an hour dedicated to researching potential destinations for upcoming travel articles, keeping up-to-date on current trends in the global travel scene. 
+
+Time: [13:00]
+Activity:  A quick dip into the local teahouse, Maya joins a group of fellow writers and tourists to learn basic Tibetan calligraphy - she’s captivated by the intricate symbols that represent their stories.
+
+Time: [17:00]
+Activity:  After an afternoon of work and exploring the vibrant Kathmandu's artistic scene, Maya goes for a scenic hike in Swayambhunath Stupa, visiting the monkey temple to watch the mesmerizing sunset over the Kathmandu Valley. 
+
+Time: [20:00]
+Activity:   Back at home, Maya prepares a warm bowl of dal tadka and basmati rice with freshly picked vegetables from her kitchen garden. She relaxes with a book of Nepali folklore, before ending her day listening to soothing Tibetan chants and reflecting on the beautiful tapestry of life in Nepal.
+
+Time: [23:00]
+Activity:  Lights out. Maya dreams of exploring new trails and encountering diverse cultures across the Himalayan nation. 
+
+

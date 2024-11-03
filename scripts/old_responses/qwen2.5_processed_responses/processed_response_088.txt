@@ -1,0 +1,100 @@
+{
+  "name": "Li Mei",
+  "gender": "Female", 
+  "age": 35,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Mei is a dedicated software engineer working at a tech company in the heart of Shanghai. She moved to the city after graduating from university and has been climbing the corporate ladder steadily over the years.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up with an alarm set for 6 AM, stretches, and turns off her smart phone alarm clock that she keeps next to her bedside table. She takes a moment to listen to the quiet of the apartment before getting out of bed."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["exercise", "yoga"],
+      "description": "Performs morning exercises in the living room, consisting of light stretching and some yoga poses to prepare her body for the day ahead."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["drink water", "make tea"],
+      "description": "Drinks a glass of warm water with honey and prepares a cup of green tea. She often keeps a bottle of herbal tea in her desk at work for those long coding sessions, but she enjoys starting her morning fresh with this homemade beverage."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a shower using eco-friendly soaps and shampoos that are popular in Shanghai, ensuring the water temperature is just right to start the day off on the right foot. Brushes her teeth, ties her hair into a neat ponytail, and dresses for work. She usually wears casual but professional attire like jeans and a sweater."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute", "read newspaper"],
+      "description": "Leaves her apartment to head towards work using the subway system, which is one of Shanghai's most efficient transportation methods. She buys a newspaper from the kiosk near the entrance and reads it while riding the crowded train."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work"],
+      "description": "Arrives at the office and begins her workday"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:45",
+      "activities": ["lunch", "walk"],
+      "description": "Arrives at the office for lunchtime. Li Mei often orders takeout food from her favorite restaurant in the building or brings leftovers if she has prepared them ahead of time. She eats with colleagues who are also taking their midday meal break. Goes to a nearby park to have a short walk and enjoy some fresh air during the lunch break. She finds this to be a refreshing way to clear her mind before getting back to work."
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "17:00",
+      "activities": ["work"],
+      "description": "Returns to the office and continues working"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["team meeting", "commute"],
+      "description": "Attends a team meeting in the conference room for project updates, status reports, and planning discussions with her colleagues. Leaves the office, heading home by subway as the evening rush begins."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["cook dinner"],
+      "description": "Picks up an hour's worth of takeout from a local restaurant that she likes to have waiting for her at home. Arrives home and starts cooking dinner using some recipes she has collected over the years. Today, it's stir-fried vegetables with tofu and rice."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["eat dinner", "watch TV"],
+      "description": "Eats dinner in a cozy atmosphere while watching an old Chinese drama series on her smart TV. She enjoys these as they provide a break from the more tense work environment of her job."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["read", "personal development"],
+      "description": "Does some light reading, often novels or self-help books related to personal development and professional skills since she's interested in continuing her education in coding techniques."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:10",
+      "activities": ["drink tea", "meditate"],
+      "description": "Winds down with a cup of chamomile tea and a few minutes meditating. She practices mindfulness regularly as it helps reduce stress from the day's events."
+    },
+    {
+      "startTime": "23:10",
+      "endTime": "23:45",
+      "activities": ["prepare for bed", "sleep"],
+      "description": "Goes to bed, switching off all electronic devices including her phone and turning on a night light. She sets an alarm for tomorrow just before drifting off to sleep, ready to start another productive day in Shanghai."
+    }
+  ]
+}

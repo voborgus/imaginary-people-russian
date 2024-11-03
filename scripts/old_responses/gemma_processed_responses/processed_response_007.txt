@@ -1,0 +1,94 @@
+{
+  "name": "Annabelle Chen",
+  "gender": "Female",
+  "age": 28,
+  "location": "Vancouver, Canada",
+  "job": "Graphic Designer",
+  "backstory": "A talented graphic designer working in a bustling city, Annabelle balances creative pursuits with the practicalities of urban life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["morning routine", "yoga", "tea"],
+      "description": "Stretching on yoga mat, sipping green tea"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["commute", "coffee"],
+      "description": "Walk to nearby coffee shop, enjoy black coffee"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["work", "emails", "design"],
+      "description": "Settle into workspace, work on client briefs, email colleagues"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "activities": ["break", "breakfast", "podcast"],
+      "description": "Quick desk break, healthy breakfast, listen to podcast"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["design", "project work"],
+      "description": "Creative flow, sketch concepts for website redesign"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch"],
+      "description": "Lunch at local cafe, vegetarian wrap"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["collaboration", "brainstorming"],
+      "description": "Brainstorming sessions with design team, refine vision"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["walk", "exercise"],
+      "description": "Afternoon stroll through nearby park"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["social", "tea", "catch up"],
+      "description": "Afternoon tea with friend, discuss week's events"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["cooking", "dinner"],
+      "description": "Cook homemade stir-fry, enjoy with Sauvignon Blanc"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["reading", "relaxation", "tea"],
+      "description": "Read fiction, sip herbal tea"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["journaling", "reflection"],
+      "description": "Write gratitude list, set intentions for tomorrow"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Bedtime, drift off to sleep"
+    }
+  ]
+}

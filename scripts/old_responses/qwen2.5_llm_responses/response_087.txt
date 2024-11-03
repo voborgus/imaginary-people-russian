@@ -1,0 +1,40 @@
+Name: Liang Wei
+Gender: Male
+Age: 35
+Location: Beijing, China
+Backstory: Liang Wei is a software engineer who works at a tech company in central Beijing. He enjoys spending his evenings with friends and trying out new recipes he finds online.
+
+Day:
+
+Time: 06:30 AM
+Activity: Wakes up to the sound of his alarm clock, feeling slightly groggy from the sleep. Takes a moment to stretch and then turns off the alarm.
+
+Time: 06:45 AM
+Activity: Goes to the bathroom and brushes teeth with an electric toothbrush.
+
+Time: 07:00 AM
+Activity: Prepares tea using a traditional gaiwan (lidded bowl) set, savoring every sip as he reads today’s headlines from his tablet.
+
+Time: 08:15 AM
+Activity: Leaves the apartment and takes the subway to work. The morning rush is particularly heavy this day, so he spends some time reading news articles about artificial intelligence on his phone.
+
+Time: 09:00 AM
+Activity: Arrives at the office, starts his usual routine by checking emails and reviewing yesterday’s projects with his team.
+
+Time: 12:30 PM
+Activity: Takes a short lunch break to enjoy some cold soba noodles with pickled ginger from a nearby Japanese restaurant, as it's his favorite meal of the day. Meets up briefly with colleagues for some casual conversation.
+
+Time: 02:00 PM
+Activity: Back at work, focuses on coding and debugging a new feature for their company’s flagship product. Takes several brief breaks to sip green tea and jot down notes in his journal.
+
+Time: 06:00 PM
+Activity: Leaves the office with colleagues, heading for dinner at a nearby Thai restaurant recommended by a coworker. They spend an hour enjoying the food and discussing projects over conversations in Mandarin.
+
+Time: 08:30 PM
+Activity: Returns home, starts preparing dinner himself – trying out a new recipe of chicken stir-fry with vegetables. He follows the steps carefully to ensure it turns out perfect.
+
+Time: 10:00 PM
+Activity: Cleans up the kitchen and checks his phone for messages and emails before starting on some light coding in Python. Plans some weekend projects that he hopes to start working on tomorrow.
+
+Time: 11:30 PM
+Activity: Reads a few chapters of "The Alchemist" by Paulo Coelho, trying to find inspiration from the story. Lights off at midnight, feeling content and ready for a good night's sleep.

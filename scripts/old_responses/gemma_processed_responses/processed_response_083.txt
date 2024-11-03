@@ -1,0 +1,76 @@
+{
+  "name": "Annabelle \"Annie\" Williams",
+  "gender": "Female",
+  "age": 28,
+  "location": "England",
+  "job": "Software Developer",
+  "backstory": "Annie, a talented software developer, has always been driven and passionate about creating impactful technological solutions. After years working with her small team at a sustainable energy firm, she dreams of launching her own venture focused on environmental technology innovation.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["morning routine", "wake up", "stretch"],
+      "description": "Annie wakes up, feeling a gentle breeze carrying the faint scent of freshly-brewed coffee. She stretches out her stiff limbs and sighs as she feels the cool morning air brush against her face. The first rays of sun, peeking through the blinds, gently illuminate her modest kitchen table where she usually sets up for her day's work."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["breakfast", "read", "research"],
+      "description": "Annie enjoys a quick breakfast – oat porridge with berries and a splash of almond milk - while catching up on news headlines from sustainable technology podcasts. She spends time reading about the latest developments in green energy, including a fascinating article on the development of algae-based biofuel for aviation fuel."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["work", "coding", "app development"],
+      "description": "Annie heads to her home office, where the quiet hum of her laptop blends with the gentle tap of the keyboard as she dives into her daily tasks. Today's focus is on the new app development project for a green waste management system being piloted in local villages."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "13:00",
+      "activities": ["break", "walk", "cafe", "collaborate"],
+      "description": "Annie takes a brief walk to breathe in the fresh morning air, finding some peace amidst the bustling streets and the occasional shouts from the commuters. She walks past a vibrant local garden centre, admiring their selection of eco-friendly gardening tools and compost bins before reaching her favorite café where she meets colleagues for coffee and informal collaboration over lunch."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "discuss", "proposal"],
+      "description": "Lunch at the cafe involves discussions about the challenges and opportunities for implementing green solutions in various sectors. Annie is also keen to hear a new proposal from John, who will be presenting his ideas on optimizing public transportation's carbon footprint with their latest electric bus network expansion project."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:30",
+      "activities": ["work", "coding", "testing"],
+      "description": "Back home, she tackles more coding and testing sessions for the waste management app, dedicating her afternoon to solving tricky technical problems. Annie finds it invigorating as the solution starts to take shape, building a sense of accomplishment with each milestone achieved."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "activities": ["dinner", "relax", "documentary"],
+      "description": "Annie switches off work mode and indulges in a home-cooked vegan dinner - lentil soup served with homemade sourdough bread - while watching a documentary on climate change initiatives for sustainable fashion. It's been another productive day, punctuated by moments of clarity, connection, and growth."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["walk", "read"],
+      "description": "After reading about the latest developments in renewable energy technologies, Annie enjoys a meditative evening walk alongside the tranquil canals. The city lights twinkle in the distance as she settles in for the night."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["relax", "game", "sleep"],
+      "description": "Annie unwinds with an engaging session of online game trivia focused on climate change issues and solutions before settling into bed. It's another day over, but with a quiet sense of purpose that fuels her dreams for a better tomorrow."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out, Annie falls asleep peacefully. The gentle hum of the city fades away to quiet slumber."
+    }
+  ]
+}

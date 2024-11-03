@@ -1,0 +1,88 @@
+{
+  "name": "Maya Ramos",
+  "gender": "Female",
+  "age": 28,
+  "location": "Peru",
+  "job": "Environmental Engineer",
+  "backstory": "Maya grew up in a small town near Lima, where she was raised by her family who owned a small bakery. She moved to Lima for college and now works as an environmental engineer.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:30",
+      "endTime": "06:00",
+      "activities": ["wake up", "pet cat"],
+      "description": "Wake up to the sound of her cat, Mocha, purring on her bed"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "activities": ["yoga"],
+      "description": "Morning yoga session in her small balcony, overlooking the city"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "coffee"],
+      "description": "Quick breakfast consisting of a bowl of oatmeal with fresh fruits and a cup of coffee"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute", "public transport"],
+      "description": "Commute to work on public transportation (bus and subway) from her apartment in Miraflores to her office in San Isidro"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work meeting", "project discussion"],
+      "description": "Meeting at the office with colleagues to discuss ongoing projects, including a new initiative for water management in Lima's coastal zones"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "catch up"],
+      "description": "Lunch break at a nearby restaurant where she meets a friend, Sofia, and they catch up on their week"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["conference call", "international collaboration"],
+      "description": "Attend a conference call with international partners to discuss the project's progress and potential future collaborations"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["walk", "enjoy nature"],
+      "description": "Finish work for the day and take a walk along the Malecón, enjoying the ocean views and sea breeze"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["coffee", "date"],
+      "description": "Meet her boyfriend, Luis, at a local café in Barranco, where they grab coffee and discuss their plans for the weekend"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["music", "jam session"],
+      "description": "Spend time in the evening practicing guitar and singing with friends at a small jam session"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["reading", "reflection"],
+      "description": "Wind down before bed by reading a book on environmental policy and reflecting on her day"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep", "pet cat"],
+      "description": "Prepare for sleep, saying goodnight to Mocha, and drifting off to dreamland"
+    }
+  ]
+}

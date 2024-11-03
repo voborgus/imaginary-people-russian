@@ -1,0 +1,49 @@
+Name: Li Xiaoyang
+Gender: Male
+Age: 32
+Location: China
+Backstory: Li Xiaoyang is a software developer who has always been passionate about technology and programming. He grew up in a small town but moved to Beijing for his studies, where he met the love of his life and together they have built a fulfilling career and personal life.
+
+Day:
+
+Time: 06:30
+Activity: Xiaoyang wakes up feeling refreshed after a good night's sleep in his cozy apartment. The morning light streams through the curtains, marking the start of another busy day.
+
+Time: 07:00
+Activity: He prepares for work by making a simple breakfast of eggs and toast, which he eats quickly while checking his emails on the small kitchen table.
+
+Time: 08:15
+Activity: Xiaoyang heads to the nearby gym where he spends an hour doing cardio and weightlifting. The sounds of other morning exercisers provide a lively backdrop as he pushes through his workout regimen.
+
+Time: 09:30
+Activity: After a quick shower, Xiaoyang rushes home to change into his work clothes before heading to the office, which is just a few blocks away in Zhongguancun, known for its high concentration of tech firms and universities.
+
+Time: 10:00
+Activity: At his desk at Beijing Tech Solutions, Xiaoyang begins working on a new project. He and his team are focusing on developing an AI-driven chatbot to improve customer service in e-commerce businesses. The task requires constant interaction with colleagues and regular updates on progress.
+
+Time: 13:00
+Activity: Xiaoyang takes a brief break for lunch, ordering takeout from a nearby restaurant that serves authentic Sichuan cuisine. He eats heartily, savoring the spicy flavors while catching up with his colleague who's visiting for the day.
+
+Time: 14:00
+Activity: Back to work, Xiaoyang continues coding and troubleshooting. His team faces some technical challenges, but they manage to resolve them collaboratively by the end of the afternoon.
+
+Time: 17:30
+Activity: Xiaoyang ends his workday with a group meeting to discuss the project's progress and plan for the coming week. The meeting lasts for an hour before he starts wrapping up his tasks.
+
+Time: 18:45
+Activity: On his way home, Xiaoyang visits a small bookstore near work where he picks up a new book on data science to continue his self-education journey.
+
+Time: 20:00
+Activity: He arrives back at his apartment and spends some time reading the new book while enjoying a cup of tea. Tonight's choice is a novel by Cixin Liu, which has been recommended highly within his social circle.
+
+Time: 21:30
+Activity: Xiaoyang prepares dinner for both himself and his partner, who works late tonight but usually joins him for meals at home. They share the meal over casual conversation about their days, plans for the weekend, and upcoming projects in their respective fields.
+
+Time: 22:45
+Activity: After dinner, they watch a documentary together on ancient Chinese technology and engineering, sparking interesting discussions about historical innovation and its relevance to modern times.
+
+Time: 23:30
+Activity: Xiaoyang returns to his study area to work on some personal coding projects that he's been wanting to finish. He listens to instrumental music while coding into the night.
+
+Time: 01:00
+Activity: Before going to bed, Xiaoyang takes a moment to journal about the day’s events and thoughts for the next morning. He appreciates the balance between his professional life in tech and his personal interests, which keep him motivated and engaged throughout the day.

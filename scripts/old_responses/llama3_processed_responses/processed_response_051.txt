@@ -1,0 +1,94 @@
+{
+  "name": "Aisha Patel",
+  "gender": "Female",
+  "age": 28,
+  "location": "India",
+  "job": "Event Planner",
+  "backstory": "Aisha grew up in a middle-class family and always had an interest in photography. After completing her bachelor's degree, she moved to Mumbai to pursue a career in event planning.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "get dressed"],
+      "description": "Woke up to the sound of her alarm clock playing traditional Indian music and quickly got dressed for the day ahead"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["drink tea", "plan day"],
+      "description": "Prepared a cup of green tea and sat down at the small kitchen table outside her apartment, enjoying the early morning breeze while planning out her day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["shower", "get ready", "style hair"],
+      "description": "Started getting ready for work by showering and styling her hair"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["breakfast"],
+      "description": "Had a quick breakfast consisting of poha, scrambled eggs, and toast before leaving for the office"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute to work", "take train"],
+      "description": "Commuted to work on the local train, enjoying the lively atmosphere of the crowded carriages"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["check emails", "prioritize tasks", "coordinate logistics", "meet clients"],
+      "description": "Arrived at her workplace, an event planning agency in the Bandra-Kurla Complex. Aisha quickly checked her emails and prioritized tasks for the day, which included coordinating logistics for an upcoming wedding and meeting with clients to discuss new event ideas"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["lunch", "discuss plans"],
+      "description": "Took a lunch break at a nearby food court, trying out a new dish of misal pav. She met up with colleagues and they discussed their plans for an upcoming birthday celebration"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["video call", "design meeting", "contribute ideas"],
+      "description": "Had a video call meeting with the design team to discuss final touches on a corporate event design concept. Aisha contributed ideas for incorporating live music elements into the design, which seemed to impress the team"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["commute home", "catch up on news"],
+      "description": "Left work and headed back home via taxi, catching up on the latest news headlines while scrolling through her phone"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["browse portfolio", "upload photos"],
+      "description": "Spent time browsing through her photography portfolio online and uploading some of her recent favorite shots to her social media accounts"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["dinner with friends", "catch up"],
+      "description": "Met up with friends at a popular cafe in Colaba for dinner, where they talked about everything from travel plans to the latest movie releases"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["commute home", "appreciate night sky", "make tea", "read"],
+      "description": "Said goodbyes to her friends after what felt like an eternity of catching up and headed back home via a rickshaw ride, taking a moment to appreciate the starry night sky before stepping into the elevator in her building. Ended the day by making herself a cup of chamomile tea and sitting down on her couch with a good book"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Drifted off to sleep around midnight"
+    }
+  ]
+}

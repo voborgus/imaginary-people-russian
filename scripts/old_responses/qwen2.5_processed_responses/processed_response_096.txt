@@ -1,0 +1,94 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 34,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Li Ming is a software engineer who works at a tech company in downtown Beijing. He enjoys cycling and has a passion for hiking on weekends. Despite the fast-paced city life, he strives to maintain a balance between work and personal interests.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wakes up", "jet lag"], 
+      "description": "Wakes up slowly after setting multiple alarms due to jet lag from his business trip last week"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["stretching", "meditation"],
+      "description": "Does some light stretching and meditation in the living room, feeling the cool morning air filtering through the curtains"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["get ready for work", "brush teeth", "shower", "breakfast"],
+      "description": "Steps out of bed, stretches, and gets ready for another busy day at work. Brushes teeth, takes a quick shower, and prepares a light breakfast consisting of green tea and a few pieces of fruit"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["commute to work"],
+      "description": "Leaves his apartment with his cycling gear packed in a backpack for the morning commute"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["arrive at work", "check emails", "prepare for projects"],
+      "description": "Arrives at the office and heads straight to his workstation, where he checks emails and prepares for today's projects. His coworkers are just beginning their workday as well"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work on projects", "calls and emails"],
+      "description": "Continues working on his assigned tasks, occasionally receiving calls or emails from clients and team members in other parts of the country"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch break", "walk in park"],
+      "description": "Takes a break during lunchtime to walk around the park near the office with some colleagues. They chat about weekend plans while enjoying the greenery around them"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work on projects", "calls and emails"],
+      "description": "Returns to the office and continues working on his assigned tasks, occasionally receiving calls or emails from clients and team members in other parts of the country"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["commute home", "cycling"],
+      "description": "Ends his workday and leaves the office. He takes a different route home this evening for a change, enjoying the cool breeze as he cycles through the streets"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "activities": ["gym", "strength training"],
+      "description": "Arrives back at home and changes into comfortable clothing before heading to the gym for an hour of strength training exercises"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "activities": ["dinner", "relax"],
+      "description": "Returns home, takes a quick shower, and prepares a simple dinner of stir-fried vegetables with tofu. He enjoys his meal while watching a documentary on nature to unwind after a long day"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "activities": ["read", "learn"],
+      "description": "Reads a book on programming languages before bed, trying to stay up-to-date with the latest tech trends"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Wakes up slightly due to his pet dog nuzzling him, then curls back into sleep until it's time to wake again for another day"
+    }
+  ]
+}

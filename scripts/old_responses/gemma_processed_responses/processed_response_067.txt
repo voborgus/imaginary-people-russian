@@ -1,0 +1,58 @@
+{
+  "name": "Anya Ivanovna",
+  "gender": "Female",
+  "age": 32,
+  "location": "Russia",
+  "job": "Graphic Designer",
+  "backstory": "Anya grew up in a small village outside of Moscow, where her family ran a traditional bakery. After her father passed away, she moved to the city to work as a graphic designer.",
+  "schedule": [
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["wake up", "drink tea", "nostalgic baking memories"],
+      "description": "Anya wakes up after waking up from a dream about baking challah bread and her mother's warm apple pie filling her senses with nostalgia. She sips a cup of strong black tea, adding a few sugars, as the sun slowly creeps over Moscow's skyline."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["grocery shopping", "buy produce", "buy flowers"],
+      "description": "Anya takes a short walk to the nearest market for fresh produce and flowers. She picks out bright red apples from a vendor's cart, carefully choosing ones with an appealing weight and smooth texture. She buys a bouquet of lavender blossoms, their scent filling her home with its sweet, floral aroma."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["sketching", "character design", "illustration planning"],
+      "description": "Back at her studio apartment, Anya begins the day sketching on her tablet. Today's client is a family-owned toy store in Kyiv seeking illustrations for a new line of plush toys. She spends hours meticulously planning out character designs, each one infused with details inspired by Russian folk tales and fairytale princesses."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["eat borscht", "take a walk", "enjoy the park"],
+      "description": "Lunchtime brings Anya a bowl of borscht, her favorite comfort food. The warmth of the soup contrasts with the cold air outside; she finishes off with a small slice of rye bread dipped in sour cream. She heads to the park after lunch for some fresh air and a walk, admiring the vibrant green of Moscow's parks as people stroll past on their day off."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["meet friends", "discuss community project", "chat at cafe"],
+      "description": "Anya visits her friends Maria and Oleg at a cozy café near her apartment building. They share stories about their week and discuss a community project aiming to create an art exhibit for displaced children in the city, a cause close to both their hearts."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "20:00",
+      "activities": ["illustration work", "client project"],
+      "description": "Anya returns to her studio after their chat with friends. She starts working on the client's illustration request - a series of vibrant illustrations that capture the whimsical spirit of traditional Russian toys."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["have dinner", "drink tea", "relax"],
+      "description": "After sunset, Anya enjoys a quiet dinner of fresh salmon and steamed green beans, her grandmother's recipe passed down through generations in her family. She finishes with a cup of herbal tea before heading back to her studio."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "01:00",
+      "activities": ["finalize illustrations", "create story outline", "reflect"],
+      "description": "Finally, as the night starts settling in around Moscow, Anya works on finalizing the illustrations and creates a detailed story outline for her client's new toy line, inspired by childhood memories of Russian folklore. Tired but content, Anya winds down with a few minutes of reflection about today's creative triumphs before falling asleep."
+    }
+  ]
+}

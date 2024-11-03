@@ -1,0 +1,82 @@
+{
+  "name": "Liang Hua",
+  "gender": "Male",
+  "age": 35,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Liang Hua is a software engineer working at a tech startup in the heart of Beijing. He moved to the city three years ago after completing his PhD and has been loving the fast-paced life filled with challenges and opportunities.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wakes up", "stretches"],
+      "description": "Wakes up feeling refreshed from a night's sleep, stretches in bed before rising"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": ["walk", "enjoy morning air"],
+      "description": "Takes a leisurely walk to nearby Jingshan Park to enjoy morning air and quiet before the rush of traffic and people start"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": ["changes into business casual", "team meeting"],
+      "description": "Arrives at his office. Changes into a business casual outfit and heads straight for the conference room where today's team meeting is scheduled"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["team meeting", "project updates", "discuss roadblocks", "new initiatives"],
+      "description": "Team meeting with colleagues discussing project updates, roadblocks, and new initiatives"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "email correspondence"],
+      "description": "Goes to the company cafeteria for lunch. Orders a homemade noodle soup from his favorite vendor there while catching up on some email correspondence"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["coding tasks", "short breaks", "chat with colleagues"],
+      "description": "Back in the office working diligently on coding tasks assigned by the project manager, occasionally pausing to take short breaks and chat with colleagues about upcoming projects"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["virtual meeting", "client updates", "address concerns"],
+      "description": "Attends a virtual meeting with an overseas client discussing the latest updates of their product and addressing any concerns"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["dinner", "takeout"],
+      "description": "Leaves work for a quick dinner at a nearby restaurant to grab some takeout before heading back home. Today, he opts for Peking duck from Quanjude"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["cook", "stir-fried vegetables", "watch documentary"],
+      "description": "Comes home and begins cooking a simple meal of stir-fried vegetables with tofu using a recipe he found online during his morning commute. While eating, he watches a short documentary about climate change on his tablet that he downloaded earlier today out of interest"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["eat dinner", "light stretching", "listen to music"],
+      "description": "Sits down at the dining table to eat dinner. Cleans up from dinner and does some light stretching while listening to relaxing music before heading off to bed"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:59",
+      "activities": ["read book", "machine learning"],
+      "description": "Lights the lamp next to his bed, takes out a book on machine learning, and spends an hour reading and gaining new insights into his field"
+    }
+  ]
+}

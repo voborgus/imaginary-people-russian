@@ -1,0 +1,88 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Madrid, Spain",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emilia is a freelance graphic designer who moved to Madrid from Barcelona six months ago to pursue new opportunities. She loves trying out new tapas bars and taking long walks in the Retiro Park on her days off.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "coffee", "breakfast"],
+      "description": "Woke up early to a sunny morning in her cozy apartment in Malasaña. Had a quick coffee and breakfast of toast with tomato and olive oil while checking her phone for any urgent messages or notifications from clients."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["get ready", "skincare routine", "hairstyle"],
+      "description": "Got dressed and ready for the day, which included a quick skincare routine and a messy bun to keep her hair out of the way."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["commute", "coworking space"],
+      "description": "Headed to her favorite coworking space in Chueca to work on some projects and meet with clients."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["work", "client meeting"],
+      "description": "Had a meeting with a potential new client who wanted to collaborate on a logo design for his startup."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["break", "snack", "catch up with friend"],
+      "description": "Took a short break to grab a snack at the coworking space's café and catch up with a friend who was also working there."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "14:00",
+      "activities": ["work", "design project"],
+      "description": "Continued working on her own projects, including designing a brochure for an art gallery in Puerta del Sol."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["lunch", "tapas", "Rioja"],
+      "description": "Took a lunch break to try out that new tapas bar she had been wanting to visit. Had a delicious tortilla española and a glass of Rioja."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "18:00",
+      "activities": ["work", "client meeting"],
+      "description": "Returned to the coworking space for more work and a meeting with another client who needed help with her branding."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["commute", "relax"],
+      "description": "Wrapped up her work for the day and headed back home to relax and unwind."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["walk", "Retiro Park"],
+      "description": "Took a long walk in Retiro Park, enjoying the peaceful atmosphere and watching people play guitar or picnic on the grass."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["dinner", "cook", "relax"],
+      "description": "Had dinner at home, cooking herself a simple pasta dish with cherry tomatoes and basil."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["wind down", "movie"],
+      "description": "Finally settled into her favorite spot on the couch to watch a movie and wind down before bed."
+    }
+  ]
+}

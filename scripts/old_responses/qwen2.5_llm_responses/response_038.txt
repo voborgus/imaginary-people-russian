@@ -1,0 +1,46 @@
+Name: Lin Zhihao
+Gender: Male
+Age: 30
+Location: China
+Backstory: Lin Zhihao is a software engineer based in Beijing. He moved there after graduating from university, where he was passionate about technology and started developing his own projects on the side.
+
+Day:
+
+Time: 06:00 AM
+Activity: Awakes gently to the sound of birds chirping outside his window, gets out of bed feeling refreshed after a good night's sleep.
+
+Time: 06:30 AM
+Activity: Brushes teeth and washes face in the bathroom with lukewarm water, taking extra care with his electric toothbrush.
+
+Time: 07:00 AM
+Activity: Heads to the kitchen where he prepares a bowl of oatmeal with fruit and a cup of strong black tea for breakfast. Listens to an audiobook on modern algorithms while eating.
+
+Time: 08:00 AM
+Activity: Commutes to work via subway, sitting in a quiet car reading the latest tech news from his phone.
+
+Time: 12:00 PM
+Activity: Arrives at his office building and heads into the company lobby where he signs in. After taking the elevator to the fifth floor, he enters a spacious open-plan workspace with colleagues bustling about on their own projects.
+
+Time: 03:00 PM
+Activity: Takes a short break during work for tea with colleagues who are discussing the latest tech trends and startups.
+
+Time: 05:30 PM
+Activity: Wraps up his day, tidying his desk and saving all important documents. Logs out of his computer, saying goodnight to his team members as he leaves the office.
+
+Time: 06:15 PM
+Activity: Walks to a nearby park for a brief walk, enjoying the afternoon sun and clear blue skies. 
+
+Time: 07:30 PM
+Activity: Returns home after work, picks up some groceries from a local supermarket on his way back. Cooks dinner which consists of stir-fried vegetables and rice.
+
+Time: 08:30 PM
+Activity: Sits down at his computer to continue working on personal side projects until he feels satisfied that the day's tasks are done.
+
+Time: 10:00 PM
+Activity: Reads a few chapters from a book about artificial intelligence, jotting down some notes in a small notebook beside him.
+
+Time: 10:30 PM
+Activity: Prepares for bed, setting his phone to airplane mode and turning off all lights except the one on his nightstand.
+
+Time: 11:00 PM
+Activity: Lies down in bed, thinking about upcoming projects at work, but soon drifts into a peaceful slumber.

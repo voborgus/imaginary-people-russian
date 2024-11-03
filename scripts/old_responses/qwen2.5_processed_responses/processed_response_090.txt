@@ -1,0 +1,94 @@
+{
+  "name": "Liang Xiaofeng",
+  "gender": "Male",
+  "age": 34,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Xiaofeng is a software engineer at a tech company in Beijing. He enjoys cycling and hiking on the weekends to stay active amidst his busy work schedule.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "activities": ["morning walk", "stretching"],
+      "description": "Wakes up to the sound of his alarm clock, stretches, and then proceeds to take a brief morning walk in the park before returning home for breakfast."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:25",
+      "activities": ["shower", "get dressed", "pack for work meeting"],
+      "description": "Preparing for the day with a quick shower and getting dressed. He makes sure everything is packed for a potential work meeting at an out-of-town client's office later that week."
+    },
+    {
+      "startTime": "08:25",
+      "endTime": "09:30",
+      "activities": ["dog walk", "social media"],
+      "description": "Takes his dog, Xiao Qiang (Little Strength), out for morning exercise. They run around in the nearby park while Liang records Xiao Qiang's playful antics on his phone to post on social media."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:45",
+      "activities": ["commute", "work"],
+      "description": "Heads into the office using public transportation. He usually takes the subway as it is more convenient and cost-effective."
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "13:40",
+      "activities": ["lunch", "cultural diversity"],
+      "description": "Goes out for lunch with colleagues at a nearby café, trying various dishes from different cuisines to enjoy cultural diversity in his workplace."
+    },
+    {
+      "startTime": "13:40",
+      "endTime": "16:25",
+      "activities": ["code review", "work"],
+      "description": "Back at work, starts reviewing code changes submitted by his team members and provides feedback on their projects."
+    },
+    {
+      "startTime": "16:25",
+      "endTime": "18:00",
+      "activities": ["client call", "work"],
+      "description": "Attends a client call with some colleagues. The meeting discusses recent progress and upcoming updates for the company's software products."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:45",
+      "activities": ["commute", "bike ride"],
+      "description": "Leaves the office after completing daily tasks, feeling satisfied with his workday achievements. He checks his bike to ensure it is ready for evening use."
+    },
+    {
+      "startTime": "19:45",
+      "endTime": "20:30",
+      "activities": ["bike ride", "exercise"],
+      "description": "Takes a brief spin on his road bike along the city's cycling trails, enjoying the fresh air and scenic views."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:15",
+      "activities": ["shower", "dinner"],
+      "description": "Returns home after his ride, showering and changing into more casual attire. He takes a moment to prepare some light dinner with ingredients from a local market."
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:00",
+      "activities": ["dinner", "relaxation"],
+      "description": "Has an early dinner of stir-fried vegetables and tofu, enjoying the quiet evening at home."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:15",
+      "activities": ["documentary", "tech news"],
+      "description": "Watches a documentary on natural environments while relaxing in his living room. He is particularly interested in nature conservation efforts around the world."
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "24:00",
+      "activities": ["read tech news", "sleep"],
+      "description": "Reads the latest tech news updates to stay informed about industry trends and new developments before heading to bed, ensuring he wakes up refreshed for another busy day ahead."
+    }
+  ]
+}

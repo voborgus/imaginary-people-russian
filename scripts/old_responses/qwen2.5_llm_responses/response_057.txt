@@ -1,0 +1,43 @@
+Name: Liang Hua
+Gender: Male
+Age: 35
+Location: China, Beijing
+Backstory: Liang Hua is a software engineer working at a tech startup in the heart of Beijing. He moved to the city three years ago after completing his PhD and has been loving the fast-paced life filled with challenges and opportunities.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up feeling refreshed from a night's sleep, stretches in bed before rising.
+
+Time: 07:15
+Activity: Takes a leisurely walk to nearby Jingshan Park to enjoy morning air and quiet before the rush of traffic and people start.
+
+Time: 08:30
+Activity: Arrives at his office. Changes into a business casual outfit and heads straight for the conference room where today’s team meeting is scheduled.
+
+Time: 09:00
+Activity: Team meeting with colleagues discussing project updates, roadblocks, and new initiatives.
+
+Time: 12:00
+Activity: Goes to the company cafeteria for lunch. Orders a homemade noodle soup from his favorite vendor there while catching up on some email correspondence.
+
+Time: 13:30
+Activity: Back in the office working diligently on coding tasks assigned by the project manager, occasionally pausing to take short breaks and chat with colleagues about upcoming projects.
+
+Time: 16:00
+Activity: Attends a virtual meeting with an overseas client discussing the latest updates of their product and addressing any concerns.
+
+Time: 18:30
+Activity: Leaves work for a quick dinner at a nearby restaurant to grab some takeout before heading back home. Today, he opts for Peking duck from Quanjude.
+
+Time: 20:00
+Activity: Comes home and begins cooking a simple meal of stir-fried vegetables with tofu using a recipe he found online during his morning commute.
+
+Time: 21:30
+Activity: Sits down at the dining table to eat dinner. While eating, he watches a short documentary about climate change on his tablet that he downloaded earlier today out of interest.
+
+Time: 22:45
+Activity: Cleans up from dinner and does some light stretching while listening to relaxing music before heading off to bed.
+
+Time: 23:10
+Activity: Lights the lamp next to his bed, takes out a book on machine learning, and spends an hour reading and gaining new insights into his field.

@@ -1,0 +1,58 @@
+{
+  "name": "Sarah Evans",
+  "gender": "Female",
+  "age": 27,
+  "location": "United Kingdom",
+  "job": "Maritime Archaeologist",
+  "backstory": "Sarah grew up in a small coastal town, surrounded by the sea. Her family has always held onto old traditions and storytelling of past generations, which inspires her passion for history and maritime archaeology.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "make tea", "hum folk tunes"],
+      "description": "Sarah wakes with the sun, a gentle breeze carrying the smell of salt air. She makes a cuppa with freshly-ground tea from a ceramic teapot passed down through generations and finds herself humming an old folk tune her grandmother taught her."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["walk dog", "enjoy sunrise"],
+      "description": "After morning coffee and reading the newspaper, Sarah takes her dog Luna for a walk along the beach. The early sunrise paints the water with hues of orange and pink, and seagulls call in unison, echoing a melancholic symphony."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["research project", "review historical documents"],
+      "description": "Back home, Sarah settles into her study to delve into historical documents from her ongoing research project on shipwrecks from the 17th century. Her fingers delicately flip through old maps and handwritten accounts, searching for clues about a particular wreck."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["have lunch", "play with dog"],
+      "description": "Lunch is served - a simple lentil soup with crusty bread she's lovingly crafted herself. Afterward, Sarah takes Luna on a stroll through the local park to play frisbee and bask in the afternoon sun."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "activities": ["research at museum archives"],
+      "description": "Visiting the museum's archives for a research session is a calming ritual for Sarah. She meticulously reviews historical artefacts, finding solace in the tangible stories of bygone times."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "activities": ["have dinner with friends", "attend historical society lecture", "write in journal"],
+      "description": "The sun dips below the horizon, casting long shadows on the city streets. After dinner with friends and their kids, who are all fascinated by her 'treasure hunting' tales from past voyages, Sarah sets off to visit the local historical society. She's there for an evening lecture about maritime history before settling down to write in her journal, reflecting on the day's research findings."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:59",
+      "activities": ["read", "sleep"],
+      "description": "Finally, after a long and rewarding day, Sarah slips into bed, Luna snuggled at her feet, and reads a chapter from 'Master Mariner's Log' before falling asleep."
+    }
+  ]
+}

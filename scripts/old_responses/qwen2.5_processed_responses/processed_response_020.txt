@@ -1,0 +1,118 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 34,
+  "location": "China",
+  "job": "Software Developer",
+  "backstory": "Li Ming is a software developer who has been working in the tech industry since he graduated from university. He lives in Beijing and enjoys hiking on weekends to stay physically active and clear his mind.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "00:45",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    },
+    {
+      "startTime": "00:45",
+      "endTime": "01:00",
+      "activities": ["bedtime routine", "journaling"],
+      "description": "Gets ready for bed by brushing teeth and washing face. Reviews his daily tasks and plans for the next day in a journal."
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "02:00",
+      "activities": ["sleep"],
+      "description": "Lights out, curls up with a pillow, and drifts off to sleep thinking about his upcoming hike on Sunday."
+    },
+    {
+      "startTime": "02:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "stretching", "hydration"],
+      "description": "Wakes up, stretches and drinks water before starting the day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["personal hygiene", "music"],
+      "description": "Brushes teeth and takes a shower while listening to light classical music."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["dog walking", "outdoor exercise"],
+      "description": "Walks his dog in the local park, enjoying the morning sun and fresh air."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["commuting", "observation"],
+      "description": "Commutes by bike to work. Rides through the bustling streets of Beijing, observing the city's early morning activities."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["team meeting", "project management"],
+      "description": "Attends a team meeting via video call with colleagues in Tokyo. Discusses project updates and strategies for improving software performance."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "cooking"],
+      "description": "Takes a short break to prepare lunch using traditional Chinese cooking techniques, such as stir-frying vegetables and fish."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["software development", "debugging"],
+      "description": "Works on a complex algorithm until the early afternoon. Uses coding skills to resolve bugs in the software system."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["break", "photography"],
+      "description": "Goes for a short walk outside the office building during lunch break, taking photos of the city skyline and architecture."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["client meeting", "project management"],
+      "description": "Meets with a client via video call about upcoming project phases. Discusses progress and timelines while ensuring the client is well-informed."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["commuting", "observation"],
+      "description": "Commutes back home by bike, taking in the vibrant evening life of Beijing along the way."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["grocery shopping", "local market"],
+      "description": "Takes a short walk around his neighborhood to buy ingredients for dinner at a local market. Buys fresh vegetables and meat."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:30",
+      "activities": ["cooking", "reading"],
+      "description": "Cooks dinner, preparing a hearty dish of noodles with vegetables and chicken. Enjoying the meal while reading about a hiking destination he plans to visit on the weekend."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["entertainment", "natural history"],
+      "description": "Watches some nature documentaries or historical programs as part of his personal interest in natural history."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:45",
+      "activities": ["meditation", "mindfulness"],
+      "description": "Meditates for an hour, focusing on breathing and mindfulness exercises."
+    }
+  ]
+}

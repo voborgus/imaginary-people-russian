@@ -1,0 +1,43 @@
+Name: Liang Hua
+Gender: Male
+Age: 34
+Location: Shanghai, China
+Backstory: Liang Hua is a software engineer working in a tech company. He moved to Shanghai from his hometown three years ago and enjoys exploring the city's culinary scene.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up gently to the sound of his alarm clock and stretches before opening the curtains to let sunlight in.
+
+Time: 06:15 AM
+Activity: Performs morning exercises, including stretching and a quick jog around his building's courtyard.
+
+Time: 07:00 AM
+Activity: Takes a leisurely breakfast with his family at a nearby street vendor known for its dim sum.
+
+Time: 08:30 AM
+Activity: Heads to work by subway, enjoying the morning commute while checking emails on his phone.
+
+Time: 12:00 PM
+Activity: Meets colleagues in the office canteen for a quick lunch break; discusses ongoing projects and shares jokes.
+
+Time: 04:00 PM
+Activity: Attends a video conference with international partners, practicing his English skills.
+
+Time: 05:30 PM
+Activity: Walks around Nanjing Road to grab some after-work snacks from the many street food stalls available there.
+
+Time: 06:30 PM
+Activity: Takes a taxi back home for an early dinner at a new restaurant he discovered and read reviews about.
+
+Time: 08:00 PM
+Activity: Reviews work documents on his laptop, preparing for the next day's tasks. 
+
+Time: 10:00 PM
+Activity: Watches a documentary series about ancient Chinese history before settling down with a book by his bedside.
+
+Time: 11:30 PM
+Activity: Skims through social media updates and news articles before turning off his devices to wind down for the night.
+
+Time: 12:00 AM
+Activity: Lights out, ready to drift into sleep.

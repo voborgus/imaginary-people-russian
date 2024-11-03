@@ -1,0 +1,58 @@
+{
+  "name": "Ava Khan",
+  "gender": "Female",
+  "age": 27,
+  "location": "India",
+  "job": "Software Engineer",
+  "backstory": "Ava is a software engineer in Bangalore, balancing the demands of her job with personal interests like volunteering at an animal shelter.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "get dressed"],
+      "description": "Ava wakes up to the chirping of sparrows outside her window. She yawns and stretches, then pulls on a simple cotton dress, remembering to bring her yoga mat for a quick morning session."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["drink lemon water", "eat granola", "listen to podcast"],
+      "description": "After stretching, Ava enjoys a glass of lemon water and a quick granola bowl. She fills the kettle with water and listens to a podcast about sustainable living while the tea steams. She checks her emails for work messages, noting a request from the team lead for updates on an ongoing project."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:00",
+      "activities": ["meditate", "take photos"],
+      "description": "Ava steps onto the balcony and takes a moment to meditate, breathing in the crisp Bangalore morning air before heading out. She notices a young girl selling flower garlands by the street; she smiles, then pulls out her smartphone to take pictures for Instagram later."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:30",
+      "activities": ["code", "brainstorm", "work on sustainable app"],
+      "description": "Ava arrives at work and spends the next few hours coding. The team is working on an app that promotes sustainable living initiatives, a project Ava feels passionate about. She engages in brainstorming sessions with colleagues, bouncing ideas off each other and sharing insights."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["eat lunch", "play table tennis"],
+      "description": "Lunch break! Ava eats leftover lentil soup at her desk before joining her coworkers for a quick round of table tennis. The afternoon is a blur of emails, phone calls, and coding sprints, interspersed with short breaks to get some fresh air."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:30",
+      "activities": ["walk home", "buy bread", "read", "drink chai"],
+      "description": "The day culminates in Ava's usual walk home from work. She passes by the local bakery, her mouth watering for their freshly baked bread. She chooses a loaf of whole wheat sourdough and hums a little melody on the way to her cozy apartment, where she spends her evening reading about animal welfare while enjoying chai."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "activities": ["watch TV", "stretch", "yoga"],
+      "description": "After dinner, Ava unwinds with an episode of 'Planet Earth,' marveling at the vastness of nature. The thought inspires a renewed sense of purpose, motivating her to contribute more to her community's sustainability initiatives. Ava settles down with a book and light stretches for her evening yoga session before sleep."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["read", "sleep"],
+      "description": "Ava drifts off to dreamland under the twinkling Mumbai sky, imagining a future where technology helps build a brighter world."
+    }
+  ]
+}

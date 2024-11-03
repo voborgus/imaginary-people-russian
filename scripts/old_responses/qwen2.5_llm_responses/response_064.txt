@@ -1,0 +1,43 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: China, Beijing
+Backstory: Li Wei is a software engineer working in the heart of Beijing. He moved to the city from a small town when he was 18 and has been thriving professionally ever since. His weekends are dedicated to coding challenges and spending time with friends.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches in his cozy apartment.
+
+Time: 07:00
+Activity: Takes a leisurely shower, brushes teeth, and gets dressed for work.
+
+Time: 08:15
+Activity: Walks to the subway station and commutes to his office in the CBD area of Beijing.
+
+Time: 09:30
+Activity: Arrives at work; starts coding on a new project.
+
+Time: 12:30
+Activity: Takes lunch break, orders food from a nearby restaurant via an app.
+
+Time: 14:00
+Activity: Resumes work after lunch; participates in a team meeting with colleagues from different departments.
+
+Time: 16:00
+Activity: Attends a workshop on emerging technologies hosted by his company.
+
+Time: 18:00
+Activity: Leaves office, heads to a coding challenge meetup for enthusiasts.
+
+Time: 20:30
+Activity: Participates in the coding challenge event; solves problems with like-minded individuals.
+
+Time: 22:00
+Activity: Dines at a restaurant with friends who joined him for dinner after the challenge.
+
+Time: 23:45
+Activity: Walks back home, spends some time on his personal projects before bed.
+
+Time: 01:00
+Activity: Lights out and prepares to sleep.

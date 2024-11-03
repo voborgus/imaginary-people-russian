@@ -1,0 +1,58 @@
+{
+  "name": "Amelia Evans",
+  "gender": "Female",
+  "age": 28,
+  "location": "United Kingdom",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Amelia is a freelance graphic designer living in London, pursuing her passions while navigating the fast-paced city life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:30",
+      "activities": ["morning routine", "stretching", "drinking tea", "reading magazines"],
+      "description": "Amelia awakens to the sound of chirping birds outside her window. She stretches languidly on her bed, the crisp morning air tickling her face before slipping into the comfort of her worn wool sweater. A cuppa and toast follow, while she scrolls through design magazines for inspiration."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:30",
+      "activities": ["design work", "website mockup", "logo sketches", "color palettes"],
+      "description": "Amelia begins designing a website mock-up for a local bakery that needs a new online presence. The soothing hum of café life seeps through the open window as she clicks away at her laptop. By midday, she's grappling with intricate logo sketches and colour palettes."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:45",
+      "activities": ["lunch", "jog", "reflection"],
+      "description": "Lunch break! Amelia grabs a pre-made salad from her fridge, savoring a moment of calm amidst the city's hustle. She heads to Hampstead Heath for a quick jog, breathing in fresh air and soaking up the sunshine. It's just a short run around the park's winding paths before taking a seat under a willow tree to reflect on her progress."
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "17:00",
+      "activities": ["client call", "adjust designs", "discuss timelines"],
+      "description": "A phone call with a client – Amelia's voice is crisp as she adjusts her design ideas and discusses timelines for the website launch. The call concludes at a perfect note of optimism."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["reading", "relax"],
+      "description": "Back home, Amelia settles into her living room with a mug of chai tea. She dives into reading, losing herself in a fantasy novel that transports her to another world. The late afternoon sun streams through the window, casting warm golden hues across the pages."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "activities": ["cook dinner", "eat", "prepare for bed"],
+      "description": "Time for dinner! Amelia prepares a simple stir-fry with brown rice and colorful vegetables – quick, nutritious, and delicious. A good night's sleep follows after, Amelia's mind already dreaming of tomorrow's design challenge."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Amelia slips into her soft pajamas and pulls on a pair of comfortable socks before switching off the lights in preparation for a peaceful night's rest. With her beloved cat curled up at her feet, she settles into sleep. A gentle sigh escapes her lips as she drifts to slumber."
+    }
+  ]
+}

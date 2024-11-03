@@ -1,0 +1,76 @@
+{
+  "name": "Emiko",
+  "gender": "Female",
+  "age": 32,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emiko, a freelance graphic designer, moved to Tokyo from her hometown of Osaka two years ago to pursue her passion for art. She lives in a small apartment in Shibuya with her cat, Mochi.",
+  "schedule": [
+    {
+      "startTime": "06:05",
+      "endTime": "06:15",
+      "activities": ["woke up", "turned off alarm"],
+      "description": "Woke up to the sound of birds chirping outside her window and reached over to turn off her alarm clock."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:40",
+      "activities": ["morning routine", "brushed teeth", "washed face", "styled hair", "ate breakfast"],
+      "description": "Got out of bed and began getting ready for the day by brushing her teeth, washing her face, and styling her hair. Munched on a bowl of oats with milk while scrolling through her phone to catch up on the latest design trends."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["met client", "coffee meeting"],
+      "description": "Left her apartment and walked to the nearest coffee shop to meet a potential new client for a consultation over a cup of coffee."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:45",
+      "activities": ["client meeting", "discussed project"],
+      "description": "Attended the meeting with the client and discussed the details of a potential project, including concept development and timelines."
+    },
+    {
+      "startTime": "09:45",
+      "endTime": "11:00",
+      "activities": ["lunch", "caught up on news"],
+      "description": "Took a short break from work to grab a bento lunch at a nearby restaurant and catch up on some Japanese pop culture news."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "14:30",
+      "activities": ["worked on design project", "sketches", "mockups"],
+      "description": "Spent several hours working on a design project for an existing client, pouring over sketches and mockups until she felt satisfied with the result."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "activities": ["yoga", "stretching"],
+      "description": "Took another break to stretch her legs and do some yoga poses in her living room, feeling grateful for the flexibility of her freelance schedule."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["emailed potential client", "followed up"],
+      "description": "Sent out an email to a potential new client to follow up on their interest in working with her and attached some examples of her design work."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["made dinner", "ate with cat"],
+      "description": "Headed back to her apartment, feeling fulfilled after a productive day, and started preparing dinner for herself and Mochi."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["watched TV", "relaxed"],
+      "description": "Enjoyed a peaceful evening meal while watching the sunset outside her window and catching up on some TV shows she had been meaning to watch."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["stretching", "meditation"],
+      "description": "Wind down time by practicing some gentle stretches and meditating for a few minutes before bed, feeling grateful for another day in Tokyo."
+    }
+  ]
+}

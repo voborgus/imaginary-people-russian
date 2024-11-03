@@ -1,0 +1,46 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: China
+Backstory: Liang Wei is a software engineer based in Shanghai. He moved there from his hometown to pursue higher education and has been working in the tech industry since then.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up gently as the sunlight streams through his window, signaling another day has begun.
+
+Time: 06:15 AM
+Activity: Gets out of bed, stretches, and takes a moment to meditate in silence, preparing himself mentally for the day ahead.
+
+Time: 07:00 AM
+Activity: Heads to the kitchen to prepare his morning tea and a light breakfast consisting of porridge and preserved vegetable strips.
+
+Time: 08:00 AM
+Activity: Commutes on the subway to work, reading the latest tech articles or responding to emails from colleagues in different time zones.
+
+Time: 12:30 PM
+Activity: Attends a virtual meeting with his team to discuss project updates and potential challenges for upcoming releases.
+
+Time: 02:00 PM
+Activity: Takes a short walk during lunch break to explore the historical areas around his office, often stopping by local shops selling snacks or souvenirs.
+
+Time: 03:00 PM
+Activity: Continues working on coding tasks and bug fixes, often collaborating with remote team members through video calls.
+
+Time: 06:00 PM
+Activity: Joins a virtual team building activity hosted by his company to foster collaboration among colleagues from various departments.
+
+Time: 07:30 PM
+Activity: Returns home after work, preparing himself for dinner with a quick workout session and shower.
+
+Time: 08:15 PM
+Activity: Sits down for a family dinner with his parents, discussing recent events and upcoming plans in the family calendar.
+
+Time: 09:30 PM
+Activity: Relaxes by watching a documentary on nature or plays some casual board games with his parents before getting ready for bed.
+
+Time: 10:30 PM
+Activity: Reads a novel about space exploration until feeling drowsy, then heads to the bedroom.
+
+Time: 11:00 PM
+Activity: Logs into an online platform for language exchange practice, chatting with native speakers from around the world to improve his conversational skills in English.

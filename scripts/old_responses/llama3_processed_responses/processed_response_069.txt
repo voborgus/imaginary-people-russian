@@ -1,0 +1,76 @@
+{
+  "name": "Emiko Tanaka",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emiko is a freelance graphic designer who moved to Tokyo from her hometown in Osaka after completing her degree. She loves exploring the city and trying out new cafes and restaurants.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["woke up", "feeling groggy"],
+      "description": "Woke up in her tiny apartment in Shimokitazawa, feeling a bit groggy after a late night of designing"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["made coffee", "scrolled social media"],
+      "description": "Made herself a strong black coffee and sat down at her desk to scroll through her social media feeds before starting work for the day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "12:00",
+      "activities": ["worked on design project", "met deadline"],
+      "description": "Opened up her laptop and began working on a new design project for a client, trying to meet the tight deadline"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "activities": ["took lunch break", "walked in park", "ate onigiri"],
+      "description": "Took a 30-minute lunch break and walked down to the nearby park for some fresh air and a snack of onigiri (Japanese rice balls)"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["worked on design concept", "experimented with colors and typography"],
+      "description": "Spent the afternoon working on a design concept for a new product, using her favorite software and experimenting with different colors and typography"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["took a break", "had snacks"],
+      "description": "Took a short break to grab some snacks from the convenience store downstairs and rest her eyes for a bit"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["continued working on design project", "incorporated Japanese cultural elements"],
+      "description": "Continued working on the design project, trying to incorporate more Japanese cultural elements into the design"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["finished project", "felt relieved and accomplished", "took a relaxing bath"],
+      "description": "Finally finished the project and saved all her files, feeling relieved and accomplished. Decided to treat herself to a relaxing bath and some alone time after a long day of work."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:30",
+      "activities": ["got ready for bed", "reflected on day", "planned for next day"],
+      "description": "Was getting ready for bed, reflecting on the day's accomplishments and planning for tomorrow's tasks."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:15",
+      "activities": ["fell asleep", "continued thinking about work"],
+      "description": "Fell asleep with thoughts still racing about her design project and ideas for new projects to come."
+    }
+  ]
+}

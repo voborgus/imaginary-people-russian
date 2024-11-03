@@ -1,0 +1,52 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: China
+Backstory: Li Wei is a software engineer who enjoys programming and traveling. He recently returned from a trip to Japan where he explored historical sites and experienced traditional Japanese culture.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up gently by his smart home alarm clock, feeling the soft morning light streaming through the curtains.
+
+Time: 06:15 AM
+Activity: Stretches in bed for a few minutes before turning off the lights and going to the bathroom.
+
+Time: 06:30 AM
+Activity: Brushes teeth and washes face with cold water from his en-suite bathroom.
+
+Time: 07:00 AM
+Activity: Brews a cup of strong black tea using an electric kettle. Sips it while reading today's newspaper on his e-reader, keeping up with local news and weather reports.
+
+Time: 08:00 AM
+Activity: Jogs for 30 minutes around the park near his apartment complex, breathing in the crisp morning air.
+
+Time: 09:15 AM
+Activity: Takes a shower to refresh before getting dressed for work. Chooses a smart casual outfit with a white shirt and navy trousers, accessorized with a black watch and leather shoes.
+
+Time: 10:30 AM
+Activity: Commutes to the office by subway. Uses his phone to check emails and plan tasks for the day while sitting in a quiet carriage.
+
+Time: 02:00 PM
+Activity: Attends a virtual meeting via video call from the comfort of his home office, equipped with an ergonomic desk setup.
+
+Time: 03:30 PM
+Activity: Takes a short break to prepare lunch and eats it on his balcony overlooking the city skyline. He often cooks traditional Chinese dishes but today he's having a quick noodle soup.
+
+Time: 04:15 PM
+Activity: Works on coding projects, using his laptop and collaborating with his team through various communication tools.
+
+Time: 07:30 PM
+Activity: Completes his workday. Sends off emails to colleagues and clients, ensuring all tasks are recorded for the following day.
+
+Time: 08:00 PM
+Activity: Returns home from the office. Catches up with a family video call over dinner, enjoying a dish of stir-fried vegetables while chatting about their day.
+
+Time: 10:00 PM
+Activity: Reads a few chapters from his current novel, using an e-reader to save paper and reduce eye strain.
+
+Time: 10:30 PM
+Activity: Turns off the lights in his living room, leaving just the lamp on in his bedroom. Lays down on his comfortable bed with a cup of herbal tea for relaxation before falling asleep.
+
+Time: 11:00 PM
+Activity: Falls asleep to the soft hum of his air conditioner and the gentle ticking of his bedside clock.

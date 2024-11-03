@@ -1,0 +1,100 @@
+{
+  "name": "Lin Xiaofeng",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Data Analyst",
+  "backstory": "Lin Xiaofeng is a data analyst working in one of the major financial firms in Shanghai. He moved to the city from his hometown in Zhejiang province when he was 25 to pursue better job opportunities and a more dynamic lifestyle.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "stretching", "meditation"],
+      "description": "Wakes up to the sound of his alarm clock, stretches, and begins his morning exercise routine by doing some light yoga and meditation"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["hygiene", "shower"],
+      "description": "Brushes teeth and takes a quick shower using natural body wash scented with lemongrass"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["breakfast", "tea"],
+      "description": "Has breakfast at the communal table in his shared apartment, which includes steamed buns filled with meat and vegetables, alongside a cup of black tea"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute", "audiobook"],
+      "description": "Heads to work by taking the crowded metro line 2. He listens to an audiobook on financial management as he travels"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["data analysis", "report preparation"],
+      "description": "Arrives at his office where he begins analyzing data and preparing reports for upcoming meetings"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "01:30",
+      "activities": ["virtual meeting", "project updates"],
+      "description": "Attends a short virtual meeting with colleagues from another branch in Beijing to discuss recent project updates"
+    },
+    {
+      "startTime": "01:30",
+      "endTime": "02:00",
+      "activities": ["lunch", "dim sum"],
+      "description": "Takes lunch break, ordering food from a local dim sum restaurant near the office. He chooses a set of vegetarian options today"
+    },
+    {
+      "startTime": "02:00",
+      "endTime": "05:00",
+      "activities": ["financial modeling"],
+      "description": "Resumes work on an ongoing financial model for a large client"
+    },
+    {
+      "startTime": "05:00",
+      "endTime": "06:30",
+      "activities": ["client meeting", "strategy discussion"],
+      "description": "Attends a client meeting via video call, where he presents analysis and discusses strategy improvements"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["commute", "dinner preparation"],
+      "description": "Ends the day's work by finalizing his report before heading back home on the metro. Upon arriving at home, he cooks a simple dinner of stir-fried vegetables and tofu using recipes from a cooking show he watches regularly"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["relaxation", "documentary"],
+      "description": "Watches a documentary about financial markets with his cat lounging on the couch nearby. He keeps his furry friend company as he learns more about the global economy"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["reading", "novel"],
+      "description": "Reads for an hour before bed, this evening choosing a novel set in Shanghai during the early 20th century to reflect on local history and culture"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "activities": ["nighttime exercise", "walking"],
+      "description": "Exits his apartment and heads down to the nearby park for some nighttime exercise. He enjoys walking around and taking in the cool night air before he goes home again"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "activities": ["bedtime routine", "sleep"],
+      "description": "Gets ready for bed, brushing teeth once more and slipping into comfortable pajamas before settling down with a light book until finally dozing off"
+    }
+  ]
+}

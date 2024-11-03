@@ -1,0 +1,41 @@
+##  Name: Alex 
+## Gender: Male
+## Age: 28
+## Location: France
+## Backstory: A quiet baker, Alex's life revolves around the rhythmic kneading of dough and the comforting aroma of freshly baked bread.  His grandmother's recipe book holds cherished memories, guiding him through every turn in his craft.
+
+## Day:
+
+**Time: 06:30**
+**Activity:**  Alex wakes up to the soft chime of a rooster from his neighbour's farm just across the street. The sunrise is a canvas of orange and gold, painting the small French window with its warmth before he fully emerges. A quick wash and brush of teeth later, he settles into the worn armchair, enjoying a quiet moment before work begins.
+
+**Time: 07:30**
+**Activity:** He starts his day with a cup of strong black coffee from his ancient family kettle, followed by two slices of sourdough bread toasted to a golden perfection, his grandmother's recipe always in mind. A gentle humming tune fills the kitchen as he prepares for the bustling mornings ahead.
+
+**Time: 08:00 - 12:00**
+**Activity:** The bakery, "Chez Alex," is bathed in warm sunlight at precisely eight o’clock.  Alex begins his day with a flurry of activity – bread-dough rising; sourdough starters bubbling in the warmth; flaky croissants and pain au chocolat being lovingly crafted for each customer. 
+
+**Time: 12:00 - 13:00**
+**Activity:** A brief lunch break is filled with a warm bowl of hearty soup, accompanied by a slice of apple pie, freshly baked. Alex enjoys the quiet solitude of his little bakery while watching the morning rush-hour. 
+
+**Time: 13:00 - 17:00**
+**Activity:** Customers pour in throughout the afternoon. The aroma of freshly baked bread permeates the air as families flock to pick up loaves for their weekend lunches, school snacks, and evening dinners. The chatter and laughter fill the shop as Alex engages with each customer, sharing stories about the ingredients and traditions behind his creations.
+
+**Time: 17:00 - 18:00**
+**Activity:** The bakery begins to quiet down, and a sense of peace descends upon the little shop as the last customers leave.  A quick cleaning session helps Alex feel prepared for tomorrow's routine, before he heads back home.
+
+**Time: 18:00 - 19:00**
+**Activity:** The evening hours find Alex tending to his small garden. Fresh vegetables are picked and a bottle of rosé accompanies him as the sun sets on the horizon. A simple meal of bread-based dishes, inspired by local herbs and seasonal produce.
+
+**Time: 19:00 - 20:00**
+**Activity:** He curls up on the sofa with a copy of a French novel, his grandmother's worn recipe book lying open beside him. A warm breeze carries the scent of lavender as he delves into another world, leaving behind the hustle and bustle of the day.
+
+**Time: 20:00 - 21:00**
+**Activity:** Alex turns off the lights, ready for a well-deserved rest.  The gentle rhythm of dreams washes over him after a day filled with warm laughter, floury hands, and familiar flavors.
+
+**Time: 21:00**
+**Activity:**  Sleep claims him as he sinks into the warmth of his bed, his little Parisian town tucked away beneath the soft glow of night.  The sounds of silence, broken only by the rhythmic ticking of a small antique clock, mark another peaceful end to his day.
+
+
+
+

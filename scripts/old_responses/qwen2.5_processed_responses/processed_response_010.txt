@@ -1,0 +1,88 @@
+{
+  "name": "Zhang Ming",
+  "gender": "Male",
+  "age": 35,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "A diligent software engineer who works in a tech company. He enjoys reading and often takes his weekends to explore local cultural activities.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Lights out, gets into bed to ensure a good night's sleep for the next day."
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["morning routine", "stretching", "open blinds"],
+      "description": "Wakes up with an alarm set for early morning, starts the day by stretching and opening the window blinds to let natural light in."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["tea", "honey"],
+      "description": "Drinks a cup of hot tea with honey, preparing his body for the day ahead."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["exercise", "yoga", "cardio"],
+      "description": "Commences a one-hour exercise routine, focusing on yoga and cardio to stay fit."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a shower and gets dressed in comfortable work attire."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["commute", "work"],
+      "description": "Leaves for the office, traveling via the subway line that takes him through the bustling streets of Beijing."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "discussion"],
+      "description": "Lunch break at his workplace cafeteria. He usually grabs a quick meal with a colleague and discusses ongoing projects."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:30",
+      "activities": ["work", "coding"],
+      "description": "Afternoon coding session in the conference room, often working late into the evening due to project deadlines."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "activities": ["leave work", "prepare to leave"],
+      "description": "Wraps up work for the day, finishes any outstanding tasks, and prepares to leave."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["jog", "exercise"],
+      "description": "Jogs around the park near his office to decompress from a long day of coding."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["arrive home", "read", "watch documentaries"],
+      "description": "Arrives home, spends some time reading or watching documentaries before starting dinner preparations."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["dinner", "news", "tech blogs"],
+      "description": "Eats a light dinner and starts catching up on news articles or tech blogs online."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["wind down", "e-book", "TV series"],
+      "description": "Winds down with an e-book for an hour or so, sometimes switching to his favorite TV series."
+    }
+  ]
+}

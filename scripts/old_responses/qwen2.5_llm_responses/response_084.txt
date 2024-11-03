@@ -1,0 +1,52 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer working in the tech industry. He moved to Shanghai after graduation and has been working there for over a decade. In his free time, he enjoys hiking and exploring different cuisines.
+
+Day:
+
+Time: 06:30
+Activity: Awakes to the sound of his alarm clock; gets out of bed, stretches, and starts his day with some morning exercises in his apartment.
+
+Time: 07:00
+Activity: Takes a quick shower and dresses for the day, choosing comfortable clothes for work.
+
+Time: 07:35
+Activity: Walks to the kitchen, prepares a cup of green tea and eats a light breakfast of whole grain toast with peanut butter.
+
+Time: 08:15
+Activity: Leaves his apartment; walks to the nearest metro station which is only a few minutes away from his home.
+
+Time: 09:00
+Activity: Arrives at the office. Greets his colleagues and heads to his desk, where he begins reviewing emails and preparing for the day's tasks.
+
+Time: 12:00
+Activity: Takes a lunch break; orders food from an online platform and eats in the company cafeteria with a few coworkers.
+
+Time: 13:00
+Activity: Resumes work. Works on a project that involves coding and collaborating with his team via video calls.
+
+Time: 16:00
+Activity: Attends a virtual meeting with colleagues from another office location to discuss project progress.
+
+Time: 17:30
+Activity: Concludes the day's work; prepares a summary of completed tasks for the evening report.
+
+Time: 18:00
+Activity: Leaves the office and heads home. Stops at a nearby market to buy fresh vegetables and fruits for dinner.
+
+Time: 19:00
+Activity: Returns home, starts preparing his meal with a homemade stir-fry, which he enjoys while watching a cooking show on TV.
+
+Time: 20:30
+Activity: Finishes his meal; does some light stretching exercises to unwind from the day.
+
+Time: 21:00
+Activity: Cleans up and starts a virtual hiking group chat. Discusses plans for an upcoming hike with friends in Shanghai's parks.
+
+Time: 22:00
+Activity: Reads a book on technology trends or watches a documentary related to his field of work before going to bed.
+
+Time: 23:00
+Activity: Wakes up slightly, turns off the lights, and drifts into sleep.

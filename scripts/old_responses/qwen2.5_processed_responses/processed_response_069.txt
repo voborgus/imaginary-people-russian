@@ -1,0 +1,94 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Graphic Designer",
+  "backstory": "Li Mei is a graphic designer working at a prominent advertising agency in Beijing. She moved to the city from her hometown several years ago with dreams of making it big and now enjoys the fast-paced lifestyle.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch"],
+      "description": "Wakes up gently as an alarm clock rings, stretching slightly before closing eyes again for ten more minutes."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["check phone", "review calendar"],
+      "description": "Opens eyes fully, grabs phone to turn off alarm and check notifications. Reviews calendar reminders for the day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["make tea", "plan workday"],
+      "description": "Prepares hot water for tea, adds a slice of lemon. Takes her time sipping it as she plans today's workday in her head."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["commute", "listen to podcast"],
+      "description": "Commences commute via subway to avoid traffic; listens to a podcast on marketing strategies during the journey."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "activities": ["change clothes", "work at desk"],
+      "description": "Arrives at office, quickly changes into business attire from casual morning wear. Signs into time management system and heads to her desk."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "activities": ["team meeting", "discuss projects"],
+      "description": "Attends afternoon team meeting in conference room; discusses project timelines with colleagues, offers suggestions and solutions."
+    },
+    {
+      "startTime": "16:15",
+      "endTime": "18:30",
+      "activities": ["complete proposal", "email clients"],
+      "description": "Completes final edits on the client proposal before sending it via email. Sends out a friendly reminder to the clients about the deadline."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:15",
+      "activities": ["get tea", "discuss work"],
+      "description": "Leaves office, stops by her favorite café for late-afternoon tea and snacks; discusses project updates with a friend who works in a different department."
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:30",
+      "activities": ["walk home", "enjoy evening"],
+      "description": "Walks home along the riverbank, enjoys the cool evening breeze and the bustling city lights around her."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:15",
+      "activities": ["cook dinner", "listen to music"],
+      "description": "Reaches home, quickly changes into comfortable clothes; cooks herself dinner while listening to music on a smart speaker."
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:00",
+      "activities": ["eat dinner", "check emails"],
+      "description": "Eats dinner slowly, occasionally checking emails from clients who might need urgent replies. Packs up work essentials and heads to bed early as she plans an important presentation for the next day."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "22:30",
+      "activities": ["bedtime routine"],
+      "description": "Washes face, changes into pajamas before getting into bed, scrolls through social media for a few minutes to unwind."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["read", "sleep"],
+      "description": "Reads a book or watches a documentary on her tablet until she feels drowsy. Switches off the lights and settles in for some well-deserved rest."
+    }
+  ]
+}

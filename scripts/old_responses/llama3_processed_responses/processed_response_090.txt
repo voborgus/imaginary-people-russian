@@ -1,0 +1,82 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 27,
+  "location": "Canada (Vancouver, BC)",
+  "job": "Graphic Designer",
+  "backstory": "Kaitlyn grew up in a small town in the Canadian Prairies, moved to Vancouver for university, and has been working as a graphic designer for the past three years. She loves hiking and trying out new craft breweries.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "cat", "purr"],
+      "description": "Wake up to the sound of her cat, Luna, purring on her pillow"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["make coffee", "watch sunrise"],
+      "description": "Make a pot of coffee and watch the sunrise through the window"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:30",
+      "activities": ["hiking", "exercise"],
+      "description": "Get dressed in comfortable hiking boots and a lightweight fleece for a morning hike in Lynn Canyon Park"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["snack", "matcha latte", "chocolate croissant"],
+      "description": "Finish her hike and grab a snack at a nearby cafe - today it's a matcha latte and a chocolate croissant"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:15",
+      "activities": ["brunch", "friends"],
+      "description": "Meet up with her best friend, Emily, for brunch at a new restaurant in Kitsilano"
+    },
+    {
+      "startTime": "12:15",
+      "endTime": "14:30",
+      "activities": ["beach walk", "relax"],
+      "description": "Take a long walk along the beach after lunch, feeling the sand between her toes and the sea breeze in her hair"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["work", "design", "tea", "music"],
+      "description": "Get back to work on a design project at her studio, sipping on a cup of tea and listening to music"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "activities": ["cook", "vegan stir-fry", "tofu", "vegetables"],
+      "description": "Take a short break to try out a new recipe - tonight it's vegan stir-fry with tofu and vegetables"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:45",
+      "activities": ["dinner", "friends", "restaurant"],
+      "description": "Meet up with friends for dinner at a popular restaurant in Gastown"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:00",
+      "activities": ["brewery", "beer", "chat"],
+      "description": "End the night with a visit to a local brewery, trying out a few beers and chatting with strangers"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["read", "pet", "sleep"],
+      "description": "Wind down at home by reading a book on her e-reader and petting Luna one last time before bed"
+    }
+  ]
+}

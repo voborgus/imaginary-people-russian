@@ -1,0 +1,70 @@
+{
+  "name": "Akira Saito",
+  "gender": "Male",
+  "age": 32,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira is a freelance graphic designer who returned to his hometown of Tokyo after living in London for five years. He's adjusting to life back home and trying to balance his design work with spending time with friends and family.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:20",
+      "activities": ["woke up", "morning routine"],
+      "description": "Woke up to the sound of birds chirping outside his apartment window, brushed teeth, washed face, and got dressed"
+    },
+    {
+      "startTime": "06:20",
+      "endTime": "07:00",
+      "activities": ["breakfast", "browsing phone"],
+      "description": "Made a bowl of instant ramen for breakfast while scrolling through his phone to catch up on the latest design trends"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["meet friend", "coffee", "conversation"],
+      "description": "Headed out to meet his friend Taro at a nearby cafe for a coffee and conversation about their shared love of video games"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["work", "research", "brainstorming"],
+      "description": "Returned to Akira's apartment to start work on a new design project, which involved researching color palettes and brainstorming ideas for a client's logo"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "shopping"],
+      "description": "Took a break from work to grab lunch at a nearby restaurant and enjoy the sunshine outside, then met up with his sister Yumi at a trendy shopping district in Harajuku to browse through some vintage stores and thrift shops"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "19:30",
+      "activities": ["work", "design", "mockups"],
+      "description": "Spent the late afternoon working on more design projects, this time creating mockups for a client's advertising campaign"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["dinner", "video games"],
+      "description": "Had dinner with his friend Kaito at a new sushi restaurant that had just opened up in Shinjuku, then returned to Akira's apartment and spent some time playing video games with his friend online"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:45",
+      "activities": ["bedtime routine"],
+      "description": "Brushed teeth again, changed into pajamas, and got ready for bed"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Went to sleep thinking about the next day's plans"
+    }
+  ]
+}

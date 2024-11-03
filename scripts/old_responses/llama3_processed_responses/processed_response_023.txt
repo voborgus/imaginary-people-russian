@@ -1,0 +1,94 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Spain",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emilia is a free-spirited artist who moved to Madrid from Barcelona after graduating from art school. She works as a freelance graphic designer and spends her free time painting in her tiny studio apartment.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wake up to the sound of street performers outside her window, feeling refreshed after a good night's sleep"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["get dressed", "brush hair"],
+      "description": "Brush her long brown hair and get dressed in a flowy sundress with a pair of scuffed-up Converse shoes"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["coffee", "catch up on news"],
+      "description": "Head out for a morning coffee at a nearby café, where she catches up on the latest art news on her phone while sipping a strong espresso"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["meeting", "work on client project"],
+      "description": "Attend a meeting with a potential new client at a trendy design studio in Malasaña, a hip neighborhood in Madrid"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["work on client project", "brainstorm", "sketch concepts"],
+      "description": "Spend two hours working on a logo redesign for the client, brainstorming ideas and sketching out concepts in her Moleskine notebook"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "tapas", "gazpacho"],
+      "description": "Take a break to grab lunch at a nearby tapas bar, where she orders a plate of patatas bravas and gazpacho"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "activities": ["visit museum", "art inspiration"],
+      "description": "Visit the Prado Museum to get inspired by some of Spain's greatest art masters, including Goya and Velázquez"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "activities": ["meet friend", "chat", "wine"],
+      "description": "Meet up with her best friend, Sofia, at a cozy wine bar in La Latina, where they sip rosé and chat about their latest projects"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "20:30",
+      "activities": ["work on art", "painting"],
+      "description": "Return to her studio apartment to work on some new art pieces for an upcoming exhibition, feeling energized after her lunch break with Sofia"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["walk", "enjoy city"],
+      "description": "Take a short walk along the Gran Vía, enjoying the lively atmosphere and street performers before heading back home"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["cook dinner", "listen to music"],
+      "description": "Prepare dinner in her tiny kitchen, cooking up some chicken and rice while listening to flamenco music on Spotify"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["emails", "social media", "read"],
+      "description": "Spend some time responding to emails and updating her social media accounts before calling it a night"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["wind down", "tea"],
+      "description": "Wind down with a good book and a cup of chamomile tea, feeling grateful for another day in the beautiful city of Madrid"
+    }
+  ]
+}

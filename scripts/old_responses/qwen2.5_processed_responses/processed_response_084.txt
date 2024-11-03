@@ -1,0 +1,100 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer working in the tech industry. He moved to Shanghai after graduation and has been working there for over a decade. In his free time, he enjoys hiking and exploring different cuisines.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning exercises"],
+      "description": "Awakes to the sound of his alarm clock; gets out of bed, stretches, and starts his day with some morning exercises in his apartment."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:35",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a quick shower and dresses for the day, choosing comfortable clothes for work."
+    },
+    {
+      "startTime": "07:35",
+      "endTime": "08:15",
+      "activities": ["prepare breakfast", "drink tea"],
+      "description": "Walks to the kitchen, prepares a cup of green tea and eats a light breakfast of whole grain toast with peanut butter."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute to work"],
+      "description": "Leaves his apartment; walks to the nearest metro station which is only a few minutes away from his home."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["review emails", "prepare for tasks"],
+      "description": "Arrives at the office. Greets his colleagues and heads to his desk, where he begins reviewing emails and preparing for the day's tasks."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch break", "eat cafeteria food"],
+      "description": "Takes a lunch break; orders food from an online platform and eats in the company cafeteria with a few coworkers."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["coding", "team collaboration"],
+      "description": "Resumes work. Works on a project that involves coding and collaborating with his team via video calls."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["team meeting"],
+      "description": "Attends a virtual meeting with colleagues from another office location to discuss project progress."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["summarize tasks"],
+      "description": "Concludes the day's work; prepares a summary of completed tasks for the evening report."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["commute home", "grocery shopping"],
+      "description": "Leaves the office and heads home. Stops at a nearby market to buy fresh vegetables and fruits for dinner."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["prepare dinner", "watch TV"],
+      "description": "Returns home, starts preparing his meal with a homemade stir-fry, which he enjoys while watching a cooking show on TV."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["exercise", "group chat"],
+      "description": "Finishes his meal; does some light stretching exercises to unwind from the day. Starts a virtual hiking group chat and discusses plans for an upcoming hike with friends in Shanghai's parks."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "activities": ["read", "watch documentary"],
+      "description": "Reads a book on technology trends or watches a documentary related to his field of work before going to bed."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "activities": ["sleep"],
+      "description": "Wakes up slightly, turns off the lights, and drifts into sleep."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+Name: Lin Tao
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Lin Tao is a software engineer who enjoys playing basketball and traveling on weekends. He lives in a bustling neighborhood of Shanghai but maintains a serene apartment.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of his alarm, stretches and gets out of bed.
+Time: 06:45
+Activity: Walks into the kitchen to make himself a cup of strong black tea with milk.
+Time: 07:00
+Activity: Watches the morning news on TV while sipping his tea and planning his workday.
+Time: 08:15
+Activity: Leaves home, walking to a nearby bus stop where he takes the first bus towards the office district.
+Time: 09:30
+Activity: Arrives at the office building for an early meeting. He greets his colleagues who are already working.
+Time: 10:30
+Activity: Attends a two-hour technical meeting discussing project timelines and updates.
+Time: 12:45
+Activity: Leaves the office to grab lunch, heading to a small local restaurant for noodles with vegetables.
+Time: 13:15
+Activity: Returns to work after having lunch and goes straight to his desk.
+Time: 17:00
+Activity: Attends another meeting focused on team collaboration strategies.
+Time: 18:00
+Activity: Meets a friend for casual coffee and they discuss plans for the upcoming weekend.
+Time: 20:30
+Activity: Heads home, passing by a street market where he buys some fresh vegetables for dinner.
+Time: 21:30
+Activity: Arrives back at his apartment, starts preparing a simple but satisfying vegetable stir-fry.
+Time: 22:30
+Activity: Eats dinner while watching basketball highlights on TV. After the games, he checks emails and messages before turning off the lights.
+Time: 23:00
+Activity: Lays in bed scrolling through social media updates from friends and colleagues, reflecting on a productive day.
+Time: 23:45
+Activity: Lights out, ready to get some rest for another busy day ahead.

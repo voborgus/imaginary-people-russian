@@ -1,0 +1,76 @@
+{
+  "name": "Anya Sharma",
+  "gender": "Female",
+  "age": 28,
+  "location": "India",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Anya is a freelance graphic designer based in Mumbai. She's ambitious and works hard to build her own design studio.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "make tea", "morning ritual"],
+      "description": "Anya wakes up to the sound of birds chirping outside her window. She makes tea with ginger and turmeric, a traditional morning ritual that helps her feel grounded."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "activities": ["yoga", "work on design projects"],
+      "description": "Anya stretches, gently doing some yoga poses before she sits down to work on her ongoing design projects for several hours."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "activities": ["breakfast", "messaging with colleagues"],
+      "description": "After breakfast, Anya spends a few minutes catching up with colleagues on a messaging platform. They discuss upcoming deadlines and creative brainstorming ideas."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["logo design", "research"],
+      "description": "Anya begins the most challenging design task of the day - creating a logo for an online boutique focusing on sustainable fashion. She dives deep into research, browsing various textures and color palettes."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "activities": ["lunch", "socializing"],
+      "description": "Lunch break! Anya enjoys a light lunch with her neighbors; they chat about current events and cultural traditions. A delicious masala dosa fills her belly."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "17:00",
+      "activities": ["work", "check emails", "web design"],
+      "description": "Anya returns to her desk, taking a short walk around the building complex before diving into work. She checks emails for client updates, then dives back into designing new web layouts for a local cafe's online menu."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["personal project", "animation"],
+      "description": "The afternoon brings a surge of creative energy as Anya works on her own project – creating an animated social media ad campaign for a local animal shelter."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["relax", "tea", "contemplation"],
+      "description": "Anya heads to the balcony, enjoying the golden hour sunset with a cup of herbal tea. She often uses this time for contemplation and planning for upcoming projects."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "activities": ["dinner"],
+      "description": "A quick dinner is eaten at home - a simple vegetable stir-fry accompanied by a slice of whole wheat bread."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["reading"],
+      "description": "Anya engages in some light reading for a few hours before bedtime. She loves exploring novels and short stories, escaping into fictional worlds before sleep."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Finally, Anya drifts off to sleep under the soft glow of her bedside lamp. Tomorrow promises more exciting challenges, but she's content with a peaceful night's rest."
+    }
+  ]
+}

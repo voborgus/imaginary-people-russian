@@ -1,0 +1,42 @@
+Here is a person with the following details:
+
+Name: Kaitlyn Thompson
+Gender: Female
+Age: 27
+Location: Canada (specifically, Vancouver, BC)
+Backstory: Kaitlyn grew up in a small town in the Canadian Prairies, moved to Vancouver for university, and has been working as a graphic designer for the past three years. She loves hiking and trying out new craft breweries.
+
+Here is a random day from her life:
+
+Time: 06:00
+Activity: Wake up to the sound of her cat, Luna, purring on her pillow
+
+Time: 06:15
+Activity: Make a pot of coffee and watch the sunrise through the window
+
+Time: 07:00
+Activity: Get dressed in comfortable hiking boots and a lightweight fleece for a morning hike in Lynn Canyon Park
+
+Time: 09:30
+Activity: Finish her hike and grab a snack at a nearby cafe - today it's a matcha latte and a chocolate croissant
+
+Time: 10:00
+Activity: Meet up with her best friend, Emily, for brunch at a new restaurant in Kitsilano
+
+Time: 12:15
+Activity: Take a long walk along the beach after lunch, feeling the sand between her toes and the sea breeze in her hair
+
+Time: 14:30
+Activity: Get back to work on a design project at her studio, sipping on a cup of tea and listening to music
+
+Time: 17:00
+Activity: Take a short break to try out a new recipe - tonight it's vegan stir-fry with tofu and vegetables
+
+Time: 19:30
+Activity: Meet up with friends for dinner at a popular restaurant in Gastown
+
+Time: 21:45
+Activity: End the night with a visit to a local brewery, trying out a few beers and chatting with strangers
+
+Time: 23:00
+Activity: Wind down at home by reading a book on her e-reader and petting Luna one last time before bed

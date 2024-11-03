@@ -1,0 +1,82 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "Beijing, China",
+  "job": "Data Analyst",
+  "backstory": "Li Wei is a data analyst working at a tech company in central Beijing. He has been living and working in the city for over a decade, witnessing its rapid development and technological advancement. His weekends are usually spent exploring local markets or attending cultural events.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "get out of bed"],
+      "description": "Wakes up to the sound of his alarm, stretches and gets out of bed."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["shower", "brush teeth", "prepare coffee"],
+      "description": "Takes a shower, brushes teeth, and prepares for the day with coffee."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute on subway", "travel to office"],
+      "description": "Commutes on the subway from Xuanwu District to Wangjing where he works in Haidian District. The train is moderately crowded due to weekday morning rush hour."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:45",
+      "activities": ["check emails", "update calendar", "team meeting"],
+      "description": "Arrives at work, checks emails and updates his calendar for the day's tasks. Meets with the team to discuss ongoing projects and data analysis progress. Takes a short walk in the office garden during this meeting."
+    },
+    {
+      "startTime": "10:45",
+      "endTime": "12:30",
+      "activities": ["eat lunch at desk", "homemade meal"],
+      "description": "Eats lunch at his desk, bringing homemade dishes from home which includes beef brisket and cabbage soup."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["video conference", "cross-regional collaboration"],
+      "description": "Conducts a video conference call with colleagues from Shanghai to discuss cross-regional project collaboration."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["walk in office garden", "attend tech workshop"],
+      "description": "Takes another walk in the office garden before attending a company-sponsored tech workshop on artificial intelligence."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "20:00",
+      "activities": ["leave work early", "attend cultural event"],
+      "description": "Leaves work early as there is a concert of traditional Chinese music at a nearby cultural center that he has been looking forward to. Joins the event with colleagues."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:45",
+      "activities": ["listen to live performances", "discuss music"],
+      "description": "Listens to live performances, takes notes and occasionally discusses with friends about the music styles and instruments used in various songs."
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:15",
+      "activities": ["walk home", "enjoy evening sights", "buy street food"],
+      "description": "Walks back home through Qianmen area, enjoying the evening lights and local street food vendors. Buys a hot pot snack for later."
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "23:45",
+      "activities": ["prepare dinner", "check news"],
+      "description": "Arrives at home, prepares to have dinner while watching news updates on his phone or TV."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Goes to bed."
+    }
+  ]
+}

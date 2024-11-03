@@ -1,0 +1,88 @@
+{
+  "name": "Li Xiaoyu",
+  "gender": "Female",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Software Engineer",
+  "backstory": "Born and raised in Beijing, Li Xiaoyu is a software engineer who enjoys hiking and photography. She works at a tech company near the city center but often takes her lunch break to explore local parks or capture scenic moments with her camera.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "drink hot water", "prepare breakfast", "check emails"],
+      "description": "Wake up, stretch, take a sip of hot water, then prepare for the day by making breakfast and checking emails on her phone while waiting for tea to steep."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["drink tea", "eat porridge", "eat fruit"],
+      "description": "Have her morning cup of tea with a quick bite of homemade porridge and fruit before dressing up."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["walk through Tiananmen Square", "take photos"],
+      "description": "Walk through Tiananmen Square, enjoying the early morning tranquility, capturing the city's serene beauty on her camera."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["commute to work"],
+      "description": "Head to work, a short 15-minute walk from home. Arrive at her office building, take the elevator to the 24th floor where she works as a software engineer."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["work on project", "video calls", "collaborate on documents"],
+      "description": "Start working on her current project with the team via video call or collaborative documents."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["walk to Gongmendajie Park", "take photos", "eat sandwich"],
+      "description": "Take a lunch break and walk to Gongmendajie Park. Spend time taking photos of cherry blossoms or other scenic spots, then grab a sandwich from a nearby vendor."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["continue working on project", "project updates"],
+      "description": "Return to the office to continue work on project updates with tight deadlines coming up soon."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["commute home", "buy dinner"],
+      "description": "End her workday, walk back through the city, stop by the subway station for dinner, grab a pan-fried baozi (steamed bun) from a food stall."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:15",
+      "activities": ["prepare dinner", "eat dinner", "watch TV"],
+      "description": "Walk home and prepare a light dinner of vegetables stir-fried with tofu and noodles. Enjoy a leisurely meal while catching up on news from local Chinese TV channels."
+    },
+    {
+      "startTime": "20:15",
+      "endTime": "22:30",
+      "activities": ["read photography book", "browse photo communities"],
+      "description": "Settle down to read a photography book or browse through photo communities online, getting inspired for the upcoming weekend projects."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["bedtime routine", "review work plans"],
+      "description": "Prepare for bed, wash her face and teeth. Review notes about tomorrow's work plans in case of any adjustments needed."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Turn off all lights, lock the door, then crawl into bed, drift off to sleep while listening to some soothing music."
+    }
+  ]
+}

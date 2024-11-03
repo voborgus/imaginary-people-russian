@@ -1,0 +1,88 @@
+{
+  "name": "Emma Taylor",
+  "gender": "Female",
+  "age": 28,
+  "location": "Australia",
+  "job": "Freelance Writer",
+  "backstory": "Emma is a freelance writer who moved to Melbourne from her hometown of Perth two years ago. She loves the city's vibrant arts and culture scene and spends most of her free time exploring galleries and cafes.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["woke up", "heard cat meowing"],
+      "description": "Woke up to the sound of her cat, Luna, meowing loudly outside her bedroom door."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "brushed teeth", "got dressed", "listened to news"],
+      "description": "Brushed her teeth and got dressed in the dark while listening to the news on her phone."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["made coffee", "checked social media"],
+      "description": "Headed downstairs to make some coffee and catch up on social media for a bit."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "activities": ["responded to emails", "updated writing schedule"],
+      "description": "Spent an hour responding to emails from clients and updating her writing schedule for the day."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["walked by Yarra River", "walked with cat"],
+      "description": "Left for a walk along the Yarra River with Luna by her side. The sun was shining, and it was a beautiful morning!"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["had breakfast", "people-watched"],
+      "description": "Popped into a local café for a flat white and to grab some breakfast. She people-watched for a bit while she ate."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "activities": ["met friend", "visited art gallery"],
+      "description": "Met up with her best friend, Rachel, at the NGV (National Gallery of Victoria) for lunch. They spent the afternoon exploring the gallery's latest exhibit."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "activities": ["relaxed in park", "ate apple"],
+      "description": "Left the gallery and headed to a nearby park to take a break from the crowds. She sat on a bench and ate an apple while watching the world go by."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "activities": ["worked on writing project", "researched", "outlined story"],
+      "description": "Spent some time working on a new writing project – researching and outlining a short story for a magazine submission."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["cooked dinner", "tried new recipe"],
+      "description": "Cooked dinner in her small kitchen, trying out a new recipe she'd found online. It was a success!"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:15",
+      "activities": ["watched TV", "relaxed with cat"],
+      "description": "Watched an episode of her favorite TV show while Luna curled up beside her on the couch."
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:59",
+      "activities": ["got ready for bed", "reflected on the day"],
+      "description": "Got ready for bed and reflected on the day's events – happy with how much she'd accomplished, but already looking forward to tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 28,
+  "location": "Tokyo, Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emiko is a freelance graphic designer who moved back to Tokyo from New York City after living there for three years. She's still adjusting to the slower pace of life in her hometown and trying to balance her creative pursuits with traditional Japanese values.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "listen to birds"],
+      "description": "Wake up to the sound of birds chirping outside her apartment window"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["brew green tea", "meditation"],
+      "description": "Brew a cup of green tea in her tiny kitchen and take it to the balcony for some morning meditation"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["walk", "exercise"],
+      "description": "Take a 30-minute walk around the nearby park to get some exercise and fresh air"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:45",
+      "activities": ["breakfast", "respond to emails"],
+      "description": "Sit down at her desk with a bowl of steaming ramen for breakfast and start responding to emails as a freelance designer"
+    },
+    {
+      "startTime": "09:45",
+      "endTime": "12:30",
+      "activities": ["meet client", "discuss project"],
+      "description": "Meet up with a client at a trendy coffee shop in Shimokitazawa to discuss a new branding project"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:45",
+      "activities": ["lunch", "social media"],
+      "description": "Take an hour-long break for lunch, eating a bento box of rice and grilled fish at her desk while scrolling through social media"
+    },
+    {
+      "startTime": "13:45",
+      "endTime": "16:15",
+      "activities": ["design logo", "experiment"],
+      "description": "Work on designing a new logo for a startup company, experimenting with different color palettes and typography styles"
+    },
+    {
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "activities": ["break", "snack"],
+      "description": "Take another short break to stretch her legs and grab a snack from the vending machine down the street"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "20:30",
+      "activities": ["happy hour", "try new sake"],
+      "description": "Meet up with friends at a small izakaya in Shibuya for happy hour, trying out some new sake pairings and chatting about their week"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["commute home", "read"],
+      "description": "Take public transportation back home, reading through her social media feeds and catching up on the latest news headlines"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:45",
+      "activities": ["bath", "read book", "reflect"],
+      "description": "Wind down with a warm bath and a good book, reflecting on the day's accomplishments and planning for tomorrow"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Drift off to sleep with a contented sigh, feeling grateful for another quiet evening in her cozy Tokyo apartment"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Marketing Manager",
+  "backstory": "Li Mei is a marketing manager who enjoys blending her cultural heritage with modern business strategies. She often travels to different parts of China to understand local market trends and culture better.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "drink tea"],
+      "description": "Wakes up feeling refreshed after a good night's sleep, stretches in bed while sipping on hot green tea"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "wash face", "brush teeth"],
+      "description": "Heads to the bathroom for her morning routine, including washing her face and brushing her teeth with Chinese herbal toothpaste"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "congee", "pickled vegetables", "milky tea"],
+      "description": "Tries a traditional Chinese breakfast of congee (rice porridge) with pickled mustard greens, followed by a cup of milky tea"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute", "read tablet"],
+      "description": "Commutes to work on the Beijing subway; she enjoys the early morning quiet as she reads the latest marketing trends from her tablet"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["online meeting", "discuss strategies", "share insights"],
+      "description": "Attends an online meeting with international clients, discussing market strategies and sharing insights about Chinese consumer behavior"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["brainstorming", "collaborate"],
+      "description": "Participates in a virtual brainstorming session for new product ideas, collaborating with team members from different departments"
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "14:30",
+      "activities": ["walk", "relax"],
+      "description": "Takes an hour-long walk during the lunch break to clear her mind and enjoy some fresh air, often visiting Beihai Park or nearby gardens"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "activities": ["one-on-one meeting", "feedback"],
+      "description": "Holds a one-on-one meeting with a junior team member to discuss their progress on current projects and give feedback"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["client presentation", "showcase strategies"],
+      "description": "Attends a client presentation in the company conference room, showcasing the latest campaign strategies for their target market"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["commute", "personal time"],
+      "description": "Travels back home after work via the subway or taxi, looking forward to some personal time before dinner"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["cook", "dinner", "watch documentaries"],
+      "description": "Cooks a simple yet nutritious dinner of stir-fried vegetables and tofu, enjoying it while watching cultural documentaries on her TV"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["community meeting", "discuss cultural exchange"],
+      "description": "Joins an online virtual meeting for a community group that she is involved with, discussing topics related to cultural exchange and business ethics"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "24:00",
+      "activities": ["relax", "read news"],
+      "description": "Skims through WeChat Moments or news articles about the latest happenings in China and around the world before turning off her phone and settling into bed"
+    }
+  ]
+}

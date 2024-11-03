@@ -1,0 +1,64 @@
+{
+  "name": "Elena Flores",
+  "gender": "Female",
+  "age": 28,
+  "location": "Costa Rica",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Elena works as a freelance graphic designer, travelling to different cities within Costa Rica and occasionally venturing outside the country for new opportunities. She feels most fulfilled when using her skills to make spaces more beautiful, be it designing brochures for eco-tourism businesses or creating digital illustrations for local art galleries.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:30",
+      "activities": ["stretching", "meditation", "journaling"],
+      "description": "Elena stretches on her yoga mat after a few deep breaths and enjoys the morning quiet of her rented apartment in San Jose's trendy neighborhood, El Barrio, before setting her alarm for work. She prefers waking up early so she can start with meditation or journaling to set intentions for the day."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:30",
+      "activities": ["coffee", "breakfast", "sketching", "digital prototyping"],
+      "description": "A steaming cup of freshly brewed coffee and a slice of homemade banana bread fuels Elena's artistic flow. While enjoying breakfast, she reviews client projects and starts sketching ideas for new branding materials. She uses digital tools to quickly visualize concepts before heading into her studio to create a more detailed version."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "activities": ["graphic design", "brochure design", "branding"],
+      "description": "Elena's freelance work takes over the day. She spends several hours working on projects for local businesses, designing brochures for an organic farming collective near the rainforest and creating promotional materials for a new coffee roastery in Arenal."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "reading"],
+      "description": "Lunch break! Elena heads to one of her favorite eateries - a family-run vegetarian restaurant with outdoor seating in La Sabana Park, enjoying a plate of delicious black bean soup and refreshing pineapple juice as she reads an art magazine."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "activities": ["graphic design", "branding", "marketing materials"],
+      "description": "Work continues! Elena jumps into more graphic design work, creating marketing materials for a local travel agency and developing branding assets for a small eco-conscious hotel on the Pacific coast. She's drawn to projects that allow her to support local businesses and contribute to Costa Rica's thriving tourism industry."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["walking", "nature observation"],
+      "description": "A walk in the park! Elena takes a break from work by walking through La Paz Waterfall Gardens, marveling at the majestic waterfalls that are part of the stunning landscape. She also spends time observing local wildlife – colorful birds flitting around and playful monkeys swinging in the trees."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["cooking", "dinner", "music", "socializing"],
+      "description": "Elena prepares dinner - a simple but flavorful lentil stew with avocado and cilantro. She enjoys her meal in her kitchen while listening to Costa Rican music on the radio before heading out to meet friends for a casual game of cards at one of the local cafes."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:30",
+      "activities": ["socializing", "board games", "snacks"],
+      "description": "Late night chats and laughter are exchanged with friends, followed by some board games and a shared plate of empanadas. Elena enjoys spending this time connecting with others who share her passions for life, creativity, and fun!"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "06:30",
+      "activities": ["reading", "sleep"],
+      "description": "After settling down into her comfy bed with a book in hand, she closes her eyes and listens to the soft sounds of the crickets singing beneath the moonlit night sky."
+    }
+  ]
+}

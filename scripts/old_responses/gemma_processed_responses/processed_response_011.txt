@@ -1,0 +1,58 @@
+{
+  "name": "Elias",
+  "gender": "Male",
+  "age": 32,
+  "location": "Montenegro",
+  "job": "Nomadic Artist",
+  "backstory": "Elias is a nomadic artist, spending his life exploring different cultures and capturing their essence in paintings. He believes in living freely, fueled by a wanderlust that has taken him to many corners of the world.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night under the watchful gaze of the Milky Way"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["wake up", "stretch", "make coffee"],
+      "description": "The rooster's crow signals the start of another day. Elias wakes up with the sun, stretching his stiff limbs and feeling the cool mountain air brush against his face. He brews strong, black coffee using a hand-cranked mill, its rhythm echoing in his mind like a lullaby he remembers from his childhood spent in a rural village."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["breakfast", "paint landscape"],
+      "description": "After breakfast of sun-dried apricots and figs, Elias paints the landscape outside his makeshift studio - a shaded spot under a towering old tree by a winding river. The morning light is dappled through the leaves, giving his paintings a soft glow. As he paints, he lets his thoughts drift to the ancient myths that once captivated his imagination as a child."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "activities": ["travel", "sketch", "take photos"],
+      "description": "Elias's studio is packed away for the day. He begins his journey towards a neighboring village known for its vibrant folk traditions and bustling markets. He walks, his sketchbook held close to his chest, his camera ready to capture the unique charm of the local vendors and artisans."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "activities": ["lunch", "people watch", "listen to folk music"],
+      "description": "Lunchtime! Elias finds himself at a small tavern tucked away in a quaint corner of the village. He enjoys a hearty lentil soup with fresh bread and sips on thick rakija - an Albanian grape brandy that adds a spicy kick to his meal. He spends a few hours soaking in the atmosphere, people-watching, and listening to lively folk music played by a local musician who uses a traditional instrument called the gusle."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "activities": ["explore marketplace", "purchase scarves"],
+      "description": "The village's marketplace bursts with life. Elias wanders through, drawn to the vibrant colors of handwoven rugs and pottery. He buys a small set of colorful scarves for his travels, their vibrant hues reflecting the stories of women who had crafted them by hand in faraway places."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["return to studio", "reflect on journey"],
+      "description": "After a day filled with discovery, Elias returns to his makeshift studio near the river. As he sets down his paints and sketches, he reflects on the warmth of his adventure and the beauty he's encountered today. The setting sun casts long shadows over the mountains as he contemplates how each journey has shaped his artistic voice."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["cook dinner", "stargaze", "sleep"],
+      "description": "As night descends upon the village, Elias settles into a small fire-pit under the stars, enjoying a hearty stew of dried beef and potatoes cooked by his own hand using a solar cooker he's built. A quiet sigh escapes him as he contemplates the rhythm of the mountains and the endless possibilities his journeys hold for him. He drifts to sleep listening to the distant howl of wolves in the night."
+    }
+  ]
+}

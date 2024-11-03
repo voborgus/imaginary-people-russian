@@ -1,0 +1,88 @@
+{
+  "name": "Leila Patel",
+  "gender": "Female",
+  "age": 32,
+  "location": "India",
+  "job": "Freelance Writer",
+  "backstory": "Leila is a freelance writer who moved back to her hometown of Mumbai after living in London for several years. She now writes articles and short stories while trying to navigate the challenges of being an expat-turned-local again.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:20",
+      "activities": ["morning routine", "stretch", "yawn"],
+      "description": "Woke up early, feeling refreshed after a good night's sleep. Stretched and yawned, then got out of bed to start her morning routine."
+    },
+    {
+      "startTime": "06:20",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushed teeth and washed face, getting ready for the day ahead."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["chai tea", "enjoy sunshine", "enjoy quiet air"],
+      "description": "Had a cup of strong chai tea on her balcony, enjoying the warm sunshine and quiet morning air."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["respond to emails", "brainstorming"],
+      "description": "Started her writing routine by responding to some emails from clients. Got her creative juices flowing with a brief brainstorming session."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["walk", "get groceries"],
+      "description": "Took a short walk around the nearby neighborhood to get some fresh air and clear her mind. Picked up a few groceries at the local market for lunch."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "14:00",
+      "activities": ["eat lunch", "write article"],
+      "description": "Had a working lunch of roti and vegetables, typing away on her laptop as she ate. Made good progress on a new article deadline."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["meet friend", "discuss project", "drink coffee"],
+      "description": "Met a friend at a nearby café to discuss a new writing project they were collaborating on. Enjoyed a cup of coffee and some lively conversation."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "activities": ["spend time with cat", "feed cat", "play with cat"],
+      "description": "Returned home to spend some quality time with her cat, Luna. Fed her dinner and played with her for a bit before getting back to work."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["make dinner", "eat dinner", "watch news"],
+      "description": "Took a break from writing to make herself a simple dinner of dal and rice. Watched a bit of news on TV while eating."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:30",
+      "activities": ["write short stories"],
+      "description": "Resumed her writing routine, working on some new short stories in the evening hours."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["get ready for bed", "reflect on day"],
+      "description": "Wrapped up her work for the day, feeling accomplished but also tired from a productive day. Got ready for bed and reflected on what she was grateful for that day."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Went to sleep with a contented smile, looking forward to the next day's adventures."
+    }
+  ]
+}

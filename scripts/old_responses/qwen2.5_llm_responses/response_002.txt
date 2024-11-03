@@ -1,0 +1,37 @@
+Name: Zhang Ling
+Gender: Female
+Age: 35
+Location: China
+Backstory: Zhang Ling is a marketing specialist who has been living in Beijing for the past decade. She moved there to pursue her career and now balances work with spending quality time with her family on weekends.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up gently as her alarm clock rings, stretching before getting out of bed.
+
+Time: 06:30
+Activity: Brushes teeth and washes face in the bathroom, preparing for the day ahead.
+
+Time: 07:00
+Activity: Drinks a cup of warm tea to start the morning routine, reading today’s news on her phone.
+
+Time: 08:00
+Activity: Commutes to work by taking the subway, listening to an audio book about business management.
+
+Time: 12:00
+Activity: Takes a short lunch break at her office café, enjoys homemade rice noodles with vegetables for lunch while catching up with a colleague briefly.
+
+Time: 13:00
+Activity: Back at work, attends a team meeting discussing the company’s next quarter strategy plans.
+
+Time: 17:00
+Activity: Wraps up work for the day and heads home; often stops by a convenience store to pick up some fruit before getting on the subway again.
+
+Time: 18:30
+Activity: Arrives at her apartment, spends about half an hour cooking dinner with her partner. Tonight they’re having homemade dumplings with green onions.
+
+Time: 20:00
+Activity: Eats dinner together and watches a movie or a TV show on the couch while sipping some red tea.
+
+Time: 23:00
+Activity: Reads for about an hour before bed, mostly fiction novels to unwind from her busy workday.

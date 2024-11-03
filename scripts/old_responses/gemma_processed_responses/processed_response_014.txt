@@ -1,0 +1,70 @@
+{
+  "name": "Anya",
+  "gender": "Female",
+  "age": 27,
+  "location": "Spain",
+  "job": "Freelance Illustrator",
+  "backstory": "Anya is a freelance illustrator who moved to Barcelona from her small hometown in Galicia, pursuing art and escaping a restrictive family background.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "open window", "drink green tea"],
+      "description": "Anya wakes up with the early morning sun hitting through her window. The sound of distant roosters crows is accompanied by the soft rustle of wind through olive trees outside her tiny balcony in El Raval. She stretches, feeling a pleasant tension ease into her muscles, then opens a window for some fresh air before pouring a glass of iced green tea and heading to her worn wooden table for breakfast."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "review sketchbook", "plan illustrations"],
+      "description": "Anya sits down with a crusty baguette she bought from the boulangerie just across the street. She devours a small bowl of yogurt and a handful of dried figs while flipping through an old sketchbook, planning out a few new illustrations for upcoming freelance projects."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "activities": ["work on illustrations", "design for bookstore", "experiment with colors"],
+      "description": "Taking a deep breath after reading a few drafts, Anya opens her laptop with its faded, blue keyboard and begins working on several design options for a local bookstore's new children's library. She spends hours clicking the mouse, playing with textures, drawing whimsical characters, experimenting with colors."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["lunch in the park", "sketch floral motif", "browse Ramblas vendors"],
+      "description": "Lunch is a quick affair in the park at the Plaza de Catalunya - a tuna salad sandwich from a street vendor and a glass of chilled orange juice. The midday sun casts a warm glow upon her as she finishes sketching an intricate floral motif for a personal project, then goes for a leisurely walk down the bustling Ramblas to check out street vendors selling unique handmade gifts and jewelry."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["visit local market", "buy produce"],
+      "description": "A trip to the local market for fresh produce. Anya browses through the vibrant stalls of fruits and vegetables. She picks up juicy plums, ripe avocados, crisp lettuce, and a bouquet of lavender for her tiny balcony."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["work on book illustrations", "add personal flair"],
+      "description": "Back at her apartment studio, Anya works on the book illustrations with new bursts of energy after spending the afternoon wandering through the vibrant markets. She pours herself into each illustration, adding her own personal flair to each character she designs."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["early dinner", "enjoy seaside restaurant"],
+      "description": "After a long day of work and exploration, Anya enjoys an early dinner of fresh fish cooked in olive oil with lemon slices at a tiny seaside restaurant in Barceloneta. The gentle hum of the ocean waves provides a calming backdrop as she savors every bite."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "22:00",
+      "activities": ["read poetry", "drink chamomile tea", "watch sunset"],
+      "description": "Anya reads poetry from a worn paperback while enjoying a cup of chamomile tea and watching the golden sunset paint the sky with hues of pink and orange before drifting off to sleep."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out!"
+    }
+  ]
+}

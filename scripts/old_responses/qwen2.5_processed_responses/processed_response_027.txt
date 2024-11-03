@@ -1,0 +1,106 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who enjoys programming and traveling. He recently returned from a trip to Japan where he explored historical sites and experienced traditional Japanese culture.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "smart home alarm"],
+      "description": "Wakes up gently by his smart home alarm clock, feeling the soft morning light streaming through the curtains."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["stretch", "personal care"],
+      "description": "Stretches in bed for a few minutes before turning off the lights and going to the bathroom."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brushes teeth and washes face with cold water from his en-suite bathroom."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["brew tea", "read news"],
+      "description": "Brews a cup of strong black tea using an electric kettle. Sips it while reading today's newspaper on his e-reader, keeping up with local news and weather reports."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "activities": ["jog"],
+      "description": "Jogs for 30 minutes around the park near his apartment complex, breathing in the crisp morning air."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "09:45",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a shower to refresh before getting dressed for work. Chooses a smart casual outfit with a white shirt and navy trousers, accessorized with a black watch and leather shoes."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "activities": ["commute", "check emails"],
+      "description": "Commutes to the office by subway. Uses his phone to check emails and plan tasks for the day while sitting in a quiet carriage."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "14:45",
+      "activities": ["virtual meeting"],
+      "description": "Attends a virtual meeting via video call from the comfort of his home office, equipped with an ergonomic desk setup."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:15",
+      "activities": ["lunch", "relax"],
+      "description": "Takes a short break to prepare lunch and eats it on his balcony overlooking the city skyline. He often cooks traditional Chinese dishes but today he's having a quick noodle soup."
+    },
+    {
+      "startTime": "16:15",
+      "endTime": "19:30",
+      "activities": ["coding", "collaborate"],
+      "description": "Works on coding projects, using his laptop and collaborating with his team through various communication tools."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "activities": ["finish work", "email"],
+      "description": "Completes his workday. Sends off emails to colleagues and clients, ensuring all tasks are recorded for the following day."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "activities": ["commute", "family call", "dinner"],
+      "description": "Returns home from the office. Catches up with a family video call over dinner, enjoying a dish of stir-fried vegetables while chatting about their day."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "22:30",
+      "activities": ["read", "relax"],
+      "description": "Reads a few chapters from his current novel, using an e-reader to save paper and reduce eye strain."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "activities": ["wind down", "tea"],
+      "description": "Turns off the lights in his living room, leaving just the lamp on in his bedroom. Lays down on his comfortable bed with a cup of herbal tea for relaxation before falling asleep."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Falls asleep to the soft hum of his air conditioner and the gentle ticking of his bedside clock."
+    }
+  ]
+}

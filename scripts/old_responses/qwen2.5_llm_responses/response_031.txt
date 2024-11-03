@@ -1,0 +1,40 @@
+Name: Li Wei
+Gender: Male
+Age: 34
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer at a tech company in Shanghai. He has been with the company for over five years and enjoys balancing his work life with personal interests like photography.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of his alarm clock. Stretches and gets out of bed, feeling refreshed after a good night's sleep.
+
+Time: 07:00
+Activity: Brushes teeth and washes face in the bathroom before preparing for the day. Drinks a cup of hot green tea with honey from his kitchen.
+
+Time: 08:00
+Activity: Commutes by taking the subway to work. Reviews emails and updates on his phone during the train ride, keeping up with work tasks.
+
+Time: 09:30
+Activity: Arrives at the office for a morning meeting where team members discuss project progress and any potential issues that need addressing.
+
+Time: 10:30
+Activity: Starts coding on a new feature for their app. Takes short breaks to stretch and enjoy a bowl of yogurt with fruit from the company kitchen.
+
+Time: 14:00
+Activity: Meets with a colleague to review code and provide feedback, ensuring quality standards are met.
+
+Time: 16:30
+Activity: Attends a workshop on machine learning algorithms for improving their app's recommendation system. Notes important points in his notebook for future reference.
+
+Time: 18:00
+Activity: Ends work early to attend a photography club meet-up at a nearby park. Helps set up equipment and shares tips with fellow photographers.
+
+Time: 20:00
+Activity: Dines out at a local restaurant, trying a new place that was recommended by friends. Orders kung pao chicken and rice.
+
+Time: 23:00
+Activity: Returns home from dinner, feeling content after a productive day and some quality time with the photography community. Starts a photo album on his computer to organize his recent photos.
+
+Time: 01:00
+Activity: Heads to bed, reading a few chapters of a mystery novel before turning off the light and drifting into sleep.

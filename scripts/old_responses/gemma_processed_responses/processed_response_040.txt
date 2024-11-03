@@ -1,0 +1,121 @@
+{
+  "name": "Eleanor \"Ellie\" Lawson",
+  "gender": "Female",
+  "age": 32,
+  "location": "Iceland",
+  "job": "Freelance Photographer",
+  "backstory": "Ellie moved to Iceland from England 5 years ago, seeking solace in the country's rugged landscapes and serene solitude. She now works as a freelance photographer, capturing the raw beauty of Icelandic nature.",
+  "schedule": [
+    {
+      "startTime": "07:15",
+      "endTime": "08:30",
+      "activities": [
+        "wake up",
+        "morning routine",
+        "breath in crisp air"
+      ],
+      "description": "Ellie wakes up with the sunrise, the rhythmic crackling of the volcanic rock stove her only alarm. She breathes in the crisp air, the first cold breath on her face after a night spent under blankets woven from wool her grandmother gifted. Today is a photography day; she's heading to capture the waterfalls cascading down the cliffs at Seljalandsfoss for an upcoming project."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "activities": [
+        "stretch and warm-up",
+        "eat oatmeal with lingonberries and honey"
+      ],
+      "description": "A quick stretch and warm-up session followed by a filling bowl of oatmeal with lingonberries, fresh from her grandmother's garden, and topped with a generous drizzle of local wildflower honey."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": [
+        "catch bus to Skógar",
+        "travel with camera bag"
+      ],
+      "description": "Ellie heads to the bus stop just outside her cabin door to catch the early morning express bus to Skógar, a quaint village known for its proximity to the majestic Seljalandsfoss waterfall. She pulls out her camera bag – a worn canvas leatherwork that holds countless memories, and smiles at it fondly before leaving."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "activities": [
+        "observe fellow passengers",
+        "head towards waterfall"
+      ],
+      "description": "Arriving at the bus stop, Ellie spots fellow passengers - a group of Icelandic students with colorful backpacks, chattering excitedly about the upcoming hiking trip to Reynisfjara Black Sand Beach. Ellie catches their eyes and smiles; a spark of excitement sparks in her own eye as she sets her course towards the falls."
+    },
+    {
+      "startTime": "10:45",
+      "endTime": "12:30",
+      "activities": [
+        "hike to Seljalandsfoss",
+        "observe nature",
+        "stand mesmerized by waterfall"
+      ],
+      "description": "Ellie begins a leisurely walk towards Seljalandsfoss. The trail is steep, but breathtakingly beautiful. As she walks, she observes the intricate patterns of lichen and moss clinging to the bark of ancient trees. The icy spray from the cascading waterfall stings her cheeks as she stands mesmerized by the powerful beauty before her."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": [
+        "enjoy lunch",
+        "sketch landscape"
+      ],
+      "description": "Lunch break! Ellie sits on a rocky outcrop, enjoying a cheese sandwich, fresh juice from her own garden-fresh lemons, and watching birds flit between fallen leaves. She sketches a quick landscape sketch of Seljalandsfoss' cascade using a waterproof sketchbook and charcoal pencils."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "activities": [
+        "join local women knitting",
+        "learn new stitches"
+      ],
+      "description": "Back on the trail again, Ellie encounters a group of elderly Icelandic women practicing their knitting – a tradition passed down through generations. She joins them for a short while, soaking in the rhythm of their lives and learning a few new stitches."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "activities": [
+        "photograph Seljalandsfoss",
+        "capture the spirit of the land"
+      ],
+      "description": "As she reaches the final viewpoint of Seljalandsfoss waterfall, Ellie takes out her camera. With each click, she captures not just images of the falls but also the raw beauty of nature and the spirit of the land. The image feels complete, and she can't help but feel a sense of contentment as the sky starts to turn crimson hues in preparation for dusk."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": [
+        "return home",
+        "enjoy the sunset"
+      ],
+      "description": "Ellie returns home through the village's narrow cobblestone streets – the sunset painting the sky in a palette of soft orange, pink and purple. The air carries the scent of woodsmoke and freshly baked rye bread wafting from the nearby bakery, a welcome aroma after a long day out."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": [
+        "wash clothes",
+        "cook Icelandic stew",
+        "drink black tea"
+      ],
+      "description": "Ellie starts her evening routine. She washes her clothes, cooks a hearty pot of Icelandic stew with potatoes, carrots and lamb, and sips on steaming mug of local black tea."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": [
+        "read Icelandic mythology",
+        "wind down by the fire"
+      ],
+      "description": "Ellie settles in her cozy cabin, reading by the crackling fire. Tonight, she reads excerpts from a book about Icelandic mythology – a calming ritual to help her wind down before slumber. A sense of peace washes over her as she drifts off into sleep, surrounded by the sounds of nature's gentle lullaby."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "07:15",
+      "activities": [
+        "sleep peacefully",
+        "dream of Icelandic landscapes"
+      ],
+      "description": "The night settles in, and Ellie sleeps peacefully, dreaming of mountainscapes and icy waterfalls; a true reflection of the Iceland that calls to her soul."
+    }
+  ]
+}

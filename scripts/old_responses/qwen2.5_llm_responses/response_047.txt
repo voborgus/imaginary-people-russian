@@ -1,0 +1,43 @@
+Name: Li Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Wei is a software engineer who has been working remotely since the start of the pandemic. He lives in a small apartment near his office but spends most of his days at home due to work requirements. Despite the isolation, he enjoys staying active and keeps up with his hobbies such as cooking and reading.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up feeling refreshed after a good night's sleep, stretches in bed for a few minutes.
+
+Time: 07:00
+Activity: Takes a shower and gets dressed in casual wear suitable for working from home—typically a t-shirt and sweatpants.
+
+Time: 08:00
+Activity: Logs into his work computer via Zoom to have a stand-up meeting with the team, discussing plans for the day.
+
+Time: 09:00
+Activity: Begins coding session on a new project. Works diligently until taking short breaks every hour or so.
+
+Time: 12:00
+Activity: Takes lunch break by preparing a healthy meal from his extensive recipe collection and eats it while watching some cooking tutorials online for inspiration.
+
+Time: 13:00
+Activity: Resumes work on the project, alternating between coding and testing different solutions to the problems encountered.
+
+Time: 16:00
+Activity: Attends another team meeting via video call where they discuss progress made so far and any challenges faced.
+
+Time: 17:00
+Activity: Ends work for the day but spends some time reading a book or watching an episode of his favorite TV series to unwind.
+
+Time: 20:30
+Activity: Cooks dinner, usually something from a different cuisine each night, experimenting with new recipes and ingredients.
+
+Time: 21:30
+Activity: Eats dinner at the small table in his apartment, savoring every bite before washing up afterward.
+
+Time: 22:00
+Activity: Relaxes by reading or listening to some calming music until he feels ready for bed.
+
+Time: 23:30
+Activity: Lights out and prepares for sleep by setting the alarm on his phone for the next morning.

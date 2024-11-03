@@ -1,0 +1,76 @@
+{
+  "name": "Anna",
+  "gender": "Female",
+  "age": 27,
+  "location": "Netherlands",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Anna fled to the Netherlands after a tumultuous career change left her feeling lost and directionless. Now, she works as a freelance graphic designer, trying to find her creative footing in a new country.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["wake up", "morning routine", "breakfast", "coffee"],
+      "description": "Anna wakes up with a gentle yawn. The morning light streaming through the blinds makes the room glow a soft blue. She takes a moment to stretch, then walks to the kitchen to make coffee and a slice of toast with homemade marmalade."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:15",
+      "activities": ["organize portfolio", "prepare for client calls"],
+      "description": "After enjoying breakfast, Anna spends about 30 minutes organizing her design portfolio. It's time for an online marketing strategy session, and she needs to prepare some visuals before client calls this afternoon."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["check emails", "plan schedule", "client video calls"],
+      "description": "Time to answer emails and plan out her schedule for the day. She has several video conference calls scheduled for clients - one with a potential client from Portugal, another for a local marketing campaign in Amsterdam, and a final call regarding a wedding invitation design project for a family in the Netherlands."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "activities": ["take a walk", "clear mind"],
+      "description": "Anna takes a walk through the nearby park to clear her mind before work. She enjoys the fresh air, watching children play on the swings, and soaking up the vibrant morning sun on her way back home."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "activities": ["client meeting", "create visuals", "design presentation"],
+      "description": "A meeting with potential clients in Amsterdam. The project requires a strong visual presentation, so Anna spends time crafting mood boards based on the client's requests before diving into calls about their branding strategy. She starts working on visuals at noon and focuses on creating some impactful mockups for social media campaigns."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "activities": ["lunch", "cafe visit"],
+      "description": "Lunch break! Anna finds a cosy cafe with outdoor seating near the office to enjoy her lunch – a simple sandwich with homemade hummus, feta cheese and a side salad - followed by a refreshing iced coffee."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["client video calls", "design work", "marketing campaign"],
+      "description": "Time for a second round of video calls. First, she helps finalize a marketing campaign for a local florist in Rotterdam. Then, she works on another client's project - a children's book illustrating a story about Amsterdam's canals - drafting an outline and creating initial drafts."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:30",
+      "activities": ["return home", "reading", "relax"],
+      "description": "Anna returns home, grabs her coffee cup for the evening and starts with some light reading before heading to bed. The calm sounds of the wind blowing outside create a peaceful atmosphere as she settles into her cozy couch and flips through her favorite book – 'A Little Life' by Hanya Yanagihara."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["dinner", "watch TV"],
+      "description": "Dinner time! Anna whips up some simple pasta with vegetables from the market earlier that morning - fresh tomatoes, basil and parmesan cheese for a quick and easy meal. She watches an episode of her favorite series on Netflix before getting ready for bed."
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Lights out and dreams begin to fill her head with stories of graphic design possibilities."
+    }
+  ]
+}

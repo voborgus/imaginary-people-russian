@@ -1,0 +1,49 @@
+Name: Liang Xiaowei
+Gender: Male
+Age: 32
+Location: Beijing, China
+Backstory: Liang Xiaowei is a software engineer at a tech company in downtown Beijing. He moved to the city from his hometown several years ago to pursue better career opportunities and has since found himself deeply integrated into the urban lifestyle.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of his alarm, feeling slightly groggy but ready for another day.
+
+Time: 07:00
+Activity: Walks out of the apartment, grabbing a breakfast bar from the kitchen before heading downstairs where he collects his bike and helmet.
+
+Time: 07:15
+Activity: Bikes to the subway station, riding along quiet streets in Beijing's early morning.
+
+Time: 08:00
+Activity: Arrives at the company building and quickly grabs a coffee from a nearby café before heading into work. The office is just starting its day as he types up his daily report.
+
+Time: 12:30
+Activity: Leaves the office for lunch, opting to walk to the local market where vendors are setting up their stalls with fresh produce and snacks.
+
+Time: 13:00
+Activity: Buys a steaming bowl of beef noodles and joins a few colleagues in chatting about recent projects as they eat.
+
+Time: 14:00
+Activity: Heads back to the office to continue coding, working on new features for their software application. The day's meetings have not yet started, so he has some peace and quiet.
+
+Time: 16:30
+Activity: Attends a short meeting with his team to discuss progress and any issues they're facing with the project.
+
+Time: 18:00
+Activity: Ends work for the day, quickly packing up before heading out. Feels a bit of fatigue from sitting at a desk all day but looks forward to the evening's activities.
+
+Time: 19:30
+Activity: Meets some friends at a local bar for a casual get-together. Orders a cold beer and enjoys catching up on the events in their lives.
+
+Time: 21:45
+Activity: The group decides to move to a nearby restaurant for dinner, trying out new dishes recommended by one of his colleagues.
+
+Time: 23:00
+Activity: Finishes dinner with his friends, still chatting as they walk back towards the apartment. Feels energized and happy from a productive day and fun evening.
+
+Time: 23:45
+Activity: Arrives home, takes off his shoes to get comfortable in bed after a long but satisfying day.
+
+Time: 01:00
+Activity: Lays down with a book before lights out, planning ahead for the next day.

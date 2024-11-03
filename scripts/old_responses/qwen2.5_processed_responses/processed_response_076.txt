@@ -1,0 +1,82 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who works in a tech company. He moved to Shanghai five years ago to pursue better career opportunities and has since adapted well to the bustling city life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:10",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up gently with the alarm, stretches and checks his phone for messages or work emails before getting out of bed"
+    },
+    {
+      "startTime": "07:10",
+      "endTime": "07:45",
+      "activities": ["shower", "smart mirror"],
+      "description": "Takes a leisurely shower using an app-controlled smart mirror to monitor temperature and humidity settings, making sure it feels just right"
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:15",
+      "activities": ["breakfast", "news"],
+      "description": "Makes breakfast, usually a bowl of hot oatmeal with fresh berries, while listening to the morning news on his tablet"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:10",
+      "activities": ["commute", "check email"],
+      "description": "Commutes by subway, checking emails during the ride. Shanghai's bustling metro system is always a mix of chaos and efficiency"
+    },
+    {
+      "startTime": "09:10",
+      "endTime": "12:30",
+      "activities": ["work", "team discussion"],
+      "description": "Arrives at work. His team is already starting their day, discussing project progress in a collaborative workspace with large windows that let in plenty of natural light"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "walk"],
+      "description": "Takes lunch break, grabbing an office grab-and-go meal and heading to the rooftop garden for a quick walk before settling down to eat his sandwich while looking out at the city skyline"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["meeting", "work"],
+      "description": "Attends a meeting with colleagues, discussing software development strategies. The environment is modern with large screens displaying real-time data"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "20:00",
+      "activities": ["commute", "read", "audiobook"],
+      "description": "Finishes work for the day and heads back home. Commutes again by subway but chooses to read or listen to an audiobook on his way out of town"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:45",
+      "activities": ["socializing", "beer", "music"],
+      "description": "Arrives at a popular rooftop bar in Puxi, ordering a beer and enjoying live music while socializing with friends from work"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "23:00",
+      "activities": ["dinner", "coding"],
+      "description": "Returns home. Orders food for dinner via an app, choosing to cook a light meal of stir-fried vegetables and tofu. Sets up his workspace for some personal coding projects"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:59",
+      "activities": ["documentary", "sleep"],
+      "description": "Watches a documentary on history before finally going to bed, reflecting on the day's events while keeping one ear open to notifications from family back home in the countryside"
+    }
+  ]
+}

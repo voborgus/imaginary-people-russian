@@ -1,0 +1,70 @@
+{
+  "name": "Emma",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan",
+  "job": "Freelance Writer and Artist",
+  "backstory": "Emma is a freelance writer and artist who moved to Tokyo from Australia five years ago. She lives in a small studio apartment in the Shibuya ward and works on a variety of creative projects.",
+  "schedule": [
+    {
+      "startTime": "06:00",
+      "endTime": "06:20",
+      "activities": ["wake up", "stretch", "yawn", "shake off fatigue"],
+      "description": "Wake up and stretch after a restless night's sleep, yawn and try to shake off the lingering fatigue from yesterday's late-night writing session"
+    },
+    {
+      "startTime": "06:20",
+      "endTime": "07:10",
+      "activities": ["make tea", "make scrambled eggs", "read news"],
+      "description": "Roll out of bed and head to the tiny kitchen in her studio apartment to make some green tea and scrambled eggs for breakfast, while catching up on the latest Tokyo news headlines on her phone"
+    },
+    {
+      "startTime": "07:10",
+      "endTime": "08:00",
+      "activities": ["walk around block", "walk cat"],
+      "description": "Take a short walk around the block with her cat, Mochi, to get some fresh air and enjoy the early morning sunlight filtering through the tall skyscrapers of Shibuya"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:20",
+      "activities": ["work on writing project", "be surrounded by creatives"],
+      "description": "Arrive at a local café in Daikanyama to work on her current writing project for several hours, surrounded by other creatives and Tokyo's constant hum of activity outside"
+    },
+    {
+      "startTime": "12:20",
+      "endTime": "14:30",
+      "activities": ["have tonkatsu", "browse social media", "read updates"],
+      "description": "Take a lunch break and grab some tonkatsu at a small diner near the café, while browsing through social media and reading updates from friends back in Australia"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:50",
+      "activities": ["explore art gallery", "discuss art trends", "with friend"],
+      "description": "Spend the late afternoon exploring a new art gallery that just opened up in the trendy Omotesando district with her friend, Hiroko, discussing their favorite artists and contemporary art trends"
+    },
+    {
+      "startTime": "17:50",
+      "endTime": "20:00",
+      "activities": ["work on creative projects", "sketch ideas", "write short story"],
+      "description": "Return to her apartment for some downtime and catch up on her own creative projects, including sketching out ideas for an upcoming exhibition and working on a new short story"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:45",
+      "activities": ["stargaze", "drink sake", "reflect"],
+      "description": "Take a break from work and head to the rooftop garden of her apartment building with Mochi for some evening stargazing, while enjoying a glass of sake and reflecting on another busy day in Tokyo"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:00",
+      "activities": ["wind down", "get ready for bed"],
+      "description": "Gradually wind down and prepare for bed by changing into comfortable clothes and getting ready for a good night's sleep"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Go to sleep with thoughts still buzzing from the exciting events of the day, looking forward to tomorrow's new adventures in Tokyo"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+Name: Li Xiaoyang
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Li Xiaoyang is a software engineer who enjoys coding and traveling. He moved to Shanghai after graduating from university in search of better career opportunities and has since fallen in love with the city's vibrant tech scene.
+
+Day:
+
+Time: 06:00
+Activity: Wakes up at his apartment, stretches, and gets ready for the day with a quick shower.
+
+Time: 07:30
+Activity: Jogs around the park near his apartment to start his morning routine.
+
+Time: 08:15
+Activity: Takes a train to work; listens to music on his headphones while observing the early-morning commuters around him.
+
+Time: 09:00
+Activity: Arrives at the office and begins reviewing project documents sent by colleagues from overseas via email.
+
+Time: 10:30
+Activity: Meets with team members in the conference room for a daily stand-up meeting, discussing progress and potential roadblocks.
+
+Time: 12:00
+Activity: Has lunch at a nearby café; orders a bowl of rice noodles with tofu and veggies, enjoying his meal while catching up on work emails during downtime.
+
+Time: 13:30
+Activity: Codes away in his office cubicle until feeling the need for fresh air, taking a brief walk to the roof terrace with his team's pet dog, a small Pomeranian named Xiaohei (Blackie).
+
+Time: 15:00
+Activity: Attends an online training session on new programming techniques and technologies.
+
+Time: 17:30
+Activity: Leaves work and heads back home; stops by the local grocery store to pick up some ingredients for dinner, including fresh vegetables and meat.
+
+Time: 20:00
+Activity: Cooks dinner at home while listening to a podcast about technology trends in China.
+
+Time: 21:30
+Activity: Watches a documentary on Chinese history with Xiaohei by his side as the dog falls asleep curled up next to him.
+
+Time: 23:00
+Activity: Reads a book about coding practices and algorithms for an hour before turning off the light, getting ready for bed.

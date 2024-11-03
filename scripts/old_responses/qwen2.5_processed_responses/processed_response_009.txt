@@ -1,0 +1,94 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer working in a tech company in Shanghai. He enjoys playing video games and traveling during his free time to explore the cultural diversity of different regions.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "morning routine"],
+      "description": "Wakes up feeling refreshed after an early night's sleep due to a consistent routine"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["shower", "get ready"],
+      "description": "Heads to the bathroom for a quick shower, enjoying the morning light filtering through his window"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["breakfast", "read tech news"],
+      "description": "Eats breakfast consisting of steamed buns and soy milk while reading the latest tech news on his phone"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["jog", "exercise"],
+      "description": "Jogs in the park near his apartment to clear his mind and stay fit, passing by various street vendors selling traditional snacks"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["work", "check emails", "update project plan"],
+      "description": "Arrives at his office; he checks emails and updates his project plan for the day. The air conditioning is a bit too cold today, but he's used to it"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "try new restaurant"],
+      "description": "Goes out for lunch with a colleague who suggests trying a new local restaurant that serves delicious beef noodles (Xiǎochī)"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["work", "coding", "debugging"],
+      "description": "Returns to his desk to work on coding and debugging a module, feeling the hum of activity from colleagues around him"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["tea break", "discuss project"],
+      "description": "Takes a break for tea with his team; they discuss project challenges and brainstorm solutions while enjoying homemade rice cakes (Niáowǎng)"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["commute", "walk home"],
+      "description": "Leaves the office to head home, walking through crowded streets filled with shops selling everything from electronics to souvenirs"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "activities": ["cook dinner", "relax"],
+      "description": "Arrives at his apartment and gets ready for dinner, which he cooks himself using some fresh ingredients bought earlier in the day (mostly vegetables and tofu)"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["play games", "socialize online"],
+      "description": "Plays a game on his console after cooking, catching up with friends online"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:00",
+      "activities": ["clean up", "prepare for bed"],
+      "description": "Cleans up the living room and prepares for bed, feeling content after a fulfilling day"
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["read", "unwind"],
+      "description": "Reads some books about technology to unwind before sleep, often finding himself drawn to sci-fi novels that predict future technologies"
+    }
+  ]
+}

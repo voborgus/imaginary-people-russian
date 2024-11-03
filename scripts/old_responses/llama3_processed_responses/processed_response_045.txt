@@ -1,0 +1,88 @@
+{
+  "name": "Ayla Jensen",
+  "gender": "Female",
+  "age": 27,
+  "location": "Sweden",
+  "job": "Wildlife Biologist",
+  "backstory": "Ayla grew up in a small town near Stockholm, where she developed a passion for environmental conservation and outdoor activities. She now works as a wildlife biologist in the capital city.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["woke up", "get dressed"],
+      "description": "Woke up to the sound of rain pattering on the windowpane outside her apartment in Stockholm's Östermalm district. Got dressed in her favorite raincoat and boots, ready for a hike at Fjärilsparken, one of Stockholm's many parks."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["breakfast"],
+      "description": "Had a quick breakfast of yogurt with granola and banana slices before heading out the door."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["commute", "hiking"],
+      "description": "Arrived at Fjärilparken and started her hike through the misty forest. The rain had made the trails muddy, but she was happy to have them almost all to herself."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["hiking", "break", "phone calls"],
+      "description": "Took a short break under a large oak tree to check her phone for messages from colleagues and make some calls about an upcoming project."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "activities": ["hiking", "birdwatching"],
+      "description": "Continued hiking and arrived at the edge of a small lake, where she spent some time observing local birds and taking notes on their behavior."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["lunch", "relaxation"],
+      "description": "Found a cozy spot to eat her lunch – leftover veggie stir-fry from last night's dinner – and enjoy the peaceful atmosphere of the forest."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["commute", "paperwork"],
+      "description": "Headed back to Stockholm, where she planned to spend some time catching up on paperwork for an upcoming conference."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["meeting", "project discussion"],
+      "description": "Met with a colleague at a coffee shop near her office to discuss the project and share updates on their progress."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["commute", "relaxation"],
+      "description": "Went home and spent some time relaxing in front of the TV, watching a nature documentary about polar bears."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["dinner", "social media"],
+      "description": "Had dinner – pasta with marinara sauce and roasted vegetables – while scrolling through social media to keep up with friends' posts."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["reading", "wind down"],
+      "description": "Gradually started winding down for bed by reading a chapter from her favorite book, \"The Silent Naturalist\", before drifting off to sleep."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

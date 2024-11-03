@@ -1,0 +1,88 @@
+{
+  "name": "Liang Xiaofeng",
+  "gender": "Male",
+  "age": 34,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Liang Xiaofeng is a software engineer living in Beijing. He has been with the same tech company for over five years and enjoys spending his free time playing chess and traveling to nearby cities.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "drink water"],
+      "description": "Awakens after setting an alarm, stretches, and drinks water"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "use restroom"],
+      "description": "Brushes teeth and uses the restroom"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["jog"],
+      "description": "Jogs in a local park to start the day"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:30",
+      "activities": ["commute", "wear suit", "carry laptop"],
+      "description": "Commutes by subway to his office. Wears a dark green suit with a blue shirt, black shoes, and carries a laptop bag containing his work essentials"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["stand-up meeting", "team meeting"],
+      "description": "Arrives at the company and starts his daily stand-up meeting with his team"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["client meeting", "project update"],
+      "description": "Meets a client for an urgent project update over video call from the conference room. Discusses progress on their ongoing software development project"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "email check"],
+      "description": "Takes lunch break and orders takeout from a nearby restaurant, choosing traditional Beijing cuisine. Eats in his office while checking emails"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["coding", "bug fixes", "use code repository"],
+      "description": "Resumes work with coding and bug fixes. Uses the company's code repository for development tasks"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["leave office", "walk home", "appreciate nature"],
+      "description": "Leaves the office early as there are no more meetings or pressing deadlines. Walks home through a scenic part of Beijing, appreciating the city's greenery on his way back"
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["cook dinner", "prepare family recipes"],
+      "description": "Prepares dinner, which includes stir-fried vegetables and fish, using his favorite recipes passed down from family members"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "activities": ["host chess night", "play chess with friends"],
+      "description": "Sits in front of a board game set up for a night with friends. Tonight, he's hosting a small gathering at home where they will play chess"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["play online chess"],
+      "description": "Ends the evening by playing online chess against international players on his computer. Reflects on the day and feels content before going to bed"
+    }
+  ]
+}

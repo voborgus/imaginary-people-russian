@@ -1,0 +1,112 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who works in a multinational tech company. He was born and raised in Shanghai but has always been fascinated by technology and computers. Despite his busy schedule, he enjoys spending time with his family on weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "06:45",
+      "activities": ["wake up", "stretch"],
+      "description": "Awakes to the sound of his alarm clock. Rubs his eyes as he stretches in bed, feeling a bit groggy after a late-night work session that extended into early morning."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "activities": ["make coffee", "check weather"],
+      "description": "Walks down to the kitchen and prepares coffee using an automatic espresso machine while checking the weather forecast on his phone for today's outing with his kids at the park. The weather looks perfect for a day out in the sun."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:05",
+      "activities": ["drink coffee", "draft email"],
+      "description": "Tries various cups of coffee until he finds one that hits the spot. Sits down and starts drafting an email to his manager about the project due next week, which has been keeping him awake at night despite his best efforts to work through it during regular office hours."
+    },
+    {
+      "startTime": "08:05",
+      "endTime": "09:30",
+      "activities": ["commute to office", "avoid spilling coffee"],
+      "description": "Navigates a crowded subway system with his laptop bag. He avoids eye contact as he tries not to spill coffee on his shirt while riding the train in rush hour, which always seems a bit too packed for comfort."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "activities": ["check emails", "start coding tasks", "prepare for meeting"],
+      "description": "Arrives at the office and checks emails before starting on some coding tasks assigned by his team leader. The morning meeting is scheduled shortly after, so he quickly reviews the agenda items and updates to share."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["attend project meeting", "discuss updates", "suggest ideas"],
+      "description": "Attends a project planning meeting with his colleagues, where they discuss the latest updates and address any issues that need immediate attention. Li Wei takes notes and occasionally chimes in with suggestions or concerns."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["have lunch"],
+      "description": "Heads to the canteen for lunch, choosing between various buffet options but sticking to a lighter meal this time since he had a late dinner last night."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:30",
+      "activities": ["work on project", "document designs"],
+      "description": "Works on his project documentation and designs, feeling proud of making significant progress despite facing some tough bugs earlier in the day. The tech challenges keep him motivated as he learns more every day."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "17:15",
+      "activities": ["take a walk", "get fresh air"],
+      "description": "Takes a quick walk outside for fresh air during his designated break time. He notices how busy the streets are with people hurrying to and from work, making use of their free moments in between."
+    },
+    {
+      "startTime": "17:15",
+      "endTime": "18:45",
+      "activities": ["leave office", "buy groceries"],
+      "description": "Leaves the office as part of the evening rush, stopping at a nearby store on the way home to pick up some groceries for dinner tonight. He picks up a few items but leaves others behind because he's running short on time and doesn't want to carry too much."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "19:15",
+      "activities": ["arrive home", "change clothes"],
+      "description": "Arrives home and changes into more comfortable clothes, ready for his children's arrival at any moment now."
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:30",
+      "activities": ["prepare dinner", "set up games"],
+      "description": "Prepares dinner while the kids are still in school; he spends this time setting up a few fun educational games that can keep them occupied as they finish their homework."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["video call with wife", "catch up on the day"],
+      "description": "Dials his wife on video call to catch up on her day. They exchange stories and laughter, feeling grateful for having each other during such busy times in their lives."
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:00",
+      "activities": ["help kids with bedtime routine", "listen to updates"],
+      "description": "Helps the kids with their nightly routine – bath time followed by reading a story before bedtime. He listens to their updates about school and friends while they curl up in bed, ready for sleep."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "22:30",
+      "activities": ["read tech book", "unwind"],
+      "description": "Reads a book on computer science or tech trends until his eyes start feeling heavy. Once done, he closes the laptop and heads to his room, feeling content and tired after such an eventful day."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "24:00",
+      "activities": ["sleep"],
+      "description": "Lights out as he settles into bed, looking forward to tomorrow but also a bit exhausted from all that happened today in both his professional and personal life."
+    }
+  ]
+}

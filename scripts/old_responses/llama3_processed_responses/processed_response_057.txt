@@ -1,0 +1,88 @@
+{
+  "name": "Emilia Garcia",
+  "gender": "Female",
+  "age": 28,
+  "location": "Mexico",
+  "job": "Accountant",
+  "backstory": "Emilia grew up in a traditional Mexican family where her abuela taught her the art of making tortillas from scratch. She works as an accountant at a local firm.",
+  "schedule": [
+    {
+      "startTime": "05:45",
+      "endTime": "06:00",
+      "activities": ["wake up", "get out of bed"],
+      "description": "Woke up to the sound of roosters outside her window and got out of bed"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["prepare breakfast", "make tortillas", "drink coffee", "eat fruit"],
+      "description": "Prepared a traditional Mexican breakfast, including tortillas made by herself, along with coffee and fruit"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["walk around town", "greet vendors"],
+      "description": "Took a 10-minute walk around the town to get some fresh air and say hello to the local vendors"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["arrive at office", "begin work"],
+      "description": "Arrived at her office, which is located in a historic building in the town center"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "12:30",
+      "activities": ["prepare tax returns", "review project proposal"],
+      "description": "Started work on preparing tax returns for several clients, including a few small businesses"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:15",
+      "activities": ["lunch break", "eat lunch"],
+      "description": "Took a lunch break and walked to the nearby park to eat her own prepared lunch (today's menu featured chicken mole)"
+    },
+    {
+      "startTime": "13:15",
+      "endTime": "16:00",
+      "activities": ["continue work on tax returns", "review project proposal"],
+      "description": "Continued working on tax returns and also started reviewing a new project proposal from a potential client"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["leave office", "visit bakery"],
+      "description": "Finished work for the day and closed up her office, feeling satisfied with what she had accomplished"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["buy dinner", "watch TV", "catch up on gossip"],
+      "description": "Stopped by her favorite bakery to pick up some pan de elote (grilled corn bread) and coffee for dinner, then watched a soap opera on TV while enjoying her dinner and catching up on the latest gossip from town"
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["spend time with grandmother", "cook new recipe"],
+      "description": "Spent some quality time with her grandmother, learning how to make a new recipe of empanadas and sharing stories about their day"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["take bath", "gentle stretches"],
+      "description": "Began winding down for the night by taking a warm bath and practicing some gentle stretches"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:15",
+      "activities": ["go to bed"],
+      "description": "Went to bed feeling relaxed and content after a productive and fulfilling day"
+    },
+    {
+      "startTime": "23:15",
+      "endTime": "05:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

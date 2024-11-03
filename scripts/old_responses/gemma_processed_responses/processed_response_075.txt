@@ -1,0 +1,70 @@
+{
+  "name": "Liam",
+  "gender": "Male",
+  "age": 28,
+  "location": "United Kingdom",
+  "job": "Freelance Photographer",
+  "backstory": "After losing his corporate job during the pandemic, Liam channeled his creative energy into photography. Now he freelances, traveling to different locations and capturing stunning images of nature and urban landscapes.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["wake up", "stretch", "have coffee", "eat breakfast"],
+      "description": "Liam wakes up to the sound of chirping birds outside his window, sunlight gently filtering through the curtains. He gets out of bed and stretches, feeling the chill morning air on his face. A quick stretch in the kitchen leads him to a mug of black coffee and a breakfast pastry from his favorite bakery down the street."
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["prepare camera gear", "photograph architectural details"],
+      "description": "Liam sets up his camera gear in his compact studio at the apartment, getting ready for his morning shoot. He focuses on capturing details of his building's architecture under the light-streaked sky. He studies the shadows and reflections playing across the window before he starts composing a shot."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["explore park", "photograph nature"],
+      "description": "After a final check of his setup, Liam takes off to explore a new park nearby, walking through winding paths and enjoying the early morning calmness. His camera captures a series of breathtaking shots - golden light bouncing off leaves in a peaceful clearing."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["photograph coffee shop", "have lunch"],
+      "description": "After exploring the park for an hour, Liam visits a local coffee shop to capture some images of patrons enjoying their drinks. He tries out different angles and lighting, emphasizing the warmth and energy of the place with his lens. He then takes a break at a small cafe nearby to enjoy a packed salad and an apple for lunch."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "activities": ["plan next shoot"],
+      "description": "Liam finds a quiet corner to relax, taking time to plan his next shoot in the vibrant city."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "activities": ["photograph street art", "photograph community event"],
+      "description": "Liam heads back into town for another photography session, exploring a hidden alleyway known for its street art. He snaps photographs of quirky murals with vibrant colors and unique textures, capturing the spirit of artistic expression through his lens. A short walk around the city brings Liam to a local park hosting a community event - a jazz band playing in the open air. He takes pictures of the lively crowd, their smiles and expressions captured in motion."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["plan next project"],
+      "description": "Liam heads home, planning his next photography project for inspiration."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["video chat with friends", "cook dinner", "read book"],
+      "description": "Liam catches up with friends for an evening video chat. Later he cooks a simple pasta dish from scratch while catching up on the latest news. As he sits down to relax and read a book before sleep, Liam reflects on his day - the sun setting over London creates a calm atmosphere as he turns off his camera lights and settles in for the night."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["sleep"],
+      "description": "Bedtime"
+    }
+  ]
+}

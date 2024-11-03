@@ -1,0 +1,94 @@
+{
+  "name": "Zhang Ling",
+  "gender": "Female",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Marketing Specialist",
+  "backstory": "Zhang Ling is a marketing specialist working in one of the largest advertising firms in Beijing. She moved to the city six years ago from her hometown to pursue better career opportunities and has since thrived professionally.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up, stretches in bed, checks phone for any work-related messages or emails"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["drink water", "prepare breakfast"],
+      "description": "Drinks a glass of water, prepares breakfast (often a bowl of porridge with soy milk)"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:15",
+      "activities": ["morning exercise", "walk to work"],
+      "description": "Takes a walk to the nearby park for some morning exercise and breathing in fresh air before heading to work"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["arrive at office", "review briefs", "check updates"],
+      "description": "Arrives at the office, logs into her computer, reviews any new client briefs or updates from the team"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["marketing team meeting"],
+      "description": "Attends a meeting with the marketing team to discuss ongoing projects and strategies"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch with colleagues"],
+      "description": "Has lunch in the office cafeteria with colleagues; often discusses industry trends and upcoming campaigns over lunch"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["review analytics"],
+      "description": "Reviews analytics reports from recent social media ads, ensuring content is effective based on engagement metrics"
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:30",
+      "activities": ["client meeting"],
+      "description": "Meets with a client to present campaign results and discuss future possibilities for partnership"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["networking event"],
+      "description": "Attends a networking event in the office building after work; engages in conversation with clients and potential partners"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "personal projects", "industry reading"],
+      "description": "Returns home, enjoys a quick dinner prepared earlier in the day (usually a simple dish to save time), works on personal projects or reads industry-related articles for self-improvement"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["complete tasks", "send emails"],
+      "description": "Completes final tasks of the day and sends off any urgent emails"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:30",
+      "activities": ["bedtime routine", "meditation"],
+      "description": "Preps for bed, meditates for a few minutes to unwind"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Goes to sleep after brushing teeth and changing into comfortable nightwear"
+    }
+  ]
+}

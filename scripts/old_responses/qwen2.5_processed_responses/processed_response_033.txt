@@ -1,0 +1,88 @@
+{
+  "name": "Lin Wei",
+  "gender": "Male",
+  "age": 35,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Lin Wei is a software engineer who moved to Shanghai after graduation. He enjoys both his job and the vibrant city life, but still misses the quiet countryside where he grew up.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "01:30",
+      "activities": ["reading", "quiet time"],
+      "description": "Reads for an hour or so before falling asleep"
+    },
+    {
+      "startTime": "01:30",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "stretch", "make tea"],
+      "description": "Awakens gently by an alarm clock, stretches in bed for a few minutes before getting out of bed, makes a cup of black tea with milk"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["check news", "drink tea"],
+      "description": "Sips tea while checking the news on his phone"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["exercise", "walk"],
+      "description": "Begins his morning exercise routine; today includes some push-ups and squats followed by a brisk walk around the park near his apartment"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["commute", "rush"],
+      "description": "Rushes to catch the subway, carrying his laptop case as he sprints down the stairs in a hurry"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["work", "emails", "meetings"],
+      "description": "Arrives at work, greets colleagues and starts checking emails and preparing for today's meetings"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["break", "discussion"],
+      "description": "Takes a short break with coworkers to discuss their ongoing project"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:30",
+      "activities": ["coding", "testing"],
+      "description": "Heads back to his desk; spends the next few hours coding and testing software"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["meeting", "discussion"],
+      "description": "Attends a team meeting, discussing progress on the current project and future plans"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "activities": ["dinner", "chat"],
+      "description": "Goes out for dinner with colleagues at a nearby restaurant that serves Sichuan cuisine; enjoys spicy food while chatting about work"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "activities": ["TV", "grocery shopping"],
+      "description": "Returns home after dinner, watches some TV before preparing to go grocery shopping later"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["grocery shopping", "cooking", "remote work"],
+      "description": "Goes grocery shopping in the local market, buying fresh vegetables and fruits for the week, then prepares a simple meal at home, eats with a book on his laptop while working remotely from his living room until around midnight"
+    }
+  ]
+}

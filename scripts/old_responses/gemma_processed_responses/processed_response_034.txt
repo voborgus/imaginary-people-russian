@@ -1,0 +1,82 @@
+{
+  "name": "Sophia Kim",
+  "gender": "Female",
+  "age": 25,
+  "location": "South Korea",
+  "job": "Graphic Designer",
+  "backstory": "Sophia grew up in a bustling Seoul neighborhood, learning to navigate the city's chaotic rhythm while chasing her dreams of becoming a renowned graphic designer.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "activities": ["morning routine", "stretch", "green tea"],
+      "description": "Sophia awakens to the chirping of her alarm clock and the soft glow of dawn filtering through the curtains. She stretches, pulls on comfortable yoga pants and a loose-fitting tee shirt, and sips lukewarm green tea while reviewing her daily schedule on her phone."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "activities": ["breakfast", "rice porridge", "kimchi jjigae", "seaweed salad"],
+      "description": "Sophia prepares her traditional Korean breakfast with rice porridge, kimchi jjigae (spicy pork stew), and seaweed salad. It's a simple but satisfying routine that fuels her morning preparations."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["exercise", "run", "park"],
+      "description": "After enjoying her breakfast, Sophia heads to the local park for her daily run. She enjoys the fresh air and serene landscape of the Han River, focusing on the rhythm of her steps and the gentle breeze against her skin. The sound of city life gradually fades as she enters a state of mental clarity."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "13:00",
+      "activities": ["work", "creative project", "brainstorm", "co-working space"],
+      "description": "Sophia arrives at her workspace, a shared co-working space filled with vibrant energy. She spends time working on a creative project for a local bakery, brainstorming ideas for their upcoming anniversary campaign. The afternoon is filled with coffee, inspiring music, and the hum of productive conversations as she works alongside other creatives."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["break", "cafe", "tea", "pear mochi cake", "call grandmother"],
+      "description": "Sophia escapes to a nearby cafe, relishing the cozy atmosphere and aroma of freshly brewed tea. She calls her grandmother in Seoul who shares stories about her childhood while Sophia enjoys a sweet pear mochi cake."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "activities": ["work", "design", "logo design", "sketching"],
+      "description": "Back at work, Sophia takes a break from her digital world to write down her design ideas for a new logo for a tech start-up. The afternoon is spent lost in a creative flow as she draws and sketches on paper, capturing the essence of innovation and hope that emanate from the designs."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["commute", "unwind", "workout", "reading", "dinner"],
+      "description": "Sophia heads back home after work. She unwinds with a relaxing evening routine involving a light workout, reading books on design and architecture before preparing a simple yet satisfying dinner of stir-fried vegetables and brown rice."
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "activities": ["social", "board games", "friends", "conversation"],
+      "description": "Sophia joins her friends for an impromptu board game night at their home, filled with laughter, friendly competition, and shared dreams for the future. The evening ends with a cozy conversation about life, dreams, and aspirations as they unwind and celebrate each other's company."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["relax", "reading", "tea"],
+      "description": "Sophia unwinds before sleep by reading a few chapters from a fantasy novel while sipping chamomile tea. She enjoys the calming scent and soothing light of the room's dim lamp, allowing her mind to wander into a world filled with magic and adventure."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["sleep preparation", "meditation", "audio guide"],
+      "description": "Ready for bed, Sophia puts on an audio guide designed specifically for sleep. A combination of relaxing sounds and meditative music guides her through gentle moments before drifting off to sleep."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Sleep."
+    }
+  ]
+}

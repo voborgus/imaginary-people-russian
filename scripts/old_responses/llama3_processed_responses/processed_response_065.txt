@@ -1,0 +1,94 @@
+{
+  "name": "Emily Wilson",
+  "gender": "Female",
+  "age": 29,
+  "location": "Australia (Sydney, New South Wales)",
+  "job": "Graphic Designer",
+  "backstory": "Emily grew up in a small town in rural NSW, moved to Sydney for university and has been working as a graphic designer ever since. She loves the city but often feels overwhelmed by its fast pace.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "hit snooze"],
+      "description": "Wake up to alarm, hit snooze"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["check phone", "get out of bed"],
+      "description": "Check phone for notifications, get out of bed"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["get ready", "morning run"],
+      "description": "Get ready and head out for morning run with friend"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["run", "enjoy views"],
+      "description": "5km run along the coast, enjoy the views"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Shower and get dressed for work"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "09:30",
+      "activities": ["coffee", "catch up with colleagues"],
+      "description": "Grab coffee, catch up with colleagues"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["design logo", "tweak color palettes"],
+      "description": "Design a new logo for a startup, work on branding"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "chat with colleagues"],
+      "description": "Take a lunch break, chat with colleagues"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["continue design work"],
+      "description": "Resume design work, focus on branding"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["meet friend", "have drinks"],
+      "description": "Meet friend for drinks and catch up"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["more drinks", "chat"],
+      "description": "Finish drinks and chat with friend"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["return home", "wind down"],
+      "description": "Return home, wind down by listening to music"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Bedtime and sleeping"
+    }
+  ]
+}

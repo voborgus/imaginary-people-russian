@@ -1,0 +1,88 @@
+{
+  "name": "Emiko Nakamura",
+  "gender": "Female",
+  "age": 28,
+  "location": "Japan",
+  "job": "Music Therapist",
+  "backstory": "Emiko grew up in a small town on the outskirts of Tokyo, where she spent most of her childhood playing traditional Japanese instruments and exploring the local forests. She moved to Tokyo for university, where she studied music therapy and eventually landed a job at a children's hospital.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "07:15",
+      "activities": ["morning routine", "drink green tea", "listen to city sounds"],
+      "description": "Wake up early to enjoy a quiet moment in her tiny Tokyo apartment, sipping green tea and listening to the sounds of the city waking up outside her window"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["shower", "wash face", "style hair"],
+      "description": "Start getting ready for work by taking a quick shower, washing her face with cold water (a habit she picked up from her childhood), and styling her hair into a neat ponytail"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["commute to work", "read news headlines", "plan the day"],
+      "description": "Take the train to the hospital where she works as a music therapist. The crowded train is a great opportunity for her to catch up on the latest news headlines and plan out her day ahead"
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "10:00",
+      "activities": ["prepare office", "review schedule", "mentally prepare"],
+      "description": "Arrive at the hospital and get settled in her office, which is filled with colorful instruments, stuffed animals, and inspiring quotes. She spends a few minutes reviewing her schedule for the day and mentally preparing herself to meet with new patients"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:15",
+      "activities": ["music therapy session", "help patient"],
+      "description": "Meet with a young boy named Shinji who has been experiencing anxiety attacks. Emiko uses music therapy techniques to help Shinji relax and communicate his feelings in a more effective way"
+    },
+    {
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "activities": ["lunch", "eat with colleagues/patients"],
+      "description": "Take a short break for lunch, which usually consists of a bento (a Japanese-style lunchbox) from the hospital cafeteria or a nearby restaurant. She often eats with colleagues or shares her mealtime with patients who have difficulty eating alone"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "activities": ["music therapy session", "lead group activity"],
+      "description": "Spend time with a group of teenagers who are recovering from mental health struggles. Emiko leads them in a music-making session, where they express their emotions through creative melodies and improvisations"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "activities": ["supervisor meeting", "discuss program improvements"],
+      "description": "Meet with her supervisor to discuss patient outcomes and potential improvements for the hospital's therapy programs"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["walk around the city", "visit nearby park"],
+      "description": "Finish her shift and take a short walk around the city to clear her head. She often walks through the nearby park, which reminds her of her childhood adventures"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:45",
+      "activities": ["dinner with friends", "eat sushi and yakitori"],
+      "description": "Meet up with friends at a local café for dinner. Tonight's menu includes sushi and yakitori (Japanese skewers), followed by laughter and conversations about life"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:45",
+      "activities": ["practice traditional instruments", "drink herbal tea"],
+      "description": "Return home and spend some time practicing her traditional Japanese instruments, such as the shamisen or koto. She then takes a relaxing bath, sipping on a cup of herbal tea while soaking in warm water, reflecting on the events of the day and planning for tomorrow's adventures"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleep peacefully, dreaming of melodies, memories, and the next chapter in her life as Emiko Nakamura"
+    }
+  ]
+}

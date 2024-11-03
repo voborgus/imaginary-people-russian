@@ -1,0 +1,58 @@
+Name: Li Mei
+Gender: Female
+Age: 35
+Location: China
+Backstory: Li Mei is a software engineer who works remotely and lives in Beijing. She enjoys hiking on weekends to relieve stress from her job.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up, stretches in bed for a few minutes before getting out of bed.
+
+Time: 06:45
+Activity: Brushes teeth and washes face with cold water to wake up fully.
+
+Time: 07:00
+Activity: Makes herself a cup of green tea using the kettle she set to boil earlier.
+
+Time: 07:15
+Activity: Takes her pet cat for a morning play session before putting it back in its carrier.
+
+Time: 07:30
+Activity: Checks work email on her tablet and updates her to-do list for the day.
+
+Time: 08:00
+Activity: Starts making breakfast, preparing a tofu and vegetable stir-fry with scrambled eggs.
+
+Time: 09:15
+Activity: Works on her current software project in her home office. She sets up her computer first by plugging in her external monitor and docking station.
+
+Time: 12:30
+Activity: Takes a short break for lunch, eats the tofu and vegetable stir-fry she prepared earlier.
+
+Time: 13:00
+Activity: Returns to work until late afternoon, focusing on debugging code and reviewing colleague's work.
+
+Time: 16:45
+Activity: Joins a virtual team meeting with her colleagues from different time zones. They discuss upcoming project milestones and challenges.
+
+Time: 17:30
+Activity: Ends the workday, closes down all programs, and takes another short break to stretch and walk around the apartment.
+
+Time: 18:00
+Activity: Has dinner, which is usually a simple meal like stir-fried rice or noodles with vegetables. Tonight she opts for steamed fish as well.
+
+Time: 19:30
+Activity: Dresses up and heads out for her evening jog around the park near her apartment to enjoy the sunset.
+
+Time: 20:45
+Activity: Arrives back home, changes into more comfortable clothes, and starts preparing a light snack while watching a cooking show on TV.
+
+Time: 21:30
+Activity: Reads a book or catches up with online articles in her field of expertise to stay informed about new technologies.
+
+Time: 22:45
+Activity: Takes a shower, getting ready for bed and washing off the day’s stress.
+
+Time: 23:00
+Activity: Writes down any notes for tomorrow in her journal, then turns out the lights and settles into bed with a cup of warm milk to prepare herself for sleep.

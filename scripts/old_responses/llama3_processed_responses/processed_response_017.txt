@@ -1,0 +1,76 @@
+{
+  "name": "Akira Nakamura",
+  "gender": "Female",
+  "age": 27,
+  "location": "Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Akira grew up in a small town near Tokyo and moved to the city after high school to pursue a degree in graphic design. She now works as a freelance designer, balancing her creative passion with part-time jobs to make ends meet.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["wake up", "get dressed"],
+      "description": "Woke up to the sound of birds chirping outside her small apartment window, rolled out of bed and began getting dressed in a comfy outfit for a morning walk"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["morning walk"],
+      "description": "Took a 20-minute stroll around the nearby park, enjoying the gentle morning breeze and watching locals start their day"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["make tea", "plan day"],
+      "description": "Returned to her apartment, brewed a cup of green tea, and sat down at her desk to check emails and plan out her day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["commute", "work at agency"],
+      "description": "Headed to her part-time job as a graphic designer for an advertising agency in Shibuya, met up with colleagues and started working on a new campaign"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["work at agency", "lunch"],
+      "description": "Spent the morning working at the agency, then took a lunch break at a nearby izakaya (Japanese gastropub) with coworkers, sharing laughs and stories while enjoying some delicious Tonkatsu"
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "14:30",
+      "activities": ["break", "freelance work"],
+      "description": "Finished her shift and headed back to the park for a quick power walk before returning to freelance work"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["freelance work"],
+      "description": "Spent a couple of hours working on a design project for a potential new client, trying to meet their tight deadline"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "activities": ["make dinner", "relax"],
+      "description": "Took a break from design work and spent some quality time making dinner – stir-frying vegetables with tofu and rice, then watched the sunset with a cup of coffee on her balcony, reflecting on the day's accomplishments"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "22:15",
+      "activities": ["freelance work", "prepare for bed"],
+      "description": "Spent a few more hours working on freelance projects, then gradually wrapped up for the evening and began getting ready for bed"
+    },
+    {
+      "startTime": "22:15",
+      "endTime": "23:45",
+      "activities": ["sleep"],
+      "description": "Drifted off to sleep, dreaming of creative projects yet to come"
+    }
+  ]
+}

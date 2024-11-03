@@ -1,0 +1,82 @@
+{
+  "name": "Liang Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "China",
+  "job": "Software Engineer",
+  "backstory": "Liang Wei is a software engineer who lives in Beijing. He enjoys programming, playing video games, and hiking on weekends. Recently, he has been working remotely for his company based in Silicon Valley.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "stretch", "make tea"],
+      "description": "Wakes up to the sound of birds chirping outside his window. Gets out of bed, stretches, and heads to the kitchen to make tea."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["drink tea", "check emails"],
+      "description": "Drinks his cup of green tea while checking emails on his phone for any urgent messages from his team in Silicon Valley."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["bike commute", "enjoy scenery"],
+      "description": "Commutes by bike through Beijing's scenic parks, enjoying a peaceful ride and fresh morning air. He always takes the same route to work, passing by various temples and gardens."
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["work", "coding", "debugging"],
+      "description": "Arrives at his home office where he starts working on his current project. Focuses on coding and debugging issues with the latest software release."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch", "spicy food"],
+      "description": "Takes a break for lunch, ordering takeout from a nearby restaurant that serves authentic Sichuan cuisine. He enjoys spicy food and often shares dishes like mapo tofu or kung pao chicken during his meal breaks."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "activities": ["work", "coding", "research"],
+      "description": "Resumes work on the project, focusing on the new feature he has been assigned to develop. Utilizes online resources such as GitHub repositories and documentation from previous developers."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "activities": ["exercise", "calisthenics"],
+      "description": "Ends his workday, closes all applications and emails, and starts preparing for his evening activities. He exercises by doing a series of calisthenics in his living room to maintain physical fitness."
+    },
+    {
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "activities": ["dinner", "home-cooked meal"],
+      "description": "Takes an early dinner at home since he plans on spending the evening playing video games with friends online."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["video games", "online multiplayer"],
+      "description": "Participates in a late-night multiplayer game with colleagues. The night sky is clear, and he stays up to watch the stars for a while after finishing his game."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["read tech articles", "prepare for next day"],
+      "description": "Reads through some tech articles on his tablet before switching off all electronic devices and heading to bed. His last thought of the day is about planning tasks for tomorrow based on what he discussed with his team during the day."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Prepares for bed and falls asleep."
+    }
+  ]
+}

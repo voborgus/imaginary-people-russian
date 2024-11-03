@@ -1,0 +1,76 @@
+{
+  "name": "Li Ming",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Ming is a software engineer working in one of the tech giants in Shanghai. He moved to the city six years ago after graduating with honors and has been steadily climbing the career ladder ever since. His free time is often spent either coding or exploring local neighborhoods for street food.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:30",
+      "endTime": "06:15",
+      "activities": ["morning routine", "stretching", "listening to music"],
+      "description": "Wakes up to an alarm set on his smartwatch, stretching in bed as he listens to ambient music playing softly through earbuds"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:45",
+      "activities": ["make tea", "watch news"],
+      "description": "Heads to the kitchen and brews a strong cup of black tea with a dash of milk. Watches the morning news while sipping on it before leaving for work"
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["commute", "check emails", "prepare schedule"],
+      "description": "Takes an express train from the outskirts of Shanghai where he lives in a small apartment with roommates. He's already in the office by now, checking emails and preparing his schedule for the day"
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:30",
+      "activities": ["team meeting", "work", "code review", "mentor junior engineers"],
+      "description": "Attends a team stand-up meeting via video call to discuss progress on current projects and any challenges faced. Back at the office for afternoon coding sessions. Reviews code with his team members and helps mentor junior engineers on more complex algorithms and programming concepts"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "socialize"],
+      "description": "Heads out for lunch with colleagues. Today, they choose to grab baozi (steamed buns) from a nearby restaurant known for their traditional flavors. They discuss work, recent movies, and travel plans over hearty bites"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["work", "code review", "mentor junior engineers"],
+      "description": "Back at the office for afternoon coding sessions. Reviews code with his team members and helps mentor junior engineers on more complex algorithms and programming concepts"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["workout", "gym"],
+      "description": "Goes to a nearby fitness center after work, spending an hour in the gym. He does a mix of strength training and cardio workouts to maintain his health and energy levels throughout the week"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "activities": ["dinner", "socialize"],
+      "description": "Hits up one of Shanghai's popular street food stalls for dinner. Tonight, he enjoys some hotpot with his team, trying out dishes that change seasonally while keeping in touch about their lives outside of work"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["language learning", "reading"],
+      "description": "Returns home and logs into a language learning app on his tablet to practice English or perhaps learn a new language like Japanese. He spends an hour learning vocabulary or listening to conversations and practicing pronunciation. Reads a few chapters of the novel he's currently reading before turning off all lights in his room"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "24:00",
+      "activities": ["sleep", "relaxation"],
+      "description": "Lies down, closes his eyes, and listens to some relaxing sounds on his smart speaker as he prepares for sleep"
+    }
+  ]
+}

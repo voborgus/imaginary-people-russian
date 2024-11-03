@@ -1,0 +1,112 @@
+{
+  "name": "Liang Ming",
+  "gender": "Male", 
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Data Analyst",
+  "backstory": "Liang Ming is a data analyst working in a tech company. He enjoys hiking and cooking in his free time to unwind from the busy city life.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:45",
+      "activities": ["wake up", "feel cool morning breeze"],
+      "description": "Wakes up feeling the cool morning breeze through an open window"
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:00",
+      "activities": ["stretch", "feel stiff"],
+      "description": "Stretches gently in bed, feeling a bit stiff after a late night work meeting yesterday"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:15",
+      "activities": ["shower", "brush teeth", "wake up"],
+      "description": "Takes a shower and brushes his teeth, splashing water on his face to wake up fully"
+    },
+    {
+      "startTime": "08:15",
+      "endTime": "09:00",
+      "activities": ["cook breakfast", "listen to news"],
+      "description": "Cooks some scrambled eggs with soy sauce for breakfast while listening to news updates on the radio"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["commute", "read book"],
+      "description": "Commutes by subway into downtown Shanghai, reading a book about data analysis and machine learning"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["work meeting", "discuss projects"],
+      "description": "Attends a morning meeting with colleagues at work. Discusses recent projects and new strategies for their team"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "activities": ["break", "tea", "snacks"],
+      "description": "Takes a quick break in the company cafeteria, grabbing a cup of black tea and a few snacks to tide him over until lunch"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "17:15",
+      "activities": ["work on project", "analyze data", "prepare reports", "collaborate"],
+      "description": "Works on an ongoing project, analyzing data sets and preparing reports. Uses his laptop and collaborates with colleagues via email and instant messaging tools"
+    },
+    {
+      "startTime": "17:15",
+      "endTime": "18:30",
+      "activities": ["team meeting", "receive feedback"],
+      "description": "Joins the afternoon team meeting to discuss progress and receive feedback from senior management"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "activities": ["leave work", "get takeout"],
+      "description": "Ends work early due to a personal commitment, grabbing some takeout from his favorite restaurant on the way home"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:15",
+      "activities": ["cook dinner", "taste meal", "add herbs"],
+      "description": "Arrives home, unpacks groceries, and begins preparing dinner. Tastes his meal as it cooks in the wok, adding fresh herbs for flavor"
+    },
+    {
+      "startTime": "20:15",
+      "endTime": "21:30",
+      "activities": ["eat dinner", "watch documentary"],
+      "description": "Eats dinner while watching a documentary on outdoor adventures to inspire him for his weekend hiking trip"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["hiking", "evening walk"],
+      "description": "Heads out with a backpack and some camping gear. Takes a leisurely walk in the nearby park, enjoying the cool evening air"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "00:30",
+      "activities": ["night hike", "enjoy nature"],
+      "description": "Arrives at a hiking trail he knows well. Begins his evening hike under the starlight, enjoying the tranquility of nature"
+    },
+    {
+      "startTime": "00:30",
+      "endTime": "01:00",
+      "activities": ["clean kitchen", "care for plants"],
+      "description": "Returns home after his hike, feeling refreshed and ready to unwind for the night. Cleans up the kitchen, putting away dishes from dinner. Checks on his plants before going to bed" 
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "01:15",
+      "activities": ["read book", "sleep"],
+      "description": "Reads a few pages of a novel before switching off the light and drifting into sleep"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+Name: Li Xiaowei
+Gender: Male
+Age: 34
+Location: Beijing, China
+Backstory: Li Xiaowei is a software developer working in a tech company. He grew up in the suburbs of Beijing but moved to the city center to pursue his career after college. Despite his busy job, he loves to cook and spends time on weekends trying out new recipes.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up gently by an alarm set for 6:30 AM, feeling refreshed after a good night's sleep with the help of blackout curtains and earplugs.
+
+Time: 07:00
+Activity: Brews a cup of strong black tea, sipping it while checking his phone for messages and emails from the previous day.
+
+Time: 08:00
+Activity: Heads to the bathroom for a quick morning shower using an efficient water-saving system, preparing himself with minimalistic hygiene routines.
+
+Time: 08:15
+Activity: Brushes teeth and washes face before getting dressed in casual office wear, including a smart pair of jeans and a shirt.
+
+Time: 09:30
+Activity: Commutes by subway, traveling through the crowded Beijing mornings, reading or responding to work emails on his smartphone as he waits for the train.
+
+Time: 10:30
+Activity: Arrives at the office. Exchanges greetings with coworkers while grabbing a cup of hot soy milk and doughnut from a nearby stall.
+
+Time: 11:00
+Activity: Meets a client for a project update in his small, private meeting room, discussing progress on an app development project that he's leading.
+
+Time: 12:30
+Activity: Takes a lunch break at the company cafeteria. Chooses a vegetarian dish to try something new from the menu; it turns out to be delicious.
+
+Time: 14:00
+Activity: Back in his office, takes up coding challenges for a project he's been working on during his free time, enjoying the quiet solitude as colleagues are mostly occupied with their tasks.
+
+Time: 16:30
+Activity: Attends a virtual team-building session conducted via video call. The theme of the day is "healthy living," which inspires Xiaowei to plan a trip to the gym after work.
+
+Time: 17:30
+Activity: Leaves for the gym, where he works out diligently and maintains his health in a crowded yet well-equipped fitness center that's part of his office complex.
+
+Time: 19:00
+Activity: Jogs through the evening Beijing streets, enjoying the city's vibrant nightlife. He runs towards a local park to clear his mind amidst trees and occasional street vendors.
+
+Time: 20:30
+Activity: Cooks dinner at home, preparing a new recipe he found online earlier. This time, it’s a hearty beef stew with potatoes and carrots.
+
+Time: 21:30
+Activity: Sits down to enjoy his homemade meal, reading the latest tech news while eating. He loves experimenting with different flavors in his cooking as much as coding software.
+
+Time: 22:30
+Activity: Watches an episode of a popular drama series streaming on his tablet before going back to his books for some late-night study on artificial intelligence, always eager to learn more in his spare time.
+
+Time: 23:45
+Activity: Prepares for bed by washing up and tidying the apartment. Xiaowei reads from a book he’s been interested in to relax before turning off all lights and lights out.

@@ -1,0 +1,46 @@
+Name: Lin Mei
+Gender: Female
+Age: 34
+Location: China
+Backstory: Lin Mei is a data analyst working in a tech company in Beijing. She moved there from Guangzhou to pursue better career opportunities and has been living alone since then.
+
+Day:
+
+Time: 06:30
+Activity: Awakes, turns off the alarm clock, gets up from the bed after stretching for a few minutes.
+
+Time: 06:45
+Activity: Makes herself a cup of black tea with milk and takes it to the balcony to enjoy the morning breeze.
+
+Time: 07:15
+Activity: Uses her phone to check news updates and emails related to work.
+
+Time: 07:30
+Activity: Does some light exercise such as yoga or stretching on the living room floor.
+
+Time: 08:00
+Activity: Takes a shower, uses moisturizer, and gets dressed in a casual outfit for office.
+
+Time: 09:00
+Activity: Commutes to work by subway; reads articles on her phone during the ride about tech trends and innovations.
+
+Time: 13:00
+Activity: Lunch break at an Italian restaurant near the office with colleagues, discussing work-related topics over spaghetti.
+
+Time: 14:30
+Activity: Back to the office for more meetings and data analysis tasks in a private conference room.
+
+Time: 17:00
+Activity: Goes home on the subway; chats with a friend about her weekend plans on WeChat while commuting.
+
+Time: 18:00
+Activity: Arrives home, cooks herself a simple dinner of stir-fried vegetables and rice using recipes from online cooking shows.
+
+Time: 19:30
+Activity: Watches an episode of a documentary series on National Geographic to unwind after the workday.
+
+Time: 21:00
+Activity: Does some light reading with a cup of herbal tea while sifting through her social media news feed and replying to messages from colleagues or friends.
+
+Time: 23:00
+Activity: Brushes teeth, gets into bed, and reads another chapter from an e-book she's been enjoying before finally falling asleep.

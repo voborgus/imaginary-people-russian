@@ -1,0 +1,88 @@
+{
+  "name": "Emma Taylor",
+  "gender": "Female",
+  "age": 28,
+  "location": "United Kingdom",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emma is a freelance graphic designer who recently moved to London from Manchester after completing her degree. She loves attending indie music gigs and trying out new brunch spots.",
+  "schedule": [
+    {
+      "startTime": "06:15",
+      "endTime": "06:25",
+      "activities": ["wake up", "get out of bed"],
+      "description": "Woke up to the sound of her phone buzzing with notifications and got out of bed to start her day."
+    },
+    {
+      "startTime": "06:25",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face", "get dressed"],
+      "description": "Brushed her teeth, washed her face, and got dressed in a comfortable outfit for a morning run."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:10",
+      "activities": ["run", "exercise"],
+      "description": "Put on her favorite playlist and headed out for a 3-mile run along the Regent's Canal to clear her head."
+    },
+    {
+      "startTime": "08:10",
+      "endTime": "09:00",
+      "activities": ["shower", "breakfast", "cooking"],
+      "description": "Returned home, showered, and made herself a strong English breakfast with scrambled eggs, bacon, and toast."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["work", "design"],
+      "description": "Sat down at her desk in her cozy flat to work on some freelance design projects for the day."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "activities": ["lunch", "social media"],
+      "description": "Took a lunch break to grab some delicious sushi from a nearby restaurant and ate while scrolling through social media."
+    },
+    {
+      "startTime": "13:30",
+      "endTime": "16:00",
+      "activities": ["work", "design", "breaks"],
+      "description": "Spent the afternoon working on a logo design for a new client, taking short breaks to stretch her legs and refuel with snacks."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "activities": ["yoga", "exercise"],
+      "description": "Finished up work for the day and decided to treat herself to an hour-long yoga class at a studio near her flat."
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "activities": ["socializing", "coffee", "friends"],
+      "description": "Felt refreshed after yoga and headed out to meet some friends for coffee at a trendy spot in Shoreditch."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:15",
+      "activities": ["socializing", "drinks"],
+      "description": "Spent a couple of hours socializing with friends, sharing stories and laughing together over drinks."
+    },
+    {
+      "startTime": "21:15",
+      "endTime": "22:45",
+      "activities": ["cooking", "dinner", "relax"],
+      "description": "Said goodbye to her friends and headed back home to prepare dinner - tonight it was pasta with marinara sauce and some garlic bread."
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "23:30",
+      "activities": ["TV", "planning"],
+      "description": "Watched an episode of her favorite TV show while cooking dinner, enjoying the relaxing evening atmosphere."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["reading", "sleep"],
+      "description": "Wrote down tomorrow's tasks in her planner and settled into bed with a good book to wind down for the night."
+    }
+  ]
+}

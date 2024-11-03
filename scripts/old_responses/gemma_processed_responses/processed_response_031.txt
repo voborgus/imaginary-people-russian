@@ -1,0 +1,64 @@
+{
+  "name": "Evelyn Wright",
+  "gender": "Female",
+  "age": 32,
+  "location": "Ireland",
+  "job": "Aspiring Novelist",
+  "backstory": "Evelyn is an aspiring novelist who recently moved to a small seaside town in Ireland after leaving behind the hustle and bustle of London. She yearns for quiet solitude and inspiration.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "Sleeping soundly and dreaming of stories as the sounds of the wind continue to blow across the coast."
+    },
+    {
+      "startTime": "06:45",
+      "endTime": "07:30",
+      "activities": ["morning routine", "coffee"],
+      "description": "Evelyn wakes up to the sounds of crashing waves against the shore. The sunlight, filtering through her thin curtains, paints soft stripes on the bedroom floor. She stretches languidly, yawning wide before pulling herself out of bed. She enjoys a cup of strong Irish coffee and prepares for the day, glancing over an article on her phone about local history."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "activities": ["walking", "reading", "collecting sea glass"],
+      "description": "Evelyn heads to the beach for a morning walk. She gathers fallen sea-glass from the shoreline, adding a few pieces to a small collection she's building in her studio at home. As she walks, she reads aloud snippets of an upcoming scene for her novel - 'The storm seemed as relentless as her grief.'"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["writing", "finding inspiration"],
+      "description": "Evelyn returns home and sits down to work on the manuscript. She finds inspiration from a local bird's song outside her kitchen window, a lone robin chirping its cheerful tune, a melody that would surely become a scene in one of her novels soon."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "reading"],
+      "description": "Lunch. Evelyn enjoys a homemade vegetable soup she'd made earlier and reads an article from the local paper about a community play about Irish folklore. She is planning to volunteer as a reader for the upcoming week, and this inspired story will help her further."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["writing group", "discussing ideas"],
+      "description": "Meeting with fellow writers for their weekly writing group in a cozy café on Main Street. This informal gathering allows Evelyn to swap ideas with other aspiring authors, offering critique and encouragement. The camaraderie provides solace as she battles writer's block; even the most difficult moments feel light and less daunting with others by her side."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "activities": ["walking", "admiring art"],
+      "description": "Evelyn spends some time strolling through the quaint town square after the meeting. She admires the local pottery studio, admiring a set of intricate ceramics she finds uniquely beautiful."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "20:30",
+      "activities": ["writing", "brainstorming"],
+      "description": "Evelyn heads to her cozy writing desk. It is here that she finds her true solace – surrounded by stacks of notebooks filled with characters, plots and ideas, her pen dancing across the paper as she breathes life into her stories. She spends hours brainstorming and sketching out new scenes; the days are long and she thrives on it."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "23:00",
+      "activities": ["evening walk", "reading"],
+      "description": "A walk along the coastline brings some peace to Evelyn's evening as the setting sun casts a golden glow over the sea, the crashing waves sounding like a lullaby. After an early bedtime, Evelyn finds solace in reading a few pages of her novel before finally drifting off to sleep."
+    }
+  ]
+}

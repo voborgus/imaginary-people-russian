@@ -1,0 +1,100 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 27,
+  "location": "Australia",
+  "job": "Marketing Manager",
+  "backstory": "Kaitlyn is a marketing manager who moved to Melbourne from Perth two years ago to pursue a new career opportunity. She's still getting used to the city and trying to find her favorite cafes and restaurants.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up, stretch, and yawn after a good night's sleep"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brush teeth and wash face to get ready for the day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make coffee", "enjoy sunrise"],
+      "description": "Make a cup of strong coffee and sit on the balcony to enjoy the sunrise"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute", "social media", "emails"],
+      "description": "Commute to work on public transportation, catching up on social media and emails during the ride"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:30",
+      "activities": ["respond to emails", "prepare for meeting"],
+      "description": "Start the day as marketing manager for a software company, responding to urgent emails and preparing for a meeting with the sales team"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "activities": ["sales team meeting", "discuss strategies"],
+      "description": "Attend a meeting with the sales team to discuss new product launches and strategies"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch break", "try new cafe"],
+      "description": "Take a lunch break at a nearby cafe, trying out their famous burgers"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["catch up with friend", "coffee"],
+      "description": "Meet up with a friend for coffee and catch up on each other's lives"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "activities": ["social media campaigns", "content creation"],
+      "description": "Continue working as marketing manager, focusing on social media campaigns and content creation"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:15",
+      "activities": ["commute home", "relax in backyard"],
+      "description": "Finish work for the day and head back home on public transportation, spending time in her backyard garden, tending to her plants and enjoying the quiet evening air"
+    },
+    {
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "activities": ["cook dinner", "try new recipe"],
+      "description": "Cook dinner at home, trying out a new recipe from Pinterest"
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["relax on couch", "read book", "drink wine"],
+      "description": "Relax on the couch with a good book and a glass of wine"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:45",
+      "activities": ["watch TV", "scroll phone"],
+      "description": "Watch TV or scroll through her phone before bed, winding down for the night"
+    },
+    {
+      "startTime": "21:45",
+      "endTime": "22:15",
+      "activities": ["go to sleep"],
+      "description": "Go to sleep, feeling refreshed and ready for another busy day"
+    }
+  ]
+}

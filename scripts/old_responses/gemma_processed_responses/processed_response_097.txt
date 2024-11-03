@@ -1,0 +1,82 @@
+{
+  "name": "Anya Petrova",
+  "gender": "Female",
+  "age": 27,
+  "location": "Russia",
+  "job": "Office Worker",
+  "backstory": "Anya grew up in a small village nestled amongst rolling hills and dense forests, where her life revolved around tending the family farm. After inheriting an ancestral cottage in Moscow, she sought a new chapter in the city.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["morning routine", "stretch"],
+      "description": "Anya stretches out of bed, the crisp morning air filtering through the cracks beneath her old window pane. Sunlight catches on the worn wooden floorboards as she gets ready to start her day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["tea", "breakfast", "porridge"],
+      "description": "Anya starts the day with a cup of strong black tea and a bowl of buckwheat porridge. The aroma fills her small kitchen, beckoning the first rays of sunlight across the faded floral wallpaper. She enjoys the quiet moments before bustling Moscow comes alive."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["commute", "market", "pastries"],
+      "description": "Anya heads to the local market for her morning commute. She stops by a street vendor selling freshly baked pastries and buys a flaky rye bread with salt and sunflower seeds. The crisp air stings her cheeks as she walks past the vendors, their calls mingling with the cheerful chatter of early shoppers."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "12:00",
+      "activities": ["work", "emails", "tea"],
+      "description": "Arriving at the office, Anya finds her coworkers already buzzing about an upcoming deadline for a major project. She quickly checks emails, sips on green tea, and starts working. The rhythmic tapping on the keyboard is accompanied by a light symphony of chatter and laughter between colleagues."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "cafe", "salad", "tea"],
+      "description": "Lunch break! Anya heads to a cozy cafe near her office building and enjoys a hearty salad with grilled chicken followed by her favorite - a cup of aromatic Siberian tea. The scent of freshly baked pies from the nearby bakery adds another layer of charm to her lunchtime escapade."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work", "meetings", "emails"],
+      "description": "The afternoon brings meetings, client calls, and more emails. Anya dives into complex calculations for the marketing campaign with a deep concentration that is often broken only by a short chat with colleagues about upcoming weekend plans."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "activities": ["commute", "shopping", "books"],
+      "description": "After finishing work, Anya heads home to unwind. She stops for some evening shopping at her favorite bookstore. The scent of old paper and leather envelops her as she browses through history books and memoirs, escaping the hustle and bustle of the city."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["dinner", "cooking", "lentil soup", "salad"],
+      "description": "At home, Anya prepares a simple dinner of lentil soup and salad. She finds comfort in the familiar ritual of cooking, letting the aroma fill the air and warm her heart after a long day."
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "activities": ["walk", "river", "contemplation"],
+      "description": "Evening stroll along the Moskva River, enjoying the calm twilight as it dances with the evening breeze. Anya listens to the gentle murmur of the water and contemplates her thoughts and plans for tomorrow's work."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "activities": ["reading", "books"],
+      "description": "Reading through a book she's been meaning to get through, Anya finds herself transported into another world, losing herself in the pages until the early morning hours."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "A gentle yawn and the quiet lull of night signals sleep finally calling. Anya throws off her covers, curls up under the warm blanket, and drifts off to a dreamland filled with stories waiting to unfold."
+    }
+  ]
+}

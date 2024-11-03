@@ -1,0 +1,70 @@
+{
+  "name": "Kaitlyn Thompson",
+  "gender": "Female",
+  "age": 28,
+  "location": "New Zealand",
+  "job": "Sustainability Consultant",
+  "backstory": "Kaitlyn grew up in Auckland but moved to Wellington five years ago to pursue her passion for environmental science. She now works as a sustainability consultant and enjoys hiking and trying out new coffee spots in her free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:25",
+      "activities": ["wake up", "snooze"],
+      "description": "Wake up to the sound of her alarm, a gentle chime from her phone on the nightstand, hit the snooze button twice"
+    },
+    {
+      "startTime": "06:35",
+      "endTime": "06:50",
+      "activities": ["morning routine", "shower"],
+      "description": "Get out of bed and shuffle to the bathroom for a morning wash-up"
+    },
+    {
+      "startTime": "06:50",
+      "endTime": "07:00",
+      "activities": ["make coffee", "enjoy coffee"],
+      "description": "Make herself a strong flat white coffee, using her French press and some freshly ground Arabica beans from the local market, enjoy it on the balcony with a view of Wellington harbor while scrolling through social media"
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "activities": ["have brunch", "walk"],
+      "description": "Meet her friend Emma for brunch at the popular Cafe Paco on Courtney Place, then take a long walk along the waterfront, stopping to admire the street art"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["work", "meeting"],
+      "description": "Head back to the office, have a lunch discussion with colleagues in the office cafeteria, work on a report for a client"
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:45",
+      "activities": ["break", "team meeting"],
+      "description": "Take a short break to stretch her legs and grab some snacks, attend a team meeting via Zoom with colleagues from Auckland and Christchurch"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["commute home", "make dinner", "relax"],
+      "description": "Finish work for the day, head home, make a simple dinner of pasta with cherry tomatoes, relax with an evening coffee and some TV"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["wind down", "get ready for bed"],
+      "description": "Wind down by watching a TV show, get ready for bed, switch off the lights and get into some cozy PJs"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Sleep"
+    }
+  ]
+}

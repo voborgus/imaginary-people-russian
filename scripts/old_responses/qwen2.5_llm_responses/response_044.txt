@@ -1,0 +1,40 @@
+Name: Li Mei
+Gender: Female
+Age: 34
+Location: China
+Backstory: Li Mei is a dedicated graphic designer working in Beijing. She moved to the city from her hometown in pursuit of better career opportunities, leaving behind a close-knit family and friends.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up, turns off the alarm clock, gets out of bed, stretches.
+Time: 06:15 AM
+Activity: Brushes teeth, washes face, prepares for a quick breakfast.
+Time: 06:30 AM
+Activity: Drinks a glass of water and eats an apple to start the day energized.
+Time: 07:00 AM
+Activity: Heads out for her daily morning jog in a nearby park, enjoying the early morning peace and quiet.
+Time: 08:00 AM
+Activity: Arrives at the office; takes the stairs to the third floor, passing coworkers who are already settling down to start their day.
+Time: 09:00 AM
+Activity: Attends a team meeting with colleagues discussing project deadlines and upcoming assignments.
+Time: 12:30 PM
+Activity: Takes a lunch break; orders food from a nearby restaurant, working while waiting for delivery.
+Time: 01:00 PM
+Activity: Orders food from the chosen restaurant, enjoys a quick meal at her desk.
+Time: 02:00 PM
+Activity: Works on designing project mockups and sketches; spends most of this time in front of the computer.
+Time: 04:30 PM
+Activity: Takes another break to visit the gym located in the building’s basement, spending an hour on a cardio session.
+Time: 06:00 PM
+Activity: Returns from the gym and heads back to her desk; starts reviewing feedback from previous projects.
+Time: 07:30 PM
+Activity: Leaves work for home-cooked dinner prepared by her partner. They enjoy a meal together, catching up on their day’s activities.
+Time: 09:00 PM
+Activity: Engages in some light reading or watches TV shows to unwind after the long day of work.
+Time: 11:00 PM
+Activity: Goes through her skincare routine before bed; puts on a night cream and moisturizer.
+Time: 11:30 PM
+Activity: Reads for about an hour, sometimes with a light bedside lamp or in complete darkness.
+Time: 12:30 AM
+Activity: Gets into bed, scrolls through Weibo (Weibo is China's version of Twitter) on her phone before turning it off to rest.

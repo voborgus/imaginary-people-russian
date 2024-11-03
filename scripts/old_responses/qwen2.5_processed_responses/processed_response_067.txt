@@ -1,0 +1,100 @@
+{
+  "name": "Li Mei",
+  "gender": "Female",
+  "age": 32,
+  "location": "Beijing, China",
+  "job": "Office Worker",
+  "backstory": "Li Mei is a diligent office worker who has lived in Beijing since graduating from university. She works at a tech company and enjoys exploring the city's cultural events on weekends.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "check phone"],
+      "description": "Wakes up after an alarm; stretches and checks phone for any urgent emails or messages"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["shower", "brush teeth", "get dressed"],
+      "description": "Takes a shower, brushes teeth, gets dressed in casual work attire"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["breakfast", "commute"],
+      "description": "Makes and consumes a healthy breakfast of porridge with milk and egg; commutes to the office by subway, listens to music or podcasts"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["arrive at work", "check emails", "plan tasks"],
+      "description": "Arrives at work; begins checking emails and planning tasks for the day"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:30",
+      "activities": ["work on projects", "video meeting"],
+      "description": "Continues working on ongoing projects; has a video meeting with international partners"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "activities": ["lunch break", "discuss tech news"],
+      "description": "Takes a short lunch break with colleagues in the office canteen, often discussing recent tech news"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "activities": ["work on projects"],
+      "description": "Returns to her desk, continues working on ongoing projects"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["leave work", "prepare dinner"],
+      "description": "Ends work for the day and begins preparing dinner at home"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "19:15",
+      "activities": ["have dinner", "watch news"],
+      "description": "Cooks a simple meal of stir-fried vegetables and chicken, enjoys it while watching evening news on TV"
+    },
+    {
+      "startTime": "19:15",
+      "endTime": "20:45",
+      "activities": ["read", "listen to audiobooks"],
+      "description": "Reads a book or listens to audiobooks during free time before bed"
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "21:30",
+      "activities": ["clean up", "tidy up"],
+      "description": "Cleans up the kitchen and puts away dishes; tidies up living space"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "23:00",
+      "activities": ["watch TV", "watch films"],
+      "description": "Watches TV series or films, depending on her mood for the night"
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "23:45",
+      "activities": ["bedtime routine"],
+      "description": "Brushes teeth, washes face to prepare for bed"
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "00:00",
+      "activities": ["read", "sleep"],
+      "description": "Lies down and reads before turning off the light to sleep"
+    }
+  ]
+}

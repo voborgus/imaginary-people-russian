@@ -1,0 +1,46 @@
+Name: Liang Feng
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Liang Feng is a software engineer who has been working in the tech industry for over a decade. He lives in a bustling neighborhood of Shanghai and enjoys combining his passion for technology with his interest in local culture.
+
+Day:
+
+Time: 06:30
+Activity: Wakes up to the sound of birds outside his apartment window, stretches, and begins making breakfast using traditional Chinese ingredients.
+
+Time: 07:15
+Activity: Prepares a healthy meal consisting of scrambled eggs, soy milk, and a few slices of radish. Cleans up the kitchen and prepares for the day.
+
+Time: 08:00
+Activity: Leaves his apartment and heads to the nearest metro station to catch the morning rush. Carries a reusable water bottle filled with green tea.
+
+Time: 08:35
+Activity: Arrives at the office building and takes the escalator up, checking the day's agenda on his phone while waiting for security checks.
+
+Time: 09:10
+Activity: Meets his colleagues in the break room to discuss plans for the week. They usually share ideas about projects or upcoming events.
+
+Time: 12:00
+Activity: Goes out for lunch with a colleague, visiting a local restaurant that serves traditional Shanghai cuisine like steamed fish and roasted duck.
+
+Time: 13:30
+Activity: Returns to the office after lunch, grabs some work documents from his desk, and starts reviewing code as part of a team project.
+
+Time: 15:45
+Activity: Attends a short meeting with the lead engineer discussing updates on their current project. The team has been working overtime to meet the next deadline.
+
+Time: 17:00
+Activity: Takes a break from his desk, walking around the office for some fresh air and stretches before getting back to work.
+
+Time: 21:30
+Activity: Finishes up the final tasks of the day, prepares himself a light dinner consisting of stir-fried vegetables with tofu. Watches a documentary about ancient Chinese inventions while eating.
+
+Time: 23:00
+Activity: Washes the dishes and starts to wind down by reading a book on artificial intelligence or checking some personal emails before going to bed.
+
+Time: 23:45
+Activity: Brushes his teeth, changes into pajamas, and reads another chapter of the same book about AI.
+
+Time: 00:15
+Activity: Switches off all lights in his apartment and settles down for a good night's sleep.

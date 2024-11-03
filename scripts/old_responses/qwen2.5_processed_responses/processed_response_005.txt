@@ -1,0 +1,112 @@
+{
+  "name": "Li Xiaoyu",
+  "gender": "Female",
+  "age": 34,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Xiaoyu is a software engineer at a local tech startup. She moved to Shanghai three years ago for better career opportunities and enjoys exploring the city's vibrant cultural scene in her free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Awakes gently after her alarm clock goes off, stretching and yawning."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["walk"],
+      "description": "Takes a short walk around her building to collect herself before starting the day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["jog"],
+      "description": "Jogs for about 15 minutes in the nearby park to boost her morning energy."
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["clean up", "prepare breakfast", "tea", "steamed buns"],
+      "description": "Cleans up and gets ready for work, preparing a light breakfast of tea and steamed buns."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["commute", "interact with colleagues", "get coffee"],
+      "description": "Takes the subway to reach her office building; interacts with colleagues and grabs a cup of coffee."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "activities": ["team meeting", "project updates", "discuss new features"],
+      "description": "Begins a meeting with team members about project updates and discussions on new features for an upcoming release."
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "activities": ["complete tasks", "check messages"],
+      "description": "Works through a series of tasks assigned by project managers and mentors; occasionally checks messages on her phone."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["lunch", "order food"],
+      "description": "Breaks for lunch, orders food from her favorite local restaurant that's just around the corner from work."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "activities": ["complete tasks", "check messages"],
+      "description": "Works through a series of tasks assigned by project managers and mentors; occasionally checks messages on her phone."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "activities": ["walk"],
+      "description": "Takes a brief walk to clear her mind, appreciating the greenery in the office park outside their building."
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "activities": ["training session", "learn new techniques"],
+      "description": "Attends a training session on latest software development techniques and practices for better coding efficiency."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["commute", "chat with passengers"],
+      "description": "Commutes back home via subway; enjoys chatting with other passengers about daily happenings."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "activities": ["make dinner", "stir-fried vegetables", "rice"],
+      "description": "Returns to her apartment, makes herself some dinner of stir-fried vegetables and rice."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["language exchange", "practice English"],
+      "description": "Joins an online language exchange group for practicing English conversation skills with a fellow member from the UK."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["complete work tasks", "check emails"],
+      "description": "Completes the day's work tasks; checks emails one last time before heading to bed."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:59",
+      "activities": ["read news", "check social media"],
+      "description": "Skims through today's news on her phone and catches up on social media trends, preparing for another exciting day."
+    }
+  ]
+}

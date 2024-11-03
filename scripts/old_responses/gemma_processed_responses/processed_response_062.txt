@@ -1,0 +1,76 @@
+{
+  "name": "Amelia Reyes",
+  "gender": "Female",
+  "age": 27,
+  "location": "Peru",
+  "job": "Weaver",
+  "backstory": "Amelia grew up in a small village nestled amongst the Andes Mountains. She learned to navigate the mountain passes by foot and worked on her grandmother's farm while still mastering traditional weaving techniques.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Peaceful night's sleep to the sound of crickets"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "activities": ["wake up", "morning routine", "tend to herb garden", "drink yerba mate"],
+      "description": "Amelia wakes to the sound of chickens and hummingbirds, stretches, and starts her day with gardening and yerba mate"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["eat breakfast", "listen to Andean music"],
+      "description": "Amelia enjoys a traditional Andean breakfast of congee and folk music"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["check emails", "make phone calls", "prepare for market"],
+      "description": "Amelia reviews emails and makes calls before heading to the market"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "activities": ["shop at market", "buy produce", "buy coffee"],
+      "description": "Amelia buys fresh produce, quinoa, chili peppers, and coffee at the bustling market"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "14:30",
+      "activities": ["weave blanket", "learn new techniques", "assist sister"],
+      "description": "Amelia spends the afternoon weaving a blanket, learning from a fellow weaver, and helping her sister"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "activities": ["eat lunch", "socialize with vendors"],
+      "description": "Amelia enjoys a traditional Andean lunch of quinoa stew and coca tea, chatting with fellow market vendors"
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "activities": ["organize materials", "learn new techniques", "assist sister"],
+      "description": "Amelia continues her weaving work, including helping her sister"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["make bread", "watch sunset", "receive invitation"],
+      "description": "Amelia bakes bread in a traditional oven and is invited to a village celebration"
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "activities": ["dance", "sing traditional songs", "share food"],
+      "description": "Amelia participates in the festive village celebration with music, dance, and traditional dishes"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "00:00",
+      "activities": ["storytelling", "bonfire"],
+      "description": "The celebration continues with storytelling and a bonfire under the stars"
+    }
+  ]
+}

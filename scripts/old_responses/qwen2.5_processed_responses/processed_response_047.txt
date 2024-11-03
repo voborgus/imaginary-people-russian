@@ -1,0 +1,82 @@
+{
+  "name": "Li Wei",
+  "gender": "Male",
+  "age": 32,
+  "location": "Shanghai, China",
+  "job": "Software Engineer",
+  "backstory": "Li Wei is a software engineer who has been working remotely since the start of the pandemic. He lives in a small apartment near his office but spends most of his days at home due to work requirements. Despite the isolation, he enjoys staying active and keeps up with his hobbies such as cooking and reading.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wakes up", "stretches"],
+      "description": "Wakes up feeling refreshed after a good night's sleep, stretches in bed for a few minutes."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["shower", "get dressed"],
+      "description": "Takes a shower and gets dressed in casual wear suitable for working from home—typically a t-shirt and sweatpants."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "activities": ["team meeting", "discuss plans"],
+      "description": "Logs into his work computer via Zoom to have a stand-up meeting with the team, discussing plans for the day."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "activities": ["coding", "testing"],
+      "description": "Begins coding session on a new project. Works diligently until taking short breaks every hour or so."
+    },
+    {
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "activities": ["prepare meal", "watch tutorials"],
+      "description": "Takes lunch break by preparing a healthy meal from his extensive recipe collection and eats it while watching some cooking tutorials online for inspiration."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "activities": ["coding", "testing"],
+      "description": "Resumes work on the project, alternating between coding and testing different solutions to the problems encountered."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "activities": ["team meeting", "discuss progress"],
+      "description": "Attends another team meeting via video call where they discuss progress made so far and any challenges faced."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "20:30",
+      "activities": ["read", "watch TV"],
+      "description": "Ends work for the day but spends some time reading a book or watching an episode of his favorite TV series to unwind."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "activities": ["cook dinner", "experiment"],
+      "description": "Cooks dinner, usually something from a different cuisine each night, experimenting with new recipes and ingredients."
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "activities": ["eat dinner", "clean up"],
+      "description": "Eats dinner at the small table in his apartment, savoring every bite before washing up afterward."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:30",
+      "activities": ["read", "listen to music"],
+      "description": "Relaxes by reading or listening to some calming music until he feels ready for bed."
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["prepare for sleep"],
+      "description": "Lights out and prepares for sleep by setting the alarm on his phone for the next morning."
+    }
+  ]
+}

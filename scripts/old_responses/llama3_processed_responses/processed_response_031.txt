@@ -1,0 +1,88 @@
+{
+  "name": "Emily Wong",
+  "gender": "Female",
+  "age": 27,
+  "location": "Tokyo, Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emily is a freelance graphic designer who moved to Tokyo from Australia three years ago. She loves trying new restaurants and cafes in her free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:30",
+      "activities": ["wake up", "listen to pigeons"],
+      "description": "Wake up to the sound of pigeons outside her apartment window"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brush teeth and wash face with a refreshing minty toothpaste"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["cook breakfast", "prepare scrambled eggs", "add cherry tomatoes", "add spinach"],
+      "description": "Cook breakfast - scrambled eggs with cherry tomatoes and spinach - in her tiny kitchen"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "activities": ["commute", "take train"],
+      "description": "Commute to her design studio via Tokyo's efficient train system (approx. 45 minutes)"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:30",
+      "activities": ["work", "logo design", "client project"],
+      "description": "Start work on a new logo design for a local startup client"
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:15",
+      "activities": ["lunch", "ramen"],
+      "description": "Take a short break to grab lunch at a nearby ramen shop - her favorite comfort food!"
+    },
+    {
+      "startTime": "12:15",
+      "endTime": "14:00",
+      "activities": ["meeting", "client", "branding", "marketing"],
+      "description": "Meet with a potential new client to discuss branding and marketing strategies"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["leave work", "commute home"],
+      "description": "Finish work for the day and pack up her laptop (time to head home!)"
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "activities": ["cafe", "try new cafe", "matcha latte"],
+      "description": "Try out a new cafe in her neighborhood - they have an amazing matcha latte!"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "activities": ["dinner", "izakaya", "drinks", "friends", "share stories"],
+      "description": "Meet friends at a trendy Izakaya for dinner and drinks"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "activities": ["wind down", "read graphic novel"],
+      "description": "Wind down before bed by reading a chapter of her favorite graphic novel"
+    },
+    {
+      "startTime": "23:30",
+      "endTime": "00:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    }
+  ]
+}

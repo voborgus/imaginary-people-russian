@@ -1,0 +1,94 @@
+{
+  "name": "Emily Patel",
+  "gender": "Female",
+  "age": 27,
+  "location": "India",
+  "job": "Software Engineer",
+  "backstory": "Emily is a software engineer at a startup company in Mumbai. She moved to the city from her hometown of Delhi two years ago to pursue her dream job.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "05:45",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "05:45",
+      "endTime": "06:00",
+      "activities": ["woke up", "morning routine"],
+      "description": "Woke up to the sound of her alarm clock, which was set to play a soft rendition of \"Wake Me Up\" by Avicii. She rubbed the sleep from her eyes and swung her legs out of bed."
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["brush teeth", "wash face", "get dressed"],
+      "description": "Brushed her teeth, washed her face, and got dressed in her favorite yellow sundress."
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["make coffee", "social media"],
+      "description": "Headed to the kitchen to make herself a cup of strong black coffee. She brewed a fresh batch and added sugar to taste. She also scrolled through her social media feeds on her phone, catching up with friends from college and liking a few funny memes."
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["check emails", "review code", "update to-do list"],
+      "description": "Arrived at the office, where she began checking emails and responding to any urgent messages. She spent the next hour reviewing code changes and updating her to-do list for the day."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "activities": ["team meeting", "discuss requirements", "allocate tasks"],
+      "description": "Attended a meeting with the project team to discuss new requirements and allocate tasks. Emily participated actively, asking questions and making suggestions."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["break", "get fresh air", "relax"],
+      "description": "Took a short break to grab some fresh air on the rooftop of their office building. She enjoyed the cool breeze and gazed out at the bustling streets below."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "activities": ["coding", "problem-solving", "algorithm work"],
+      "description": "Dived back into coding, working on a tricky algorithm that had been giving her trouble all morning. She made slow but steady progress, feeling proud of herself for persisting."
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "activities": ["lunch break", "socialize", "chat with colleagues"],
+      "description": "Took a lunch break and met up with colleagues at a nearby restaurant. They chatted about everything from movies to their shared love of dogs."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["meeting", "discuss features", "provide insights"],
+      "description": "Met with the product manager to discuss new features and priorities for the coming quarter. Emily provided valuable insights, drawing on her experience with similar projects."
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["wrap up work", "head home"],
+      "description": "Wrapped up work for the day and headed home. She was looking forward to relaxing and watching a favorite TV show that evening."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "20:45",
+      "activities": ["family restaurant", "enjoy homemade food", "spend time with loved ones"],
+      "description": "Had dinner at her family's restaurant in Bandra, where she enjoyed some delicious homemade food with loved ones."
+    },
+    {
+      "startTime": "20:45",
+      "endTime": "22:00",
+      "activities": ["unwind", "journal", "plan next day"],
+      "description": "Returned home, feeling grateful for the day's events. She spent some time unwinding, journaling, and planning tomorrow's tasks."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:45",
+      "activities": ["sleep"],
+      "description": "Drifted off to sleep around 23:45."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Emma Lee",
+  "gender": "Female",
+  "age": 27,
+  "location": "Tokyo, Japan",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Emma is a freelance graphic designer who moved to Tokyo from Australia two years ago to pursue new career opportunities. She's passionate about Japanese culture and tries to learn more about it every day.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "activities": ["woke up", "heard birds chirping"],
+      "description": "Woke up to the sound of birds chirping outside her window in her small Shinjuku apartment"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["light yoga", "stretches"],
+      "description": "Got out of bed and started with some light yoga stretches to get her blood flowing"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "onigiri", "green tea", "check news", "respond to emails"],
+      "description": "Had a quick breakfast of onigiri (Japanese rice balls) and green tea while checking the news and responding to emails from clients"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["walk", "meet friend", "visit park", "see cherry blossoms"],
+      "description": "Headed out the door to meet her friend, Yui, for a morning stroll around Shinjuku Gyoen park. The sun was shining, and the cherry blossoms were just starting to bloom"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "11:45",
+      "activities": ["client meeting", "discuss design", "pricing"],
+      "description": "Had a meeting with a potential new client at a coffee shop near Shibuya Crossing. Discussed design concepts and pricing for their company's marketing materials"
+    },
+    {
+      "startTime": "11:45",
+      "endTime": "13:00",
+      "activities": ["lunch", "yakitori", "observe city"],
+      "description": "Took a break from work to grab some lunch at her favorite izakaya (Japanese gastropub) in the Shibuya area. Ordered a plate of yakitori (grilled chicken skewers) and enjoyed watching the hustle and bustle of the city outside"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "16:45",
+      "activities": ["work on design project", "create illustrations"],
+      "description": "Spent the afternoon working on a design project for an existing client, creating illustrations for their company's new website"
+    },
+    {
+      "startTime": "16:45",
+      "endTime": "18:00",
+      "activities": ["photography", "take photos of skyline", "blog"],
+      "description": "Took a short walk to the nearby Tokyo Metropolitan Government Building to take some photos of the city skyline for her blog about life in Japan"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["meet friends", "drinks", "snacks", "listen to live music"],
+      "description": "Met up with Yui and some friends at a trendy bar in Shimokitazawa. Enjoyed drinks, snacks, and good company while listening to live music"
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "activities": ["go home", "feel grateful"],
+      "description": "Headed back home, feeling grateful for another day in Tokyo and all the amazing experiences it had brought her"
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:59",
+      "activities": ["watch anime", "sleep"],
+      "description": "Finished the evening by watching a Japanese anime series on her tablet before drifting off to sleep"
+    }
+  ]
+}

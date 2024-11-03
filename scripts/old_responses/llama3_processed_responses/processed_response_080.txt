@@ -1,0 +1,88 @@
+{
+  "name": "Kaitlyn",
+  "gender": "Female",
+  "age": 28,
+  "location": "Ireland",
+  "job": "Graphic Designer",
+  "backstory": "Kaitlyn is a graphic designer who recently moved back to Dublin from London, where she spent five years working as an art director. She's now starting her own design studio and trying to navigate the Irish startup scene.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "07:00",
+      "activities": ["wake up", "hear seagulls"],
+      "description": "Woke up to the sound of seagulls outside her flat window on Portobello Road."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "check emails"],
+      "description": "Grabbed a quick breakfast of porridge with banana and honey, while scrolling through emails on her phone."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:15",
+      "activities": ["shower", "get ready for work", "put on scarf"],
+      "description": "Started getting ready for work by showering, styling her hair, and putting on a bright blue scarf – a good luck charm from her grandmother."
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "11:00",
+      "activities": ["meet client", "discuss branding"],
+      "description": "Arrived at the co-working space in Grand Canal Dock, where she met with a potential client to discuss branding ideas for their new coffee shop."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "activities": ["design session", "drink tea"],
+      "description": "Had a productive design session, creating mockups and color palettes on her laptop while sipping a cup of green tea."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "Irish stew"],
+      "description": "Took a break to grab lunch at the nearby food market – a delicious bowl of Irish stew from a local vendor."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:30",
+      "activities": ["meet friend", "discuss collaboration"],
+      "description": "Met with a friend, Emma, who's starting a social media marketing business. They discussed potential collaborations and ideas for promoting each other's services."
+    },
+    {
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "activities": ["design work", "finalize branding"],
+      "description": "Worked on finalizing designs for the coffee shop branding project – creating typography concepts and iconography."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["walk home", "see street performer"],
+      "description": "Left the co-working space and walked to her flat, stopping at a street performer who was doing an incredible magic trick involving disappearing playing cards."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["dinner", "discuss business"],
+      "description": "Had dinner with Emma at a nearby bistro, where they shared stories about their respective businesses and brainstormed new ideas for collaboration."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "23:45",
+      "activities": ["relax", "watch TV"],
+      "description": "Returned to her flat, exhausted but satisfied after a productive day. She spent the evening watching a favorite TV show while snuggled under a cozy blanket."
+    },
+    {
+      "startTime": "23:45",
+      "endTime": "23:59",
+      "activities": ["sleep"],
+      "description": "Drifted off to sleep, feeling grateful for another day of pursuing her passions in beautiful Dublin."
+    }
+  ]
+}

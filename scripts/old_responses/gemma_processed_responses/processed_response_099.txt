@@ -1,0 +1,70 @@
+{
+  "name": "Liam",
+  "gender": "Male",
+  "age": 32,
+  "location": "England",
+  "job": "Graphic Designer",
+  "backstory": "Liam left his small village to pursue a career in graphic design after a creative passion ignited his early twenties. He now lives in London, navigating the city's bustling energy while finding solace in the quiet moments of art and solitude.",
+  "schedule": [
+    {
+      "startTime": "06:45",
+      "endTime": "07:30",
+      "activities": ["morning routine", "walk", "breakfast", "tea"],
+      "description": "Liam wakes up with a gentle groan, the faint scent of burnt toast lingering from yesterday's breakfast mishap. He takes his usual dose of Vitamin D through a morning walk, marveling at the changing London skyline. The chill air invigorates him before settling down to his breakfast; porridge and a single plum, followed by a steaming mug of Earl Grey tea."
+    },
+    {
+      "startTime": "07:30",
+      "endTime": "08:30",
+      "activities": ["design practice", "client work"],
+      "description": "Liam immerses himself in a brief session on design basics on his tablet. The soft glow of the screen sets the tone for his creative day ahead. He plans to revisit his client's brochure concept and refine some key designs before he dives into his personal project - an urban wildlife mural he wants to finish soon."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "activities": ["commute", "client meeting"],
+      "description": "The bustling street outside Liam's flat calls him to action. A quick commute on the tube, and he arrives at the vibrant King's Cross station. This city pulse is invigorating. He meets with his long-time client, Fiona, an eccentric fashion designer who wants to showcase her new line of sustainable clothing in a pop-up exhibit near Buckingham Palace."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "activities": ["client work", "design"],
+      "description": "Fiona's small studio bursts with creative energy. The walls are adorned with fabric swatches and sketches showcasing vibrant, ethically produced pieces. Liam helps Fiona fine-tune the layout for her pop-up exhibition - a display of both artistic vision and sustainability conscious practice."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "activities": ["lunch", "relax"],
+      "description": "Lunchtime brings an escape to a bustling corner pub near the studio. The aroma of freshly baked bread hits his senses, followed by Liam's usual burger with a side of sweet potato fries. A pint of local ale adds a touch of British character to the afternoon."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["explore", "inspiration"],
+      "description": "The city's artistic heartbeat draws him back to King's Cross, where he witnesses street performers weaving their stories through music and laughter. Liam finds inspiration in their raw talent, reminding himself that art thrives on a canvas beyond his own studio walls."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "activities": ["design", "client work"],
+      "description": "Liam dives into the world of digital design, tweaking images for Fiona's new collection. He loves capturing the essence of fashion through intricate details and innovative layouts. The quiet hum of his computer reminds him that progress, though unseen, is always in motion."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "activities": ["walk", "relax", "tea"],
+      "description": "A leisurely stroll through Regent's Park offers a peaceful escape. Liam watches children play amidst vibrant greenscapes, while the city lights begin to shimmer in the evening sky. As he sits under the ancient oaks, he allows his mind to wander free, dreaming of his next project."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:30",
+      "activities": ["read", "relax"],
+      "description": "After another cuppa and a slice of lemon cake, Liam switches off the laptop and dives into a book about art movements in London's past - an escape into history amidst the ever-changing present."
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "06:45",
+      "activities": ["sleep"],
+      "description": "With his day complete, Liam snuggles into bed under his worn woolen blanket. The comforting hum of the street far away is a lullaby he can easily fall asleep to, leaving him dreaming about vibrant colours and stories told through art."
+    }
+  ]
+}

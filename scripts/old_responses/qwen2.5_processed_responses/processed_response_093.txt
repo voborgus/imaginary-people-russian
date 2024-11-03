@@ -1,0 +1,88 @@
+{
+  "name": "Li Xiaowen",
+  "gender": "Male",
+  "age": 32,
+  "location": "China, Beijing",
+  "job": "Software Engineer",
+  "backstory": "Li Xiaowen is a software engineer who moved to Beijing from the countryside three years ago. He works for a tech company and enjoys cycling during his free time.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["wake up", "stretch", "get out of bed"],
+      "description": "Wakes up gently by an alarm set on his phone, stretches and gets out of bed"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:15",
+      "activities": ["make tea"],
+      "description": "Makes tea with a local tea set he recently bought from a small shop near his apartment"
+    },
+    {
+      "startTime": "07:15",
+      "endTime": "08:00",
+      "activities": ["check emails", "plan work tasks"],
+      "description": "Sits down at his desk to check emails and plan the day's work tasks"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "activities": ["commute to work", "observe morning crowd"],
+      "description": "Commutes to work by metro, observing the busy morning crowd around him"
+    },
+    {
+      "startTime": "09:30",
+      "endTime": "12:30",
+      "activities": ["attend virtual meeting", "use English and Chinese fluently"],
+      "description": "Attends a virtual meeting with overseas colleagues. Navigates between English and Chinese fluently as needed"
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["have lunch", "eat baozi", "drink green tea"],
+      "description": "Takes a short break in the office cafeteria, eats a light lunch of baozi (steamed buns) and a cup of hot green tea"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "activities": ["review code", "use Python and Java"],
+      "description": "Reviews code with his team. Uses his knowledge of Python and Java to help solve coding challenges"
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "activities": ["complete daily tasks", "log out", "pack up"],
+      "description": "Completes his daily tasks, logs out of the work system, and packs up his belongings"
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "activities": ["bike ride", "enjoy Chaoyang Park"],
+      "description": "Picks up a bike from a nearby station, heads out for an evening ride along the Chaoyang Park"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "activities": ["arrive home", "clean up", "relax"],
+      "description": "Arrives at home after a refreshing bike ride. Cleans up and gets ready to relax"
+    },
+    {
+      "startTime": "21:30",
+      "endTime": "22:45",
+      "activities": ["read", "keep mind sharp"],
+      "description": "Reads a chapter of \"The Art of Computer Programming\" by Donald Knuth, keeping his mind sharp for the next day's challenges"
+    },
+    {
+      "startTime": "22:45",
+      "endTime": "00:00",
+      "activities": ["play chess", "enjoy simple pleasures"],
+      "description": "Has an online chess game with a friend. Finds time in his busy schedule to enjoy simple pleasures"
+    }
+  ]
+}

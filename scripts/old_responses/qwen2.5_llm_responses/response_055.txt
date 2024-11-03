@@ -1,0 +1,46 @@
+Name: Li Ming
+Gender: Male
+Age: 32
+Location: China
+Backstory: A software engineer working in a tech company in Beijing, Li Ming has been with the same firm for five years. He enjoys spending his free time playing video games and hiking in the mountains nearby.
+
+Day:
+
+Time: 06:00 AM
+Activity: Wakes up to the sound of his alarm clock; stretches and gets out of bed after a refreshing sleep.
+
+Time: 06:15 AM
+Activity: Brushes teeth, washes face with cold water, and drinks a glass of water.
+
+Time: 07:00 AM
+Activity: Heads to the kitchen for a cup of strong black tea before starting his morning exercises like push-ups and running on a treadmill.
+
+Time: 08:15 AM
+Activity: Leaves home; rides an electric scooter through the busy streets of Beijing to reach his office building near the city center.
+
+Time: 09:30 AM
+Activity: Attends a team meeting with colleagues in one of the company’s conference rooms, discussing project updates and strategies for the upcoming quarter.
+
+Time: 12:00 PM
+Activity: Takes a lunch break; orders from a local restaurant via his phone, then eats outside by a park near the office to enjoy some fresh air.
+
+Time: 01:30 PM
+Activity: Returns to work with renewed energy and heads to his desk where he starts coding for an upcoming project.
+
+Time: 04:00 PM
+Activity: Goes on a quick walk in the neighborhood during lunch break, grabbing a sandwich from a nearby stall to quickly finish up some admin tasks back at the office.
+
+Time: 06:30 PM
+Activity: Leaves work and takes his scooter to a coffee shop for a meeting with a client discussing project milestones and deadlines. The discussion is held via video call since the client is based in another city.
+
+Time: 07:45 PM
+Activity: Ends the call; heads home, stops at a grocery store to buy some vegetables and fruits before returning home.
+
+Time: 08:15 PM
+Activity: Makes himself dinner consisting of stir-fried vegetables and rice, eats while watching news on TV.
+
+Time: 09:30 PM
+Activity: Engages in an online game session with friends from different parts of China; this can last for about two hours.
+
+Time: 11:45 PM
+Activity: Takes a shower, brushes his teeth, and goes to bed after checking the news one more time.

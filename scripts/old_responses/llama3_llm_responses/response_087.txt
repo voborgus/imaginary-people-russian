@@ -1,0 +1,57 @@
+Here are the details of our person, followed by a random day in their life.
+
+Name: Kaitlyn
+Gender: Female
+Age: 27
+Location: Japan
+Backstory: Kaitlyn moved to Japan from her hometown in California after high school. She worked as an English teacher for several years before taking time off to travel and explore the country.
+
+Day:
+
+Time: 06:00
+Activity: Woke up to the sound of her cat, Mochi, meowing loudly outside her bedroom door.
+
+Time: 06:15
+Activity: Brushed her teeth and washed her face with cold water to wake herself up.
+
+Time: 06:30
+Activity: Made a bowl of instant ramen for breakfast while watching the news on TV.
+
+Time: 07:00
+Activity: Took Mochi for a short walk around the block to get some fresh air.
+
+Time: 08:00
+Activity: Started getting ready for work, which involved commuting to Tokyo by train.
+
+Time: 09:10
+Activity: Arrived at her office building and checked in with her coworkers before heading to her first meeting of the day.
+
+Time: 09:30
+Activity: Had a team meeting to discuss an upcoming project deadline.
+
+Time: 11:00
+Activity: Spent several hours working on lesson plans for her English students, taking short breaks to grab coffee and snack on Japanese sweets.
+
+Time: 12:45
+Activity: Took a lunch break with a colleague at a nearby izakaya.
+
+Time: 14:30
+Activity: Had a parent-teacher conference with the parents of one of her English language learners.
+
+Time: 16:00
+Activity: Met up with friends at a local café to grab coffee and catch up on each other's lives.
+
+Time: 18:15
+Activity: Stopped by the grocery store on the way home to pick up some ingredients for dinner.
+
+Time: 19:30
+Activity: Cooked herself a simple but delicious dinner of stir-fried vegetables and rice, which she ate while watching her favorite anime show.
+
+Time: 21:00
+Activity: Continued watching TV until it was time for bed.
+
+Time: 22:30
+Activity: Got ready for bed by brushing her teeth and changing into PJs.
+
+Time: 23:00
+Activity: Drifted off to sleep with a contented sigh, feeling grateful for another day in Japan.

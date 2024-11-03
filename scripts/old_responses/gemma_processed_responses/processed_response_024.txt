@@ -1,0 +1,70 @@
+{
+  "name": "Anya Petrova",
+  "gender": "Female",
+  "age": 28,
+  "location": "Russia",
+  "job": "Freelance Graphic Designer",
+  "backstory": "Anya is a freelance graphic designer living in Moscow, striving to build her own brand and working remotely from cafes across the city.",
+  "schedule": [
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["waking up", "stretching"],
+      "description": "Waking up with a groan. The insistent chirping of sparrows outside the window serves as a reminder that morning is here. Anya stretches languidly, reaching for her phone to silence the alarm before it blasts her awake again."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["breakfast", "email responses"],
+      "description": "A quick sip of hot water mixed with lemon and a slice of rye bread. After glancing at her schedule, she dives into a few emails – responses to client queries and confirmations for tomorrow's online design meeting."
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "activities": ["branding research", "client work"],
+      "description": "Anya begins her work – sifting through potential branding ideas for a new tech start-up. It's a challenge that draws upon her analytical side and creative inspiration. Her coffee mug, perched precariously on the edge of a vintage wooden stool in front of her, becomes her only companion as she meticulously researches their competitors."
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "activities": ["break", "client logo design"],
+      "description": "Stepping away from the screen to stretch her back before diving into another client project – creating the new logo for a small bakery on Nevsky Prospekt. The afternoon sun paints the walls of Anya's workspace in soft, yellow light."
+    },
+    {
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "activities": ["lunch", "research"],
+      "description": "Lunch break! Anya opts for a quick salad and grilled cheese sandwich from her local deli - a comforting staple she can easily pick up on her way back to work. While sipping chamomile tea, Anya reads through articles about recent design trends before getting into the final touches of the client's project."
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "activities": ["client meeting", "collaboration"],
+      "description": "Meeting with online clients via video conferencing. The meeting runs smoothly, and despite some minor bumps along the way, a shared sense of progress is achieved. Anya feels energized by this collaboration – an important reminder of her passion for what she does."
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "activities": ["park walk", "relaxation"],
+      "description": "After wrapping up work, Anya leaves the office to explore her favorite park in the city center. A gentle breeze carries the scent of fresh-baked bread and blooming jasmine flowers. She watches kids playing tag and takes solace in the beauty that surrounds her."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "activities": ["dinner", "socializing"],
+      "description": "Dinner time at a local Russian cafe with warm, inviting red booths. Anya sips on black tea while savoring a hearty chicken soup with dill dumplings. The conversation is lively as she catches up with old friends from her community."
+    },
+    {
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "activities": ["reading", "yoga"],
+      "description": "Back home, Anya spends time reading through her latest graphic design book before settling down to unwind with a calming yoga routine and some light stretching."
+    },
+    {
+      "startTime": "22:00",
+      "endTime": "06:30",
+      "activities": ["sleep"],
+      "description": "A good night's sleep is what awaits. As she drifts off to dreamland, the gentle sounds of the city – the rustling leaves, distant sirens, and perhaps even a stray cat's meow – lull her into a peaceful slumber."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+Name: Liang Wei
+Gender: Male
+Age: 32
+Location: Shanghai, China
+Backstory: Liang Wei is a software engineer working at a multinational tech company in Shanghai. He moved to the city five years ago after graduation and has been enjoying the vibrant tech scene and diverse cultural experiences.
+
+Day:
+
+Time: 06:00 AM
+Activity: Awakens gently by his smart alarm clock, stretches in bed before opening his eyes.
+
+Time: 06:30 AM
+Activity: Walks to the bathroom for a quick morning shower, using his voice assistant to control the temperature and water flow.
+
+Time: 07:00 AM
+Activity: Prepares breakfast of steamed buns and congee with egg while checking emails on his tablet.
+
+Time: 08:00 AM
+Activity: Commutes by bike to the office, enjoying the cool morning breeze as he cycles past Shanghai's scenic riverfronts.
+
+Time: 09:00 AM
+Activity: Attends a team meeting via video call with colleagues from other countries, discussing project updates and strategies for product launches.
+
+Time: 12:30 PM
+Activity: Takes a brief lunch break at his desk to have some noodles with seafood, enjoying the quiet moment while he browses through social media on his phone.
+
+Time: 02:00 PM
+Activity: Participates in an online training session about new software development tools and techniques.
+
+Time: 03:30 PM
+Activity: Meets with a client via video call to discuss potential projects, using screen sharing for presentations and annotations.
+
+Time: 05:30 PM
+Activity: Wraps up the day by reviewing tasks on his task management app, planning for the next workday and personal goals.
+
+Time: 06:45 PM
+Activity: Cycles home along the riverfront again, stopping to admire the setting sun.
+
+Time: 07:15 PM
+Activity: Cooks dinner of stir-fried vegetables and tofu, using a smart kitchen scale for precise measurements.
+
+Time: 08:00 PM
+Activity: Reads an ebook on nutrition and wellness while eating his meal, using the light sensor in his e-reader to adjust brightness according to the lighting conditions.
+
+Time: 09:30 PM
+Activity: Watches a documentary about environmental conservation before starting some coding exercises for personal improvement.
+
+Time: 10:45 PM
+Activity: Skims through news articles and social media updates while brushing teeth and getting ready for bed, using his smartphone with blue light filter activated to reduce eye strain.
+
+Time: 11:30 PM
+Activity: Lies down in bed, closes the curtains, and sets a soft alarm for the next morning.

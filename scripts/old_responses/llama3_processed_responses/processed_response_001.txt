@@ -1,0 +1,88 @@
+{
+  "name": "Maya Ramos",
+  "gender": "Female",
+  "age": 27,
+  "location": "Costa Rica (San José)",
+  "job": "Freelance Writer",
+  "backstory": "Maya is a freelance writer who returned to her home country of Costa Rica after living abroad for several years. She grew up in the United States but always maintained strong ties to her Tica heritage.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "06:15",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "06:15",
+      "endTime": "06:30",
+      "activities": ["wake up", "stretch", "yawn"],
+      "description": "Wake up to the sound of tropical birds chirping outside her window, stretch in bed, and yawn"
+    },
+    {
+      "startTime": "06:30",
+      "endTime": "07:00",
+      "activities": ["brush teeth", "wash face"],
+      "description": "Brush teeth with aloe vera mouthwash and wash face with a gentle cleanser to prepare for the day"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "activities": ["make coffee"],
+      "description": "Start a pot of strong coffee using her French press and add a splash of milk to get energized for writing"
+    },
+    {
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "activities": ["write article", "research"],
+      "description": "Sit down at her desk, surrounded by books on Costa Rican history and wildlife, and start typing away on her latest article about sustainable tourism in the country's national parks"
+    },
+    {
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "activities": ["have smoothie", "visit farmer's market"],
+      "description": "Take a short break to grab a fruit smoothie made with frozen pineapple, coconut milk, and honey from a nearby café, then meet up with a friend at the local farmer's market to buy fresh produce for lunch, which involves sampling various exotic fruits like guanabana and rambutan"
+    },
+    {
+      "startTime": "11:45",
+      "endTime": "13:00",
+      "activities": ["have lunch", "stroll through park"],
+      "description": "Take a leisurely stroll through the nearby park, where she enjoys the vibrant street art scene and engages in conversations with locals about everything from politics to soccer matches"
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "activities": ["respond to emails", "schedule writing", "brainstorm ideas"],
+      "description": "Spend an hour responding to emails from clients, updating her writing schedule for the week, and making notes on upcoming article ideas"
+    },
+    {
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "activities": ["enjoy sunset", "call family"],
+      "description": "Step outside to enjoy the sunset view from her balcony while catching up with family members via WhatsApp about their day's events"
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "activities": ["cook dinner"],
+      "description": "Prepare a simple dinner consisting of gallo pinto (a staple Costa Rican dish made with fried rice and beans), accompanied by steamed vegetables and a glass of cold beer"
+    },
+    {
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "activities": ["watch news"],
+      "description": "Watch the evening news in Spanish to stay informed about local and national events, often discussing what she's seen with her friends or family members"
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "22:30",
+      "activities": ["take bath", "drink tea", "reflect on day"],
+      "description": "Reflect on her day's accomplishments (or lack thereof), planning for tomorrow while mentally preparing for bed by taking a warm bath with Epsom salts and herbal tea"
+    },
+    {
+      "startTime": "22:30",
+      "endTime": "23:45",
+      "activities": ["sleep"],
+      "description": "Set the alarm clock, dim the lights, and drift off to sleep under a soft blanket, feeling grateful for another beautiful Costa Rican day"
+    }
+  ]
+}

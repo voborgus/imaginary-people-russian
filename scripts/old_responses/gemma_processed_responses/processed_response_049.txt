@@ -1,0 +1,52 @@
+{
+  "name": "Alice Johnson",
+  "gender": "Female",
+  "age": 28,
+  "location": "United States of America",
+  "job": "Graphic Designer",
+  "backstory": "Alice spent her childhood in a small town with a close-knit community, and after graduating college, she moved to the bustling city to pursue a career as a graphic designer.",
+  "schedule": [
+    {
+      "startTime": "00:00",
+      "endTime": "07:00",
+      "activities": ["sleep"],
+      "description": "Sleeping through the night"
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "07:45",
+      "activities": ["wake up", "tea", "social media"],
+      "description": "Alice wakes up, feeling a wave of exhaustion but also excitement for the day's work ahead. She sips on her homemade chamomile tea while catching the early morning news on a small laptop and scrolls through social media before switching it off."
+    },
+    {
+      "startTime": "07:45",
+      "endTime": "08:30",
+      "activities": ["exercise", "breakfast", "check emails"],
+      "description": "A quick stretch and then onto the treadmill to start her routine, followed by a bowl of yogurt with granola. While she gets ready, Alice checks for any urgent messages and replies to a few work-related emails."
+    },
+    {
+      "startTime": "08:30",
+      "endTime": "13:00",
+      "activities": ["commute", "work", "break", "coffee"],
+      "description": "Packing her bag with the essentials - laptop, tablet, sketchbook and a couple of novels – she heads to her desk at her local art studio. After spending 4 hours working on a promotional campaign for a new local bakery opening next week, she takes a 15-minute break for a fresh cup of coffee."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "activities": ["lunch", "work"],
+      "description": "A sandwich from the nearby deli paired with a juicy apple and a glass of sparkling water, Alice returns to her desk at the studio. She works on illustrations for a local environmental organization's upcoming campaign about plastic pollution."
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "activities": ["commute", "cook", "relax"],
+      "description": "After a long day of work, Alice feels weary and heads home. Cooking a simple pasta dish, she enjoys a peaceful hour with her cat, Luna, watching the evening news."
+    },
+    {
+      "startTime": "19:30",
+      "endTime": "23:00",
+      "activities": ["read", "stretch", "sleep"],
+      "description": "Reading a few chapters from a novel before bed, Alice listens to the soothing sounds of rain through her window. After a good stretch, she turns off the lights and settles in for sleep, leaving behind a world of possibilities for tomorrow."
+    }
+  ]
+}
