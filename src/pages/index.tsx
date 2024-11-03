@@ -148,14 +148,14 @@ export default function Home() {
           <ScrollableList data={locationData} title="Location Distribution" />
           <ScrollableList data={jobData} title="Job Distribution" />
           <ul className="list-disc pl-6 space-y-2">
+          <li className="text-gray-800">
+              I did a quick search and it turns out <a className="text-blue-600 hover:text-blue-800 underline" href="https://www.amazon.co.uk/stores/author/B0DFCPV6Z1?ingress=0&visitId=7dabcc37-e285-4d35-ba19-e81d65764888">Anya Petrova has an Amazon bookseller&apos;s page</a> with a lot of short stories and fantasy style cover art. I&apos;m sure no AI was used here at all.
+            </li>
             <li className="text-gray-800">
               The US models don&apos;t seem to acknowledge China exists. Qwen 2.5 takes a slightly different view.
             </li>
             <li className="text-gray-800">
               Llama imagines a third of the workforce as freelance graphic designers. Qwen knows that it&apos;s at least 80% software engineering. 
-            </li>
-            <li className="text-gray-800">
-              I did a quick search and it turns out <a className="text-blue-600 hover:text-blue-800 underline" href="https://www.amazon.co.uk/stores/author/B0DFCPV6Z1?ingress=0&visitId=7dabcc37-e285-4d35-ba19-e81d65764888">Anya Petrova has an Amazon bookseller&apos;s page</a> with a lot of short stories and fantasy style cover art.
             </li>
           </ul>
           </div>
@@ -177,7 +177,7 @@ export default function Home() {
       <h2 className="text-2xl font-bold mb-2 mt-8">Similar work & next steps</h2>
       <p className="max-w-[65ch]">I stumbled upon a similar experiement investigating ChatGPT bias - <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/timetospare/gpt-bias">timetospare / gpt-bias</a>. I&apos;m afraid I&apos;m otherwise not clued into the latest research in this space. I otherwise love the ability of using data visualisation to get a quick glance into the character of different models, within the context of a prompt - it would be awesome to see how much different prompts can create better, more diverse outputs.</p>
       <h2 className="text-2xl font-bold mb-2 mt-8">Source code</h2>
-      <p>All the source code for this project <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532/daily-routines/">can be found on GitHub</a>, including the original AI responses and how Haiku processed them.</p>
+      <p>All the source code for this project <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532/imaginary-people/">can be found on GitHub</a>, including the original AI responses and how Haiku processed them.</p>
 
       <p className="mt-4">Thank you for visiting! A mini project by <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532">James Hancock</a>.</p>
     </div>
