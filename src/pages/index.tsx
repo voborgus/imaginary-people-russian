@@ -44,11 +44,11 @@ export default function Home() {
       />
         <h1 className="text-3xl font-bold mt-16 mb-4">&quot;Imagine a person...&quot;</h1>
       <div className="mb-4 text-base">
-        <p className="text-lg mb-8 max-w-[65ch]">
-          What happens when you ask LLMs to imagine a person & 
+        <p className="text-lg mb-8">
+          What happens when you ask LLMs to imagine a person and 
           a random day in their life, 100 times over?
         </p>
-        <p className="max-w-[65ch]">I asked small versions of Llama3.1, Gemma2 & Qwen2.5 to imagine a person, a hundred times over, using the same prompt. The prompt asks for basic details, such as name, age, location and job title, and then asks the AI for a random day in that person&apos;s life.</p>
+        <p className="max-w-[65ch]">I asked small versions of Llama3.1, Gemma2 & Qwen2.5 to imagine a person, a hundred times over, using the same prompt. The prompt asks for basic details, such as name, age and location, and then asks the AI for a random day in that person&apos;s life.</p>
         <details className="my-2 mt-4 mb-4">
 
           <summary className="underline cursor-pointer">
@@ -103,14 +103,14 @@ export default function Home() {
         </details>
         <p className="max-w-[65ch]">
           I processed the responses of the LLM with Claude Haiku to turn the result
-          into JSON, which is then visualised in this webpage. You can switch between models using the dropdown in the top right of the screen.
+          into JSON, which is then visualised on this webpage. You can switch between models using the dropdown in the top right of the screen.
         </p>
         <p className="text-xl font-bold mt-8 mb-2">Caveats</p>
         <p  className="max-w-[65ch]">
           This is just for fun. These language models are running on my local
           machine, using quantized versions of the original models (llama3.1 8b
           Q4_0, gemma2 2b Q4_0, qwen2.5 7b Q4_K_M). I&apos;ve set the temperature of my requests to 1.0.
-          Using the original model, experimenting with temperature values or simply changing the prompt would hopefully provide more varied, creative responses.
+          Using the unquantized model, experimenting with temperature values or simply changing the prompt would hopefully provide more varied, creative responses.
         </p>
       </div>
       <h2 className="text-2xl font-bold mb-2 mt-8">Age & Gender</h2>
@@ -176,6 +176,9 @@ export default function Home() {
       </div>
       <h2 className="text-2xl font-bold mb-2 mt-8">Similar work & next steps</h2>
       <p className="max-w-[65ch]">I stumbled upon a similar experiement investigating ChatGPT bias - <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/timetospare/gpt-bias">timetospare / gpt-bias</a>. I&apos;m afraid I&apos;m otherwise not clued into the latest research in this space. I otherwise love the ability of using data visualisation to get a quick glance into the character of different models, within the context of a prompt - it would be awesome to see how much different prompts can create better, more diverse outputs.</p>
+      <p className="max-w-[65ch] mt-4">
+        It would be good to have a benchmark to track the diversity of LLM responses and then compare how well SOTA models perform. Diversity in output responses does not necessarily mean the model is more creative, but it may be a useful indicator of bias.
+      </p>
       <h2 className="text-2xl font-bold mb-2 mt-8">Source code</h2>
       <p className="max-w-[65ch]">All the source code for this project <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532/imaginary-people/">can be found on GitHub</a>, including the original AI responses and how Haiku processed them.</p>
 
