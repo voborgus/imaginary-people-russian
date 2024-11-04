@@ -43,12 +43,12 @@ export default function Home() {
         setSelectedData={setSelectedData}
       />
         <h1 className="text-3xl font-bold mt-16 mb-4">&quot;Imagine a person...&quot;</h1>
-      <div className="mb-4 text-base max-w-[65ch]">
-        <p className="text-lg mb-8">
-          What happens when you ask an LLM to imagine a person, and what
-          a random day in their life looks like, 100 times over?
+      <div className="mb-4 text-base">
+        <p className="text-lg mb-8 max-w-[65ch]">
+          What happens when you ask LLMs to imagine a person & 
+          a random day in their life, 100 times over?
         </p>
-        <p>I asked small versions of Llama3.1, Gemma2 & Qwen2.5 to imagine a person, a hundred times over, using the same prompt. The prompt asks for basic details, such as name, age, location and job title, then asks the AI to imagine a random day in that person&apos;s life.</p>
+        <p className="max-w-[65ch]">I asked small versions of Llama3.1, Gemma2 & Qwen2.5 to imagine a person, a hundred times over, using the same prompt. The prompt asks for basic details, such as name, age, location and job title, and then asks the AI for a random day in that person&apos;s life.</p>
         <details className="my-2 mt-4 mb-4">
 
           <summary className="underline cursor-pointer">
@@ -101,16 +101,16 @@ export default function Home() {
             (Repeat this format for each time entry)
           </pre>
         </details>
-        <p>
+        <p className="max-w-[65ch]">
           I processed the responses of the LLM with Claude Haiku to turn the result
-          into a valid JSON, which is then visualised in this webpage. You can switch between models using the dropdown in the top right of the screen.
+          into JSON, which is then visualised in this webpage. You can switch between models using the dropdown in the top right of the screen.
         </p>
         <p className="text-xl font-bold mt-8 mb-2">Caveats</p>
-        <p>
+        <p  className="max-w-[65ch]">
           This is just for fun. These language models are running on my local
           machine, using quantized versions of the original models (llama3.1 8b
           Q4_0, gemma2 2b Q4_0, qwen2.5 7b Q4_K_M). I&apos;ve set the temperature of my requests to 1.0.
-          Using the original model, experimenting with temperature values or simply changing the prompt will hopefully provide more varied, creative responses.
+          Using the original model, experimenting with temperature values or simply changing the prompt would hopefully provide more varied, creative responses.
         </p>
       </div>
       <h2 className="text-2xl font-bold mb-2 mt-8">Age & Gender</h2>
@@ -149,13 +149,13 @@ export default function Home() {
           <ScrollableList data={jobData} title="Job Distribution" />
           <ul className="list-disc pl-6 space-y-2">
           <li className="text-gray-800">
-              I did a quick search and it turns out <a className="text-blue-600 hover:text-blue-800 underline" href="https://www.amazon.co.uk/stores/author/B0DFCPV6Z1?ingress=0&visitId=7dabcc37-e285-4d35-ba19-e81d65764888">Anya Petrova has an Amazon bookseller&apos;s page</a> with a lot of short stories and fantasy style cover art. I&apos;m sure no AI was used here at all.
+              I did a quick search and it turns out <a className="text-blue-600 hover:text-blue-800 underline" href="https://www.amazon.co.uk/stores/author/B0DFCPV6Z1?ingress=0&visitId=7dabcc37-e285-4d35-ba19-e81d65764888">Anya Petrova has an Amazon bookseller&apos;s page</a> with a lot of short stories and Stable Diffiusion inspired cover art. This may be a fully automated business setup.
             </li>
             <li className="text-gray-800">
-              The US models don&apos;t seem to acknowledge China exists. Qwen 2.5 takes a slightly different view.
+              The US models don&apos;t imagine anyone living in China, while Qwen 2.5 couldn&apos;t imagine anyone living anywhere else.
             </li>
             <li className="text-gray-800">
-              Llama imagines a third of the workforce as freelance graphic designers. Qwen knows that it&apos;s at least 80% software engineering. 
+              Llama imagines a third of the workforce as freelance graphic designers, while Qwen imagines that it&apos;s at least 80% software engineering. 
             </li>
           </ul>
           </div>
@@ -177,7 +177,7 @@ export default function Home() {
       <h2 className="text-2xl font-bold mb-2 mt-8">Similar work & next steps</h2>
       <p className="max-w-[65ch]">I stumbled upon a similar experiement investigating ChatGPT bias - <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/timetospare/gpt-bias">timetospare / gpt-bias</a>. I&apos;m afraid I&apos;m otherwise not clued into the latest research in this space. I otherwise love the ability of using data visualisation to get a quick glance into the character of different models, within the context of a prompt - it would be awesome to see how much different prompts can create better, more diverse outputs.</p>
       <h2 className="text-2xl font-bold mb-2 mt-8">Source code</h2>
-      <p>All the source code for this project <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532/imaginary-people/">can be found on GitHub</a>, including the original AI responses and how Haiku processed them.</p>
+      <p className="max-w-[65ch]">All the source code for this project <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532/imaginary-people/">can be found on GitHub</a>, including the original AI responses and how Haiku processed them.</p>
 
       <p className="mt-4">Thank you for visiting! A mini project by <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532">James Hancock</a>.</p>
     </div>
