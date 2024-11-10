@@ -1,3 +1,7 @@
+A russian version of [original](https://github.com/jhancock532/imaginary-people/) research about llm bias.
+
+This version contains answers from GigaChat:1.0.26.15; Llama3.1:8b; T-lite-instruct-0.1-abliterated.Q8_0; YandexGPT Lite 22.05.2024
+
 The scripts to load the llm responses live in the `scripts` directory, as well as all the LLM responses, and how Haiku processed those responses. If you'd like to see some odd token salad, look at the glitched Phi3.5 responses...
 
 ## Running the Next app

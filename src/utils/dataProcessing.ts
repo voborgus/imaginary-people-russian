@@ -38,7 +38,7 @@ interface ProcessedData {
 }
 
 export function processData(data: Person[]): ProcessedData {
-  const genderCount: { [key: string]: number } = { Male: 0, Female: 0, Other: 0 };
+  const genderCount: { [key: string]: number } = { Муж: 0, Жен: 0, Другое: 0 };
   const ageCount: { [key: number]: number } = {};
   const nameCount: { [key: string]: number } = {};
   const locationCount: { [key: string]: number } = {};
@@ -47,10 +47,12 @@ export function processData(data: Person[]): ProcessedData {
   data.forEach((person) => {
     // Process gender and age (unchanged)
     const gender = person.data.gender;
-    if (gender in genderCount) {
-      genderCount[gender]++;
+    if (gender.toLowerCase() == "мужской" || gender.toLowerCase() == "мужчина") {
+      genderCount["Муж"]++;
+    } else if (gender.toLowerCase() === "женский" || gender.toLowerCase() == "женщина") {
+      genderCount["Жен"]++;
     } else {
-      genderCount.Other++;
+      genderCount["Другое"]++;
     }
 
     const age = person.data.age;
@@ -92,9 +94,17 @@ export function processScheduleData(data: Person[]): ProcessedScheduleData {
     const personSchedule: ProcessedScheduleData['schedules'][0]['schedule'] = [];
 
     // Sort the schedule items by start time
-    const sortedSchedule = person.data.schedule.sort((a, b) =>
-      timeToMinutes(a.startTime) - timeToMinutes(b.startTime)
-    );
+    const sortedSchedule = person.data.schedule.sort((a, b) => {
+      const startTimeA = timeToMinutes(a.startTime);
+      const startTimeB = timeToMinutes(b.startTime);
+
+      if (isNaN(startTimeA) || isNaN(startTimeB)) {
+        console.error(`Invalid start time in person schedule: ${JSON.stringify(person.data.schedule)}`);
+        return 0; // Return 0 to avoid sorting if there's an invalid start time
+      }
+
+      return startTimeA - startTimeB;
+    });
 
     let currentTime = 0; // Start of the day (00:00)
 
@@ -102,14 +112,18 @@ export function processScheduleData(data: Person[]): ProcessedScheduleData {
       const startTime = timeToMinutes(item.startTime);
       let endTime = timeToMinutes(item.endTime);
 
+      if (item.activities == null) {
+        item.activities = []
+      }
+
       // If this is not the first item and there's a gap, add a sleep entry
       if (startTime > currentTime) {
         personSchedule.push({
           startTime: currentTime,
           endTime: startTime,
-          activities: ['sleep']
+          activities: ['сон']
         });
-        activities['sleep'] = (activities['sleep'] || 0) + (startTime - currentTime);
+        activities['сон'] = (activities['сон'] || 0) + (startTime - currentTime);
       }
 
       // If this is the last item, extend it to midnight if it doesn't already end at midnight
@@ -123,6 +137,7 @@ export function processScheduleData(data: Person[]): ProcessedScheduleData {
 
       personSchedule.push({ startTime, endTime, activities: item.activities });
 
+
       item.activities.forEach(activity => {
         activities[activity] = (activities[activity] || 0) + (endTime - startTime);
       });
@@ -135,9 +150,9 @@ export function processScheduleData(data: Person[]): ProcessedScheduleData {
       personSchedule.push({
         startTime: 0,
         endTime: 1440,
-        activities: ['sleep']
+        activities: ['сон']
       });
-      activities['sleep'] = (activities['sleep'] || 0) + 1440;
+      activities['сон'] = (activities['сон'] || 0) + 1440;
     }
 
     schedules.push({ id: index, schedule: personSchedule });
@@ -148,5 +163,9 @@ export function processScheduleData(data: Person[]): ProcessedScheduleData {
 
 function timeToMinutes(time: string): number {
   const [hours, minutes] = time.split(':').map(Number);
+  if (isNaN(hours) || isNaN(minutes)) {
+    console.error(`Invalid time format: ${time}`);
+    return 0;
+  }
   return hours * 60 + minutes;
 }

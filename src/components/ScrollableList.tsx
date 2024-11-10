@@ -22,7 +22,7 @@ const ScrollableList: React.FC<ScrollableListProps> = ({ data, title }) => {
           }`}
           onClick={() => setSortOrder("most")}
         >
-          Most Frequent
+          Популярные
         </button>
         <button
           className={`px-2 py-1 rounded ${
@@ -30,7 +30,7 @@ const ScrollableList: React.FC<ScrollableListProps> = ({ data, title }) => {
           }`}
           onClick={() => setSortOrder("least")}
         >
-          Least Frequent
+          Редкие
         </button>
       </div>
       <div className="h-[400px] overflow-y-auto">

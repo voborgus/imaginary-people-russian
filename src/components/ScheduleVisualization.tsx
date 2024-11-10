@@ -38,18 +38,18 @@ const ScheduleVisualization: React.FC<ScheduleVisualizationProps> = ({
     <div className="space-y-4">
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
         <div className="bg-white p-4 rounded-lg shadow-md">
-          <h2 className="text-xl font-semibold mb-2">Activities</h2>
+          <h2 className="text-xl font-semibold mb-2">Занятия</h2>
           <button
             onClick={toggleSortOrder}
             className="mb-2 px-2 py-1 bg-blue-500 text-white rounded"
           >
-            Sort {sortOrder === "desc" ? "↓" : "↑"}
+            Сортировка {sortOrder === "desc" ? "↓" : "↑"}
           </button>
           <button
             onClick={() => setSelectedActivities([])}
             className="ml-2 px-2 py-1 bg-gray-500 text-white rounded"
           >
-            Clear selected
+            Очистить выбор
           </button>
           <div className="h-[550px] overflow-y-auto">
             {sortedActivities.map((activity) => (
@@ -69,7 +69,7 @@ const ScheduleVisualization: React.FC<ScheduleVisualizationProps> = ({
           </div>
         </div>
         <div className="col-span-2 lg:col-span-3 bg-white p-4 rounded-lg shadow-md">
-          <h2 className="text-xl font-semibold mb-2">Daily Schedules</h2>
+          <h2 className="text-xl font-semibold mb-2">Расписание</h2>
           <div className="h-[600px] overflow-y-auto">
             {scheduleData.schedules.map(({ id, schedule }) => (
               <div
@@ -111,26 +111,26 @@ const ScheduleVisualization: React.FC<ScheduleVisualizationProps> = ({
                 {fullData[selectedPerson].data.name}
               </h2>
               <p>
-                <strong>Age:</strong> {fullData[selectedPerson].data.age}
+                <strong>Возраст:</strong> {fullData[selectedPerson].data.age}
               </p>
               <p>
-                <strong>Gender:</strong> {fullData[selectedPerson].data.gender}
+                <strong>Пол:</strong> {fullData[selectedPerson].data.gender}
               </p>
               <p>
-                <strong>Location:</strong>{" "}
+                <strong>Локация:</strong>{" "}
                 {fullData[selectedPerson].data.location}
               </p>
               <p>
-                <strong>Job:</strong> {fullData[selectedPerson].data.job}
+                <strong>Работа:</strong> {fullData[selectedPerson].data.job}
               </p>
             </div>
             <div className="md:col-span-2">
-              <h3 className="text-lg font-semibold mb-2 ">Backstory</h3>
+              <h3 className="text-lg font-semibold mb-2 ">Предыстория</h3>
               <p>{fullData[selectedPerson].data.backstory}</p>
             </div>
           </div>
           <div className="mt-4">
-            <h3 className="text-lg font-semibold mb-2">Daily Schedule</h3>
+            <h3 className="text-lg font-semibold mb-2">Расписание</h3>
             <div className="space-y-2">
               {fullData[selectedPerson].data.schedule.map((item, index) => (
                 <div key={index} className="bg-gray-100 p-2 rounded">

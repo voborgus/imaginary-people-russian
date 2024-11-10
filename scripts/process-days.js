@@ -39,107 +39,124 @@ Rules:
 4. Return ONLY the JSON object, with no additional text or explanations.
 
 Example input:
-"Name: John Doe
-Gender: Male
-Age: 30
-Location: Canada (Toronto)
-Backstory: John moved to Toronto for work as an accounts manager and is adjusting to life in a new country.
+"**Имя**: Ольга
+**Пол**: женский
+**Возраст**: 30 лет
+**Местоположение**: Россия
+**Предыстория**: Ольга работает врачом в местной больнице и помогает людям возвращаться к здоровой жизни после травм и болезней. Она также заботится о своей семье и находит время для увлечений, таких как рисование и чтение.
 
-Day:
-6:00 AM - Wake up, brush teeth
-7:00 AM - Breakfast and coffee
-8:00 AM - Commute to work
-9:00 AM - Start workday
-12:00 PM - Lunch break
-1:00 PM - Afternoon meetings
-5:00 PM - Leave work, go to gym
-7:00 PM - Dinner and relaxation
-10:00 PM - Bedtime routine
-11:00 PM - Sleep"
+**День:**
+
+Время: 07:00
+Занятие: Ольга просыпается от звонка будильника. После завтрака она собирается на работу и выходит из дома в 07:30.
+
+Время: 10:00–18:00
+Занятость на работе: помогает пациентам, осматривает их и назначает лечение.
+
+14:00 — обед: Ольга идёт в кафе рядом с больницей, чтобы перекусить.
+
+ Время: 20:00 
+ Занятие: после работы Ольга забирает детей из детского сада и идёт с ними домой. Дети рассказывают о своём дне в детском саду, а Ольга слушает их с интересом.
+
+  Время:  21:00  
+Забота о детях: она кормит детей ужином и помогает им с домашними заданиями. Перед сном дети обнимаются и рассказывают Ольге о своих чувствах и переживаниях за день. 
+ 
+ Время:  22:00   
+ Чтение книги:  Ольга ложится спать после того, как прочитала главу книги, которую давно хотела прочитать. Она засыпает, размышляя о том, как прошёл день и что ещё предстоит сделать на следующей неделе. "
 
 Example output:
 {
-  "name": "John Doe",
-  "gender": "Male",
+  "name": "Ольга",
+  "gender": "Женский",
   "age": 30,
-  "location": "Canada",
-  "job": "Accounts Manager",
-  "backstory": "John moved to Toronto for work as an accounts manager and is adjusting to life in a new country.",
+  "location": "Россия",
+  "job": "Врач",
+  "backstory": "Ольга работает врачом в местной больнице и помогает людям возвращаться к здоровой жизни после травм и болезней. Она также заботится о своей семье и находит время для увлечений, таких как рисование и чтение.",
   "schedule": [
     {
       "startTime": "00:00",
-      "endTime": "06:00",
-      "activities": ["sleep"],
-      "description": "Sleeping through the night"
-    },
-    {
-      "startTime": "06:00",
       "endTime": "07:00",
-      "activities": ["morning routine", "brush teeth"],
-      "description": "Wake up, brush teeth"
+      "activities": ["сон"],
+      "description": "Ночной сон"
     },
     {
       "startTime": "07:00",
-      "endTime": "08:00",
-      "activities": ["breakfast", "coffee"],
-      "description": "Breakfast and coffee"
+      "endTime": "07:30",
+      "activities": ["завтрак", "сбор на работу"],
+      "description": "Затракает, собирается и выходит на работу"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "activities": ["работа", "помощь пациентам"],
+      "description": "Помогает пациентам, осматривает их и назначает лечение"
     },
     ...
   ]
 }`;
 
-async function processLLMResponse(content) {
-  const messages = [
-    {
-      role: "user",
-      content: [
-        {
-          type: "text",
-          text: content,
-        },
-      ],
-    },
-  ];
+async function processBatch(contents) {
+  try {
+    const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-  const response = await anthropic.messages.create({
-    model: "claude-3-haiku-20240307",
-    max_tokens: 4096,
-    system: SYSTEM_PROMPT,
-    messages: messages,
-  });
+    // Обрабатываем каждый файл отдельно, так как API не поддерживает настоящие батчи
+    const results = await Promise.all(contents.map(async (content, index) => {
+      await delay(index * 20000); // 1 секунда между запросами
 
-  return response.content[0].text;
+      const response = await anthropic.messages.create({
+        model: "claude-3-haiku-20240307",
+        max_tokens: 4096,
+        system: SYSTEM_PROMPT,
+        messages: [{
+          role: "user",
+          content: content
+        }]
+      });
+
+      return response?.content?.[0]?.text || "";
+    }));
+
+    return results;
+  } catch (error) {
+    console.error("Error in processBatch:", error);
+    // Возвращаем массив пустых строк в случае ошибки
+    return new Array(contents.length).fill("");
+  }
 }
 
 async function main() {
-  const inputDir = path.join(__dirname, "qwen2.5_llm_responses");
-  const outputDir = path.join(__dirname, "processed_responses");
+  const inputDir = path.join(__dirname, "russian_gpt/llama31_8b_clean/");
+  const outputDir = path.join(__dirname, "russian_gpt/llama31_8b_clean_json/");
 
   try {
-    // Create output directory if it doesn't exist
     await fs.mkdir(outputDir, { recursive: true });
-
-    // Read all files in the input directory
     const files = await fs.readdir(inputDir);
+    const textFiles = files.filter(file => path.extname(file) === ".txt").slice(0, 100);
 
-    for (let i = 0; i < 100; i++) {
-      const file = files[i];
-      if (path.extname(file) === ".txt") {
-        console.log(`Processing ${file}...`);
+    for (let i = 0; i < textFiles.length; i += 10) {
+      const batch = textFiles.slice(i, i + 10);
+      console.log(`Processing batch ${i/10 + 1}...`);
 
-        // Read the input file
-        const inputPath = path.join(inputDir, file);
-        const inputContent = await fs.readFile(inputPath, "utf-8");
+      const contents = await Promise.all(
+        batch.map(file => fs.readFile(path.join(inputDir, file), "utf-8"))
+      );
 
-        // Process the LLM response
-        const processedContent = await processLLMResponse(inputContent);
+      const processedContents = await processBatch(contents);
 
-        // Write the processed content to a new file
-        const outputPath = path.join(outputDir, `processed_${file}`);
-        await fs.writeFile(outputPath, processedContent);
+      // Записываем все файлы из батча
+      await Promise.all(
+        batch.map((file, index) => {
+          const content = processedContents[index];
+          if (content) {
+            return fs.writeFile(
+              path.join(outputDir, `processed_${file}`),
+              content
+            );
+          }
+        }).filter(Boolean)
+      );
 
-        console.log(`Processed ${file} and saved as processed_${file}`);
-      }
+      console.log(`Batch ${i/10 + 1} completed`);
     }
 
     console.log("All files processed successfully.");
@@ -147,5 +164,6 @@ async function main() {
     console.error("An error occurred:", error);
   }
 }
+
 
 main();

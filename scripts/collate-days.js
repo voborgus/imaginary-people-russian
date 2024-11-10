@@ -2,8 +2,8 @@ const fs = require("fs").promises;
 const path = require("path");
 
 async function collateJsonFiles() {
-  const inputDir = path.join(__dirname, "processed_responses");
-  const outputFile = path.join(__dirname, "collated_responses.json");
+  const inputDir = path.join(__dirname, "russian_gpt/llama31_8b_clean_json/");
+  const outputFile = path.join(__dirname, "llama.json");
 
   try {
     const files = await fs.readdir(inputDir);
@@ -16,6 +16,7 @@ async function collateJsonFiles() {
       const filePath = path.join(inputDir, file);
       const fileContent = await fs.readFile(filePath, "utf-8");
       console.log(i);
+      console.log(fileContent);
       const jsonData = JSON.parse(fileContent);
 
       collatedData.push({

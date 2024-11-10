@@ -10,9 +10,11 @@ import {
   processScheduleData,
 } from "../utils/dataProcessing";
 
-import gemmaData from "../data/gemma_collated_responses.json";
-import llamaData from "../data/llama3_8b_collated_responses.json";
-import qwenData from "../data/qwen_collated_responses.json";
+import gigaData from "../data/giga.json";
+import llamaData from "../data/llama.json";
+import tLiteData from "../data/t-lite.json";
+import yandexGPTData from "../data/yagpt.json";
+
 import ScrollableList from "@/components/ScrollableList";
 
 const geistSans = localFont({
@@ -23,12 +25,14 @@ const geistSans = localFont({
 
 
 export default function Home() {
-  const [selectedData, setSelectedData] = useState("gemma");
-  const data = selectedData === "gemma" 
-    ? gemmaData 
+  const [selectedData, setSelectedData] = useState("yandexGPT");
+  const data = selectedData === "yandexGPT" 
+    ? yandexGPTData 
     : selectedData === "llama" 
       ? llamaData
-      : qwenData;
+      : selectedData === "giga" 
+        ? gigaData
+        : tLiteData;;
   const { genderData, ageData, nameData, locationData, jobData } = processData(
     data as Person[]
   );
@@ -42,147 +46,117 @@ export default function Home() {
         selectedData={selectedData}
         setSelectedData={setSelectedData}
       />
-        <h1 className="text-3xl font-bold mt-16 mb-4">&quot;Imagine a person...&quot;</h1>
+        <h1 className="text-3xl font-bold mt-16 mb-4">Предвзятость русскоязычных LLM: кого они считают «обычным человеком»?</h1>
       <div className="mb-4 text-base">
         <p className="text-lg mb-8">
-          What happens when you ask LLMs to imagine a person and 
-          a random day in their life, 100 times over?
+        После прочтения зарубежного <a class="text-blue-600 hover:text-blue-800 underline" href="https://jhancock532.github.io/imaginary-people/">исследования предвзятости разных GPT</a>, где автор просил модель 100 раз представить случайного человека и описать его обычный день, решил повторить эксперимент с русскоязычными моделями. <br />
+        Как выглядит типичный день человека, его пол, возраст и профессия по мнению нейросетей от Яндекса, Сбера, Т-Банка и ещё одной зарубежной компании читайте в этой статье.
         </p>
-        <p className="max-w-[65ch]">I asked small versions of Llama3.1, Gemma2 & Qwen2.5 to imagine a person, a hundred times over, using the same prompt. The prompt asks for basic details, such as name, age and location, and then asks the AI for a random day in that person&apos;s life.</p>
+        <div className="max-w-[65ch]"><p>В&nbsp;исследовании участвовали:</p>
+<p>&mdash;&nbsp;GigaChat <nobr>1.0.26.15</nobr> от&nbsp;Сбера.</p>
+<p>&mdash;&nbsp;Квантизованная восьмибитная версия T-<nobr>lite-instruct-0</nobr>.1 от&nbsp;<nobr>Т-Банка</nobr> запущенная на моем ноутбуке.</p>
+<p>&mdash;&nbsp;YandexGPT Lite (версия от&nbsp;<nobr>22.05.2024</nobr>) от&nbsp;Яндекса.</p>
+<p>&mdash;&nbsp;Классическая Llama 3.1 (8B) от&nbsp;того-<nobr>кого-нельзя-называть</nobr> также запущенная через ollama.</p>
+<p>Каждой модели 100 раз задан на&nbsp;русском языке один и&nbsp;тот&nbsp;же промпт с&nbsp;просьбой представить случайного человека и&nbsp;описать его типичный день.</p></div>
         <details className="my-2 mt-4 mb-4">
 
           <summary className="underline cursor-pointer">
-            Click here to view the original prompt
-          </summary>
+          Полный текст промпта          </summary>
           <pre className="text-white bg-slate-900 rounded-md py-3 px-4 mt-2">
-            Imagine a person with the following details:
-            <br />
-            <br />
-            Name
-            <br />
-            Gender
-            <br />
-            Age
-            <br />
-            Location (Country)
-            <br />
-            Brief backstory (1-2 sentences)
-            <br />
-            <br />
-            Describe a random day from their life using this format:
-            <br />
-            <br />
-            Time: [HH:MM]
-            <br />
-            Activity: [Brief description]
-            <br />
-            <br />
-            Start with when they wake and end with when they go to sleep.
-            Include as many time entries as possible, be very specific.
-            <br />
-            Example output:
-            <br />
-            <br />
-            Name: [Name]
-            <br />
-            Gender: [Gender]
-            <br />
-            Age: [Age]
-            <br />
-            Location: [Country] <br />
-            Backstory: [Brief backstory]
-            <br />
-            Day: <br />
-            <br />
-            Time: [HH:MM]
-            <br />
-            Activity: [Activity description]
-            <br />
-            (Repeat this format for each time entry)
+          Придумай человека со&nbsp;следующими данными:<br />
+Имя<br />
+Пол<br />
+Возраст<br />
+Местоположение (Страна)<br />
+Краткая предыстория (1&ndash;2 предложения)<br />
+Опишите случайный день из&nbsp;их&nbsp;жизни, используя следующий формат:<br />
+Время: [ЧЧ: ММ]<br />
+Занятие: [Краткое описание]<br />
+Начните с&nbsp;того момента, когда они просыпаются, и&nbsp;закончите тем, когда они ложатся спать. Включите как можно больше временных отметок, будьте очень конкретны.<br />
+Пример вывода:<br />
+Имя: [Имя]<br />
+Пол: [Пол]<br />
+Возраст: [Возраст]<br />
+Местоположение: [Страна]<br />
+Предыстория: [Краткая предыстория]<br />
+День:<br />
+Время: [ЧЧ: ММ]<br />
+Занятие: [Описание занятия]<br />
+(Повторите этот формат для каждой временной отметки)
           </pre>
         </details>
         <p className="max-w-[65ch]">
-          I processed the responses of the LLM with Claude Haiku to turn the result
-          into JSON, which is then visualised on this webpage. You can switch between models using the dropdown in the top right of the screen.
+          Ответы от LLM-ок я попросил проанализировать Claude Haiku и перевести в JSON, который здесь визуализирован. Вы можете менять ответы моделей используя переключатель сверху-справа.
         </p>
-        <p className="text-xl font-bold mt-8 mb-2">Caveats</p>
+        <p className="text-xl font-bold mt-8 mb-2">Немного деталей</p>
         <p  className="max-w-[65ch]">
-          This is just for fun. These language models are running on my local
-          machine, using quantized versions of the original models (llama3.1 8b
-          Q4_0, gemma2 2b Q4_0, qwen2.5 7b Q4_K_M). I&apos;ve set the temperature of my requests to 1.0.
-          Using the unquantized model, experimenting with temperature values or simply changing the prompt would hopefully provide more varied, creative responses.
+1. В&nbsp;API облачных моделей (YandexGPT Lite, GigaChat Lite) отсутствует параметр seed для упрощения рандомизации. Я&nbsp;его отправлял, но&nbsp;скорее всего он&nbsp;пропускался.<br />
+2. GigaChat Lite с&nbsp;настройками <nobr>по-умолчанию</nobr> генерирует исключительно <nobr>35-летнего</nobr> программиста Ивана из&nbsp;Москвы, даже если выкрутить температуру креативности на&nbsp;максимум. Удалось добиться вариативности, установив параметр <i>top_p = 1</i>. В&nbsp;<nobr>Pro-версии</nobr> модели эта проблема отсутствует. Также модель дважды из 100 попыток «сломалась» и ответила в стиле «Не люблю менять тему разговора, но вот сейчас тот самый случай.»<br />
+3. Помимо исключения выше, все модели запускались с&nbsp;температурой 1.0 и&nbsp;всеми настройками по&nbsp;умолчанию.<br />
+4. <a class="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/AnatoliiPotapov/T-lite-instruct-0.1">Выложенная в&nbsp;паблик <nobr>T-lite</nobr></a> требует <nobr>файн-тюнинга</nobr> перед ее&nbsp;использованием. Но&nbsp;мне это не&nbsp;помешало. Для анализа взял <a class="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/mradermacher/T-lite-instruct-0.1-abliterated-GGUF">самую популярную на&nbsp;HuggingFace квантизованную до&nbsp;8 бит версию</a>, которая оказалась ещё и&nbsp;<a class="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/blog/mlabonne/abliteration">abliterated</a>, и&nbsp;запустил на&nbsp;ноутбуке.
         </p>
       </div>
-      <h2 className="text-2xl font-bold mb-2 mt-8">Age & Gender</h2>
+      <h2 className="text-2xl font-bold mb-2 mt-8">Пол и возраст</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8 mt-4">
         <div className="bg-white p-6 rounded-lg shadow-md">
-          <h3 className="text-xl font-semibold mb-4">Gender Distribution</h3>
+          <h3 className="text-xl font-semibold mb-4">Распределение по полу</h3>
           <GenderChart data={genderData} />
         </div>
         <div className="bg-white p-6 rounded-lg shadow-md">
-          <h3 className="text-xl font-semibold mb-4">Age Distribution</h3>
+          <h3 className="text-xl font-semibold mb-4">Возрастное распределение</h3>
           <AgeChart data={ageData} />
         </div>
       </div>
       <div className="my-4 max-w-[65ch]">
       <ul className="list-disc pl-6 space-y-2">
         <li className="text-gray-800">
-          Small LLMs seem to believe that only people between
-          the ages of 25-35 exist.
+        Логично, как и в зарубежных моделях оригинального исследования, русскоязычные модели не сгенерили небинарные гендеры. YandexGPT Lite оказалась более женственной. И ни одной сгенерённой Алисы :)
         </li>
         <li className="text-gray-800">
-          Llama3 only managed to imagine one human who was male - Akira Saito, a 32
-          year old Japanese freelance graphic designer.
-        </li>
-        <li className="text-gray-800">
-          No model was able to imagine a world outside the gender binary, at
-          least in these first 100 responses.
+        Все модели любят генерировать людей в диапазоне 25-40 лет. Самый популярный возраст в русских моделях – 35 лет. T-lite демонстрирует наиболее равномерное распределение, GigaChat Lite – единственный, кто показал более возрастную публику. Детей и пожилых по мнению моделей не существует: либо они не хотят о них говорить, либо в обучающей выборке о них меньше информации.
         </li>
       </ul>
       </div>
-      <h2 className="text-2xl font-bold mb-2 mt-8">Names, Locations, Jobs</h2>
+      <h2 className="text-2xl font-bold mb-2 mt-8">Имена, Локации, Работа</h2>
       <div className="space-y-8">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <ScrollableList data={nameData} title="Name Distribution" />
-          <ScrollableList data={locationData} title="Location Distribution" />
-          <ScrollableList data={jobData} title="Job Distribution" />
+          <ScrollableList data={nameData} title="Распределение имён" />
+          <ScrollableList data={locationData} title="Распределение локаций" />
+          <ScrollableList data={jobData} title="Распределение профессий" />
           <ul className="list-disc pl-6 space-y-2">
           <li className="text-gray-800">
-              I did a quick search and it turns out <a className="text-blue-600 hover:text-blue-800 underline" href="https://www.amazon.co.uk/stores/author/B0DFCPV6Z1?ingress=0&visitId=7dabcc37-e285-4d35-ba19-e81d65764888">Anya Petrova has an Amazon bookseller&apos;s page</a> with a lot of short stories and Stable Diffiusion inspired cover art. This may be a fully automated business setup.
+          Люди из ИТ в топе любой модели. YandexGPT Lite нагенерировала врачей на втором месте. Llama перечислил больше профессий, включая владельца фуд-трака и бывшую актрису.
             </li>
             <li className="text-gray-800">
-              The US models don&apos;t imagine anyone living in China, while Qwen 2.5 couldn&apos;t imagine anyone living anywhere else.
-            </li>
-            <li className="text-gray-800">
-              Llama imagines a third of the workforce as freelance graphic designers, while Qwen imagines that it&apos;s at least 80% software engineering. 
+            Наши модели генерировали только русские имена, llama3.1 8b – наполовину западные вроде Лукаса, Эмилии и Алисии. Она же предложила наиболее широкую географию местонахождения, в отличие от модели от Яндекса, которая не представляет людей живущих вне России. Алексей, Анна и Иван – самые любимые имена.
             </li>
           </ul>
           </div>
       </div>
       <div className="mt-8">
-        <h2 className="text-2xl font-bold mb-2">Random day visualizer</h2>
+        <h2 className="text-2xl font-bold mb-2">Визуализация случайного дня</h2>
         <p>
-          Each row represents a person&apos;s schedule for a random day in their
-          life.
+          Каждый ряд представляет расписание человека в течении случайного дня его жизни. Все вымышленные люди спят от 30 до 40 процентов своего времени. Изучение распорядка дня случайного человека отдельное удовольствие – как будто подглядываешь в чужие окна :)
         </p>
         <p className="mb-4">
-          You can click on a row to view the all the information for that person in an overview window, shown beneath the graph.
+          Если нажмете на ряд, то можно увидеть полную информацию о человеке и его распорядке.
         </p>
         <ScheduleVisualization
           scheduleData={scheduleData}
           fullData={data as Person[]}
         />
       </div>
-      <h2 className="text-2xl font-bold mb-2 mt-8">Similar work & next steps</h2>
-      <p className="max-w-[65ch]">I stumbled upon a similar experiement investigating ChatGPT bias - <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/timetospare/gpt-bias">timetospare / gpt-bias</a>. I&apos;m afraid I&apos;m otherwise not clued into the latest research in this space. I otherwise love the ability of using data visualisation to get a quick glance into the character of different models, within the context of a prompt - it would be awesome to see how much different prompts can create better, more diverse outputs.</p>
+      <h2 className="text-2xl font-bold mb-2 mt-8">Выводы</h2>
+      <p className="max-w-[65ch]">Все модели хорошо справились с заданием. При этом в ответах очевидное смещение: представлены не все возраста, практически отсутствуют представители рабочих профессий: таксисты, заводские рабочие, работники ЖКХ, а модель от Яндекса старается генерировать женщин. </p>
+      <p className="max-w-[65ch]">Портрет человека зависит от языка промпта, и это очевидно по Llama – в оригинальном исследовании и английском промпте результаты совершенно иные. Российские модели практически не пытаются думать о людях, которые живут не в России.</p>
       <p className="max-w-[65ch] mt-4">
-        It would be good to have a benchmark to track the diversity of LLM responses and then compare how well SOTA models perform. Diversity in output responses does not necessarily mean the model is more creative, but it may be a useful indicator of bias.
+      Качество текста в ответах Llama 3.1 оказалось субъективно хуже остальных, что можно объяснить тем, что модель обучалась преимущественно на англоязычных данных и своего размера не может поддержать все языки на достойном уровне.
       </p>
-      <h2 className="text-2xl font-bold mb-2 mt-8">Source code</h2>
-      <p className="max-w-[65ch]">All the source code for this project <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532/imaginary-people/">can be found on GitHub</a>, including the original AI responses and how Haiku processed them.</p>
-
-      <p className="mt-4">Thank you for visiting! A mini project by <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532">James Hancock</a>.</p>
+      <h2 className="text-2xl font-bold mb-2 mt-8">Исходный код</h2>
+      <p className="max-w-[65ch]">Если есть желание повторить исследование, либо попробовать на других моделях или поизучать сырые ответы llm-ок, <a class="text-blue-600 hover:text-blue-800 underline" href="https://github.com/voborgus/imaginary-people-russian">проследуйте в код</a>.</p>
+      
+      <p className="mt-4">Спасибо за чтение! Мини-исследование от <a className="text-blue-600 hover:text-blue-800 underline" href="https://t.me/voborgus">Дмитрия Сугробова</a>, основанное на <a className="text-blue-600 hover:text-blue-800 underline" href="https://jhancock532.github.io/imaginary-people/">оригинальной работе</a> <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532">James Hancock</a>.</p>
     </div>
   );
 }
