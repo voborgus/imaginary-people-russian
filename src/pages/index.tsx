@@ -49,14 +49,14 @@ export default function Home() {
         <h1 className="text-3xl font-bold mt-16 mb-4">Предвзятость русскоязычных LLM: кого они считают «обычным человеком»?</h1>
       <div className="mb-4 text-base">
         <p className="text-lg mb-8">
-        После прочтения зарубежного <a class="text-blue-600 hover:text-blue-800 underline" href="https://jhancock532.github.io/imaginary-people/">исследования предвзятости разных GPT</a>, где автор просил модель 100 раз представить случайного человека и описать его обычный день, решил повторить эксперимент с русскоязычными моделями. <br />
+        После прочтения зарубежного <a className="text-blue-600 hover:text-blue-800 underline" href="https://jhancock532.github.io/imaginary-people/">исследования предвзятости разных GPT</a>, где автор просил модель 100 раз представить случайного человека и описать его обычный день, решил повторить эксперимент с русскоязычными моделями. <br />
         Как выглядит типичный день человека, его пол, возраст и профессия по мнению нейросетей от Яндекса, Сбера, Т-Банка и ещё одной зарубежной компании читайте в этой статье.
         </p>
         <div className="max-w-[65ch]"><p>В&nbsp;исследовании участвовали:</p>
-<p>&mdash;&nbsp;GigaChat <nobr>1.0.26.15</nobr> от&nbsp;Сбера.</p>
-<p>&mdash;&nbsp;Квантизованная восьмибитная версия T-<nobr>lite-instruct-0</nobr>.1 от&nbsp;<nobr>Т-Банка</nobr> запущенная на моем ноутбуке.</p>
-<p>&mdash;&nbsp;YandexGPT Lite (версия от&nbsp;<nobr>22.05.2024</nobr>) от&nbsp;Яндекса.</p>
-<p>&mdash;&nbsp;Классическая Llama 3.1 (8B) от&nbsp;того-<nobr>кого-нельзя-называть</nobr> также запущенная через ollama.</p>
+<p>&mdash;&nbsp;GigaChat 1.0.26.15 от&nbsp;Сбера.</p>
+<p>&mdash;&nbsp;Квантизованная восьмибитная версия T-lite-instruct-0.1 от&nbsp;Т-Банка запущенная на моем ноутбуке.</p>
+<p>&mdash;&nbsp;YandexGPT Lite (версия от&nbsp;22.05.2024) от&nbsp;Яндекса.</p>
+<p>&mdash;&nbsp;Классическая Llama 3.1 (8B) от&nbsp;того-кого-нельзя-называть также запущенная через ollama.</p>
 <p>Каждой модели 100 раз задан на&nbsp;русском языке один и&nbsp;тот&nbsp;же промпт с&nbsp;просьбой представить случайного человека и&nbsp;описать его типичный день.</p></div>
         <details className="my-2 mt-4 mb-4">
 
@@ -91,9 +91,9 @@ export default function Home() {
         <p className="text-xl font-bold mt-8 mb-2">Немного деталей</p>
         <p  className="max-w-[65ch]">
 1. В&nbsp;API облачных моделей (YandexGPT Lite, GigaChat Lite) отсутствует параметр seed для упрощения рандомизации. Я&nbsp;его отправлял, но&nbsp;скорее всего он&nbsp;пропускался.<br />
-2. GigaChat Lite с&nbsp;настройками <nobr>по-умолчанию</nobr> генерирует исключительно <nobr>35-летнего</nobr> программиста Ивана из&nbsp;Москвы, даже если выкрутить температуру креативности на&nbsp;максимум. Удалось добиться вариативности, установив параметр <i>top_p = 1</i>. В&nbsp;<nobr>Pro-версии</nobr> модели эта проблема отсутствует. Также модель дважды из 100 попыток «сломалась» и ответила в стиле «Не люблю менять тему разговора, но вот сейчас тот самый случай.»<br />
+2. GigaChat Lite с&nbsp;настройками по-умолчанию генерирует исключительно 35-летнего программиста Ивана из&nbsp;Москвы, даже если выкрутить температуру креативности на&nbsp;максимум. Удалось добиться вариативности, установив параметр <i>top_p = 1</i>. В&nbsp;Pro-версии модели эта проблема отсутствует. Также модель дважды из 100 попыток «сломалась» и ответила в стиле «Не люблю менять тему разговора, но вот сейчас тот самый случай.»<br />
 3. Помимо исключения выше, все модели запускались с&nbsp;температурой 1.0 и&nbsp;всеми настройками по&nbsp;умолчанию.<br />
-4. <a class="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/AnatoliiPotapov/T-lite-instruct-0.1">Выложенная в&nbsp;паблик <nobr>T-lite</nobr></a> требует <nobr>файн-тюнинга</nobr> перед ее&nbsp;использованием. Но&nbsp;мне это не&nbsp;помешало. Для анализа взял <a class="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/mradermacher/T-lite-instruct-0.1-abliterated-GGUF">самую популярную на&nbsp;HuggingFace квантизованную до&nbsp;8 бит версию</a>, которая оказалась ещё и&nbsp;<a class="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/blog/mlabonne/abliteration">abliterated</a>, и&nbsp;запустил на&nbsp;ноутбуке.
+4. <a className="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/AnatoliiPotapov/T-lite-instruct-0.1">Выложенная в&nbsp;паблик T-lite</a> требует файн-тюнинга перед ее&nbsp;использованием. Но&nbsp;мне это не&nbsp;помешало. Для анализа взял <a className="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/mradermacher/T-lite-instruct-0.1-abliterated-GGUF">самую популярную на&nbsp;HuggingFace квантизованную до&nbsp;8 бит версию</a>, которая оказалась ещё и&nbsp;<a className="text-blue-600 hover:text-blue-800 underline" href="https://huggingface.co/blog/mlabonne/abliteration">abliterated</a>, и&nbsp;запустил на&nbsp;ноутбуке.
         </p>
       </div>
       <h2 className="text-2xl font-bold mb-2 mt-8">Пол и возраст</h2>
@@ -154,7 +154,7 @@ export default function Home() {
       Качество текста в ответах Llama 3.1 оказалось субъективно хуже остальных, что можно объяснить тем, что модель обучалась преимущественно на англоязычных данных и своего размера не может поддержать все языки на достойном уровне.
       </p>
       <h2 className="text-2xl font-bold mb-2 mt-8">Исходный код</h2>
-      <p className="max-w-[65ch]">Если есть желание повторить исследование, либо попробовать на других моделях или поизучать сырые ответы llm-ок, <a class="text-blue-600 hover:text-blue-800 underline" href="https://github.com/voborgus/imaginary-people-russian">проследуйте в код</a>.</p>
+      <p className="max-w-[65ch]">Если есть желание повторить исследование, либо попробовать на других моделях или поизучать сырые ответы llm-ок, <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/voborgus/imaginary-people-russian">проследуйте в код</a>.</p>
       
       <p className="mt-4">Спасибо за чтение! Мини-исследование от <a className="text-blue-600 hover:text-blue-800 underline" href="https://t.me/voborgus">Дмитрия Сугробова</a>, основанное на <a className="text-blue-600 hover:text-blue-800 underline" href="https://jhancock532.github.io/imaginary-people/">оригинальной работе</a> <a className="text-blue-600 hover:text-blue-800 underline" href="https://github.com/jhancock532">James Hancock</a>.</p>
     </div>
