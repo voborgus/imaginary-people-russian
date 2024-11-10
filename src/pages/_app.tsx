@@ -1,6 +1,12 @@
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
+import YandexMetrika from '../components/Metrica'
 
 export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />;
+  return (
+    <>
+      <YandexMetrika />
+      <Component {...pageProps} />
+    </>
+  )
 }
